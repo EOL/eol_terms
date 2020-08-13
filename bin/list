@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+begin
+  require 'eol_terms'
+rescue LoadError
+  require 'rubygems'
+  require 'eol_terms'
+end
+
+puts EolTerms::TERMS_YAML_FILENAME

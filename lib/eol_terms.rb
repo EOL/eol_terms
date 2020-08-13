@@ -2,5 +2,8 @@ require "eol_terms/version"
 
 module EolTerms
   class Error < StandardError; end
-  # Your code goes here...
+  TERMS_YAML_FILENAME = File.join(File.dirname(__FILE__), '../../', 'resources', 'terms.yml')
+  def self.hi
+    puts "Hi"
+  end
 end
