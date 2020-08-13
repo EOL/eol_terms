@@ -1,16 +1,17 @@
 terms:
   - uri: 'http://eol.org/schema/terms/Âµmol_cell-1'
     definition: 'micromoles per cell'
-    comment: ''
-    attribution: ''
-    ontology_information_url: ''
-    ontology_source_url: ''
+    comment:
+    attribution:
+    ontology_information_url:
+    ontology_source_url:
     used_for: 'value'
-    hidden: no
+    is_hidden_from_overview: no
+    is_hidden_from_glossary: no
     is_text_only: no
     is_verbatim_only: no
-    parent: ''
-    synonym_of: ''
+    parent_uri:
+    synonym_of_uri:
   - URI: 'http://eol.org/schema/terms/conePlusHalfSphere-20Percent'
     definition: "A cell shape that approximates a (cone + half sphere)-20% volume. (see Table 1, Olenina, I., Hajdu, S., Edler, L., Andersson, A., Wasmund, N., Busch, S., Göbel, J., Gromisz, S., Huseby, S., Huttunen, M., Jaanus, A., Kokkonen, P., Ledaine, I. and Niemkiewicz, E. 2006. Biovolumes and size-classes of phytoplankton in the Baltic Sea. HELCOM Balt.Sea Environ. Proc. No. 106, 144pp.)"
     comment:
@@ -18,8 +19,9 @@ terms:
     ontology_information_url:
     ontology_source_url:
     used_for: 'value'
-    hidden: 'from glossary'
+    is_hidden_from_overview: no
+    is_hidden_from_glossary: yes
     is_text_only: no
     is_verbatim_only: no
-    parent: ''
-    synonym_of: ''
+    parent_uri:
+    synonym_of_uri:
