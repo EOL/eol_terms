@@ -17,29 +17,32 @@ module EolTerms
   REQUIRED_FIELDS = %w[uri definition].freeze
 
   class << self
-    def list
+    def list(skip_validation = false)
+      validate(true) unless skip_validation
       @list ||=
         YAML.load_file(TERMS_YAML_FILENAME)['terms'].map { |term| term.transform_keys(&:downcase) }
     end
 
-    def uris
-      @uris ||= list.map { |term| term['uri'] }
+    def uris(skip_validation = true)
+      validate(true) unless skip_validation
+      @uris ||= list(true).map { |term| term['uri'] }
     end
 
-    def uri_hash
+    def uri_hash(skip_validation = true)
       return @uri_hash if @uri_hash
 
+      validate(true) unless skip_validation
       @uri_hash = {}
-      @uris.each { |uri| @uri_hash[uri] = true }
+      uris(true).each { |uri| @uri_hash[uri] = true }
       @uri_hash
     end
 
     # Method just runs through all applicable checks, method may be long:
     # rubocop:disable Metrics/MethodLength
-    def validate
-      @uris = {}
+    def validate(silent = false)
+      @seen_uris = {}
       @problems = []
-      list.each_with_index do |term, index|
+      list(true).each_with_index do |term, index|
         check_duplicate_uris(term, index)
         check_required_fields(term, index)
         check_for_illegal_fields(term, index)
@@ -47,13 +50,13 @@ module EolTerms
         check_parent_referential_integrity(term, index)
         check_synonym_referential_integrity(term, index)
       end
-      report
+      report(silent)
     end
     # rubocop:enable Metrics/MethodLength
 
     def check_duplicate_uris(term, index)
-      problem_in_term('Duplicate URI', term, index) if @uris.key?(term['uri'])
-      @uris[term['uri']] = true
+      problem_in_term('Duplicate URI', term, index) if @seen_uris.key?(term['uri'])
+      @seen_uris[term['uri']] = true
     end
 
     def check_required_fields(term, index)
@@ -78,13 +81,14 @@ module EolTerms
     def check_parent_referential_integrity(term, index)
       return unless property?(term, 'parent_uri')
 
-      problem_in_term("Unrecognized URI `#{term['parent_uri']}`", term, index) unless uri_hash.key?(term['parent_uri'])
+      problem_in_term("Unrecognized URI `#{term['parent_uri']}`", term, index) unless uri_hash(true).key?(term['parent_uri'])
     end
 
     def check_synonym_referential_integrity(term, index)
       return unless property?(term, 'synonym_of_uri')
 
-      problem_in_term("Unrecognized URI `#{term['synonym_of_uri']}`", term, index) unless uri_hash.key?(term['synonym_of_uri'])
+      problem_in_term("Unrecognized URI `#{term['synonym_of_uri']}`", term, index) unless
+        uri_hash(true).key?(term['synonym_of_uri'])
     end
 
     def problem_in_term(problem, term, index)
@@ -97,12 +101,12 @@ module EolTerms
       term.key?(property) && !term[property].nil? && !term[property].empty?
     end
 
-    def report
+    def report(silent = false)
       if @problems.any?
-        puts "THERE WERE PROBLEMS:\n#{@problems.join("\n")}"
+        puts "THERE WERE PROBLEMS:\n#{@problems.join("\n")}" unless silent
         raise EolTerms::ValidationError, 'Validation failed.'
       else
-        puts 'Valid.'
+        puts 'Valid.' unless silent
       end
     end
   end
