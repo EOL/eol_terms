@@ -6,7 +6,7 @@ module EolTerms
   # You don't read these.
   class Validator
     def initialize
-      @list = EolTerms.list
+      @list = EolTerms.list(true)
       @seen_uris = {}
       @problems = []
       @uri_hash = EolTerms.uri_hash(true)
@@ -15,7 +15,7 @@ module EolTerms
     # Method just runs through all applicable checks, method may be long:
     # rubocop:disable Metrics/MethodLength
     def validate(silent = false)
-      @list(true).each_with_index do |term, index|
+      @list.each_with_index do |term, index|
         check_duplicate_uris(term, index)
         check_required_fields(term, index)
         check_for_illegal_fields(term, index)
