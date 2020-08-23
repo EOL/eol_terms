@@ -12,8 +12,6 @@ module EolTerms
       @uri_hash = EolTerms.uri_hash(true)
     end
 
-    # Method just runs through all applicable checks, method may be long:
-    # rubocop:disable Metrics/MethodLength
     def validate(silent = false)
       @list.each_with_index do |term, index|
         check_duplicate_uris(term, index)
@@ -25,7 +23,6 @@ module EolTerms
       end
       report(silent)
     end
-    # rubocop:enable Metrics/MethodLength
 
     def check_duplicate_uris(term, index)
       problem_in_term('Duplicate URI', term, index) if @seen_uris.key?(term['uri'])
