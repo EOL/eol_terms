@@ -28,6 +28,8 @@ module EolTerms
       @uris ||= list(true).map { |term| term['uri'] }
     end
 
+    # NOTE: you probably don't want to use this method; the values are meaningless. We needed an internal hash that was
+    # NOT populated with the ID file, however, so this is really meant for internal use.
     def uri_hash(skip_validation = true)
       return @uri_hash if @uri_hash
 
@@ -38,7 +40,7 @@ module EolTerms
     end
 
     def uri_ids
-      @uri_ids ||= YAML.load_file(URI_IDS_YAML_FILENAME)['uri_ids'].invert.map { |term| term.transform_keys(&:downcase) }
+      @uri_ids ||= YAML.load_file(URI_IDS_YAML_FILENAME)['uri_ids'].invert.transform_keys(&:downcase)
     end
 
     def validate(silent = false)
