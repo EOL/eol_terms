@@ -8,7 +8,7 @@ A very basic repository for terms, their URIs, and their properties that EOL mai
 Add the following to your Gemfile:
 
 ```
-gem 'eol_terms', :git => 'git://github.com/EOL/eol_terms.git'
+gem 'eol_terms', git: 'git://github.com/EOL/eol_terms.git'
 ```
 
 ### Methods
