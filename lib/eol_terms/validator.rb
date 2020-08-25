@@ -30,7 +30,7 @@ module EolTerms
       uri
       used_for
     ].freeze
-    REQUIRED_FIELDS = %w[uri definition name].freeze
+    REQUIRED_FIELDS = %w[uri name].freeze
 
     def initialize
       @list = EolTerms.list(true)
