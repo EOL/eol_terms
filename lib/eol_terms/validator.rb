@@ -34,12 +34,12 @@ module EolTerms
 
     def initialize
       @list = EolTerms.list(true)
-      @seen_uris = {}
-      @problems = []
       @uri_hash = EolTerms.uri_hash(true)
     end
 
     def validate(silent = false)
+      @problems = []
+      @seen_uris = {}
       @list.each_with_index do |term, index|
         check_duplicate_uris(term, index)
         check_required_fields(term, index)
