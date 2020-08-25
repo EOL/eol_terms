@@ -10,12 +10,6 @@ module EolTerms
 
   TERMS_YAML_FILENAME = File.join(File.dirname(__FILE__), '../', 'resources', 'terms.yml')
   URI_IDS_YAML_FILENAME = File.join(File.dirname(__FILE__), '../', 'resources', 'uri_ids.yml')
-  USED_FOR_VALUES = %w[unknown measurement association value metadata].freeze
-  VALID_FIELDS = %w[
-    uri definition comment attribution ontology_information_url ontology_source_url used_for is_hidden_from_overview
-    is_hidden_from_glossary is_text_only is_verbatim_only parent_uri synonym_of_uri
-  ].freeze
-  REQUIRED_FIELDS = %w[uri definition].freeze
 
   class << self
     def list(skip_validation = false)

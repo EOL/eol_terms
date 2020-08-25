@@ -5,6 +5,33 @@
 module EolTerms
   # You don't read these.
   class Validator
+    USED_FOR_VALUES = %w[unknown measurement association value metadata].freeze
+    VALID_FIELDS = %w[
+      alias
+      attribution
+      definition
+      comment
+      created_at
+      force
+      is_hidden_from_select
+      is_hidden_from_overview
+      is_hidden_from_glossary
+      is_text_only
+      is_verbatim_only
+      ontology_source_url
+      ontology_information_url
+      parent_uri
+      position
+      name
+      section_ids
+      synonym_of_uri
+      type
+      updated_at
+      uri
+      used_for
+    ].freeze
+    REQUIRED_FIELDS = %w[uri definition name].freeze
+
     def initialize
       @list = EolTerms.list(true)
       @seen_uris = {}
