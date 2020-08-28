@@ -39,6 +39,7 @@ module EolTerms
 
     def validate(silent = false)
       @problems = []
+      @warnings = []
       @seen_uris = {}
       @list.each_with_index do |term, index|
         check_duplicate_uris(term, index)
@@ -78,18 +79,22 @@ module EolTerms
     def check_parent_referential_integrity(term, index)
       return unless property?(term, 'parent_uri')
 
-      problem_in_term("Unrecognized URI `#{term['parent_uri']}`", term, index) unless @uri_hash.key?(term['parent_uri'])
+      warning_in_term("Unrecognized URI `#{term['parent_uri']}`", term, index) unless @uri_hash.key?(term['parent_uri'])
     end
 
     def check_synonym_referential_integrity(term, index)
       return unless property?(term, 'synonym_of_uri')
 
-      problem_in_term("Unrecognized URI `#{term['synonym_of_uri']}`", term, index) unless
+      warning_in_term("Unrecognized URI `#{term['synonym_of_uri']}`", term, index) unless
         @uri_hash.key?(term['synonym_of_uri'])
     end
 
     def problem_in_term(problem, term, index)
       @problems << "#{problem} in term #{index} <#{term['uri']}>"
+    end
+
+    def warning_in_term(problem, term, index)
+      @warnings << "#{problem} in term #{index} <#{term['uri']}>"
     end
 
     def property?(term, property)
@@ -99,6 +104,7 @@ module EolTerms
     end
 
     def report(silent = false)
+      puts "WARNING: #{@warnings.join("\nWARNING: ")}\n" if @warnings.any? && !silent
       if @problems.any?
         puts "THERE WERE PROBLEMS:\n#{@problems.join("\n")}" unless silent
         raise EolTerms::ValidationError, 'Validation failed.'
