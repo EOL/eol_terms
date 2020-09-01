@@ -13,24 +13,26 @@ module EolTerms
 
   class << self
     def list(skip_validation = false)
+      return @list if @list
+
+      # TODO: Consider moving valid to a class property so we don't run it multiple times unless we are asked to.
       validate(true) unless skip_validation
-      @list ||= YAML.load_file(TERMS_YAML_FILENAME)['terms'].map { |term| term.transform_keys(&:downcase) }
+      @list = YAML.load_file(TERMS_YAML_FILENAME)['terms'].map { |term| term.transform_keys(&:downcase) }
     end
 
     def uris(skip_validation = true)
+      return @uris if @uris
+
       validate(true) unless skip_validation
-      @uris ||= list(true).map { |term| term['uri'] }
+      @uris = list(true).map { |term| term['uri'] }
     end
 
-    # NOTE: you probably don't want to use this method; the values are meaningless. We needed an internal hash that was
-    # NOT populated with the ID file, however, so this is really meant for internal use.
-    def uri_hash(skip_validation = true)
-      return @uri_hash if @uri_hash
-
-      validate(true) unless skip_validation
-      @uri_hash = {}
-      uris(true).each { |uri| @uri_hash[uri] = true }
-      @uri_hash
+    def includes_uri?(uri)
+      unless @uri_hash
+        @uri_hash = {}
+        uris(true).each { |uri| @uri_hash[uri] = true }
+      end
+      @uri_hash.key?(uri)
     end
 
     def uri_ids

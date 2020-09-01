@@ -8,8 +8,6 @@ module EolTerms
       @uris = EolTerms.uris(true)
       @uri_ids = EolTerms.uri_ids
       @next_id = next_available_id
-      @uri_ids.each { |_, val| @next_id = val if val > @next_id }
-      @next_id += 1 # Because, afer all, it is the NEXT id...
       @preamble = "# DO NOT CHANGE THIS FILE.\n"\
                   "#\n"\
                   "#     *EVER.*\n"\
@@ -24,11 +22,14 @@ module EolTerms
     end
 
     def rebuild_ids
-      missing_keys = []
+      rewrite_required = false
       @uris.each do |uri|
-        missing_keys << missing_uri(uri.downcase) unless @uri_ids.key?(uri.downcase)
+        unless @uri_ids.key?(uri.downcase)
+          rewrite_required = true
+          missing_uri(uri.downcase)
+        end
       end
-      rewrite_ids_file unless missing_keys.empty?
+      rewrite_ids_file if rewrite_required
       puts "Done. Results saved in #{EolTerms::URI_IDS_YAML_FILENAME}"
     end
 
@@ -36,7 +37,7 @@ module EolTerms
       @uri_ids[uri] = @next_id
       puts "Adding missing key: #{uri} (##{@next_id})"
       @next_id += 1
-      uri
+      true
     end
 
     def rewrite_ids_file

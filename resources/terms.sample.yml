@@ -10,7 +10,7 @@ terms:
     is_hidden_from_glossary: no
     is_text_only: no
     is_verbatim_only: no
-    parent_uri:
+    parent_uris:
     synonym_of_uri:
     alias:
   - URI: 'http://eol.org/schema/terms/conePlusHalfSphere-20Percent'
@@ -24,6 +24,6 @@ terms:
     is_hidden_from_glossary: yes
     is_text_only: no
     is_verbatim_only: no
-    parent_uri:
+    parent_uris:
     synonym_of_uri:
     alias:

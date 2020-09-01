@@ -12,6 +12,7 @@ module EolTerms
       definition
       comment
       created_at
+      eol_id
       force
       is_hidden_from_select
       is_hidden_from_overview
@@ -20,7 +21,7 @@ module EolTerms
       is_verbatim_only
       ontology_source_url
       ontology_information_url
-      parent_uri
+      parent_uris
       position
       name
       section_ids
@@ -34,9 +35,9 @@ module EolTerms
 
     def initialize
       @list = EolTerms.list(true)
-      @uri_hash = EolTerms.uri_hash(true)
     end
 
+    # rubocop:disable Metrics/MethodLength
     def validate(silent = false)
       @problems = []
       @warnings = []
@@ -51,6 +52,7 @@ module EolTerms
       end
       report(silent)
     end
+    # rubocop:enable Metrics/MethodLength
 
     def check_duplicate_uris(term, index)
       problem_in_term('Duplicate URI', term, index) if @seen_uris.key?(term['uri'])
@@ -77,16 +79,18 @@ module EolTerms
     end
 
     def check_parent_referential_integrity(term, index)
-      return unless property?(term, 'parent_uri')
+      return unless property?(term, 'parent_uris')
 
-      warning_in_term("Unrecognized URI `#{term['parent_uri']}`", term, index) unless @uri_hash.key?(term['parent_uri'])
+      Array(term['parent_uris']).each do |uri|
+        warning_in_term("Unrecognized parent URI `#{uri}`", term, index) unless EolTerms.includes_uri?(uri)
+      end
     end
 
     def check_synonym_referential_integrity(term, index)
       return unless property?(term, 'synonym_of_uri')
 
-      warning_in_term("Unrecognized URI `#{term['synonym_of_uri']}`", term, index) unless
-        @uri_hash.key?(term['synonym_of_uri'])
+      warning_in_term("Unrecognized synonym URI `#{term['synonym_of_uri']}`", term, index) unless
+        EolTerms.includes_uri?(term['synonym_of_uri'])
     end
 
     def problem_in_term(problem, term, index)
