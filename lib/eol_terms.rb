@@ -56,7 +56,7 @@ module EolTerms
     def inject_ids
       @uri_ids = EolTerms.uri_ids
       @list.each do |term|
-        term['eol_id'] = @uri_ids[term['uri']]
+        term['eol_id'] = @uri_ids[term['uri'].downcase].to_s
       end
       @list
     end
