@@ -2,7 +2,7 @@
 
 # You aren't going to read this.
 module EolTerms
-  # I am sure no one reads class comments, but they are "required"
+  # invoke with EolTerms.rebuild_ids
   class IdChecker
     def initialize
       @uris = EolTerms.uris(true)

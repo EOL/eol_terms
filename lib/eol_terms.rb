@@ -36,7 +36,7 @@ module EolTerms
     end
 
     def uri_ids
-      @uri_ids ||= YAML.load_file(URI_IDS_YAML_FILENAME)['uri_ids'].invert.transform_keys(&:downcase)
+      @uri_ids ||= YAML.load_file(URI_IDS_YAML_FILENAME)['uri_ids'].invert.transform_values(&:downcase)
     end
 
     def validate(silent = false)
