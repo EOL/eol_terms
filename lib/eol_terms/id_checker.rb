@@ -2,9 +2,10 @@
 
 # You aren't going to read this.
 module EolTerms
-  # invoke with EolTerms.rebuild_ids
+  # invoke with EolTerms.rebuild_ids('/Users/jeremyrice/git/eol_terms/resources/uri_ids.yml')
   class IdChecker
-    def initialize
+    def initialize(path)
+      @path = path
       @uris = EolTerms.uris(true)
       @uri_ids = EolTerms.uri_ids
       @next_id = next_available_id
@@ -41,7 +42,7 @@ module EolTerms
     end
 
     def rewrite_ids_file
-      File.open(EolTerms::URI_IDS_YAML_FILENAME, 'w') do |file|
+      File.open(@path, 'w') do |file|
         file.write @preamble
         file.write({ 'uri_ids' => @uri_ids }.to_yaml)
       end
