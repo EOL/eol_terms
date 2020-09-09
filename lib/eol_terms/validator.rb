@@ -47,6 +47,7 @@ module EolTerms
         check_required_fields(term, index)
         check_for_illegal_fields(term, index)
         check_used_for_value(term, index)
+        check_eol_id(term, index)
         check_parent_referential_integrity(term, index)
         check_synonym_referential_integrity(term, index)
       end
@@ -76,6 +77,10 @@ module EolTerms
 
       problem_in_term("Illegal used_for value `#{term['used_for']}`", term, index) unless
         USED_FOR_VALUES.include?(term['used_for'])
+    end
+
+    def check_eol_id(term, index)
+      warning_in_term('Missing EOL ID', term, index) unless property?(term, 'eol_id')
     end
 
     def check_parent_referential_integrity(term, index)

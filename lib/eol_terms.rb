@@ -18,6 +18,7 @@ module EolTerms
       # TODO: Consider moving valid to a class property so we don't run it multiple times unless we are asked to.
       validate(true) unless skip_validation
       @list = YAML.load_file(TERMS_YAML_FILENAME)['terms'].map { |term| term.transform_keys(&:downcase) }
+      inject_ids
     end
 
     def uris(skip_validation = true)
@@ -36,7 +37,7 @@ module EolTerms
     end
 
     def uri_ids
-      @uri_ids ||= YAML.load_file(URI_IDS_YAML_FILENAME)['uri_ids'].invert.transform_values(&:downcase)
+      @uri_ids ||= YAML.load_file(URI_IDS_YAML_FILENAME)['uri_ids'].transform_keys(&:downcase)
     end
 
     def validate(silent = false)
@@ -49,7 +50,16 @@ module EolTerms
       @checker = IdChecker.new
       @checker.rebuild_ids
     end
+
+    def inject_ids
+      @uri_ids ||= EolTerms.uri_ids
+      @list.each do |term|
+        term['eol_id'] = @uri_ids[term['uri']]
+      end
+      @list
+    end
   end
+  private_class_method :inject_ids
 end
 
 # It seems weird to put these below the module, but the guide I was following had it here.
