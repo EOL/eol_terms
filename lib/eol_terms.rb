@@ -52,7 +52,7 @@ module EolTerms
     end
 
     def inject_ids
-      @uri_ids ||= EolTerms.uri_ids
+      @uri_ids = EolTerms.uri_ids
       @list.each do |term|
         term['eol_id'] = @uri_ids[term['uri']]
       end

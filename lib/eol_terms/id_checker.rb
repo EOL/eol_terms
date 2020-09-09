@@ -17,7 +17,7 @@ module EolTerms
 
     def next_available_id
       next_id = 0
-      @uri_ids.each { |_, val| @next_id = val if val > next_id }
+      @uri_ids.each { |_, val| next_id = val if val > next_id }
       next_id += 1 # Because, afer all, it is the NEXT id...\
     end
 
