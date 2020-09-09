@@ -37,7 +37,9 @@ module EolTerms
     end
 
     def uri_ids
-      @uri_ids ||= YAML.load_file(URI_IDS_YAML_FILENAME)['uri_ids'].transform_keys(&:downcase)
+      @uri_ids ||= YAML.load_file(URI_IDS_YAML_FILENAME)['uri_ids']&.transform_keys(&:downcase)
+      @uri_ids ||= {}
+      @uri_ids
     end
 
     def validate(silent = false)
@@ -45,9 +47,9 @@ module EolTerms
       @validator.validate(silent)
     end
 
-    def rebuild_ids
+    def rebuild_ids(path)
       validate(true)
-      @checker = IdChecker.new
+      @checker = IdChecker.new(path)
       @checker.rebuild_ids
     end
 
