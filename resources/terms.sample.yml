@@ -12,6 +12,7 @@ terms:
     is_verbatim_only: no
     parent_uris:
     synonym_of_uri:
+    units_term_uri:
     alias:
   - URI: 'http://eol.org/schema/terms/conePlusHalfSphere-20Percent'
     definition: "A cell shape that approximates a (cone + half sphere)-20% volume. (see Table 1, Olenina, I., Hajdu, S., Edler, L., Andersson, A., Wasmund, N., Busch, S., Göbel, J., Gromisz, S., Huseby, S., Huttunen, M., Jaanus, A., Kokkonen, P., Ledaine, I. and Niemkiewicz, E. 2006. Biovolumes and size-classes of phytoplankton in the Baltic Sea. HELCOM Balt.Sea Environ. Proc. No. 106, 144pp.)"
@@ -26,4 +27,5 @@ terms:
     is_verbatim_only: no
     parent_uris:
     synonym_of_uri:
+    units_term_uri:
     alias:

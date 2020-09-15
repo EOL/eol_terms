@@ -22,6 +22,7 @@ module EolTerms
       ontology_source_url
       ontology_information_url
       parent_uris
+      units_term_uri
       position
       name
       section_ids
@@ -50,6 +51,7 @@ module EolTerms
         check_eol_id(term, index)
         check_parent_referential_integrity(term, index)
         check_synonym_referential_integrity(term, index)
+        check_units_referential_integrity(term, index)
       end
       report(silent)
     end
@@ -96,6 +98,13 @@ module EolTerms
 
       warning_in_term("Unrecognized synonym URI `#{term['synonym_of_uri']}`", term, index) unless
         EolTerms.includes_uri?(term['synonym_of_uri'])
+    end
+
+    def check_units_referential_integrity(term, index)
+      return unless property?(term, 'units_term_uri')
+
+      warning_in_term("Unrecognized units_term URI `#{term['units_term_uri']}`", term, index) unless
+        EolTerms.includes_uri?(term['units_term_uri'])
     end
 
     def problem_in_term(problem, term, index)
