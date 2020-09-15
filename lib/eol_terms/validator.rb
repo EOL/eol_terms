@@ -10,27 +10,17 @@ module EolTerms
       alias
       attribution
       definition
-      comment
-      created_at
       eol_id
-      force
       is_hidden_from_select
       is_hidden_from_overview
       is_hidden_from_glossary
       is_text_only
-      is_verbatim_only
-      ontology_source_url
-      ontology_information_url
       parent_uris
       units_term_uri
-      position
       name
-      section_ids
       synonym_of_uri
       type
-      updated_at
       uri
-      used_for
     ].freeze
     REQUIRED_FIELDS = %w[uri name].freeze
 
