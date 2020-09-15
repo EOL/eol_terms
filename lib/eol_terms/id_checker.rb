@@ -31,7 +31,7 @@ module EolTerms
         end
       end
       rewrite_ids_file if rewrite_required
-      puts "Done. Results saved in #{EolTerms::URI_IDS_YAML_FILENAME}"
+      puts "Done. Results saved in #{@path}"
     end
 
     def missing_uri(uri)
