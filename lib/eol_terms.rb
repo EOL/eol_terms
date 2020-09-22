@@ -28,6 +28,10 @@ module EolTerms
       @uris = list(true).map { |term| term['uri'] }
     end
 
+    def valid_fields
+      Validator::VALID_FIELDS
+    end
+
     def includes_uri?(uri)
       unless @uri_hash
         @uri_hash = {}
