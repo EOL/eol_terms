@@ -31889,7 +31889,8 @@ terms:
   name: electroreception
   type: value
   uri: https://www.wikidata.org/entity/Q1326528
-  parent_uris: []
+  parent_uris: 
+  - http://purl.obolibrary.org/obo/UBERON_0001032
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -112339,7 +112340,8 @@ terms:
   name: visual system
   type: measurement
   uri: http://purl.obolibrary.org/obo/UBERON_0002104
-  parent_uris: []
+  parent_uris:
+  - http://purl.obolibrary.org/obo/UBERON_0001032
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -117466,4 +117468,272 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'the sensory system for the sense of hearing'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "auditory system"
+  type: measurement
+  uri: http://purl.obolibrary.org/obo/UBERON_0016490
+  parent_uris:
+  - http://purl.obolibrary.org/obo/UBERON_0001032
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'the method used by some animals (e.g. bats, dolphins and some whales) to determine the location of something by measuring the time it takes for an echo to return from it. These animals emit sound waves and listen for the echo, calculating the distance to the object from the time lapse between sound emission and the echo returning.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "echolocation"
+  type: value
+  uri: http://purl.obolibrary.org/obo/GO_0050959
+  parent_uris:
+  - http://purl.obolibrary.org/obo/UBERON_0001032
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'range of frequencies that can be heard by humans or other animals'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "hearing range"
+  type: measurement
+  uri: https://www.wikidata.org/entity/Q351087
+  parent_uris: []
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'minimum sound level that an average individual can hear'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "hearing threshold"
+  type: measurement
+  uri: https://www.wikidata.org/entity/Q1504201
+  parent_uris: []
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'the proximal portion of the digestive tract, containing the oral cavity and bounded by the oral opening.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "mouth"
+  type: value
+  uri: http://purl.obolibrary.org/obo/UBERON_0000165
+  parent_uris:
+  - https://eol.org/schema/terms/extratympanic
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'arthropod sensory structures consisting of special sensilla called the scolopidia, which are mechano-transducers and respond mainly to stretch or flexion. In insects, they consist of bundles of internal sensilla, each of which has a cap cell, an enveloping cell and one or more sense cells.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "chordotonal organs"
+  type: value
+  uri: http://purl.obolibrary.org/obo/UBERON_0001038
+  parent_uris: []
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'the stirrup-shaped small bone or ossicle in the middle ear which is attached to the incus laterally and to the fenestra ovalis, the 'oval window' medially. The oval window is adjacent to the vestibule of the inner ear. The stapes transmits the sound vibrations from the incus to the membrane of the inner ear inside the fenestra ovalis.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "stapes"
+  type: value
+  uri: http://purl.obolibrary.org/obo/UBERON_0001687
+  parent_uris:
+  - https://eol.org/schema/terms/extratympanic
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'the air-filled cavity within the skull of vertebrates that lies between the outer ear and the inner ear. It is linked to the pharynx (and therefore to outside air) via the Eustachian tube and in mammals contains the three ear ossicles, which transmit auditory vibrations from the outer ear (via the tympanum) to the inner ear'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "tympanic middle ear"
+  type: value
+  uri: http://purl.obolibrary.org/obo/UBERON_0001756
+  parent_uris: []
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'a balance sensory receptor present in some aquatic invertebrates'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "statocyst"
+  type: value
+  uri: http://purl.obolibrary.org/obo/UBERON_0006583
+  parent_uris: []
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'a thin membranous, sometimes alveolated sac in the dorsal portion of the abdominal cavity. Contains a varying mixture of gases, not identical to the composition of air.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "swim bladder"
+  type: value
+  uri: http://purl.obolibrary.org/obo/UBERON_0006860
+  parent_uris:
+  - https://eol.org/schema/terms/extratympanic
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'conduction of sound to the inner ear of a vertebrate by a pathway other than the tympanic membrane and the ossicles of the middle ear'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "extratympanic"
+  type: value
+  uri: https://eol.org/schema/terms/extratympanic
+  parent_uris: []
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'a gas-filled cranial derivative of the swim bladder'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "tympanic bladder"
+  type: value
+  uri: https://eol.org/schema/terms/tympanic_bladder
+  parent_uris:
+  - https://eol.org/schema/terms/extratympanic
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'local pressure deviation from the ambient atmospheric pressure, caused by a sound wave'
+  is_hidden_from_select: 
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "sound pressure"
+  type: metadata
+  uri: https://www.wikidata.org/entity/Q1068172
+  parent_uris: []
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'accessory respiratory organ of fish in the suborder Anabantoidei, for air breathing'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "labyrinth organ"
+  type: value
+  uri: https://www.wikidata.org/entity/Q13424723
+  parent_uris:
+  - https://eol.org/schema/terms/extratympanic
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'paired sensory appendages arising from the labium (a lower maxillary mouthpart) of arthropods'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "labial palps"
+  type: value
+  uri: https://www.wikidata.org/entity/Q1387456
+  parent_uris: []
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'organs in insects that are involved in the perception of sound; just below the knee in the tibia of all legs in most insects. Reception is performed by aggregations of scolopidia, the unit mechanoreceptor in invertebrates.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "subgenual organs"
+  type: value
+  uri: https://www.wikidata.org/entity/Q16581534
+  parent_uris: []
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'hearing organ in insects, consisting of a membrane (tympanum) stretched across a frame backed by an air sac and associated sensory neurons'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "tympanal organ"
+  type: value
+  uri: https://www.wikidata.org/entity/Q1784041
+  parent_uris: []
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'Inner-ear structure in vertebrates which detects acceleration and may detect acoustic signals'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "otoliths"
+  type: value
+  uri: https://www.wikidata.org/entity/Q591800
+  parent_uris: []
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'measurement of distance of the movement of a particle from its equilibrium position in a medium as it transmits a sound wave'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "particle displacement"
+  type: metadata
+  uri: https://www.wikidata.org/entity/Q779457
+  parent_uris: []
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'essential respiration organs in many air-breathing animals'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  is_verbatim_only: false
+  name: "lungs"
+  type: value
+  uri: https://www.wikidata.org/entity/Q7886
+  parent_uris:
+  - https://eol.org/schema/terms/extratympanic
+  synonym_of_uri:
   alias:
