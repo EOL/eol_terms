@@ -3426,7 +3426,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000085
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  - http://purl.obolibrary.org/obo/ENVO_01000277
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -12184,8 +12184,7 @@ terms:
   name: body length
   type: measurement
   uri: http://purl.obolibrary.org/obo/CMO_0000013
-  parent_uris:
-  - http://purl.obolibrary.org/obo/CMO_0000013
+  parent_uris: []
   synonym_of_uri:
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
   alias:
@@ -37447,7 +37446,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00005765
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  - http://purl.obolibrary.org/obo/ENVO_01000277
   - http://purl.obolibrary.org/obo/ENVO_00001998
   synonym_of_uri:
   units_term_uri:
@@ -38930,7 +38929,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000133
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  - http://purl.obolibrary.org/obo/ENVO_01000277
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -47004,8 +47003,7 @@ terms:
   name: ice
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000277
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -47033,7 +47031,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000145
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  - http://purl.obolibrary.org/obo/ENVO_01000277
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -47047,7 +47045,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000531
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  - http://purl.obolibrary.org/obo/ENVO_01000277
   - http://purl.obolibrary.org/obo/ENVO_00000309
   synonym_of_uri:
   units_term_uri:
@@ -47076,7 +47074,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000528
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  - http://purl.obolibrary.org/obo/ENVO_01000277
   - http://purl.obolibrary.org/obo/ENVO_00000176
   synonym_of_uri:
   units_term_uri:
@@ -47091,7 +47089,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000299
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  - http://purl.obolibrary.org/obo/ENVO_01000277
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -47107,7 +47105,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00009725
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  - http://purl.obolibrary.org/obo/ENVO_01000277
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -47139,7 +47137,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000132
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  - http://purl.obolibrary.org/obo/ENVO_01000277
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -47154,7 +47152,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000380
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  - http://purl.obolibrary.org/obo/ENVO_01000277
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -47170,7 +47168,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000392
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  - http://purl.obolibrary.org/obo/ENVO_01000277
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -47185,7 +47183,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000298
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  - http://purl.obolibrary.org/obo/ENVO_01000277
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -47200,7 +47198,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000307
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  - http://purl.obolibrary.org/obo/ENVO_01000277
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -76080,7 +76078,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000459
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  - http://purl.obolibrary.org/obo/ENVO_01000277
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -81176,7 +81174,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000457
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  - http://purl.obolibrary.org/obo/ENVO_01000277
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -87156,7 +87154,6 @@ terms:
   uri: http://purl.obolibrary.org/obo/ENVO_01000253
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_00000873
-  - http://purl.obolibrary.org/obo/ENVO_01000253
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -91258,7 +91255,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00002200
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  - http://purl.obolibrary.org/obo/ENVO_01000277
   - http://purl.obolibrary.org/obo/ENVO_00000447
   synonym_of_uri:
   units_term_uri:
@@ -94718,7 +94715,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000146
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  - http://purl.obolibrary.org/obo/ENVO_01000277
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -100307,7 +100304,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00009726
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  - http://purl.obolibrary.org/obo/ENVO_01000277
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -105895,7 +105892,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000456
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01001125
+  - http://purl.obolibrary.org/obo/ENVO_01000277
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -110920,7 +110917,6 @@ terms:
   uri: http://purl.obolibrary.org/obo/ENVO_00000100
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_00000309
-  - http://purl.obolibrary.org/obo/ENVO_00000248
   synonym_of_uri:
   units_term_uri:
   alias:
