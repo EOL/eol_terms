@@ -31889,7 +31889,7 @@ terms:
   name: electroreception
   type: value
   uri: https://www.wikidata.org/entity/Q1326528
-  parent_uris: 
+  parent_uris:
   - http://purl.obolibrary.org/obo/UBERON_0001032
   synonym_of_uri:
   units_term_uri:
@@ -117475,7 +117475,6 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "auditory system"
   type: measurement
   uri: http://purl.obolibrary.org/obo/UBERON_0016490
@@ -117489,7 +117488,6 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "echolocation"
   type: value
   uri: http://purl.obolibrary.org/obo/GO_0050959
@@ -117503,7 +117501,6 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "hearing range"
   type: measurement
   uri: https://www.wikidata.org/entity/Q351087
@@ -117516,7 +117513,6 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "hearing threshold"
   type: measurement
   uri: https://www.wikidata.org/entity/Q1504201
@@ -117529,7 +117525,6 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "mouth"
   type: value
   uri: http://purl.obolibrary.org/obo/UBERON_0000165
@@ -117543,7 +117538,6 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "chordotonal organs"
   type: value
   uri: http://purl.obolibrary.org/obo/UBERON_0001038
@@ -117551,12 +117545,11 @@ terms:
   synonym_of_uri:
   alias:
 - attribution: ''
-  definition: 'the stirrup-shaped small bone or ossicle in the middle ear which is attached to the incus laterally and to the fenestra ovalis, the 'oval window' medially. The oval window is adjacent to the vestibule of the inner ear. The stapes transmits the sound vibrations from the incus to the membrane of the inner ear inside the fenestra ovalis.'
+  definition: "the stirrup-shaped small bone or ossicle in the middle ear which is attached to the incus laterally and to the fenestra ovalis, the 'oval window' medially. The oval window is adjacent to the vestibule of the inner ear. The stapes transmits the sound vibrations from the incus to the membrane of the inner ear inside the fenestra ovalis."
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "stapes"
   type: value
   uri: http://purl.obolibrary.org/obo/UBERON_0001687
@@ -117570,7 +117563,6 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "tympanic middle ear"
   type: value
   uri: http://purl.obolibrary.org/obo/UBERON_0001756
@@ -117583,7 +117575,6 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "statocyst"
   type: value
   uri: http://purl.obolibrary.org/obo/UBERON_0006583
@@ -117596,7 +117587,6 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "swim bladder"
   type: value
   uri: http://purl.obolibrary.org/obo/UBERON_0006860
@@ -117610,7 +117600,6 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "extratympanic"
   type: value
   uri: https://eol.org/schema/terms/extratympanic
@@ -117623,7 +117612,6 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "tympanic bladder"
   type: value
   uri: https://eol.org/schema/terms/tympanic_bladder
@@ -117633,11 +117621,10 @@ terms:
   alias:
 - attribution: ''
   definition: 'local pressure deviation from the ambient atmospheric pressure, caused by a sound wave'
-  is_hidden_from_select: 
+  is_hidden_from_select:
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "sound pressure"
   type: metadata
   uri: https://www.wikidata.org/entity/Q1068172
@@ -117650,7 +117637,6 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "labyrinth organ"
   type: value
   uri: https://www.wikidata.org/entity/Q13424723
@@ -117664,7 +117650,6 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "labial palps"
   type: value
   uri: https://www.wikidata.org/entity/Q1387456
@@ -117677,7 +117662,6 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "subgenual organs"
   type: value
   uri: https://www.wikidata.org/entity/Q16581534
@@ -117690,7 +117674,6 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "tympanal organ"
   type: value
   uri: https://www.wikidata.org/entity/Q1784041
@@ -117703,7 +117686,6 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "otoliths"
   type: value
   uri: https://www.wikidata.org/entity/Q591800
@@ -117716,7 +117698,6 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "particle displacement"
   type: metadata
   uri: https://www.wikidata.org/entity/Q779457
@@ -117729,7 +117710,6 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary:  false
   is_text_only: false
-  is_verbatim_only: false
   name: "lungs"
   type: value
   uri: https://www.wikidata.org/entity/Q7886
