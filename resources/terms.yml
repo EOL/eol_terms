@@ -5851,8 +5851,7 @@ terms:
   name: aquatic plant
   type: value
   uri: http://purl.obolibrary.org/obo/FLOPO_0900044
-  parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0900044
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -16575,7 +16574,6 @@ terms:
   parent_uris:
   - http://purl.obolibrary.org/obo/OBA_1000036
   - http://eol.org/schema/terms/dryMass
-  - http://purl.dataone.org/odo/ECSO_00001143
   synonym_of_uri:
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000021
   alias:
@@ -53774,8 +53772,7 @@ terms:
   name: lake
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000252
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01000252
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -59968,7 +59965,6 @@ terms:
   uri: http://purl.obolibrary.org/obo/ENVO_01000024
   parent_uris:
   - http://eol.org/schema/terms/benthic
-  - http://purl.obolibrary.org/obo/ENVO_01000024
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -60309,8 +60305,7 @@ terms:
   name: marine pelagic
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000023
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01000023
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -75598,8 +75593,7 @@ terms:
   name: organic material
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000155
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01000155
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -78248,8 +78242,7 @@ terms:
   name: parasite
   type: value
   uri: https://www.wikidata.org/entity/Q12806437
-  parent_uris:
-  - https://www.wikidata.org/entity/Q12806437
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -82455,7 +82448,6 @@ terms:
   uri: http://purl.obolibrary.org/obo/ENVO_00000033
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_00000873
-  - http://purl.obolibrary.org/obo/ENVO_00000033
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -89451,7 +89443,6 @@ terms:
   - https://eol.org/schema/terms/usnvc_2_C
   - http://purl.obolibrary.org/obo/ENVO_00000230
   - http://purl.obolibrary.org/obo/ENVO_00000035
-  - http://purl.obolibrary.org/obo/ENVO_01000022
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -94325,7 +94316,7 @@ terms:
   type: measurement
   uri: http://eol.org/schema/terms/skeletal_density
   parent_uris: []
-  synonym_of_uri: http://eol.org/schema/terms/skeletal_density
+  synonym_of_uri:
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000084
   alias:
 - attribution: ''
@@ -104000,7 +103991,6 @@ terms:
   - http://purl.obolibrary.org/obo/ENVO_01000178
   - http://purl.obolibrary.org/obo/ENVO_01000176
   - http://purl.obolibrary.org/obo/ENVO_00000300
-  - http://eol.org/schema/terms/temperate_grasslands_savannas_and_shrublands
   synonym_of_uri:
   units_term_uri:
   alias:
