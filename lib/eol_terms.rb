@@ -33,18 +33,18 @@ module EolTerms
     end
 
     def includes_uri?(uri)
-      term_hash.key?(uri)
+      term_hash.key?(uri.downcase)
     end
 
     def by_uri(uri)
-      term_hash[uri]
+      term_hash[uri.downcase]
     end
 
     def term_hash
       return @term_hash if @term_hash
 
       @term_hash = {}
-      list(true).each { |term| @term_hash[term['uri']] = term }
+      list(true).each { |term| @term_hash[term['uri'].downcase] = term }
       @term_hash
     end
 
