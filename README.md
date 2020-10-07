@@ -35,12 +35,11 @@ Valid.
 => nil
 ```
 
-If you prefer to have them as a hash, use `#uri_ids`. The values are EOL's internal IDs, but it might be useful to have
-the keys (i.e.: lookup of keys is much faster than with an array).
+EolTerms also stores an internal hash of Terms. You can get them with `.by_uri`:
 
 ```
-> EolTerms.uri_ids
-=> {"http://eol.org/schema/terms/âµmol_cell-1"=>1, "http://eol.org/schema/terms/coneplushalfsphere-20percent"=>2, ...}
+> EolTerms.by_uri('http://eol.org/schema/terms/percentPerMonth')
+=> {"attribution"=>"", "definition"=>"a measure of specific growth rate", etc...}
 ```
 
 If you add a URI to the `eol_terms.yml` file, you will need to give IDs to the new terms. This is accomplished with the

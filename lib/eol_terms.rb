@@ -33,11 +33,19 @@ module EolTerms
     end
 
     def includes_uri?(uri)
-      unless @uri_hash
-        @uri_hash = {}
-        uris(true).each { |uri| @uri_hash[uri] = true }
-      end
-      @uri_hash.key?(uri)
+      term_hash.key?(uri)
+    end
+
+    def by_uri(uri)
+      term_hash[uri]
+    end
+
+    def term_hash
+      return @term_hash if @term_hash
+
+      @term_hash = {}
+      list(true).each { |term| @term_hash[term['uri']] = term }
+      @term_hash
     end
 
     def uri_ids
