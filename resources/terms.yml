@@ -75128,18 +75128,20 @@ terms:
   name: omnivore-carnivore
   type: value
   uri: https://eol.org/schema/terms/omnivoreCarnivore
-  parent_uris: []
+  parent_uris:
+  - https://www.wikidata.org/entity/Q164509
   synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: Benedetti et al 2015
-  definition: automatically added during harvest
+  definition: An omnivorous animal that usually or preferentially feeds on detritus
   is_hidden_from_select: false
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: omnivoreDetrivore
   uri: https://eol.org/schema/terms/omnivoreDetrivore
-  parent_uris: []
+  parent_uris:
+  - https://www.wikidata.org/entity/Q164509
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -117701,5 +117703,18 @@ terms:
   uri: https://www.wikidata.org/entity/Q7886
   parent_uris:
   - https://eol.org/schema/terms/extratympanic
+  synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'An omnivorous animal that usually or preferentially feeds on plants'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary:  false
+  is_text_only: false
+  name: "omnivore-herbivore"
+  type: value
+  uri: https://eol.org/schema/terms/omnivoreHerbivore
+  parent_uris:
+  - https://www.wikidata.org/entity/Q164509
   synonym_of_uri:
   alias:
