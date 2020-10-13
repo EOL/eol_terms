@@ -15,8 +15,8 @@ gem 'eol_terms', git: 'https://github.com/EOL/eol_terms.git'
 
 1. Someone edits the terms.yml file.
 2. Someone bumps the version, builds and installs the gem locally, then runs `.validate` to ensure it's valid. If not, return to step 1.
-3. That same person runs `.rebuild_ids`, then
-4. commits the changes to the repository, then
+3. That same person figures out the path of their repo, runs `.rebuild_ids("#{path}/resources/uri_ids.yml")`, then
+4. commits/pushes the changes to the repository, then
 5. goes to beta and runs `bundle update eol_terms` (and checks the log for the line confirming the version changed), and
 6. runs `TermBootstrapper.new.load` from a console or with `rails runner`, making note of any errors or exceptions.
 7. Someone should check that everything looks acceptable... and, if so,
