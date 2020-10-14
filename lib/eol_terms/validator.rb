@@ -108,7 +108,7 @@ module EolTerms
     def property?(term, property)
       # NOTE: this does NOT allow ' ' to be a valid "empty" string. No spaces
       # allowed.
-      term.key?(property) && !term[property].nil? && !term[property].empty?
+      term.key?(property) && !term[property].nil? && (term[property].is_a?(Integer) || !term[property].empty?)
     end
 
     def report(silent = false)
