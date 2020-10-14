@@ -21,7 +21,7 @@ gem 'eol_terms', git: 'https://github.com/EOL/eol_terms.git'
 6. runs `TermBootstrapper.new.load` from a console or with `rails runner`, making note of any errors or exceptions.
 7. Someone should check that everything looks acceptable... and, if so,
 8. run the `bundle update eol_terms` and `TermBootstrapper.new.load` on production, and finally,
-9. restart the workers.
+9. restart the workers (`bin/stop_work` usually does the trick).
 
 ### Methods
 
