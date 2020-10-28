@@ -46815,7 +46815,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00002012
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00002030
+  - http://purl.obolibrary.org/obo/ENVO_00002010
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -48463,7 +48463,7 @@ terms:
   type: value
   uri: http://www.wikidata.org/entity/Q677088
   parent_uris:
-  - https://www.wikidata.org/entity/Q81875
+  - http://eol.org/schema/terms/invertivore
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -49165,7 +49165,8 @@ terms:
   name: invertivore
   type: value
   uri: http://eol.org/schema/terms/invertivore
-  parent_uris: []
+  parent_uris:
+  - https://www.wikidata.org/entity/Q81875
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -54028,9 +54029,6 @@ terms:
   uri: http://purl.obolibrary.org/obo/ENVO_00000382
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_01000252
-  - http://purl.obolibrary.org/obo/ENVO_00002030
-  - http://purl.obolibrary.org/obo/ENVO_00000446
-  - http://purl.obolibrary.org/obo/ENVO_01000687
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -55429,7 +55427,8 @@ terms:
   name: least concern
   type: value
   uri: http://eol.org/schema/terms/leastConcern
-  parent_uris: []
+  parent_uris::
+  - http://eol.org/schema/terms/extant
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -83690,19 +83689,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: act of producing, making or creating something
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: produces
-  type: measurement
-  uri: https://www.wikidata.org/entity/Q36492844
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
   definition: A lake formed either by the damming action of a moraine or ice dam during
     the retreat of a melting glacier, or one formed by meltwater trapped against an
     ice mass due to isostatic depression of the crust around the ice.
@@ -89307,9 +89293,9 @@ terms:
   name: saline water environment
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000307
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00002030
+  parent_uris:: []
   synonym_of_uri:
+  - http://purl.obolibrary.org/obo/ENVO_00002010
   units_term_uri:
   alias:
 - attribution: ''
@@ -91442,10 +91428,9 @@ terms:
   name: sea shore
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000485
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00002030
-  - http://purl.obolibrary.org/obo/ENVO_00000303
+  parent_uris: []
   synonym_of_uri:
+  - http://purl.obolibrary.org/obo/ENVO_01000687
   units_term_uri:
   alias:
 - attribution: ''
@@ -109947,7 +109932,7 @@ terms:
   uri: http://www.geonames.org/6252001
   parent_uris:
   - https://www.wikidata.org/entity/Q181982
-  - https://www.wikidata.org/entity/Q186198
+  - https://www.wikidata.org/entity/Q39061
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -112742,7 +112727,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000031
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00002030
+  - http://purl.obolibrary.org/obo/ENVO_01000253
   - http://purl.obolibrary.org/obo/ENVO_00000100
   synonym_of_uri:
   units_term_uri:
@@ -112758,7 +112743,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000507
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000549
+  - http://purl.obolibrary.org/obo/ENVO_00000031
   synonym_of_uri:
   units_term_uri:
   alias:
