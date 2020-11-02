@@ -59964,6 +59964,7 @@ terms:
   uri: http://purl.obolibrary.org/obo/ENVO_01000024
   parent_uris:
   - http://eol.org/schema/terms/benthic
+  - http://purl.obolibrary.org/obo/ENVO_00000447
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -65866,7 +65867,7 @@ terms:
   type: value
   uri: http://marineregions.org/mrgid/8347
   parent_uris:
-  - http://www.geonames.org/1036973
+  - https://www.geonames.org/1036973
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -65880,7 +65881,7 @@ terms:
   type: value
   uri: http://marineregions.org/mrgid/2220
   parent_uris: []
-  synonym_of_uri: http://www.geonames.org/1036973
+  synonym_of_uri: https://www.geonames.org/1036973
   units_term_uri:
   alias:
 - attribution: ''
@@ -65891,7 +65892,7 @@ terms:
   is_text_only: false
   name: Mozambique
   type: value
-  uri: http://www.geonames.org/1036973
+  uri: https://www.geonames.org/1036973
   parent_uris:
   - https://www.wikidata.org/entity/Q41228
   - https://www.wikidata.org/entity/Q186198
@@ -116712,7 +116713,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/Zambezian_coastal_flooded_savanna
   parent_uris:
-  - http://www.geonames.org/1036973
+  - https://www.geonames.org/1036973
   - http://eol.org/schema/terms/flooded_grasslands_and_savannas
   synonym_of_uri:
   units_term_uri:
@@ -117702,4 +117703,43 @@ terms:
   parent_uris:
   - https://www.wikidata.org/entity/Q164509
   synonym_of_uri:
+  alias:
+- attribution: ''
+  definition: 'Exemplary records (representative or primary records) represent typical values of an attribute for a taxon, which may have many records for this attribute.'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "exemplar status"
+  type: metadata
+  uri: https://eol.org/schema/terms/exemplary
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Up to five of exemplary records per attribute, per taxon, may be labeled as representative records.'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "representative record"
+  type: metadata
+  uri: https://eol.org/schema/terms/representative
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'One exemplary record, representing the only or the broadest swathe of available values, may be labeled the primary record. For instance, a species found in Peru, Chile and Brazil might have a primary Geographic Distribution record of South America.'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "primary record"
+  type: metadata
+  uri: https://eol.org/schema/terms/primary
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
   alias:
