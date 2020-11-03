@@ -21708,7 +21708,8 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000416
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - http://purl.obolibrary.org/obo/ENVO_00000303
+  - http://purl.obolibrary.org/obo/ENVO_01000017
   - http://purl.obolibrary.org/obo/ENVO_00000083
   synonym_of_uri:
   units_term_uri:
@@ -22038,23 +22039,6 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/PATO_0001794
   parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: 'An area of the ocean floor where hydrogen sulfide, methane and other
-    hydrocarbon-rich fluid seepage occurs. Cold seeps are distinct from hydrothermal
-    vents: the former''s emissions are of the same temperature as the surrounding
-    seawater, whereas the latter''s emissions are super-heated.'
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: cold seep
-  type: value
-  uri: http://purl.obolibrary.org/obo/ENVO_00000425
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01000030
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -28734,7 +28718,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000170
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - http://purl.obolibrary.org/obo/ENVO_01000017
   - http://purl.obolibrary.org/obo/ENVO_00000083
   synonym_of_uri:
   units_term_uri:
@@ -45158,7 +45142,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000082
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - http://purl.obolibrary.org/obo/ENVO_00000176
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -63294,7 +63278,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000406
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - http://purl.obolibrary.org/obo/ENVO_01000024
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -65299,27 +65283,12 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: montane grassland and shrubland
-  type: value
-  uri: http://purl.obolibrary.org/obo/ENVO_00000882
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
-  - http://purl.obolibrary.org/obo/ENVO_01000177
-  synonym_of_uri:
-  units_term_uri:
-  alias:
 - attribution: https://www.worldwildlife.org/biomes/montane-grasslands-and-shrublands
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
-  name: Montane Grasslands and Shrublands
+  name: montane grassland and shrubland
   type: value
   uri: http://eol.org/schema/terms/montane_grasslands_and_shrublands
   parent_uris:
@@ -65836,9 +65805,8 @@ terms:
   name: mountain range
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000080
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
-  synonym_of_uri:
+  parent_uris: []
+  synonym_of_uri: http://purl.obolibrary.org/obo/ENVO_00000081
   units_term_uri:
   alias:
 - attribution: ''
@@ -85337,9 +85305,8 @@ terms:
   name: range of mounts
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000478
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
-  synonym_of_uri:
+  parent_uris: []
+  synonym_of_uri: http://purl.obolibrary.org/obo/ENVO_00000081
   units_term_uri:
   alias:
 - attribution: ''
@@ -117752,6 +117719,105 @@ terms:
   type: metadata
   uri: https://eol.org/schema/terms/primary
   parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'amount of DNA (or RNA) in one copy of a genome'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "genome size"
+  type: measurement
+  uri: http://purl.bioontology.org/ontology/MESH/D059646
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: 'Culley TM. Why vouchers matter in botanical research. Appl Plant Sci. 2013;1(11):apps.1300076. Published 2013 Oct 29. doi:10.3732/apps.1300076'
+  definition: 'a representative sample of an identified organism that is deposited and stored at a facility from which researchers may later obtain the specimen for examination and further study; a specimen that has been specifically collected and accessioned to support a research project (e.g., genetic analysis of a taxon)'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "genetic voucher"
+  type: value
+  uri: http://eol.org/schema/terms/geneticVoucher
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'a montane condition in which an altitude range falls immediately below the tree line'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "upper montane"
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_01000345
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00000081
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'a mountain that is part of a tropical environment'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "tropical mountain"
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_01001456
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - http://purl.obolibrary.org/obo/ENVO_01000204
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'a montane condition in which an altitude range falls immediately above mid-altitude forests'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "lower montane"
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_01000346
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00000081
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'A mountain that is part of a temperate environment'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "temperate mountain"
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_01001455
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - http://purl.obolibrary.org/obo/ENVO_01000206
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: 'https://en.wikipedia.org/wiki/Freshwater_swamp_forest'
+  definition: 'forests which are inundated with freshwater, either permanently or seasonally. They normally occur along the lower reaches of rivers and around freshwater lakes'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "swamp forest"
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_01000432
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000174
+  - http://purl.obolibrary.org/obo/ENVO_00000043
   synonym_of_uri:
   units_term_uri:
   alias:
