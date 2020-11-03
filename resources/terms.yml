@@ -55297,10 +55297,10 @@ terms:
   is_text_only: false
   name: Leaf mass per area
   type: measurement
-  uri: 'http://top-thesaurus.org/annotationInfo?viz=1&&trait=Leaf_mass_per_area '
+  uri: 'http://top-thesaurus.org/annotationInfo?viz=1&&trait=Leaf_mass_per_area'
   parent_uris: []
   synonym_of_uri:
-  units_term_uri:
+  units_term_uri: http://purl.obolibrary.org/obo/UO_0010049
   alias:
 - attribution: ''
   definition: larva of an insect that lives in and eats the leaf tissue of plants
@@ -62851,6 +62851,19 @@ terms:
   name: mg/m^2
   type: value
   uri: http://purl.obolibrary.org/obo/UO_0000309
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: g/m^2
+  type: value
+  uri: http://purl.obolibrary.org/obo/UO_0010049
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
