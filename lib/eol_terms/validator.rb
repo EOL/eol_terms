@@ -86,8 +86,10 @@ module EolTerms
     def check_synonym_referential_integrity(term, index)
       return unless property?(term, 'synonym_of_uri')
 
-      warning_in_term("Unrecognized synonym URI `#{term['synonym_of_uri']}`", term, index) unless
-        EolTerms.includes_uri?(term['synonym_of_uri'])
+      Array(term['synonym_of_uri']).each do |uri|
+        warning_in_term("Unrecognized synonym URI `#{term['synonym_of_uri']}`", term, index) unless
+          EolTerms.includes_uri?(uri)
+      end
     end
 
     def check_units_referential_integrity(term, index)
