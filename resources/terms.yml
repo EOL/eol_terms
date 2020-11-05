@@ -32537,19 +32537,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'the medium or part of the medium of an environmental system. '
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: environmental material
-  type: value
-  uri: http://purl.obolibrary.org/obo/ENVO_00010483
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
   definition: Living location of the organism in relation to the water column, the
     sea floor and other organisms.
   is_hidden_from_select: false
@@ -94857,7 +94844,6 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00001998
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00010483
   - http://purl.obolibrary.org/obo/ENVO_00000446
   synonym_of_uri:
   units_term_uri:
@@ -117818,6 +117804,58 @@ terms:
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_01000174
   - http://purl.obolibrary.org/obo/ENVO_00000043
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'a spheroid quality; the subject exhibits a polar diameter longer than its equatorial diameter.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "prolate"
+  type: value
+  uri: http://purl.obolibrary.org/obo/PATO_0001866
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'reproductive organ that produces and releases eggs (ovary) or sperm (testis)'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "gonad"
+  type: metadata
+  uri: http://purl.obolibrary.org/obo/UBERON_0000991
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'specimen preparation mounted on a microscope slide'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "slide preparation"
+  type: metadata
+  uri: http://eol.org/schema/terms/slide
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'what is being counted, eg: individuals, cells, polyps, colonies'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "counting unit"
+  type: metadata
+  uri: http://eol.org/schema/terms/CountingUnit
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
