@@ -38364,19 +38364,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: http://bioportal.bioontology.org/ontologies/MESH
-  definition: The amount of DNA (or RNA) in one copy of a genome.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: genome size
-  type: measurement
-  uri: http://purl.bioontology.org/ontology/MESH/D059646
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
 - attribution: Hawksworth, D. L. 2010. Terms Used in Bionomenclature. The naming of
     organisms (and plant communities). Global Biodiversity Information Facility, Copenhagen.
   definition: "(zool., obsol.) the specimen on which a genus or subgenus is based;
@@ -55397,7 +55384,7 @@ terms:
   name: least concern
   type: value
   uri: http://eol.org/schema/terms/leastConcern
-  parent_uris::
+  parent_uris:
   - http://eol.org/schema/terms/extant
   synonym_of_uri:
   units_term_uri:
@@ -89260,7 +89247,7 @@ terms:
   name: saline water environment
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000307
-  parent_uris:: []
+  parent_uris: []
   synonym_of_uri:
   - http://purl.obolibrary.org/obo/ENVO_00002010
   units_term_uri:
