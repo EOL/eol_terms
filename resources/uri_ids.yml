@@ -8179,3 +8179,19 @@ uri_ids:
   https://www.wikidata.org/entity/q779457: 8172
   https://www.wikidata.org/entity/q7886: 8173
   https://eol.org/schema/terms/omnivoreherbivore: 8174
+  http://top-thesaurus.org/annotationinfo?viz=1&&trait=leaf_mass_per_area: 8175
+  http://purl.obolibrary.org/obo/uo_0010049: 8176
+  https://www.geonames.org/1036973: 8177
+  https://eol.org/schema/terms/exemplary: 8178
+  https://eol.org/schema/terms/representative: 8179
+  https://eol.org/schema/terms/primary: 8180
+  http://eol.org/schema/terms/geneticvoucher: 8181
+  http://purl.obolibrary.org/obo/envo_01000345: 8182
+  http://purl.obolibrary.org/obo/envo_01001456: 8183
+  http://purl.obolibrary.org/obo/envo_01000346: 8184
+  http://purl.obolibrary.org/obo/envo_01001455: 8185
+  http://purl.obolibrary.org/obo/envo_01000432: 8186
+  http://purl.obolibrary.org/obo/pato_0001866: 8187
+  http://purl.obolibrary.org/obo/uberon_0000991: 8188
+  http://eol.org/schema/terms/slide: 8189
+  http://eol.org/schema/terms/countingunit: 8190
