@@ -5188,7 +5188,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: 'Antipodes Island Group '
+  name: "Antipodes Island Group"
   type: value
   uri: http://www.geonames.org/2193911
   parent_uris:
@@ -11229,7 +11229,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: 'Biscayne National Park '
+  name: "Biscayne National Park"
   type: value
   uri: http://www.geonames.org/4147987
   parent_uris:
@@ -15697,7 +15697,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: 'Cannanore Islands '
+  name: "Cannanore Islands"
   type: value
   uri: http://www.geonames.org/1274985
   parent_uris:
@@ -18887,7 +18887,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: 'Chagos Archipelago Exclusive Economic Zone: UK / Mauritius'
+  name: "Chagos Archipelago Exclusive Economic Zone: UK / Mauritius"
   type: value
   uri: http://marineregions.org/mrgid/8344
   parent_uris:
@@ -20253,7 +20253,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: 'ciliary-mucus feeder '
+  name: "ciliary-mucus feeder"
   type: value
   uri: http://eol.org/schema/terms/ciliary_mucus_feeder
   parent_uris:
@@ -20854,7 +20854,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: ''
+  name: "cm"
   type: value
   uri: http://purl.obolibrary.org/obo/UO_0000015
   parent_uris: []
@@ -26146,7 +26146,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: ''
+  name: "dg"
   type: value
   uri: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64555
   parent_uris: []
@@ -29209,7 +29209,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: 'Eastern North American Boreal Forest, '
+  name: "Eastern North American Boreal Forest"
   type: value
   uri: https://eol.org/schema/terms/CNVC_M495_shru
   parent_uris:
@@ -32688,7 +32688,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: ''
+  name: "eV"
   type: value
   uri: http://purl.obolibrary.org/obo/UO_0000266
   parent_uris: []
@@ -50432,7 +50432,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: ''
+  name: "kg"
   type: value
   uri: http://purl.obolibrary.org/obo/UO_0000009
   parent_uris: []
@@ -50924,7 +50924,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: ''
+  name: "km"
   type: value
   uri: https://www.wikidata.org/entity/Q828224
   parent_uris: []
@@ -53369,7 +53369,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: ''
+  name: "lb"
   type: value
   uri: http://mimi.case.edu/ontologies/2009/1/UnitsOntology#US_pound
   parent_uris: []
@@ -60638,7 +60638,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: ''
+  name: "mg"
   type: value
   uri: http://purl.obolibrary.org/obo/UO_0000022
   parent_uris: []
@@ -62295,7 +62295,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  name: ''
+  name: "mm"
   type: value
   uri: http://purl.obolibrary.org/obo/UO_0000016
   parent_uris: []
@@ -63696,7 +63696,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: 'Mozambique Channel '
+  name: "Mozambique Channel"
   type: value
   uri: http://www.geonames.org/8426502
   parent_uris: []
@@ -66738,7 +66738,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: 'no'
+  name: "no"
   type: value
   uri: http://eol.org/schema/terms/no
   parent_uris: []
@@ -73855,7 +73855,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: ''
+  name: "oz"
   type: value
   uri: http://mimi.case.edu/ontologies/2009/1/UnitsOntology#US_ounce
   parent_uris: []
@@ -75410,7 +75410,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: 'Paracel Islands Exclusive Economic Zone: China / Taiwan / Vietnam'
+  name: "Paracel Islands Exclusive Economic Zone: China / Taiwan / Vietnam"
   type: value
   uri: http://marineregions.org/mrgid/8329
   parent_uris:
@@ -77142,7 +77142,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: ''
+  name: "pg"
   type: value
   uri: http://purl.obolibrary.org/obo/UO_0000025
   parent_uris: []
@@ -77155,7 +77155,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: ''
+  name: "pH of water"
   type: measurement
   uri: http://eol.org/schema/terms/pH
   parent_uris: []
@@ -98552,7 +98552,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: 'Svalbard '
+  name: "Svalbard"
   type: value
   uri: http://www.geonames.org/7521757
   parent_uris:
@@ -106180,7 +106180,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: ''
+  name: "up"
   type: value
   uri: https://www.wikidata.org/entity/Q15332375
   parent_uris: []
@@ -112343,7 +112343,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  name: 'yes'
+  name: "yes"
   type: value
   uri: http://eol.org/schema/terms/yes
   parent_uris: []
@@ -112356,7 +112356,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: 'yes'
+  name: "yes"
   type: value
   uri: http://purl.bioontology.org/ontology/SNOMEDCT/373066001
   parent_uris: []
@@ -113257,7 +113257,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: 'Îles Tuamotu-Gambier '
+  name: "Îles Tuamotu-Gambier"
   type: value
   uri: http://www.geonames.org/4030621
   parent_uris:
@@ -113272,7 +113272,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: 'Îles Tubuaï '
+  name: "Îles Tubuaï"
   type: value
   uri: http://www.geonames.org/4033250
   parent_uris:
