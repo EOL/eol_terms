@@ -113863,3 +113863,16 @@ terms:
   synonym_of_uri: https://www.geonames.org/1036973
   units_term_uri:
   alias:
+- attribution: ''
+  definition: 'An organism population persisting in a site it has colonized'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: "colony"
+  type: value
+  uri: http://purl.obolibrary.org/obo/IDO_0000615
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
