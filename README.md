@@ -23,7 +23,7 @@ rake build ; rake install ; irb -r eol_terms
 
 ...then runs `EolTerms.validate` to ensure it's valid. If not, return to step 1.
 
-4. That same person figures out the path of their repo, runs `.rebuild_ids("#{path}/resources/uri_ids.yml")`, then
+4. That same person figures out the path of their repo (e.g.: `path = '/Users/jrice/git/eol_terms'`), runs `EolTerms.rebuild_ids("#{path}/resources/uri_ids.yml")`, then
 5. commits/pushes the changes to the repository, then
 6. goes to beta and runs `bundle update eol_terms` (and checks the log for the line confirming the version changed), and
 7. runs `TermBootstrapper.new.load` from a console or with `rails runner`, making note of any errors or exceptions.

@@ -680,7 +680,7 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: International Chronostratigraphic Chart: http://www.stratigraphy.org/index.php/ics-chart-timescale
+- attribution: "International Chronostratigraphic Chart: http://www.stratigraphy.org/index.php/ics-chart-timescale"
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -749,7 +749,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: An anomaly in locomotory behavior (eg: increase, decrease.)
+  definition: "An anomaly in locomotory behavior (eg: increase, decrease.)"
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -1641,8 +1641,8 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: Simpson, A., Eyler, M.C., Sikes, D., Bowser, M., Sellers, E., Guala, G.F., Cannister, M., Libby, R., and Kozlowski, N., 2019, A comprehensive list of non-native species established in three major regions of the United States: Version 2.0, (ver. 2.0, 2019): U.S. Geological Survey data release, https://doi.org/10.5066/P9E5K160.
-  definition: A possibly ambiguous term used to describe the presence of the taxon in a region. Common definitions include newly arrived; vagrant; in flux. May or may not have been introduced by human activity.
+- attribution: "Simpson, A., Eyler, M.C., Sikes, D., Bowser, M., Sellers, E., Guala, G.F., Cannister, M., Libby, R., and Kozlowski, N., 2019, A comprehensive list of non-native species established in three major regions of the United States: Version 2.0, (ver. 2.0, 2019): U.S. Geological Survey data release, https://doi.org/10.5066/P9E5K160.
+  definition: A possibly ambiguous term used to describe the presence of the taxon in a region. Common definitions include newly arrived; vagrant; in flux. May or may not have been introduced by human activity."
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -1880,7 +1880,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: USDA PLANTS database Characteristics Data Fields. http://plants.usda.gov/charinfo.html
-  definition: Indicates the relative rate of regrowth of a herbaceous plant after a harvest of above ground herbage. 
+  definition: Indicates the relative rate of regrowth of a herbaceous plant after a harvest of above ground herbage.
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -4697,7 +4697,7 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: International Chronostratigraphic Chart: http://www.stratigraphy.org/index.php/ics-chart-timescale
+- attribution: "International Chronostratigraphic Chart: http://www.stratigraphy.org/index.php/ics-chart-timescale"
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -6446,7 +6446,7 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: Lichvar, R.W. 2013. The National Wetland Plant List: 2013 wetland ratings. Phytoneuron 2013-49: 1-241. http://rsgisias.crrel.usace.army.mil/NWPL/static/cfg/doc/pdl_2013_pub/National/NWPL_Phytoneuron_2013.pdf
+- attribution: 'Lichvar, R.W. 2013. The National Wetland Plant List: 2013 wetland ratings. Phytoneuron 2013-49: 1-241. http://rsgisias.crrel.usace.army.mil/NWPL/static/cfg/doc/pdl_2013_pub/National/NWPL_Phytoneuron_2013.pdf'
   definition: The U.S. Arid West.  One of the 10 regional U.S. Army Corps of Engineers wetland delineation regions for the U.S. and its territories used by the National Wetland Plant List.
   is_hidden_from_select: false
   is_hidden_from_overview: true
@@ -6825,7 +6825,7 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: International Chronostratigraphic Chart: http://www.stratigraphy.org/index.php/ics-chart-timescale
+- attribution: "International Chronostratigraphic Chart: http://www.stratigraphy.org/index.php/ics-chart-timescale"
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -7401,7 +7401,7 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: Lichvar, R.W. 2013. The National Wetland Plant List: 2013 wetland ratings. Phytoneuron 2013-49: 1-241. http://rsgisias.crrel.usace.army.mil/NWPL/static/cfg/doc/pdl_2013_pub/National/NWPL_Phytoneuron_2013.pdf
+- attribution: 'Lichvar, R.W. 2013. The National Wetland Plant List: 2013 wetland ratings. Phytoneuron 2013-49: 1-241. http://rsgisias.crrel.usace.army.mil/NWPL/static/cfg/doc/pdl_2013_pub/National/NWPL_Phytoneuron_2013.pdf'
   definition: The U.S. Atlantic and Gulf Coastal Plain.  One of the 10 regional U.S. Army Corps of Engineers wetland delineation regions for the U.S. and its territories used by the National Wetland Plant List.
   is_hidden_from_select: false
   is_hidden_from_overview: true
@@ -7798,7 +7798,7 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: Udvardy, M. D. F. (1975). A classification of the biogeographical provinces of the world. IUCN Occasional Paper no. 18. Morges, Switzerland: IUCN
+- attribution: 'Udvardy, M. D. F. (1975). A classification of the biogeographical provinces of the world. IUCN Occasional Paper no. 18. Morges, Switzerland: IUCN'
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -8496,7 +8496,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: Bahamas Exclusive Economic Zone: The marine waters surrounding the Bahamas.
+  definition: 'Bahamas Exclusive Economic Zone: The marine waters surrounding the Bahamas.'
   is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
@@ -16262,7 +16262,7 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: 'Lichvar, R.W. 2013.   The National Wetland Plant List: 2013 wetland ratings.   Phytoneuron 2013-49: 1-241. http://rsgisias.crrel.usace.army.mil/NWPL/static/cfg/doc/pdl_2013_pub/National/NWPL_Phytoneuron_2013.pdf'
+- attribution: 'Lichvar, R.W. 2013.  The National Wetland Plant List: 2013 wetland ratings.  Phytoneuron 2013-49: 1-241. http://rsgisias.crrel.usace.army.mil/NWPL/static/cfg/doc/pdl_2013_pub/National/NWPL_Phytoneuron_2013.pdf'
   definition: 'The Caribbean.  One of the 10 regional U.S. Army Corps of Engineers wetland delineation regions for the U.S. and its territories used by the National Wetland Plant List. '
   is_hidden_from_select: true
   is_hidden_from_overview: true
@@ -81305,7 +81305,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: https://en.wikipedia.org/wiki/Scientific_literature
-  definition: The body of published scientific literature 
+  definition: The body of published scientific literature
   is_hidden_from_select: false
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
@@ -104603,7 +104603,7 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: Macrofaunal Burrows and Irrigation in Marine Sediment: Microbiological and Biogeochemical Interactions. Available from https://www.researchgate.net/publication/265483886_Macrofaunal_Burrows_and_Irrigation_in_Marine_Sediment_Microbiological_and_Biogeochemical_Interactions [accessed Feb 26 2020].
+- attribution: 'Macrofaunal Burrows and Irrigation in Marine Sediment: Microbiological and Biogeochemical Interactions. Available from https://www.researchgate.net/publication/265483886_Macrofaunal_Burrows_and_Irrigation_in_Marine_Sediment_Microbiological_and_Biogeochemical_Interactions [accessed Feb 26 2020].'
   definition: aquatic organisms that construct and inhabit simple unbranched vertical shafts with only one opening to the surface. These are primarily above-sediment filter-feeders, surface deposit-feeders, and  subsurface deposit-feeders  (head-down, conveyor-belt feeders)
   is_hidden_from_select: false
   is_hidden_from_overview: false
