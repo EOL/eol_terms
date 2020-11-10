@@ -1641,7 +1641,7 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: Simpson, A., Eyler, M.C., Sikes, D., Bowser, M., Sellers, E., Guala, G.F., Cannister, M., Libby, R., and Kozlowski, N., 2019, A comprehensive list of non-native species established in three major regions of the United States: Version 2.0, (ver. 2.0, 2019): U.S. Geological Survey data release, https://doi.org/10.5066/P9E5K160. A possibly ambiguous term used to describe the presence of the taxon in a region. Common definitions include newly arrived; vagrant; in flux. May or may not have been introduced by human activity.
+- attribution: "Simpson, A., Eyler, M.C., Sikes, D., Bowser, M., Sellers, E., Guala, G.F., Cannister, M., Libby, R., and Kozlowski, N., 2019, A comprehensive list of non-native species established in three major regions of the United States: Version 2.0, (ver. 2.0, 2019): U.S. Geological Survey data release, https://doi.org/10.5066/P9E5K160. A possibly ambiguous term used to describe the presence of the taxon in a region. Common definitions include newly arrived; vagrant; in flux. May or may not have been introduced by human activity."
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
