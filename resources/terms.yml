@@ -244,7 +244,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: 2 cones-30%
+  name: 2 cones-30%"
   type: value
   uri: http://eol.org/schema/terms/2Cones-30Percent
   parent_uris: []
@@ -1641,8 +1641,7 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: "Simpson, A., Eyler, M.C., Sikes, D., Bowser, M., Sellers, E., Guala, G.F., Cannister, M., Libby, R., and Kozlowski, N., 2019, A comprehensive list of non-native species established in three major regions of the United States: Version 2.0, (ver. 2.0, 2019): U.S. Geological Survey data release, https://doi.org/10.5066/P9E5K160.
-  definition: A possibly ambiguous term used to describe the presence of the taxon in a region. Common definitions include newly arrived; vagrant; in flux. May or may not have been introduced by human activity."
+- attribution: Simpson, A., Eyler, M.C., Sikes, D., Bowser, M., Sellers, E., Guala, G.F., Cannister, M., Libby, R., and Kozlowski, N., 2019, A comprehensive list of non-native species established in three major regions of the United States: Version 2.0, (ver. 2.0, 2019): U.S. Geological Survey data release, https://doi.org/10.5066/P9E5K160. A possibly ambiguous term used to describe the presence of the taxon in a region. Common definitions include newly arrived; vagrant; in flux. May or may not have been introduced by human activity.
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -9293,7 +9292,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "barium (Ba)
+  name: "barium (Ba)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_32594
   parent_uris: []
@@ -9557,7 +9556,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "bathyal zone (200-4000m)
+  name: "bathyal zone (200-4000m)"
   type: value
   uri: http://polytraits.lifewatchgreece.eu/terms/DZ_BAT
   parent_uris: []
@@ -11859,7 +11858,7 @@ terms:
   is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  name: "body mass
+  name: "body mass"
   uri: http://purl.obolibrary.org/obo/OBA_VT0001259
   parent_uris: []
   synonym_of_uri: http://purl.obolibrary.org/obo/VT_0001259
@@ -11925,7 +11924,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "body shape (length to depth)
+  name: "body shape (length to depth)"
   type: measurement
   uri: http://eol.org/schema/terms/LengthToDepth
   parent_uris:
@@ -11939,7 +11938,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "body shape (swim factor)
+  name: "body shape (swim factor)"
   type: measurement
   uri: http://eol.org/schema/terms/SwimFactor
   parent_uris:
@@ -12348,7 +12347,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "boreal Forests (Taiga)
+  name: "boreal Forests (Taiga)"
   type: value
   uri: http://eol.org/schema/terms/boreal_forests_taiga
   parent_uris:
@@ -12468,7 +12467,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "boron (B)
+  name: "boron (B)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_27560
   parent_uris: []
@@ -13323,7 +13322,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "brunei Museum (BMKB)
+  name: "brunei Museum (BMKB)"
   type: value
   uri: http://grbio.org/cool/0rjp-6k0x
   parent_uris: []
@@ -14070,7 +14069,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "cadmium (Cd)
+  name: "cadmium (Cd)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_22977
   parent_uris: []
@@ -14235,7 +14234,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "calcium (Ca)
+  name: "calcium (Ca)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_22984
   parent_uris: []
@@ -14248,7 +14247,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "calcium (Ca2+)
+  name: "calcium (Ca2+)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_29108
   parent_uris:
@@ -14675,7 +14674,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "california Mixed conifer (North Slopes)
+  name: "california Mixed conifer (North Slopes)"
   type: value
   uri: http://eol.org/schema/terms/California_Forested/Mixed_conifer_--North_Slopes--
   parent_uris:
@@ -14689,7 +14688,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "california Mixed conifer (north slopes)
+  name: "california Mixed conifer (north slopes)"
   type: value
   uri: http://eol.org/schema/terms/California_mixed_conifer_--north_slopes--
   parent_uris:
@@ -14703,7 +14702,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "california Mixed conifer (South Slopes)
+  name: "california Mixed conifer (South Slopes)"
   type: value
   uri: http://eol.org/schema/terms/California_Forested/Mixed_conifer_--South_Slopes--
   parent_uris:
@@ -14717,7 +14716,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "california Mixed conifer (south slopes)
+  name: "california Mixed conifer (south slopes)"
   type: value
   uri: http://eol.org/schema/terms/California_mixed_conifer_--south_slopes--
   parent_uris:
@@ -14745,7 +14744,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "california mixed evergreen (northern California)
+  name: "california mixed evergreen (northern California)"
   type: value
   uri: http://eol.org/schema/terms/Northwest_Forested/California_mixed_evergreen_--northern_California--
   parent_uris:
@@ -14759,7 +14758,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "california Mixed evergreen-bigcone Douglas-fir (southern coastal)
+  name: "california Mixed evergreen-bigcone Douglas-fir (southern coastal)"
   type: value
   uri: http://eol.org/schema/terms/California_mixed_evergreen_bigcone_Douglas_fir_--southern_coastal--
   parent_uris:
@@ -14888,7 +14887,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "california Sierra Nevada lodgepole pine (cold wet upper montane)
+  name: "california Sierra Nevada lodgepole pine (cold wet upper montane)"
   type: value
   uri: http://eol.org/schema/terms/California_Sierra_Nevada_lodgepole_pine_--cold_wet_upper_montane--
   parent_uris:
@@ -14902,7 +14901,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "california Sierra Nevada lodgepole pine (dry subalpine)
+  name: "california Sierra Nevada lodgepole pine (dry subalpine)"
   type: value
   uri: http://eol.org/schema/terms/California_Sierra_Nevada_lodgepole_pine_--dry_subalpine--
   parent_uris:
@@ -14916,7 +14915,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "california Wet mountain meadow-lodgepole pine (subalpine)
+  name: "california Wet mountain meadow-lodgepole pine (subalpine)"
   type: value
   uri: http://eol.org/schema/terms/California_wet_mountain_meadow_lodgepole_pine_--subalpine--
   parent_uris:
@@ -15770,7 +15769,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "canterbury Museum (CMNZ)
+  name: "canterbury Museum (CMNZ)"
   type: value
   uri: http://grbio.org/cool/n6z3-qvv0
   parent_uris: []
@@ -16159,7 +16158,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "carboxyatractyloside (CATR)
+  name: "carboxyatractyloside (CATR)"
   type: value
   uri: http://www.chemspider.com/Chemical-Structure.16737649.html
   parent_uris: []
@@ -16268,7 +16267,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "caribbean (CB)
+  name: "caribbean (CB)"
   type: value
   uri: http://eol.org/schema/terms/nwpl_caribbean
   parent_uris: []
@@ -17246,7 +17245,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "ceará
+  name: "ceará"
   type: value
   uri: http://www.geonames.org/3402362
   parent_uris:
@@ -17748,7 +17747,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
-  name: "centerDorsal
+  name: "centerDorsal"
   uri: http://eol.org/schema/terms/centerDorsal
   parent_uris: []
   synonym_of_uri:
@@ -19731,7 +19730,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "chloride (Cl-)
+  name: "chloride (Cl-)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_17996
   parent_uris: []
@@ -20048,7 +20047,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "chromium (Cr)
+  name: "chromium (Cr)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_28073
   parent_uris: []
@@ -20867,7 +20866,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "cm^2
+  name: "cm^2"
   type: value
   uri: http://purl.obolibrary.org/obo/UO_0000081
   parent_uris: []
@@ -20893,7 +20892,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "cm^3
+  name: "cm^3"
   type: value
   uri: http://purl.obolibrary.org/obo/UO_0000097
   parent_uris: []
@@ -21191,7 +21190,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "cobalt (Co)
+  name: "cobalt (Co)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_27638
   parent_uris: []
@@ -22148,7 +22147,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "cone-10%
+  name: "cone-10%"
   type: value
   uri: http://eol.org/schema/terms/cone-10Percent
   parent_uris: []
@@ -22161,7 +22160,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "conePlusHalfSphere minus 40Percent
+  name: "conePlusHalfSphere minus 40Percent"
   uri: http://eol.org/schema/terms/conePlusHalfSphere-40Percent
   parent_uris: []
   synonym_of_uri:
@@ -22186,7 +22185,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "congo (Brazzaville)
+  name: "congo (Brazzaville)"
   type: value
   uri: http://www.geonames.org/2572183
   parent_uris:
@@ -22201,7 +22200,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "congo (Kinshasa)
+  name: "congo (Kinshasa)"
   type: value
   uri: http://www.geonames.org/2314300
   parent_uris:
@@ -22765,7 +22764,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "copepodid stage 2
+  name: "copepodid stage 2"
   type: value
   uri: http://eol.org/schema/terms/copepodid2
   parent_uris:
@@ -22779,7 +22778,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "copepodid stage 3
+  name: "copepodid stage 3"
   type: value
   uri: http://eol.org/schema/terms/copepodid3
   parent_uris:
@@ -22793,7 +22792,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "copepodid stage 4
+  name: "copepodid stage 4"
   type: value
   uri: http://eol.org/schema/terms/copepodid4
   parent_uris:
@@ -22807,7 +22806,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "copepodid stage 5
+  name: "copepodid stage 5"
   type: value
   uri: http://eol.org/schema/terms/copepodid5
   parent_uris:
@@ -22821,7 +22820,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "copepodid stage 6
+  name: "copepodid stage 6"
   type: value
   uri: http://eol.org/schema/terms/copepodid6
   parent_uris:
@@ -22835,7 +22834,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "copper (Cu)
+  name: "copper (Cu)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_28694
   parent_uris: []
@@ -24801,7 +24800,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "dairy (microbial habitat)
+  name: "dairy (microbial habitat)"
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00003862
   parent_uris:
@@ -25736,7 +25735,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "dense (low porosity)
+  name: "dense (low porosity)"
   type: value
   uri: http://eol.org/schema/terms/lowPorosity
   parent_uris: []
@@ -25845,7 +25844,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "depth zonation (benthos)
+  name: "depth zonation (benthos)"
   type: measurement
   uri: http://polytraits.lifewatchgreece.eu/terms/DZ
   parent_uris:
@@ -25859,7 +25858,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "depth zonation (pelagic)
+  name: "depth zonation (pelagic)"
   type: measurement
   uri: http://polytraits.lifewatchgreece.eu/terms/DZP
   parent_uris:
@@ -26481,7 +26480,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "dinophysistoxin-1
+  name: "dinophysistoxin-1"
   type: value
   uri: http://www.chemspider.com/Chemical-Structure.27025187.html
   parent_uris: []
@@ -26494,15 +26493,15 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "dinophysistoxin-2
+  name: "dinophysistoxin-2"
   type: value
   uri: http://www.chemspider.com/Chemical-Structure.4941670.html
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: "K. S. Bawa (1980). \"Evolution of Dioecy in Flowering Plants\". Annual Review of Ecology and Systematics 11: 15–39.\r\n"
-  definition: 'Dioecy (Greek: "two households"; adjective form: dioecious) is characterised by a species having distinct male and female organisms.'
+- attribution: K. S. Bawa (1980). Evolution of Dioecy in Flowering Plants. Annual Review of Ecology and Systematics 11, pp. 15–39.
+  definition: Dioecy is characterised by a species having distinct male and female organisms.
   is_hidden_from_select: true
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
@@ -27174,7 +27173,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "douglas-fir (Willamette Valley foothills)
+  name: "douglas-fir (Willamette Valley foothills)"
   type: value
   uri: http://eol.org/schema/terms/Douglas_fir_--Willamette_Valley_foothills--
   parent_uris:
@@ -27903,7 +27902,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "e(development)
+  name: "e(development)"
   type: measurement
   uri: http://eol.org/schema/terms/ActivationEnergyDevelopment
   parent_uris: []
@@ -29109,7 +29108,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "eastern Mountains and Piedmont (EMP)
+  name: "eastern Mountains and Piedmont (EMP)"
   type: value
   uri: http://eol.org/schema/terms/nwpl_easternmountainsandpiedmont
   parent_uris:
@@ -30586,7 +30585,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "eggs (commodity)
+  name: "eggs (commodity)"
   type: value
   uri: http://purl.obolibrary.org/obo/FOODON_03420194
   parent_uris:
@@ -30711,7 +30710,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "el Colegio de la Frontera Sur (Mexico) (ECOSUR)
+  name: "el Colegio de la Frontera Sur (Mexico) (ECOSUR)"
   type: value
   uri: http://grbio.org/cool/dtqq-2t5p
   parent_uris: []
@@ -32728,7 +32727,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "everglades (marl prairie)
+  name: "everglades (marl prairie)"
   type: value
   uri: http://eol.org/schema/terms/Southeast_everglades_--marl_prairie--
   parent_uris:
@@ -32906,7 +32905,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "external (broadcast spawner)
+  name: "external (broadcast spawner)"
   type: value
   uri: http://polytraits.lifewatchgreece.eu/terms/FER_EXT
   parent_uris: []
@@ -32919,7 +32918,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "external (pseudocopulation)
+  name: "external (pseudocopulation)"
   type: value
   uri: http://polytraits.lifewatchgreece.eu/terms/FER_PSEU
   parent_uris: []
@@ -33236,7 +33235,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "faeroe Isl.
+  name: "faeroe Isl."
   type: value
   uri: http://www.geonames.org/2622009
   parent_uris:
@@ -34344,7 +34343,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  name: "first appearance (older bound)
+  name: "first appearance (older bound)"
   type: measurement
   uri: http://eol.org/schema/terms/paleo_firstapp_ea
   parent_uris: []
@@ -34356,7 +34355,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  name: "first appearance (younger bound)
+  name: "first appearance (younger bound)"
   type: measurement
   uri: http://eol.org/schema/terms/paleo_firstapp_la
   parent_uris: []
@@ -34502,7 +34501,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "flattened ellipsoid - 20%
+  name: "flattened ellipsoid - 20%"
   type: value
   uri: http://eol.org/schema/terms/flattenedEllipsoid-20Percent
   parent_uris: []
@@ -35397,7 +35396,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "forschungsinstitut und Natur-Museum Senckenberg (SMF)
+  name: "forschungsinstitut und Natur-Museum Senckenberg (SMF)"
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:34838
   parent_uris: []
@@ -36470,7 +36469,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "furniture
+  name: "furniture"
   uri: http://purl.obolibrary.org/obo/ENVO_01000587
   parent_uris:
   - http://purl.obolibrary.org/obo/OMIT_0007937
@@ -36574,7 +36573,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "g/cm^3
+  name: "g/cm^3"
   type: value
   uri: http://purl.obolibrary.org/obo/UO_0000084
   parent_uris: []
@@ -36587,7 +36586,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "g/m^2
+  name: "g/m^2"
   type: value
   uri: http://eol.org/schema/terms/gramsPerMeterSquared
   parent_uris: []
@@ -37071,7 +37070,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  name: "geographic range (size of area)
+  name: "geographic range (size of area)"
   type: measurement
   uri: http://eol.org/schema/terms/GeographicRangeArea
   parent_uris: []
@@ -37127,7 +37126,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "georgia (US State)
+  name: "georgia (US State)"
   type: value
   uri: https://www.geonames.org/4197000
   parent_uris:
@@ -37940,7 +37939,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "gonyautoxin 5
+  name: "gonyautoxin 5"
   type: value
   uri: http://www.chemspider.com/Chemical-Structure.94743.html
   parent_uris: []
@@ -38547,7 +38546,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Basin Aspen with conifer (high elevation)
+  name: "great Basin Aspen with conifer (high elevation)"
   type: value
   uri: http://eol.org/schema/terms/Great_Basin_Forested/Aspen_with_conifer_--high_elevation--
   parent_uris:
@@ -38561,7 +38560,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Basin Aspen with conifer (high elevations)
+  name: "great Basin Aspen with conifer (high elevations)"
   type: value
   uri: http://eol.org/schema/terms/Great_Basin_aspen_with_conifer_--high_elevations--
   parent_uris:
@@ -38575,7 +38574,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Basin Aspen with conifer (low to midelevation)
+  name: "great Basin Aspen with conifer (low to midelevation)"
   type: value
   uri: http://eol.org/schema/terms/Great_Basin_Forested/Aspen_with_conifer_--low_to_midelevation--
   parent_uris:
@@ -38589,7 +38588,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Basin Aspen with conifer (low to midelevations)
+  name: "great Basin Aspen with conifer (low to midelevations)"
   type: value
   uri: http://eol.org/schema/terms/Great_Basin_aspen_with_conifer_--low_to_midelevations--
   parent_uris:
@@ -38729,7 +38728,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Basin Douglas-fir (dry)
+  name: "great Basin Douglas-fir (dry)"
   type: value
   uri: http://eol.org/schema/terms/Douglas_fir_--dry--
   parent_uris:
@@ -38743,7 +38742,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Basin Douglas-fir (dry)
+  name: "great Basin Douglas-fir (dry)"
   type: value
   uri: http://eol.org/schema/terms/Great_Basin_Forested/Great_Basin_Douglas-fir_--dry--
   parent_uris:
@@ -38757,7 +38756,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Basin Douglas-fir (interior, warm mesic)
+  name: "great Basin Douglas-fir (interior, warm mesic)"
   type: value
   uri: http://eol.org/schema/terms/Great_Basin_douglas_fir_--interior_warm_mesic--
   parent_uris:
@@ -38884,7 +38883,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Basin Mountain big sagebrush (cool sagebrush)
+  name: "great Basin Mountain big sagebrush (cool sagebrush)"
   type: value
   uri: http://eol.org/schema/terms/Great_Basin_mountain_big_sagebrush_--cool_sagebrush--
   parent_uris:
@@ -38912,7 +38911,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Basin Mountain meadow (mesic to dry)
+  name: "great Basin Mountain meadow (mesic to dry)"
   type: value
   uri: http://eol.org/schema/terms/Great_Basin_mountain_meadow_--mesic_to_dry--
   parent_uris:
@@ -38926,7 +38925,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Basin Mountain sagebrush (cool sage)
+  name: "great Basin Mountain sagebrush (cool sage)"
   type: value
   uri: http://eol.org/schema/terms/Great_Basin_Shrubland/Mountain_sagebrush_--cool_sage--
   parent_uris:
@@ -39052,7 +39051,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Basin Spruce-fir-pine (subalpine)
+  name: "great Basin Spruce-fir-pine (subalpine)"
   type: value
   uri: http://eol.org/schema/terms/Great_Basin_spruce_fir_pine_--subalpine--
   parent_uris:
@@ -39168,7 +39167,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Lakes (americas)
+  name: "great Lakes (americas)"
   type: value
   uri: http://eol.org/schema/terms/Great_Lakes
   parent_uris:
@@ -39198,7 +39197,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Lakes Conifer lowland (embedded in fire-prone ecosystem)
+  name: "great Lakes Conifer lowland (embedded in fire-prone ecosystem)"
   type: value
   uri: http://eol.org/schema/terms/Great_Lakes_conifer_lowland_--embedded_in_fire_prone_ecosystem--
   parent_uris:
@@ -39212,7 +39211,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Lakes Conifer lowland (embedded in fire-prone system)
+  name: "great Lakes Conifer lowland (embedded in fire-prone system)"
   type: value
   uri: http://eol.org/schema/terms/Great_Lakes_Forested/Conifer_lowland_--embedded_in_fire-prone_system--
   parent_uris:
@@ -39226,7 +39225,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Lakes Conifer lowland (embedded in fire-resistant ecosystem)
+  name: "great Lakes Conifer lowland (embedded in fire-resistant ecosystem)"
   type: value
   uri: http://eol.org/schema/terms/Great_Lakes_conifer_lowland_--embedded_in_fire_resistant_ecosystem--
   parent_uris:
@@ -39296,7 +39295,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Lakes Jack pine-open lands (frequent fire-return interval)
+  name: "great Lakes Jack pine-open lands (frequent fire-return interval)"
   type: value
   uri: http://eol.org/schema/terms/Great_Lakes_jack_pine_open_lands_--frequent_fire_return_interval--
   parent_uris:
@@ -39324,7 +39323,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Lakes Maple-basswood mesic hardwood forest (Great Lakes)
+  name: "great Lakes Maple-basswood mesic hardwood forest (Great Lakes)"
   type: value
   uri: http://eol.org/schema/terms/Great_Lakes_maple_basswood_mesic_hardwood_forest
   parent_uris:
@@ -39380,7 +39379,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Lakes Northern hardwood-eastern hemlock forest (Great Lakes)
+  name: "great Lakes Northern hardwood-eastern hemlock forest (Great Lakes)"
   type: value
   uri: http://eol.org/schema/terms/Great_Lakes_northern_hardwood_eastern_hemlock_forest
   parent_uris:
@@ -39436,7 +39435,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Lakes pine forest, eastern white pine-eastern hemlock (frequent fire)
+  name: "great Lakes pine forest, eastern white pine-eastern hemlock (frequent fire)"
   type: value
   uri: http://eol.org/schema/terms/Great_Lakes_pine_forest_eastern_white_pine_eastern_hemlock_--frequent_fire--
   parent_uris:
@@ -39478,7 +39477,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Lakes Red pine-eastern white pine (frequent fire)
+  name: "great Lakes Red pine-eastern white pine (frequent fire)"
   type: value
   uri: http://eol.org/schema/terms/Great_Lakes_red_pine_eastern_white_pine_--frequent_fire--
   parent_uris:
@@ -39492,7 +39491,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Lakes Red pine-eastern white pine (less frequent fire)
+  name: "great Lakes Red pine-eastern white pine (less frequent fire)"
   type: value
   uri: http://eol.org/schema/terms/Great_Lakes_red_pine_eastern_white_pine_--less_frequent_fire--
   parent_uris:
@@ -39548,7 +39547,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "great Plains (GP)
+  name: "great Plains (GP)"
   type: value
   uri: http://eol.org/schema/terms/nwpl_greatplains
   parent_uris:
@@ -41658,7 +41657,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "half sphere-30%
+  name: "half sphere-30%"
   type: value
   uri: http://eol.org/schema/terms/halfSphere-30Percent
   parent_uris: []
@@ -41684,7 +41683,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "halfmax growth concentration (ammonium)
+  name: "halfmax growth concentration (ammonium)"
   type: measurement
   uri: http://eol.org/schema/terms/halfmax_growth_concentration_ammonium
   parent_uris: []
@@ -41697,7 +41696,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "halfmax growth concentration (nitrate)
+  name: "halfmax growth concentration (nitrate)"
   type: measurement
   uri: http://eol.org/schema/terms/halfmax_growth_concentration_nitrate
   parent_uris: []
@@ -41710,7 +41709,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "halfmax growth concentration (phosphate)
+  name: "halfmax growth concentration (phosphate)"
   type: measurement
   uri: http://eol.org/schema/terms/halfmax_growth_concentration_phosphate
   parent_uris: []
@@ -41723,7 +41722,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "halfmax uptake concentration (ammonium)
+  name: "halfmax uptake concentration (ammonium)"
   type: measurement
   uri: http://eol.org/schema/terms/halfmax_uptake_concentration_ammonium
   parent_uris: []
@@ -41736,7 +41735,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "halfmax uptake concentration (nitrate)
+  name: "halfmax uptake concentration (nitrate)"
   type: measurement
   uri: http://eol.org/schema/terms/halfmax_uptake_concentration_nitrate
   parent_uris: []
@@ -41749,7 +41748,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "halfmax uptake concentration (phosphate)
+  name: "halfmax uptake concentration (phosphate)"
   type: measurement
   uri: http://eol.org/schema/terms/halfmax_uptake_concentration_phosphate
   parent_uris: []
@@ -41919,7 +41918,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "harbin Normal University (HANU)
+  name: "harbin Normal University (HANU)"
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:13190
   parent_uris: []
@@ -42372,7 +42371,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "hawaii (HI)
+  name: "hawaii (HI)"
   type: value
   uri: http://eol.org/schema/terms/nwpl_hawaii
   parent_uris: []
@@ -43436,7 +43435,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "high (>59)
+  name: "high (>59)"
   type: value
   uri: http://eol.org/schema/terms/highCNRatio
   parent_uris: []
@@ -45356,7 +45355,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "i. D. Papanin Institute for Biology of Inland Waters, Russian Academy of Sciences (IBIW)
+  name: "i. D. Papanin Institute for Biology of Inland Waters, Russian Academy of Sciences (IBIW)"
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15311
   parent_uris: []
@@ -45759,7 +45758,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "igapó
+  name: "igapó"
   type: value
   uri: https://www.wikidata.org/entity/Q1476287
   parent_uris:
@@ -46272,7 +46271,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "indian Museum (IM)
+  name: "indian Museum (IM)"
   type: value
   uri: http://grbio.org/cool/3mxr-2hqv
   parent_uris: []
@@ -46857,7 +46856,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "institute of Hydrobiology, Chinese Academy of Sciences (IHB)
+  name: "institute of Hydrobiology, Chinese Academy of Sciences (IHB)"
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:35160
   parent_uris: []
@@ -46896,7 +46895,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "instituto Nacional de Tecnología Agropecuaria, Estación Experimental Agropecuaria (CRP)
+  name: "instituto Nacional de Tecnología Agropecuaria, Estación Experimental Agropecuaria (CRP)"
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15011
   parent_uris: []
@@ -46909,7 +46908,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "instituto National de Limnologia (INALI)
+  name: "instituto National de Limnologia (INALI)"
   type: value
   uri: http://grbio.org/cool/xke9-hdtk
   parent_uris: []
@@ -47494,7 +47493,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "iodide (I)
+  name: "iodide (I)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_16382
   parent_uris: []
@@ -47746,7 +47745,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "iron (Fe)
+  name: "iron (Fe)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_18248
   parent_uris: []
@@ -48542,7 +48541,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "ivory (color)
+  name: "ivory (color)"
   type: value
   uri: https://www.wikidata.org/entity/Q1358981
   parent_uris: []
@@ -50445,7 +50444,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "kg/m^2
+  name: "kg/m^2"
   type: value
   uri: http://purl.obolibrary.org/obo/UO_0000086
   parent_uris: []
@@ -50529,7 +50528,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "kharkhâra
+  name: "kharkhâra"
   uri: http://www.geonames.org/272505
   parent_uris: []
   synonym_of_uri:
@@ -50571,7 +50570,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "khon Kaen University (KKU)
+  name: "khon Kaen University (KKU)"
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15101
   parent_uris: []
@@ -50936,7 +50935,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  name: "km^2
+  name: "km^2"
   type: value
   uri: http://eol.org/schema/terms/squarekilometer
   parent_uris: []
@@ -51632,7 +51631,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "köprü Çayı
+  name: "köprü Çayı"
   type: value
   uri: http://www.geonames.org/306529
   parent_uris:
@@ -52752,7 +52751,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "last Appearance (Earliest Interval)
+  name: "last Appearance (Earliest Interval)"
   type: measurement
   uri: http://eol.org/schema/terms/paleo_lastapp_ei
   parent_uris: []
@@ -52764,7 +52763,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "last Appearance (Latest Interval)
+  name: "last Appearance (Latest Interval)"
   type: measurement
   uri: http://eol.org/schema/terms/paleo_lastapp_li
   parent_uris: []
@@ -52776,7 +52775,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  name: "last appearance (older bound)
+  name: "last appearance (older bound)"
   type: measurement
   uri: http://eol.org/schema/terms/paleo_lastapp_ea
   parent_uris: []
@@ -52788,7 +52787,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  name: "last appearance (younger bound)
+  name: "last appearance (younger bound)"
   type: measurement
   uri: http://eol.org/schema/terms/paleo_lastapp_la
   parent_uris: []
@@ -53410,7 +53409,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "lead (Pb)
+  name: "lead (Pb)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_25016
   parent_uris: []
@@ -53766,7 +53765,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
-  name: "leftDeflection
+  name: "leftDeflection"
   uri: http://eol.org/schema/terms/leftDeflection
   parent_uris: []
   synonym_of_uri:
@@ -53929,7 +53928,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "lentinan (TN)
+  name: "lentinan (TN)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_31770
   parent_uris: []
@@ -55166,7 +55165,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "log10 mean cell mass (μg C cell-1)
+  name: "log10 mean cell mass (μg C cell-1)"
   type: measurement
   uri: http://eol.org/schema/terms/LogMeanCellMass
   parent_uris:
@@ -55448,7 +55447,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "low (<23)
+  name: "low (<23)"
   type: value
   uri: http://eol.org/schema/terms/lowCNRatio
   parent_uris: []
@@ -55841,7 +55840,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "lund University (MZLU)
+  name: "lund University (MZLU)"
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:34994
   parent_uris: []
@@ -56091,7 +56090,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "m^2
+  name: "m^2"
   type: value
   uri: http://purl.obolibrary.org/obo/UO_0000080
   parent_uris: []
@@ -56705,7 +56704,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "magnesium (Mg)
+  name: "magnesium (Mg)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_25107
   parent_uris: []
@@ -56718,7 +56717,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "magnesium (Mg2+)
+  name: "magnesium (Mg2+)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_18420
   parent_uris: []
@@ -56759,7 +56758,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "mahasarakham University (MSUT)
+  name: "mahasarakham University (MSUT)"
   type: value
   uri: http://grbio.org/cool/gt0r-z51d
   parent_uris: []
@@ -57550,7 +57549,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "manganese (Mn)
+  name: "manganese (Mn)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_18291
   parent_uris: []
@@ -59163,7 +59162,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "max cell storage (ammonium)
+  name: "max cell storage (ammonium)"
   type: measurement
   uri: http://eol.org/schema/terms/max_cell_storage_ammonium
   parent_uris: []
@@ -59176,7 +59175,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "max cell storage (nitrate)
+  name: "max cell storage (nitrate)"
   type: measurement
   uri: http://eol.org/schema/terms/max_cell_storage_nitrate
   parent_uris: []
@@ -59189,7 +59188,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "max cell storage (phosphate)
+  name: "max cell storage (phosphate)"
   type: measurement
   uri: http://eol.org/schema/terms/max_cell_storage_phosphate
   parent_uris: []
@@ -59202,7 +59201,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "max growth rate (ammonimum)
+  name: "max growth rate (ammonimum)"
   type: measurement
   uri: http://eol.org/schema/terms/max_growth_rate_ammonimum
   parent_uris: []
@@ -59215,7 +59214,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "max growth rate (nitrate)
+  name: "max growth rate (nitrate)"
   type: measurement
   uri: http://eol.org/schema/terms/max_growth_rate_nitrate
   parent_uris: []
@@ -59228,7 +59227,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "max growth rate (phosphate)
+  name: "max growth rate (phosphate)"
   type: measurement
   uri: http://eol.org/schema/terms/max_growth_rate_phosphate
   parent_uris: []
@@ -59241,7 +59240,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "max growth rate - infinite quota (ammonimum)
+  name: "max growth rate - infinite quota (ammonimum)"
   type: measurement
   uri: http://eol.org/schema/terms/max_growth_rate_internal_ammonimum
   parent_uris: []
@@ -59254,7 +59253,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "max growth rate - infinite quota (nitrate)
+  name: "max growth rate - infinite quota (nitrate)"
   type: measurement
   uri: http://eol.org/schema/terms/max_growth_rate_internal_nitrate
   parent_uris: []
@@ -59267,7 +59266,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "max growth rate - infinite quota (phosphate)
+  name: "max growth rate - infinite quota (phosphate)"
   type: measurement
   uri: http://eol.org/schema/terms/max_growth_rate_internal_phosphate
   parent_uris: []
@@ -59280,7 +59279,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "max uptake rate (ammonium)
+  name: "max uptake rate (ammonium)"
   type: measurement
   uri: http://eol.org/schema/terms/max_uptake_rate_ammonium
   parent_uris: []
@@ -59293,7 +59292,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "max uptake rate (nitrate)
+  name: "max uptake rate (nitrate)"
   type: measurement
   uri: http://eol.org/schema/terms/max_uptake_rate_nitrate
   parent_uris: []
@@ -59306,7 +59305,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "max uptake rate (phosphate)
+  name: "max uptake rate (phosphate)"
   type: measurement
   uri: http://eol.org/schema/terms/max_uptake_rate_phosphate
   parent_uris: []
@@ -59989,7 +59988,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "medium (23 – 59)
+  name: "medium (23 – 59)"
   type: value
   uri: http://eol.org/schema/terms/mediumCNRatio
   parent_uris: []
@@ -60002,7 +60001,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "medium (normal)
+  name: "medium (normal)"
   type: value
   uri: http://purl.obolibrary.org/obo/PATO_0000461
   parent_uris: []
@@ -60156,7 +60155,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "mercury (Hg)
+  name: "mercury (Hg)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_25195
   parent_uris: []
@@ -60677,7 +60676,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "mg/cm^2
+  name: "mg/cm^2"
   type: value
   uri: http://eol.org/schema/terms/milligramsPercm2
   parent_uris: []
@@ -60703,7 +60702,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "mg/g
+  name: "mg/g"
   uri: http://eol.org/schema/terms/milligramspergram
   parent_uris: []
   synonym_of_uri:
@@ -60728,7 +60727,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "mg/m^2
+  name: "mg/m^2"
   type: value
   uri: http://purl.obolibrary.org/obo/UO_0000309
   parent_uris: []
@@ -60741,7 +60740,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "g/m^2
+  name: "g/m^2"
   type: value
   uri: http://purl.obolibrary.org/obo/UO_0010049
   parent_uris: []
@@ -61472,7 +61471,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "midwest (MW)
+  name: "midwest (MW)"
   type: value
   uri: http://eol.org/schema/terms/nwpl_midwest
   parent_uris:
@@ -62257,7 +62256,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  name: "mL/hr O2
+  name: "mL/hr O2"
   type: value
   uri: http://eol.org/schema/terms/mlO2perhour
   parent_uris: []
@@ -62425,7 +62424,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "mm^2
+  name: "mm^2"
   type: value
   uri: http://purl.obolibrary.org/obo/UO_0000082
   parent_uris: []
@@ -62451,7 +62450,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "mm^3
+  name: "mm^3"
   type: value
   uri: http://eol.org/schema/terms/cubicMillimeter
   parent_uris: []
@@ -64200,7 +64199,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "museo Argentino de Ciencias Naturales Bernardino Rivadavia (MACN)
+  name: "museo Argentino de Ciencias Naturales Bernardino Rivadavia (MACN)"
   type: value
   uri: http://grbio.org/cool/pyng-6456
   parent_uris: []
@@ -64213,7 +64212,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "museo Civico di Storia Naturale di Milano (MSNM)
+  name: "museo Civico di Storia Naturale di Milano (MSNM)"
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15546
   parent_uris: []
@@ -64226,7 +64225,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "museo Nacional de Ciencias Naturales (MNCN)
+  name: "museo Nacional de Ciencias Naturales (MNCN)"
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:35275
   parent_uris: []
@@ -64239,7 +64238,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "museo Provincial de Ciencias Naturales Florentino Ameghino (MFA)
+  name: "museo Provincial de Ciencias Naturales Florentino Ameghino (MFA)"
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15379
   parent_uris: []
@@ -64252,7 +64251,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "museu de Zoologia da Universidade de Sao Paulo (MZUSP)
+  name: "museu de Zoologia da Universidade de Sao Paulo (MZUSP)"
   type: value
   uri: http://grbio.org/cool/6yx0-3nm7
   parent_uris: []
@@ -64265,7 +64264,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "museum für Naturkunde Berlin (Zoological Collections) (ZMB)
+  name: "museum für Naturkunde Berlin (Zoological Collections) (ZMB)"
   type: value
   uri: http://grbio.org/cool/8syf-d21i
   parent_uris: []
@@ -64278,7 +64277,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "museum National d'Histoire Naturelle (MNHN)
+  name: "museum National d'Histoire Naturelle (MNHN)"
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:34988
   parent_uris: []
@@ -64304,7 +64303,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "museum of Zoology at the University of Bergen, Invertebrate Collection (ZMBN)
+  name: "museum of Zoology at the University of Bergen, Invertebrate Collection (ZMBN)"
   type: value
   uri: http://grbio.org/cool/0tqf-efed
   parent_uris: []
@@ -65013,7 +65012,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "natural History Museum, London (NHMUK)
+  name: "natural History Museum, London (NHMUK)"
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:34665
   parent_uris: []
@@ -66364,7 +66363,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "nickel (Ni)
+  name: "nickel (Ni)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_28112
   parent_uris: []
@@ -66653,7 +66652,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "nitrogen (N)
+  name: "nitrogen (N)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_25555
   parent_uris: []
@@ -68647,7 +68646,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "northcentral and Northeast (NCNE)
+  name: "northcentral and Northeast (NCNE)"
   type: value
   uri: http://eol.org/schema/terms/nwpl_northcentralandnortheast
   parent_uris:
@@ -68852,7 +68851,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "northeast Oak-pine (eastern dry-xeric)
+  name: "northeast Oak-pine (eastern dry-xeric)"
   type: value
   uri: http://eol.org/schema/terms/Northeast_oak_pine_--eastern_dry_xeric--
   parent_uris:
@@ -69224,7 +69223,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "northern and Central Rockies Douglas-fir (cold)
+  name: "northern and Central Rockies Douglas-fir (cold)"
   type: value
   uri: http://eol.org/schema/terms/Northern_and_Central_Rockies_douglas_fir_--cold--
   parent_uris:
@@ -69238,7 +69237,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "northern and Central Rockies Douglas-fir (warm mesic interior)
+  name: "northern and Central Rockies Douglas-fir (warm mesic interior)"
   type: value
   uri: http://eol.org/schema/terms/Northern_and_Central_Rockies_douglas_fir_--warm_mesic_interior--
   parent_uris:
@@ -69252,7 +69251,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "northern and Central Rockies Douglas-fir (xeric interior)
+  name: "northern and Central Rockies Douglas-fir (xeric interior)"
   type: value
   uri: http://eol.org/schema/terms/Northern_and_Central_Rockies_douglas_fir_--xeric_interior--
   parent_uris:
@@ -69378,7 +69377,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "northern and Central Rockies Lower subalpine (Wyoming and Central Rockies)
+  name: "northern and Central Rockies Lower subalpine (Wyoming and Central Rockies)"
   type: value
   uri: http://eol.org/schema/terms/Lower_subalpine_--Wyoming_and_Central_Rockies--
   parent_uris:
@@ -69490,7 +69489,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "northern and Central Rockies Ponderosa pine (Black Hills, high elevation)
+  name: "northern and Central Rockies Ponderosa pine (Black Hills, high elevation)"
   type: value
   uri: http://eol.org/schema/terms/Northern_and_Central_Rockies_ponderosa_pine_--Black_Hills_high_elevation--
   parent_uris:
@@ -69504,7 +69503,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "northern and Central Rockies Ponderosa pine (Black Hills, low elevation)
+  name: "northern and Central Rockies Ponderosa pine (Black Hills, low elevation)"
   type: value
   uri: http://eol.org/schema/terms/Northern_and_Central_Rockies_ponderosa_pine_--Black_Hills_low_elevation--
   parent_uris:
@@ -69560,7 +69559,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "northern and Central Rockies Upper subalpine spruce-fir (Central Rockies)
+  name: "northern and Central Rockies Upper subalpine spruce-fir (Central Rockies)"
   type: value
   uri: http://eol.org/schema/terms/Upper_subalpine_spruce_fir_--Central_Rockies--
   parent_uris:
@@ -69602,7 +69601,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "northern and Central Rockies Wet mountain meadow-Lodgepole pine (subalpine)
+  name: "northern and Central Rockies Wet mountain meadow-Lodgepole pine (subalpine)"
   type: value
   uri: http://eol.org/schema/terms/California_Grassland/Wet_mountain_meadow-Lodgepole_pine_--subalpine--
   parent_uris:
@@ -69616,7 +69615,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "northern and Central Rockies Whitebark pine-lodgepole pine (upper subalpine, Northern and Central Rockies)
+  name: "northern and Central Rockies Whitebark pine-lodgepole pine (upper subalpine, Northern and Central Rockies)"
   type: value
   uri: http://eol.org/schema/terms/Whitebark_pine_lodgepole_pine_--upper_subalpine_Northern_and_Central_Rockies--
   parent_uris:
@@ -69833,7 +69832,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "northern hardwoods (Northeast)
+  name: "northern hardwoods (Northeast)"
   type: value
   uri: http://eol.org/schema/terms/Northeast_northern_hardwoods
   parent_uris:
@@ -70100,7 +70099,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "northern Plains Southern tallgrass prairie (East)
+  name: "northern Plains Southern tallgrass prairie (East)"
   type: value
   uri: http://eol.org/schema/terms/Northern_Plains_southern_tallgrass_prairie_--East--
   parent_uris:
@@ -70351,7 +70350,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "northwest Douglas-fir-western hemlock (wet mesic)
+  name: "northwest Douglas-fir-western hemlock (wet mesic)"
   type: value
   uri: http://eol.org/schema/terms/Northwest_Forested/Douglas-fir-western_hemlock_--wet_mesic--
   parent_uris:
@@ -70365,7 +70364,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "northwest Dry ponderosa pine (mesic)
+  name: "northwest Dry ponderosa pine (mesic)"
   type: value
   uri: http://eol.org/schema/terms/Northwest_Forested/Dry_ponderosa_pine_--mesic--
   parent_uris:
@@ -70436,7 +70435,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "northwest Pine savannah (ultramafic)
+  name: "northwest Pine savannah (ultramafic)"
   type: value
   uri: http://eol.org/schema/terms/Northwest_Woodland/Pine_savannah_--ultramafic--
   parent_uris:
@@ -71124,7 +71123,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "number of new species decribed 1999-2008
+  name: "number of new species decribed 1999-2008"
   type: measurement
   uri: http://eol.org/schema/terms/NewSpeciesDescribed1999to2008
   parent_uris: []
@@ -71392,7 +71391,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "nīrak Deh-e Bālā
+  name: "nīrak Deh-e Bālā"
   type: value
   uri: http://www.geonames.org/1008
   parent_uris: []
@@ -71461,7 +71460,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "oberösterreichisches Landesmuseum (OLML)
+  name: "oberösterreichisches Landesmuseum (OLML)"
   type: value
   uri: http://grbio.org/cool/pp0t-48s3
   parent_uris: []
@@ -71759,7 +71758,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "oceania (Australia and islands)
+  name: "oceania (Australia and islands)"
   type: value
   uri: http://www.geonames.org/6255151
   parent_uris: []
@@ -72661,7 +72660,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
-  name: "omnivoreDetrivore
+  name: "omnivoreDetrivore"
   uri: https://eol.org/schema/terms/omnivoreDetrivore
   parent_uris:
   - https://www.wikidata.org/entity/Q164509
@@ -72674,7 +72673,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "onaç
+  name: "onaç"
   type: value
   uri: http://www.geonames.org/303517
   parent_uris:
@@ -73609,7 +73608,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "oval cylinder-30%
+  name: "oval cylinder-30%"
   type: value
   uri: http://eol.org/schema/terms/ovalCylinder-30Percent
   parent_uris: []
@@ -74043,7 +74042,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "pacific Northwest Douglas-fir-western hemlock (dry mesic)
+  name: "pacific Northwest Douglas-fir-western hemlock (dry mesic)"
   type: value
   uri: http://eol.org/schema/terms/Pacific_Northwest_douglas_fir_western_hemlock_--dry_mesic--
   parent_uris:
@@ -74057,7 +74056,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "pacific Northwest Douglas-fir-western hemlock (wet mesic)
+  name: "pacific Northwest Douglas-fir-western hemlock (wet mesic)"
   type: value
   uri: http://eol.org/schema/terms/Pacific_Northwest_douglas_fir_western_hemlock_--wet_mesic--
   parent_uris:
@@ -74071,7 +74070,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "pacific Northwest Dry ponderosa pine (mesic)
+  name: "pacific Northwest Dry ponderosa pine (mesic)"
   type: value
   uri: http://eol.org/schema/terms/Pacific_Northwest_Forested/Dry_ponderosa_pine_--mesic--
   parent_uris:
@@ -74113,7 +74112,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "pacific Northwest Lodgepole pine (pumice soils)
+  name: "pacific Northwest Lodgepole pine (pumice soils)"
   type: value
   uri: http://eol.org/schema/terms/Pacific_Northwest_lodgepole_pine_--pumice_soils--
   parent_uris:
@@ -74141,7 +74140,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "pacific Northwest Mixed conifer (eastside dry)
+  name: "pacific Northwest Mixed conifer (eastside dry)"
   type: value
   uri: http://eol.org/schema/terms/Pacific_Northwest_mixed_conifer_--eastside_dry--
   parent_uris:
@@ -74155,7 +74154,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "pacific Northwest Mixed conifer (eastside mesic)
+  name: "pacific Northwest Mixed conifer (eastside mesic)"
   type: value
   uri: http://eol.org/schema/terms/Pacific_Northwest_mixed_conifer_--eastside_mesic--
   parent_uris:
@@ -74169,7 +74168,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "pacific Northwest Mixed conifer (southwestern Oregon)
+  name: "pacific Northwest Mixed conifer (southwestern Oregon)"
   type: value
   uri: http://eol.org/schema/terms/Pacific_Northwest_mixed_conifer_--southwestern_Oregon--
   parent_uris:
@@ -74183,7 +74182,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "pacific Northwest mountain big sagebrush (cool sagebrush)
+  name: "pacific Northwest mountain big sagebrush (cool sagebrush)"
   type: value
   uri: http://eol.org/schema/terms/Pacific_Northwest_mountain_big_sagebrush--cool_sagebrush--
   parent_uris:
@@ -74225,7 +74224,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "pacific Northwest Pine savannah (ultramafic)
+  name: "pacific Northwest Pine savannah (ultramafic)"
   type: value
   uri: http://eol.org/schema/terms/Pacific_Northwest_Woodland/Pine_savannah_--ultramafic--
   parent_uris:
@@ -74253,7 +74252,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "pacific Northwest Ponderosa pine (xeric)
+  name: "pacific Northwest Ponderosa pine (xeric)"
   type: value
   uri: http://eol.org/schema/terms/Pacific_Northwest_ponderosa_pine_--xeric--
   parent_uris:
@@ -74267,7 +74266,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "pacific Northwest Ponderosa pine savanna (ultramafic)
+  name: "pacific Northwest Ponderosa pine savanna (ultramafic)"
   type: value
   uri: http://eol.org/schema/terms/Pacific_Northwest_ponderosa_pine_savanna_--ultramafic--
   parent_uris:
@@ -74281,7 +74280,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "pacific Northwest Ponderosa pine savannah (ultramafic)
+  name: "pacific Northwest Ponderosa pine savannah (ultramafic)"
   type: value
   uri: http://eol.org/schema/terms/Pacific_Northwest_Woodland/Ponderosa_pine_savannah_--ultramafic--
   parent_uris:
@@ -74295,7 +74294,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "pacific Northwest Ponderosa pine, (mesic)
+  name: "pacific Northwest Ponderosa pine, (mesic)"
   type: value
   uri: http://eol.org/schema/terms/Pacific_Northwest_Forested/Ponderosa_pine_--mesic--
   parent_uris:
@@ -74309,7 +74308,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "pacific Northwest Ponderosa pine, dry (mesic)
+  name: "pacific Northwest Ponderosa pine, dry (mesic)"
   type: value
   uri: http://eol.org/schema/terms/Pacific_Northwest_ponderosa_pine_dry_--mesic--
   parent_uris:
@@ -74435,7 +74434,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "pacific Northwest Western juniper (pumice)
+  name: "pacific Northwest Western juniper (pumice)"
   type: value
   uri: http://eol.org/schema/terms/Pacific_Northwest_western_juniper_--pumice--
   parent_uris:
@@ -74570,7 +74569,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "pagalu (Annobon)
+  name: "pagalu (Annobon)"
   type: value
   uri: http://www.geonames.org/2310306
   parent_uris:
@@ -75490,7 +75489,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "parallelepiped-10%
+  name: "parallelepiped-10%"
   type: value
   uri: http://eol.org/schema/terms/parallelepiped-10Percent
   parent_uris: []
@@ -75502,7 +75501,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "parallelepiped-20%
+  name: "parallelepiped-20%"
   type: value
   uri: http://eol.org/schema/terms/parallelepiped-20Percent
   parent_uris: []
@@ -75514,7 +75513,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "parallelepiped-25%
+  name: "parallelepiped-25%"
   type: value
   uri: http://eol.org/schema/terms/parallelepiped-25Percent
   parent_uris: []
@@ -75526,7 +75525,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "parallelepiped-30%
+  name: "parallelepiped-30%"
   type: value
   uri: http://eol.org/schema/terms/parallelepiped-30Percent
   parent_uris: []
@@ -75538,7 +75537,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "parallelepiped-40%
+  name: "parallelepiped-40%"
   type: value
   uri: http://eol.org/schema/terms/parallelepiped-40Percent
   parent_uris: []
@@ -75564,7 +75563,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "paraná
+  name: "paraná"
   type: value
   uri: http://www.geonames.org/3455077
   parent_uris:
@@ -75578,7 +75577,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "paraná
+  name: "paraná"
   type: value
   uri: https://www.geonames.org/3455077
   parent_uris:
@@ -75930,7 +75929,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "particulate skeleton (non-solid)
+  name: "particulate skeleton (non-solid)"
   type: value
   uri: http://www.marinespecies.org/traits/NonSolidParticlesComp
   parent_uris: []
@@ -75943,7 +75942,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "pará
+  name: "pará"
   type: value
   uri: https://www.geonames.org/3393129
   parent_uris:
@@ -76332,7 +76331,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "pectenotoxin 2
+  name: "pectenotoxin 2"
   type: value
   uri: http://www.chemspider.com/Chemical-Structure.35013612.html
   parent_uris: []
@@ -77388,7 +77387,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "phosphorus (P+)
+  name: "phosphorus (P+)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_33467
   parent_uris: []
@@ -77415,7 +77414,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "photo voucher (genseq-5)
+  name: "photo voucher (genseq-5)"
   type: value
   uri: http://eol.org/schema/terms/genseq5
   parent_uris: []
@@ -77729,7 +77728,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "piauí
+  name: "piauí"
   type: value
   uri: http://www.geonames.org/3392213
   parent_uris:
@@ -80078,7 +80077,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "potassium (K+)
+  name: "potassium (K+)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_29103
   parent_uris: []
@@ -80570,7 +80569,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "primary types (genseq-1)
+  name: "primary types (genseq-1)"
   type: value
   uri: http://eol.org/schema/terms/genseq1
   parent_uris: []
@@ -80612,7 +80611,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "prince of Songkla University (PSU)
+  name: "prince of Songkla University (PSU)"
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:13884
   parent_uris: []
@@ -81455,7 +81454,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "punjab (India)
+  name: "punjab (India)"
   type: value
   uri: http://www.geonames.org/1259224
   parent_uris:
@@ -81469,7 +81468,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "punjab (Pakistan)
+  name: "punjab (Pakistan)"
   type: value
   uri: http://www.geonames.org/1167710
   parent_uris:
@@ -82553,7 +82552,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "records in BOLD?
+  name: "records in BOLD?"
   type: measurement
   uri: http://eol.org/schema/terms/RecordInBOLD
   parent_uris: []
@@ -82566,7 +82565,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "records in GBIF?
+  name: "records in GBIF?"
   type: measurement
   uri: http://eol.org/schema/terms/RecordInGBIF
   parent_uris: []
@@ -82884,7 +82883,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "references in BHL?
+  name: "references in BHL?"
   type: measurement
   uri: http://eol.org/schema/terms/ReferenceInBHL
   parent_uris: []
@@ -83429,7 +83428,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "reviewer(s)
+  name: "reviewer(s)"
   type: metadata
   uri: http://eol.org/schema/terms/Reviewer
   parent_uris: []
@@ -83987,7 +83986,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "riparian (Wyoming)
+  name: "riparian (Wyoming)"
   type: value
   uri: http://eol.org/schema/terms/Riparian_--Wyoming--
   parent_uris:
@@ -84867,7 +84866,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "rotational ellipsoid x 0.5
+  name: "rotational ellipsoid x 0.5"
   type: value
   uri: http://eol.org/schema/terms/rotationalEllipsoidX0.5
   parent_uris: []
@@ -84879,7 +84878,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "rotational ellipsoid-20%
+  name: "rotational ellipsoid-20%"
   type: value
   uri: http://eol.org/schema/terms/rotationalEllipsoid-20Percent
   parent_uris: []
@@ -87187,7 +87186,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "saudi Arabian National Museum of Natural History (SNMNH)
+  name: "saudi Arabian National Museum of Natural History (SNMNH)"
   type: value
   uri: http://grbio.org/cool/0aes-7fp6
   parent_uris: []
@@ -87584,7 +87583,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "schmaulhausen Institute of Zoology (SIZK)
+  name: "schmaulhausen Institute of Zoology (SIZK)"
   type: value
   uri: http://grbio.org/cool/c442-9tdv
   parent_uris: []
@@ -87662,7 +87661,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "scopolamine hydrobromide (anhydrous)
+  name: "scopolamine hydrobromide (anhydrous)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_61271
   parent_uris: []
@@ -87733,7 +87732,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "scripps Institution of Oceanography Benthic Invertebrates Collection (SIO-BIC)
+  name: "scripps Institution of Oceanography Benthic Invertebrates Collection (SIO-BIC)"
   type: value
   uri: http://grbio.org/cool/t8vy-919z
   parent_uris: []
@@ -88657,7 +88656,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "selenium (Se)
+  name: "selenium (Se)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_27568
   parent_uris: []
@@ -88952,7 +88951,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "sequences in GenBank?
+  name: "sequences in GenBank?"
   type: measurement
   uri: http://eol.org/schema/terms/SequenceInGenBank
   parent_uris: []
@@ -89853,7 +89852,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "shoot:root ratio (SRR)
+  name: "shoot:root ratio (SRR)"
   type: measurement
   uri: http://eol.org/schema/terms/ShootRootRatio
   parent_uris: []
@@ -90367,7 +90366,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "silicon (Si)
+  name: "silicon (Si)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_27573
   parent_uris: []
@@ -91386,7 +91385,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "sodium (Na+)
+  name: "sodium (Na+)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_29101
   parent_uris: []
@@ -91936,7 +91935,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "south African Museum (SAM)
+  name: "south African Museum (SAM)"
   type: value
   uri: http://grbio.org/cool/mhew-9czz
   parent_uris: []
@@ -92060,7 +92059,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "south Australia Museum (SAMA)
+  name: "south Australia Museum (SAMA)"
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:34982
   parent_uris: []
@@ -92827,7 +92826,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "south-central US Oak-hickory savanna (East Texas)
+  name: "south-central US Oak-hickory savanna (East Texas)"
   type: value
   uri: http://eol.org/schema/terms/Oak_hickory_savanna_--East_Texas--
   parent_uris:
@@ -92925,7 +92924,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "south-central US Southern floodplain (rare fire)
+  name: "south-central US Southern floodplain (rare fire)"
   type: value
   uri: http://eol.org/schema/terms/South_central_US_southern_floodplain_--rare_fire--
   parent_uris:
@@ -93165,7 +93164,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "southeast Longleaf pine (mesic uplands)
+  name: "southeast Longleaf pine (mesic uplands)"
   type: value
   uri: http://eol.org/schema/terms/Southeast_longleaf_pine_--mesic_uplands--
   parent_uris:
@@ -94123,7 +94122,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "southern Appalachians Oak (eastern dry-xeric)
+  name: "southern Appalachians Oak (eastern dry-xeric)"
   type: value
   uri: http://eol.org/schema/terms/Southern_Appalachians_oak_--eastern_dry_xeric--
   parent_uris:
@@ -94137,7 +94136,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "southern Appalachians oak forest (dry-mesic)
+  name: "southern Appalachians oak forest (dry-mesic)"
   type: value
   uri: http://eol.org/schema/terms/Southern_Appalachians_oak_forest_--dry_mesic--
   parent_uris:
@@ -94841,7 +94840,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "southwest mixed conifer (cool, moist with aspen)
+  name: "southwest mixed conifer (cool, moist with aspen)"
   type: value
   uri: http://eol.org/schema/terms/Southwest_mixed_conifer_--cool_moist_with_aspen--
   parent_uris:
@@ -94855,7 +94854,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "southwest mixed conifer (warm, dry with aspen)
+  name: "southwest mixed conifer (warm, dry with aspen)"
   type: value
   uri: http://eol.org/schema/terms/Southwest_mixed_conifer_--warm_dry_with_aspen--
   parent_uris:
@@ -94897,7 +94896,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "southwest Mountain sagebrush (cool sage)
+  name: "southwest Mountain sagebrush (cool sage)"
   type: value
   uri: http://eol.org/schema/terms/Southwest_Shrubland/Mountain_sagebrush_--cool_sage--
   parent_uris:
@@ -94911,7 +94910,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "southwest Mountain sagebrush (cool sagebrush)
+  name: "southwest Mountain sagebrush (cool sagebrush)"
   type: value
   uri: http://eol.org/schema/terms/Southwest_mountain_sagebrush_--cool_sagebrush--
   parent_uris:
@@ -94953,7 +94952,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "southwest Pinyon-juniper (mixed fire regime)
+  name: "southwest Pinyon-juniper (mixed fire regime)"
   type: value
   uri: http://eol.org/schema/terms/Southwest_pinyon_juniper_--mixed_fire_regime--
   parent_uris:
@@ -94967,7 +94966,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "southwest Pinyon-juniper (rare replacement fire regime)
+  name: "southwest Pinyon-juniper (rare replacement fire regime)"
   type: value
   uri: http://eol.org/schema/terms/Southwest_pinyon_juniper_--rare_replacement_fire_regime--
   parent_uris:
@@ -95391,7 +95390,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "specimens in GGBN?
+  name: "specimens in GGBN?"
   type: measurement
   uri: http://eol.org/schema/terms/SpecimensInGGBN
   parent_uris: []
@@ -95469,7 +95468,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "sphere-10%
+  name: "sphere-10%"
   type: value
   uri: http://eol.org/schema/terms/sphere-10Percent
   parent_uris: []
@@ -95481,7 +95480,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "sphere-20%
+  name: "sphere-20%"
   type: value
   uri: http://eol.org/schema/terms/sphere-20Percent
   parent_uris: []
@@ -95493,7 +95492,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "sphere-25%
+  name: "sphere-25%"
   type: value
   uri: http://eol.org/schema/terms/sphere-25Percent
   parent_uris: []
@@ -95748,7 +95747,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "spring (season)
+  name: "spring (season)"
   type: value
   uri: http://www.wikidata.org/entity/Q1312
   parent_uris: []
@@ -95761,7 +95760,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "spring (water)
+  name: "spring (water)"
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000027
   parent_uris:
@@ -96807,7 +96806,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "straw (color)
+  name: "straw (color)"
   type: value
   uri: https://www.wikidata.org/entity/Q7622361
   parent_uris: []
@@ -97271,7 +97270,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "sublittoral zone (down to 200m)
+  name: "sublittoral zone (down to 200m)"
   type: value
   uri: http://polytraits.lifewatchgreece.eu/terms/DZ_SUB
   parent_uris:
@@ -97922,7 +97921,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "sulfur (S)
+  name: "sulfur (S)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_26833
   parent_uris: []
@@ -101570,7 +101569,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "the Oceanian realm (islands)
+  name: "the Oceanian realm (islands)"
   type: ''
   uri: http://eol.org/schema/terms/OceaniaRealm
   parent_uris: []
@@ -102159,7 +102158,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "tierra del Fuego (Argentina)
+  name: "tierra del Fuego (Argentina)"
   type: value
   uri: http://www.geonames.org/3834450
   parent_uris:
@@ -102531,7 +102530,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "tokyo Kyoiku University (TKU)
+  name: "tokyo Kyoiku University (TKU)"
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:14215
   parent_uris: []
@@ -102544,7 +102543,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "tolerance (AMBI index)
+  name: "tolerance (AMBI index)"
   type: measurement
   uri: http://polytraits.lifewatchgreece.eu/terms/TOL
   parent_uris: []
@@ -102797,7 +102796,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "total species (expert opinion)
+  name: "total species (expert opinion)"
   type: measurement
   uri: http://eol.org/schema/terms/TotalSpecies
   parent_uris: []
@@ -102836,7 +102835,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "total unknown species (statistical model)
+  name: "total unknown species (statistical model)"
   type: measurement
   uri: http://eol.org/schema/terms/TotalUnknownSpeciesStatisticalModel
   parent_uris: []
@@ -104432,7 +104431,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "tropical waters (hot)
+  name: "tropical waters (hot)"
   type: value
   uri: http://polytraits.lifewatchgreece.eu/terms/TEMP_HOT
   parent_uris:
@@ -104446,7 +104445,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "tropical waters (warm)
+  name: "tropical waters (warm)"
   type: value
   uri: http://polytraits.lifewatchgreece.eu/terms/RT_WARM
   parent_uris:
@@ -105846,7 +105845,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "undiscovered species (molecular cryptic)
+  name: "undiscovered species (molecular cryptic)"
   type: measurement
   uri: http://eol.org/schema/terms/UndiscoveredSpeciesMolecularCryptic
   parent_uris: []
@@ -106116,7 +106115,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "universidad Nacional de la Plata, Instituto de Limnologia (UNLP-ILPLA)
+  name: "universidad Nacional de la Plata, Instituto de Limnologia (UNLP-ILPLA)"
   type: value
   uri: http://eol.org/schema/terms/institution_UNLP_ILPLA
   parent_uris: []
@@ -106142,7 +106141,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "university of Texas (UTEP)
+  name: "university of Texas (UTEP)"
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15719
   parent_uris: []
@@ -106155,7 +106154,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "university of Waterloo (BDUW)
+  name: "university of Waterloo (BDUW)"
   type: value
   uri: http://grbio.org/cool/zqya-gh8x
   parent_uris: []
@@ -107755,7 +107754,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "ventral buccal organ (simple)
+  name: "ventral buccal organ (simple)"
   type: value
   uri: http://polytraits.lifewatchgreece.eu/terms/STRUCT_VBO
   parent_uris: []
@@ -109577,7 +109576,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "west Gulf Coastal Plain pine (uplands + flatwoods)
+  name: "west Gulf Coastal Plain pine (uplands + flatwoods)"
   type: value
   uri: http://eol.org/schema/terms/West_Gulf_Coastal_Plain_pine_--uplands_+_flatwoods--
   parent_uris:
@@ -109592,7 +109591,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "west Gulf Coastal plain pine (uplands and flatwoods)
+  name: "west Gulf Coastal plain pine (uplands and flatwoods)"
   type: value
   uri: http://eol.org/schema/terms/South-central_US_Forested/West_Gulf_Coastal_plain_pine_--uplands_and_flatwoods--
   parent_uris:
@@ -110226,7 +110225,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "western Mountains, Valleys and Coast (WMVC)
+  name: "western Mountains, Valleys and Coast (WMVC)"
   type: value
   uri: http://eol.org/schema/terms/nwpl_westernmountainsvalleysandcoast
   parent_uris:
@@ -110963,7 +110962,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "wetland Indicator Region (NWPL)
+  name: "wetland Indicator Region (NWPL)"
   type: measurement
   uri: http://eol.org/schema/terms/WetlandIndicatorRegion
   parent_uris:
@@ -112777,7 +112776,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "zhongshan (Sun Yatsen) University (SYS)
+  name: "zhongshan (Sun Yatsen) University (SYS)"
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:14836
   parent_uris: []
@@ -112832,7 +112831,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "zinc (Zn)
+  name: "zinc (Zn)"
   type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_27363
   parent_uris: []
@@ -112887,7 +112886,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "zoological Institute, Russian Academy of Sciences (ZISP)
+  name: "zoological Institute, Russian Academy of Sciences (ZISP)"
   type: value
   uri: http://grbio.org/cool/vmfx-g997
   parent_uris: []
@@ -112900,7 +112899,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "zoological Museum, Moscow Lomonosov State University (ZMMU)
+  name: "zoological Museum, Moscow Lomonosov State University (ZMMU)"
   type: value
   uri: http://grbio.org/cool/k3qp-615s
   parent_uris: []
@@ -112926,7 +112925,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "zoological Survey of India (ZSIC)
+  name: "zoological Survey of India (ZSIC)"
   type: value
   uri: http://grbio.org/cool/5icv-29es
   parent_uris: []
@@ -112939,7 +112938,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "zoologisches Museum der Universitaet Kiel (ZMK)
+  name: "zoologisches Museum der Universitaet Kiel (ZMK)"
   type: value
   uri: http://grbio.org/cool/jqaq-6vk8
   parent_uris: []
@@ -112952,7 +112951,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "zoology Museum of the University of Ghent (UGMD)
+  name: "zoology Museum of the University of Ghent (UGMD)"
   type: value
   uri: http://grbio.org/cool/wp5k-7kah
   parent_uris: []
@@ -113058,7 +113057,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: µm^(-1)
+  name: µm^(-1)"
   type: value
   uri: http://eol.org/schema/terms/perMicrometer
   parent_uris: []
