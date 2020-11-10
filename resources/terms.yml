@@ -90865,11 +90865,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: "skeletal Density"
+  name: "skeletal density"
   type: measurement
   uri: http://eol.org/schema/terms/skeletal_density
   parent_uris: []
-  synonym_of_uri:
+  synonym_of_uri: http://eol.org/schema/terms/SkeletalDensity
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000084
   alias:
 - attribution: ''
@@ -90885,19 +90885,6 @@ terms:
   - http://purl.obolibrary.org/obo/OBA_0002342
   synonym_of_uri:
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000084
-  alias:
-- attribution: Calcification rates
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "skeletal density"
-  type: measurement
-  uri: http://eol.org/schema/terms/skeletal_density
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
   alias:
 - attribution: http://paleodb.org/public/tips/ecology_tips.html
   definition: The nature of structural reinforcements of shells, leaves, scutes, or carapaces. Smooth shells and carapaces lack reinforcements.
