@@ -8195,3 +8195,7 @@ uri_ids:
   http://purl.obolibrary.org/obo/uberon_0000991: 8188
   http://eol.org/schema/terms/slide: 8189
   http://eol.org/schema/terms/countingunit: 8190
+  http://eol.org/schema/terms/ergatotype: 8191
+  https://www.wikidata.org/entity/q19353481: 8192
+  http://purl.obolibrary.org/obo/tao_0009000: 8193
+  http://purl.obolibrary.org/obo/ido_0000615: 8194
