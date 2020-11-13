@@ -45085,7 +45085,8 @@ terms:
   name: "hydrostatic skeleton"
   type: value
   uri: http://www.marinespecies.org/traits/Hydrostatic
-  parent_uris: []
+  parent_uris:
+  - https://www.wikidata.org/entity/Q12501479
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -113871,6 +113872,45 @@ terms:
   name: "holotype by monotypy"
   type: value
   uri: http://eol.org/schema/terms/holotypeByMonotypy
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'non-skeletal fauna'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "soft bodied"
+  type: value
+  uri: https://www.wikidata.org/entity/Q12501479
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'A cardinal organ part that is one of the ultimate segments of a compound leaf'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "leaflet"
+  type: value
+  uri: http://purl.obolibrary.org/obo/PO_0020049
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: 'https://www.algae.info/'
+  definition: 'filaments consist of series of cells being joined end to end giving a thread-like appearance.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "algal filament"
+  type: value
+  uri: http://eol.org/schema/terms/algal_filament
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
