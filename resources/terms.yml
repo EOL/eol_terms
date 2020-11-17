@@ -711,20 +711,6 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "abdomen length"
-  type: measurement
-  uri: http://eol.org/schema/terms/AbdomenLength
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
@@ -1206,19 +1192,6 @@ terms:
   name: "active growth period"
   type: measurement
   uri: http://eol.org/schema/terms/ActiveGrowthPeriod
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: http://paleodb.org/public/tips/ecology_tips.html
-  definition: Organisms that move habitually, of their own volition.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "actively mobile"
-  type: measurement
-  uri: http://eol.org/schema/terms/activelyMobile
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
@@ -1972,19 +1945,6 @@ terms:
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000033
   alias:
 - attribution: ''
-  definition: Age at which females give birth to their first litter, or their young attach to teats or hatch out
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "age at first birth"
-  type: measurement
-  uri: http://eol.org/schema/terms/AgeAtFirstBirth
-  parent_uris: []
-  synonym_of_uri: http://eol.org/schema/terms/AgeAtMaturity
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000036
-  alias:
-- attribution: ''
   definition: ''
   is_hidden_from_select: true
   is_hidden_from_overview: false
@@ -2006,19 +1966,6 @@ terms:
   name: "age at maturity"
   type: measurement
   uri: http://eol.org/schema/terms/AgeAtMaturity
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000035
-  alias:
-- attribution: 'BROT trait database. Traits: units and categories (MatResp), http://www.uv.es/jgpausas/brot.htm'
-  definition: Age of resprouts at first successful reproduction (in years), i.e., when most of the resprouting plants produce the first seed crop.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "age at maturity of resprouts"
-  type: measurement
-  uri: http://eol.org/schema/terms/AgeAtMaturityResprouts
   parent_uris: []
   synonym_of_uri:
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000035
@@ -2207,19 +2154,6 @@ terms:
   - http://purl.obolibrary.org/obo/ENVO_00003074
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: http://web.uconn.edu/poultry/NE-127/NewFiles/air%20temp.html
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "air temperature"
-  type: measurement
-  uri: http://eol.org/schema/terms/AirTemperature
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000027
   alias:
 - attribution: ''
   definition: ''
@@ -3446,19 +3380,6 @@ terms:
   - http://purl.obolibrary.org/obo/GO_0019953
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: ''
-  definition: Altitude is a distance above sea level.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "altitude"
-  type: measurement
-  uri: http://semanticscience.org/resource/SIO_000438
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000008
   alias:
 - attribution: https://www.worldwildlife.org/ecoregions/nt0150
   definition: ''
@@ -4991,20 +4912,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: ''
-  definition: The distance from the front of the nares (nostrils) to the tip of the bill of a bird.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "anterior culmen length"
-  type: measurement
-  uri: http://eol.org/schema/terms/AnteriorCulmenLength
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000016
-  alias:
 - attribution: created by Anne Thessen
   definition: A location inside an organism in the anterior section of the body/cell and to the organism's own left side.
   is_hidden_from_select: false
@@ -5207,20 +5114,6 @@ terms:
   parent_uris:
   - http://www.geonames.org/2186224
   - http://purl.obolibrary.org/obo/ENVO_01000179
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: Definition modified from http://en.wikipedia.org/wiki/Antitragus
-  definition: A measure of the size of the antitragus which is a feature of mammalian ear anatomy. In humans, it is a small tubercle on the visible part of the ear (the pinna). The antitragus is located just above the earlobe and points anteriorly. The antitragus can be large and distinctively shaped in some species, most notably bats.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "antitragus size"
-  type: measurement
-  uri: http://eol.org/schema/terms/AntitragusSize
-  parent_uris:
-  - http://purl.obolibrary.org/obo/PATO_0000117
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -6359,21 +6252,6 @@ terms:
   type: measurement
   uri: http://eol.org/schema/terms/areaToMassRatio
   parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: Lists jurisdictions in which some infra-taxa of a given organism are  members of the undisturbed fauna or flora while others have been introduced recently.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "areas with native and introduced infra-taxa"
-  type: measurement
-  uri: http://eol.org/schema/terms/NativeIntroducedRange
-  parent_uris:
-  - http://eol.org/schema/terms/NativeRange
-  - http://eol.org/schema/terms/IntroducedRange
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -10019,20 +9897,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: http://docs.lib.noaa.gov/rescue/mwr/Suppl/no2-1915.pdf
-  definition: The date on which the first leaves have straightened themselves out from the twisted form they had in the bud and turned up their upper surfaces
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "beginning of leafing out"
-  type: measurement
-  uri: http://eol.org/schema/terms/FirstLeaf
-  parent_uris:
-  - http://eol.org/schema/terms/phenologicalSeason
-  synonym_of_uri:
-  units_term_uri:
-  alias:
 - attribution: ''
   definition: A description of the behavior shown by the subject at the time the Occurrence was recorded. Recommended best practice is to use a controlled vocabulary.
   is_hidden_from_select: false
@@ -10880,20 +10744,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: The distance from the anterior to posterior edges of the bill.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "bill height"
-  type: measurement
-  uri: http://eol.org/schema/terms/BillHeight
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000040
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000016
-  alias:
-- attribution: ''
   definition: Length of the bill.
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -11598,34 +11448,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "bloom period begin"
-  type: measurement
-  uri: http://eol.org/schema/terms/BloomPeriodBegin
-  parent_uris:
-  - http://eol.org/schema/terms/phenologicalSeason
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "bloom period end"
-  type: measurement
-  uri: http://eol.org/schema/terms/BloomPeriodEnd
-  parent_uris:
-  - http://eol.org/schema/terms/phenologicalSeason
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
   definition: A hole in coastal rock through which sea water is forced by a rising tide or waves and spurted through an outlet into the air.
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -11841,19 +11663,6 @@ terms:
   synonym_of_uri: http://purl.obolibrary.org/obo/CMO_0000013
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
   alias:
-- attribution: ''
-  definition: The amount of matter in the body of an organism
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "body mass"
-  type: measurement
-  uri: http://purl.obolibrary.org.s2.gvirabi.com/obo/VT_0001259
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/VT_0001259
-  units_term_uri:
-  alias:
 - definition: The amount of matter in the body of an organism.
   is_hidden_from_select: true
   is_hidden_from_overview: false
@@ -11881,19 +11690,6 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "body Part"
-  type: measurement
-  uri: http://eol.org/globi/terms/bodyPart
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
@@ -11915,34 +11711,6 @@ terms:
   uri: http://eol.org/schema/terms/BodyShape
   parent_uris:
   - http://purl.obolibrary.org/obo/PATO_0000052
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: Olden, J.D., N. LeRoy Poff, and Kevin R. Bestgen 2006. LIFE-HISTORY STRATEGIES PREDICT FISH INVASIONS AND EXTIRPATIONS IN THE COLORADO RIVER BASIN. Ecological Monographs 76:25–40. http://dx.doi.org/10.1890/05-0330
-  definition: The ratio of total body length to maximum body depth
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "body shape (length to depth)"
-  type: measurement
-  uri: http://eol.org/schema/terms/LengthToDepth
-  parent_uris:
-  - http://eol.org/schema/terms/BodyShape
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: Webb, P. W. 1984. Form and function in fish swimming. Scientific American 251:58–68.
-  definition: The ratio of minimum depth of the caudal peduncle to the maximum depth of the caudal fin. Small factors are indicative of strong swimmers
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "body shape (swim factor)"
-  type: measurement
-  uri: http://eol.org/schema/terms/SwimFactor
-  parent_uris:
-  - http://eol.org/schema/terms/BodyShape
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -12879,20 +12647,6 @@ terms:
   uri: http://eol.org/schema/terms/BreedingHabitat
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002303
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "breeding range includes"
-  type: measurement
-  uri: http://eol.org/schema/terms/BreedingRange
-  parent_uris:
-  - http://eol.org/schema/terms/Present
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -16057,19 +15811,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: Mass of Carbon per individual, calculated from cell volume.
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "carbon biomass"
-  type: measurement
-  uri: http://eol.org/schema/terms/CarbonBiomass
-  parent_uris: []
-  synonym_of_uri: http://purl.dataone.org/odo/ECSO_00001143
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000021
-  alias:
-- attribution: ''
   definition: The amount of carbon present in biomass
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -17311,19 +17052,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: ''
-  definition: carbon per cell (amount of carbon, in molecules, moles, etc.)
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "cell carbon biomass"
-  type: measurement
-  uri: http://eol.org/schema/terms/carbon_per_cell
-  parent_uris: []
-  synonym_of_uri: http://purl.dataone.org/odo/ECSO_00001143
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000023
-  alias:
 - attribution: From Ontology of Bio-Attributes
   definition: Overall color of a whole cell
   is_hidden_from_select: false
@@ -17450,19 +17178,6 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri: http://eol.org/schema/terms/perMicrometer
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "cell Shape"
-  type: measurement
-  uri: http://eol.org/schema/terms/CellShape
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/OBA_0000052
-  units_term_uri:
   alias:
 - attribution: ''
   definition: The approximate three dimensional shape of a cell, described as one or more geometric solids.
@@ -20822,19 +20537,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: ''
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "clutch size"
-  type: measurement
-  uri: http://genomics.senescence.info/terms/litter/clutch_size
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/VT_0001933
-  units_term_uri:
-  alias:
-- attribution: ''
   definition: Single birth offspring quantity.  The proportion or number of offspring produced from a single pregnancy (mammals) or ovulation (fish) or nesting (birds).
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -21459,34 +21161,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: ''
-  definition: this organism has been found in the associate; implies that the associate was dissected
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "collected in"
-  type: association
-  uri: http://eol.org/schema/terms/collectedIn
-  parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0008506
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: this organism has been found on the associate.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "collected on"
-  type: association
-  uri: http://eol.org/schema/terms/collectedOn
-  parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0008506
-  synonym_of_uri:
-  units_term_uri:
-  alias:
 - attribution: Wirth 1980 AND https://doi.org/10.1111/avsc.12257, accessed at https://www.synbiosys.alterra.nl/evc/, May 2020
   definition: Communities of jelly lichens on calcareous or base-rich siliceous rocks in fissures and in rain tracks temporarily watered by seepage or trickling waters
   is_hidden_from_select: false
@@ -21578,32 +21252,6 @@ terms:
   name: "colony density"
   type: measurement
   uri: http://eol.org/schema/terms/colonyDensity
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: created by Anne Thessen
-  definition: A measurement used to indicate if an organism grows or occurs in a form that consists of several individuals touching or linked together. The value can be obligate, facultative, never, etc.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "colony forming"
-  type: measurement
-  uri: http://eol.org/schema/terms/ColonyForming
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: created by Anne Thessen
-  definition: The type of colony in which an organism may be observed. Refers primarily to shape.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "colony type"
-  type: measurement
-  uri: http://eol.org/schema/terms/ColonyType
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
@@ -21858,19 +21506,6 @@ terms:
   - http://www.geonames.org/921929
   - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
   synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "competes with"
-  type: association
-  uri: http://eol.org/schema/terms/CompetesWithInferred
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/GO_0044402
   units_term_uri:
   alias:
 - attribution: ''
@@ -23928,20 +23563,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: A measurement from the high prominence of the head to the low prominence of the buttocks of a fetus or embryo during ultrasound. This measurement is useful in determining gestational age.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "crown-rump length"
-  type: measurement
-  uri: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81242
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- attribution: ''
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -24209,20 +23830,6 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: ''
-  definition: The culmen is the dorsal ridge of the upper mandible on a bird's bill.  The culmen length measures the lengthwise line from the tip of the beak to the point where the upper mandible emerges from the feathers.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "culmen length"
-  type: measurement
-  uri: http://eol.org/schema/terms/CulmenLength
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000016
   alias:
 - attribution: ''
   definition: This organism is cultivated (populations grown with the aid of human effort or technology) in the following region(s)
@@ -26258,19 +25865,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- definition: 'Phytoplankton biovolume can be measured or calculated through the calculation of similar geometric models. Thirty-one geometric shapes have been assigned to estimate the biovolume and surface area of phytoplankton cells. (Sun, J. and Liu, D. 2003. Geometric models for calculating cell biovolume and surface area for phytoplankton, J. Plankton Res., 25, 1331–1346, doi:10.1093/plankt/fbg096) '
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "diatom shape"
-  type: measurement
-  uri: http://eol.org/schema/terms/DiatomShape
-  parent_uris:
-  - http://purl.obolibrary.org/obo/PATO_0000052
-  synonym_of_uri:
-  units_term_uri:
-  alias:
 - definition: a traditional division of the Bacillariophyceae or diatoms into two groups based upon symmetry (http://en.wikipedia.org/wiki/Diatom#Classification)
   is_hidden_from_select: false
   is_hidden_from_overview: true
@@ -26661,19 +26255,6 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000035
-  alias:
-- attribution: https://en.wikipedia.org/w/index.php?title=Dispersal_vector&oldid=551654371
-  definition: A dispersal vector is an agent transporting seeds or other dispersal units.  Dispersal vectors may include biotic factors, such as animals, or abiotic factors, such as the wind or the ocean.
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "dispersal vector"
-  type: measurement
-  uri: http://eol.org/schema/terms/DispersalVector
-  parent_uris: []
-  synonym_of_uri: http://eol.org/schema/terms/IsDispersalVectorFor
-  units_term_uri:
   alias:
 - attribution: ''
   definition: A stream that branches off and flows away from a main stream channel. They are a common feature of river deltas.
@@ -27619,19 +27200,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: https://en.wikipedia.org/w/index.php?title=Dry_matter&oldid=601305942
-  definition: The dry matter (or otherwise known as dry weight) is a measurement of the mass of something when completely dried.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "dry weight"
-  type: measurement
-  uri: http://eol.org/schema/terms/DryWeight
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000021
-  alias:
 - attribution: Quezel 1964 AND https://doi.org/10.1111/avsc.12257, accessed at https://www.synbiosys.alterra.nl/evc/, May 2020
   definition: Vegetation of scree habitats and pebble alluvia in the submediterranean montane and supra-oromediterranean belts of the Central and Eastern Mediterranean and the Black Sea seaboards
   is_hidden_from_select: false
@@ -27895,19 +27463,6 @@ terms:
   - http://purl.obolibrary.org/obo/ENVO_01000252
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: ''
-  definition: The activation energy required for the metabolic processes involved in development. (Maps, F., Pershing, A.J. & Record, N.R. (2011). A generalized approach for simulating growth and development in diverse marine copepod species. ICES J. Mar. Sci., 69, 370–379.)
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "e(development)"
-  type: measurement
-  uri: http://eol.org/schema/terms/ActivationEnergyDevelopment
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000266
   alias:
 - attribution: ''
   definition: Ear was is a bodily fluid consisting of a yellowish, waxy substance secreted in the ear canal of humans and many other mammals. It plays an important role in the human ear canal, assisting in cleaning and lubrication, and also provides some protection from bacteria, fungi, and insects.
@@ -30431,19 +29986,6 @@ terms:
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
   alias:
 - attribution: ''
-  definition: The duration of time from oviposition to hatching of the young of oviparous animals.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "egg incubation duration"
-  type: measurement
-  uri: http://eol.org/schema/terms/EggIncubationDuration
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000033
-  alias:
-- attribution: ''
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: true
@@ -30468,20 +30010,6 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: ''
-  definition: 'The length from end to end, that is, the linear extent along the longest axis, of a bird''s egg, the ovum in combination with its nutrient stores and protective outer coverings. '
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "egg length, fowl"
-  type: measurement
-  uri: http://purl.obolibrary.org/obo/CMO_0001345
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
   alias:
 - attribution: ''
   definition: The amount of matter in the egg stage of an organism, after laying or spawning.
@@ -30510,47 +30038,6 @@ terms:
   - http://purl.obolibrary.org/obo/PATO_0001501
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: ''
-  definition: A measure of the three dimensional capacity of the first life stage of an insect.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "egg volume"
-  type: measurement
-  uri: http://eol.org/schema/terms/InsectEggVolume
-  parent_uris:
-  - http://purl.obolibrary.org/obo/PATO_0001710
-  synonym_of_uri:
-  units_term_uri: http://eol.org/schema/terms/cubicMillimeter
-  alias:
-- attribution: ''
-  definition: The relative heaviness of an ovum in combination with its nutrient stores and protective outer coverings, of a bird.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "egg weight, fowl"
-  type: measurement
-  uri: http://purl.obolibrary.org/obo/CMO_0001333
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000021
-  alias:
-- attribution: ''
-  definition: The diameter across the short axis of a bird's egg, the ovum in combination with its protective outer coverings.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "egg width, fowl"
-  type: measurement
-  uri: http://purl.obolibrary.org/obo/CMO_0001346
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000042
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
   alias:
 - attribution: ''
   definition: Yolk is visible in the egg.
@@ -30976,20 +30463,6 @@ terms:
   uri: http://purl.obolibrary.org/obo/UBERON_0000068
   parent_uris:
   - http://purl.obolibrary.org/obo/PATO_0001501
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: 'this organism has been observed emerging from the associate. '
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "emerged from"
-  type: association
-  uri: http://eol.org/schema/terms/emergedFrom
-  parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0002454
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -33642,18 +33115,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: http://en.wikipedia.org/wiki/Predator
-  definition: consumes for energetic or other nutritional needs
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  name: "feeds on"
-  type: association
-  uri: http://eol.org/schema/terms/eats
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/RO_0002470
-  units_term_uri:
-  alias:
 - attribution: http://en.wikipedia.org/w/index.php?title=Foot_(unit)&oldid=587535236
   definition: 'A foot (plural: feet; abbreviation or symbol: ft or ′ (the prime symbol) is a unit of length. Since 1960 the term has usually referred to the international foot, defined as being one third of a yard, making it 0.3048 meters exactly. It is an integral part of both the imperial and United States customary systems of units. It is subdivided into 12 inches.'
   is_hidden_from_select: false
@@ -34314,54 +33775,6 @@ terms:
   synonym_of_uri:
   units_term_uri: http://eol.org/schema/terms/paleo_megaannum
   alias:
-- definition: The earliest interval in which the first appearance of this taxon in the fossil record falls.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "first Appearance (Earliest Interval)"
-  type: measurement
-  uri: http://eol.org/schema/terms/paleo_firstapp_ei
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://eol.org/schema/terms/paleo_megaannum
-  alias:
-- definition: The latest interval in which the first appearance of this taxon in the fossil record falls.\r\n
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "first Appearance (Latest Interval)"
-  type: measurement
-  uri: http://eol.org/schema/terms/paleo_firstapp_li
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://eol.org/schema/terms/paleo_megaannum
-  alias:
-- attribution: ''
-  definition: The older bound for the first appearance of this taxon in the fossil record, in Ma.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  name: "first appearance (older bound)"
-  type: measurement
-  uri: http://eol.org/schema/terms/paleo_firstapp_ea
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://eol.org/schema/terms/paleo_megaannum
-  alias:
-- attribution: ''
-  definition: The younger bound for the first appearance of this taxon in the fossil record, in Ma.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  name: "first appearance (younger bound)"
-  type: measurement
-  uri: http://eol.org/schema/terms/paleo_firstapp_la
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://eol.org/schema/terms/paleo_megaannum
-  alias:
 - attribution: ''
   definition: A member of one of the basal lineages of craniate animals that lack limbs with digits, including hagfish, lampreys, cartilaginous and bony fishes.
   is_hidden_from_select: false
@@ -34508,20 +33921,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: ''
-  definition: The time it takes for a bird to be capable of flight (or for some species, leaving the nest).
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "fledging Length"
-  type: measurement
-  uri: http://eol.org/schema/terms/Fledginglength
-  parent_uris:
-  - http://purl.obolibrary.org/obo/PATO_0001708
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
 - attribution: http://www.uv.es/jgpausas/brot.htm
   definition: A fruit with at least one tissue that is succulent at maturity.
   is_hidden_from_select: false
@@ -34549,48 +33948,6 @@ terms:
   - http://purl.obolibrary.org/obo/NBO_0000366
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "flight period - end"
-  type: measurement
-  uri: http://eol.org/schema/terms/FlightPeriodEnd
-  parent_uris:
-  - http://eol.org/schema/terms/phenologicalSeason
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "flight period - start"
-  type: measurement
-  uri: http://eol.org/schema/terms/FlightPeriodBegin
-  parent_uris:
-  - http://eol.org/schema/terms/phenologicalSeason
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "flight period duration"
-  type: measurement
-  uri: http://eol.org/schema/terms/FlightPeriodDuration
-  parent_uris:
-  - http://eol.org/schema/terms/phenologicalSeason
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000035
   alias:
 - attribution: https://www.worldwildlife.org/ecoregions/na0807
   definition: ''
@@ -34886,19 +34243,6 @@ terms:
   parent_uris:
   - http://purl.obolibrary.org/obo/PATO_0000014
   synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: The flowers of this plant are visited by the listed organism.  It may or may not be an effective pollinator.
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "flowers visited by"
-  type: association
-  uri: http://eol.org/schema/terms/FlowersVisitedBy
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/RO_0002623
   units_term_uri:
   alias:
 - attribution: ''
@@ -35240,20 +34584,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "fore wing length"
-  type: measurement
-  uri: http://eol.org/schema/terms/ForeWingLength
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- attribution: ''
   definition: The distance from point to point along the longest axis of the anterior/superior jointed appendages used for locomotion or grasping.
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -35467,20 +34797,6 @@ terms:
   uri: http://eol.org/schema/terms/groundDwelling
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_00000446
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: this organism has been found near the associate. No evidence of relationship except proximity
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "found near"
-  type: association
-  uri: http://eol.org/schema/terms/foundNear
-  parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0008506
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -36974,20 +36290,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: http://docs.lib.noaa.gov/rescue/mwr/Suppl/no2-1915.pdf
-  definition: The date on which a majority of the leaves, especially the outer ones, have turned their upper surfaces upward
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "general leafing out"
-  type: measurement
-  uri: http://eol.org/schema/terms/FullLeaf
-  parent_uris:
-  - http://eol.org/schema/terms/phenologicalSeason
-  synonym_of_uri:
-  units_term_uri:
-  alias:
 - attribution: ''
   definition: A species that can be found in very many different biotopes
   is_hidden_from_select: false
@@ -37000,19 +36302,6 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: ''
-  definition: in population biology, the number of generations of offspring born during an interval. Reciprocal of generation time (http://en.wikipedia.org/wiki/Generation_time)
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "generation frequency"
-  type: measurement
-  uri: http://eol.org/schema/terms/GenerationFrequency
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74924
   alias:
 - attribution: http://en.wikipedia.org/wiki/Generation_time
   definition: In population biology, the generation time is a quantity that reflects the average time between two consecutive generations. Reciprocal of Generation Frequency
@@ -37440,20 +36729,6 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "girdle diameter"
-  type: measurement
-  uri: http://eol.org/schema/terms/girdleDiameter
-  parent_uris:
-  - http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25285
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
   alias:
 - attribution: https://www.worldwildlife.org/ecoregions/pa0808
   definition: ''
@@ -41438,18 +40713,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: The organism inhabits this environment or ecoregion.
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  name: "habitat includes"
-  type: measurement
-  uri: http://eol.org/schema/terms/Habitat
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/RO_0002303
-  units_term_uri:
-  alias:
-- attribution: ''
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: true
@@ -41980,19 +41243,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: http://en.wikipedia.org/wiki/Harem_%28zoology%29
-  definition: 'The term harem is used in zoology to characterize a social organization consisting of a group of females, their offspring, and one to two males. '
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "harem"
-  type: measurement
-  uri: http://eol.org/schema/terms/harem
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -42061,21 +41311,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: https://en.wikipedia.org/wiki/Dispersal_vector
-  definition: a dispersal vector is "an agent transporting seeds or other dispersal units". Dispersal vectors may include biotic factors, such as animals, or abiotic factors, such as the wind or the ocean.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "has dispersal vector"
-  type: association
-  uri: http://eol.org/schema/terms/HasDispersalVector
-  parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0008506
-  - http://purl.obolibrary.org/obo/RO_0002442
-  synonym_of_uri:
-  units_term_uri:
-  alias:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -42133,19 +41368,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: http://en.wikipedia.org/wiki/Host_(biology); http://en.wikipedia.org/wiki/Symbiosis
-  definition: 'derives some resource as a symbiont, either commensal, parasitic or mutualistic '
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "has host"
-  type: association
-  uri: http://eol.org/schema/terms/hasHost
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/RO_0002454
-  units_term_uri:
-  alias:
 - attribution: From OBO Relation Ontology
   definition: ''
   is_hidden_from_select: false
@@ -42176,19 +41398,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: http://en.wikipedia.org/wiki/Parasitism
-  definition: non-mutual relationship between organisms of different species where one organism, the parasite, benefits at the expense of the other, the host.
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "has parasite"
-  type: association
-  uri: http://eol.org/schema/terms/hasParasite
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/RO_0002445
-  units_term_uri:
-  alias:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -42215,31 +41424,6 @@ terms:
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002453
   synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: http://en.wikipedia.org/wiki/Pollination
-  definition: 'moves pollen from the male anthers of a flower to the female stigma of a flower to accomplish fertilization. '
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "has pollinator"
-  type: association
-  uri: http://eol.org/schema/terms/hasPollinator
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/RO_0002456
-  units_term_uri:
-  alias:
-- attribution: http://en.wikipedia.org/wiki/Predation
-  definition: 'is consumed for energetic or other nutritional needs (by another organism) '
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  name: "has predator"
-  type: association
-  uri: http://eol.org/schema/terms/HasPredator
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/RO_0002458
   units_term_uri:
   alias:
 - attribution: ''
@@ -42616,20 +41800,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: "[database_cross_reference: Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed] [database_cross_reference: ISBN:978-1416049982]"
-  definition: 'The heaviness of the heart (the central cardiac muscle which maintains the circulation of the blood) or the degree to which it is drawn to the earth by gravity. '
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "heart weight"
-  type: measurement
-  uri: http://purl.obolibrary.org/obo/CMO_0000017
-  parent_uris:
-  - http://purl.obolibrary.org/obo/PATO_0000125
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000021
-  alias:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -42735,20 +41905,6 @@ terms:
   uri: http://semanticscience.org/resource/SIO_000040
   parent_uris:
   - http://purl.obolibrary.org/obo/PATO_0001708
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- attribution: Francis, C. M. 2008. A Field Guide to the Mammals of South-East Asia.
-  definition: The height of an animal measured from the ground to the top of the shoulder when the animal is standing. It is commonly used as a measure in quadrupedal animals.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "height at shoulder"
-  type: measurement
-  uri: http://eol.org/schema/terms/HeightAtShoulder
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000040
   synonym_of_uri:
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
   alias:
@@ -43716,20 +42872,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "hind femur length"
-  type: measurement
-  uri: http://eol.org/schema/HindFemurLength
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
 - attribution: Darrin Lunde
   definition: The hind foot length, from heel to toe.
   is_hidden_from_select: false
@@ -43739,20 +42881,6 @@ terms:
   name: "hind tarsus length"
   type: measurement
   uri: http://eol.org/schema/terms/HindTarsusLength
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "hind wing length"
-  type: measurement
-  uri: http://eol.org/schema/terms/HindWingLength
   parent_uris:
   - http://semanticscience.org/resource/SIO_000041
   synonym_of_uri:
@@ -44095,18 +43223,6 @@ terms:
   uri: http://eol.org/schema/terms/HomeRange
   parent_uris: []
   synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: The area within which everyday activities of an animal are typically restricted
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  name: "home range"
-  type: measurement
-  uri: http://www.owl-ontologies.com/unnamed.owl#Home_range
-  parent_uris: []
-  synonym_of_uri: http://eol.org/schema/terms/HomeRange
   units_term_uri:
   alias:
 - attribution: 'International Chronostratigraphic Chart: http://www.stratigraphy.org/index.php/ics-chart-timescale'
@@ -44458,19 +43574,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: http://en.wikipedia.org/wiki/Host_(biology); http://en.wikipedia.org/wiki/Symbiosis
-  definition: 'provides some resource to a symbiont, either commensal, parasitic or mutualistic '
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "hosts"
-  type: association
-  uri: http://eol.org/schema/terms/hosts
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/RO_0002453
-  units_term_uri:
-  alias:
 - attribution: ''
   definition: A spring that is produced by the emergence of geothermally-heated groundwater from the Earth's crust.
   is_hidden_from_select: false
@@ -44771,20 +43874,6 @@ terms:
   - http://www.marineregions.org/mrgid/1908
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: "[database_cross_reference: Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed] [database_cross_reference: ISBN:978-1416049982]"
-  definition: 'Distance from end to end of the humerus, the bone in the upper portion of the forelimb. '
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "humerus length"
-  type: measurement
-  uri: http://purl.obolibrary.org/obo/CMO_0000469
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
   alias:
 - attribution: created by Anne Thessen
   definition: An aquatic habitat characterized by high concentration of humic acids.
@@ -45210,20 +44299,6 @@ terms:
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002454
   - http://purl.obolibrary.org/obo/RO_0002442
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: this organism is a parasite of a known parasite of the target organism
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "hyperparasitoid of"
-  type: association
-  uri: http://eol.org/schema/terms/hyperparasitoidOf
-  parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0002444
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -47407,20 +46482,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: Indicates whether a taxon is listed on a global or regional list of invasive organisms or whether it has special legal status due to its negative impact on human welfare or ecosystems.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "invasive/noxious listings"
-  type: measurement
-  uri: http://eol.org/schema/terms/InvasiveNoxiousStatus
-  parent_uris:
-  - http://eol.org/schema/terms/InvasiveRange
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
   definition: the "indirect" orientation of a retinal surface, where the rhabdom, the transparent light receptive structure of the cell, faces away from the incoming light. Can be less efficient at light capture; however, this may be mitigated by migration of rest of the cell body out of the light path, and/or the presence of a reflective tapetum behind the retina, redirecting photons back through it.
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -47951,20 +47012,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: https://en.wikipedia.org/wiki/Dispersal_vector
-  definition: a dispersal vector is "an agent transporting seeds or other dispersal units". Dispersal vectors may include biotic factors, such as animals, or abiotic factors, such as the wind or the ocean.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  name: "is dispersal vector for"
-  type: association
-  uri: http://eol.org/schema/terms/IsDispersalVectorFor
-  parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0008506
-  - http://purl.obolibrary.org/obo/RO_0002442
-  synonym_of_uri:
-  units_term_uri:
-  alias:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -47990,33 +47037,6 @@ terms:
   uri: http://purl.obolibrary.org/obo/RO_0002321
   parent_uris: []
   synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: 'has been observed or reported in physical contact with '
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "is found on"
-  type: association
-  uri: http://eol.org/schema/terms/isFoundOn
-  parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0008506
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "is killed by"
-  type: association
-  uri: http://eol.org/schema/terms/isKilledBy
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/RO_0002627
   units_term_uri:
   alias:
 - attribution: ''
@@ -50607,19 +49627,6 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "kills"
-  type: association
-  uri: http://eol.org/schema/terms/kills
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/RO_0002626
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
@@ -52654,20 +51661,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: The linear length of the diameter of the largest ovum.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "largest ovum diameter"
-  type: measurement
-  uri: http://eol.org/schema/terms/LargestOvumDiameter
-  parent_uris:
-  - http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25285
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- attribution: ''
   definition: Both larvae and pupae are represented in a sample or an occurrence.
   is_hidden_from_select: false
   is_hidden_from_overview: true
@@ -52746,67 +51739,6 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri: http://eol.org/schema/terms/paleo_megaannum
-  alias:
-- definition: The earliest interval in which the last appearance of this taxon in the fossil record falls.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "last Appearance (Earliest Interval)"
-  type: measurement
-  uri: http://eol.org/schema/terms/paleo_lastapp_ei
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://eol.org/schema/terms/paleo_megaannum
-  alias:
-- definition: The latest interval in which the last appearance of this taxon in the fossil record falls.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "last Appearance (Latest Interval)"
-  type: measurement
-  uri: http://eol.org/schema/terms/paleo_lastapp_li
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://eol.org/schema/terms/paleo_megaannum
-  alias:
-- attribution: ''
-  definition: The older bound for the last appearance of this taxon in the fossil record, in Ma.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  name: "last appearance (older bound)"
-  type: measurement
-  uri: http://eol.org/schema/terms/paleo_lastapp_ea
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://eol.org/schema/terms/paleo_megaannum
-  alias:
-- attribution: ''
-  definition: The younger bound for the last appearance of this taxon in the fossil record, in Ma.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  name: "last appearance (younger bound)"
-  type: measurement
-  uri: http://eol.org/schema/terms/paleo_lastapp_la
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://eol.org/schema/terms/paleo_megaannum
-  alias:
-- attribution: ''
-  definition: Being or occurring at an advanced period of time or after a usual or expected time.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "late"
-  type: value
-  uri: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64998
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
   alias:
 - attribution: ''
   definition: Old adult
@@ -53058,20 +51990,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "lateral gill length"
-  type: measurement
-  uri: http://eol.org/schema/LateralGillLength
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- attribution: ''
   definition: The parallel ridges of till deposited along the sides of an alglacier. The unconsolidated debris is deposited on top of the glacier by frost shattering of the valley walls and from tributary streams flowing into the valley. The till is carried along the glacial margin until the glacier melts.
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -53148,19 +52066,6 @@ terms:
   uri: http://rs.tdwg.org/dwc/terms/decimalLatitude
   parent_uris: []
   synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000185
-  alias:
-- attribution: ''
-  definition: Latitude is a geographic coordinate which refers to the angle from a point on the Earth's surface to the equatorial plane
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "latitude"
-  type: measurement
-  uri: http://semanticscience.org/resource/SIO_000319
-  parent_uris: []
-  synonym_of_uri: http://rs.tdwg.org/dwc/terms/decimalLatitude
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000185
   alias:
 - attribution: ''
@@ -53773,20 +52678,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "leg span"
-  type: measurement
-  uri: http://eol.org/schema/terms/leg_span
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- attribution: ''
   definition: weight bearing and locomotive anatomical structure, usually having a columnar shape, function as extensible struts
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -53868,31 +52759,6 @@ terms:
   parent_uris:
   - http://purl.obolibrary.org/obo/PATO_0001708
   synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- definition: ''
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "length"
-  type: measurement
-  uri: http://www.owl-ontologies.com/unnamed.owl#Length
-  parent_uris: []
-  synonym_of_uri: http://semanticscience.org/resource/SIO_000041
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- attribution: ''
-  definition: Body length at the first successful reproduction
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "length at maturity"
-  type: measurement
-  uri: http://eol.org/schema/terms/LengthAtMaturity
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/CMO_0000013
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
   alias:
 - attribution: https://www.britannica.com/science/photoreception/Single-chambered-eyes#ref278819
@@ -54080,19 +52946,6 @@ terms:
   type: value
   uri: http://purl.bioontology.org/ontology/MSH/D053609
   parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- definition: A written message from one person to another addressed to a person or organization.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "letter"
-  type: measurement
-  uri: http://purl.obolibrary.org/obo/ENVO_02000081
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000002
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -54361,19 +53214,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: The full period of time from birth to death of an organism
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "life span"
-  type: measurement
-  uri: http://purl.obolibrary.org.s2.gvirabi.com/obo/VT_0001661
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/PATO_0000050
-  units_term_uri:
-  alias:
-- attribution: ''
   definition: A time quality inhering in a bearer by virtue of the bearer's expected maximum age.
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -54396,19 +53236,6 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "lifespan"
-  type: measurement
-  uri: http://www.owl-ontologies.com/unnamed.owl#Longest_wild_lifespan
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/PATO_0000050
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000035
   alias:
 - attribution: ''
   definition: Hydrofoils, or fins, are used to push against the water to create a normal force to provide thrust, propelling the animal through water. The reduction of fin cross-sectional area helps to minimize drag, and therefore increase efficiency. Regardless of size of the animal, at any particular speed, maximum possible lift is proportional to (wing area) x (speed)<sup>2</sup>. Dolphins and whales have large, horizontal caudal hydrofoils, while many fish and sharks have vertical caudal hydrofoils.
@@ -55137,19 +53964,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "locomotion"
-  type: measurement
-  uri: http://www.owl-ontologies.com/unnamed.owl#Locomotion
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/GO_0040011
-  units_term_uri:
-  alias:
 - definition: The metric unit of mass (gram) expressed on a logarithmic-scale (base 10).
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -55158,19 +53972,6 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/log10gram
   parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- definition: Mass of Carbon per individual cell, in micrograms, expressed as a log base 10. (Barton, AD, Finkel, ZV, Ward, BA, Johns, DG, Follows, MJ. 2013. On the roles of cell size and trophic strategy in North Atlantic diatom and dinoflagellate communities. Limnol. Oceanogr., 58(1), 2013, 254–266. doi:10.4319/lo.2013.58.1.0254)
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "log10 mean cell mass (μg C cell-1)"
-  type: measurement
-  uri: http://eol.org/schema/terms/LogMeanCellMass
-  parent_uris:
-  - http://purl.obolibrary.org/obo/OBA_1000036
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -55254,19 +54055,6 @@ terms:
   uri: http://rs.tdwg.org/dwc/terms/decimalLongitude
   parent_uris: []
   synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000185
-  alias:
-- attribution: ''
-  definition: Longitude is a geographic position that refers to the angle east or west of a reference meridian between the two geographical poles to another meridian that passes through an arbitrary point.
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "longitude"
-  type: measurement
-  uri: http://semanticscience.org/resource/SIO_000318
-  parent_uris: []
-  synonym_of_uri: http://rs.tdwg.org/dwc/terms/decimalLongitude
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000185
   alias:
 - attribution: Haveman, Schaminee et Stortelder in Stortelder et al. 1993 AND https://doi.org/10.1111/avsc.12257, accessed at https://www.synbiosys.alterra.nl/evc/, May 2020
@@ -58824,18 +57612,6 @@ terms:
   synonym_of_uri:
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000021
   alias:
-- definition: ''
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "mass"
-  type: measurement
-  uri: http://www.owl-ontologies.com/unnamed.owl#Mass
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/PATO_0000125
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000021
-  alias:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -59312,32 +58088,6 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri: http://eol.org/schema/terms/µmol_cell-1_day-1
-  alias:
-- attribution: ''
-  definition: The greater depth of a range of depth below the local surface, in meters.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "maximum depth in meters"
-  type: measurement
-  uri: http://rs.tdwg.org/dwc/terms/maximumDepthInMeters
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000008
-  alias:
-- attribution: ''
-  definition: The upper limit of the range of elevation (altitude, usually above sea level), in meters.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "maximum elevation in meters"
-  type: measurement
-  uri: http://rs.tdwg.org/dwc/terms/maximumElevationInMeters
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000008
   alias:
 - attribution: ''
   definition: The fifth month of the year in the Gregorian calendar.
@@ -60458,18 +59208,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: The amount of energy expended at rest
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  name: "metabolic rate"
-  type: measurement
-  uri: http://www.owl-ontologies.com/unnamed.owl#Metabolic_rate
-  parent_uris: []
-  synonym_of_uri: http://purl.bioontology.org/ontology/SNOMEDCT/165109007
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000114
-  alias:
-- attribution: ''
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -60550,19 +59288,6 @@ terms:
   uri: http://purl.obolibrary.org/obo/GO_0007552
   parent_uris: []
   synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "metamorphosis"
-  type: measurement
-  uri: http://www.owl-ontologies.com/unnamed.owl#Metamorphosis
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/GO_0007552
   units_term_uri:
   alias:
 - attribution: ''
@@ -61172,32 +59897,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'A measure of geographic range:  Median latitudinal extent of the species range. '
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "mid-range latitude"
-  type: measurement
-  uri: http://eol.org/schema/terms/MidRangeLatitude
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000185
-  alias:
-- attribution: ''
-  definition: 'A measure of geographic range:  Median longitudinal extent of the species range. '
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "mid-range longitude"
-  type: measurement
-  uri: http://eol.org/schema/terms/MidRangeLongitude
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000185
-  alias:
-- attribution: ''
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -61384,20 +60083,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: ''
-  definition: The length of the middle toe and claw.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "middle toe & claw length"
-  type: measurement
-  uri: http://eol.org/schema/terms/MiddleToePlusClawLength
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
 - definition: length of the middle toe
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -61531,32 +60216,6 @@ terms:
   uri: http://www.owl-ontologies.com/unnamed.owl#Migratory
   parent_uris: []
   synonym_of_uri: http://eol.org/schema/terms/migratory
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "migratory status"
-  type: measurement
-  uri: http://eol.org/schema/terms/MigratoryStatus
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/IDOMAL_0002084
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "migratory status"
-  type: measurement
-  uri: http://www.owl-ontologies.com/unnamed.owl#MigratoryStatus
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/IDOMAL_0002084
   units_term_uri:
   alias:
 - attribution: ''
@@ -61866,31 +60525,6 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: ''
-  definition: The lesser depth of a range of depth below the local surface, in meters.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "minimum depth in meters"
-  type: measurement
-  uri: http://rs.tdwg.org/dwc/terms/minimumDepthInMeters
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000008
-  alias:
-- attribution: ''
-  definition: The lower limit of the range of elevation (altitude, usually above sea level), in meters.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  name: "minimum elevation in meters"
-  type: measurement
-  uri: http://rs.tdwg.org/dwc/terms/minimumElevationInMeters
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000008
   alias:
 - attribution: ''
   definition: ''
@@ -62924,19 +61558,6 @@ terms:
   uri: https://www.wikidata.org/entity/Q66368485
   parent_uris:
   - https://eol.org/schema/terms/unisexual_flowers
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "monogamous"
-  type: measurement
-  uri: http://eol.org/schema/terms/monogamous
-  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -64312,20 +62933,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: Approximate 3D shape of the cap of the mushroom.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "mushroom cap shape"
-  type: measurement
-  uri: http://eol.org/schema/terms/mushroomCapShape
-  parent_uris:
-  - http://purl.obolibrary.org/obo/PATO_0000052
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -65032,19 +63639,6 @@ terms:
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_00000358
   synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: 'This method assesses the conservation status of species and ecosystems–specifically the extinction risk of species and elimination risk of ecosystems at global scales, and their extirpation risk at national and subnational scales. '
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "natureServe Conservation Assessment"
-  type: measurement
-  uri: https://eol.org/schema/terms/natureserve_assessment
-  parent_uris: []
-  synonym_of_uri: http://rs.tdwg.org/ontology/voc/SPMInfoItems#ConservationStatus
   units_term_uri:
   alias:
 - attribution: ''
@@ -66806,19 +65400,6 @@ terms:
   name: "no known source"
   type: value
   uri: http://eol.org/schema/terms/noKnownSource
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: Organism was once found in this region, but is no longer present.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "no longer present in region"
-  type: measurement
-  uri: http://eol.org/schema/terms/absentFormerlyPresent
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
@@ -71131,18 +69712,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- definition: ''
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "number of offspring"
-  type: measurement
-  uri: http://www.owl-ontologies.com/unnamed.owl#Number_of_offspring
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/VT_0001933
-  units_term_uri:
-  alias:
 - attribution: ''
   definition: number of records in this clade in the Barcode Of Life Database (BOLD)
   is_hidden_from_select: false
@@ -71587,19 +70156,6 @@ terms:
   uri: http://rs.tdwg.org/dwc/terms/occurrenceRemarks
   parent_uris: []
   synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "occurs in"
-  type: measurement
-  uri: http://reeffish.org/occursIn
-  parent_uris: []
-  synonym_of_uri: http://eol.org/schema/terms/Present
   units_term_uri:
   alias:
 - attribution: ''
@@ -73628,48 +72184,6 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: "[database_cross_reference: ISBN:0-683-40008-8] [database_cross_reference: VTO:INRA]"
-  definition: 'The distance across the female reproductive gland containing the germ cells. '
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "ovary diameter"
-  type: measurement
-  uri: http://purl.obolibrary.org/obo/VT_0010375
-  parent_uris:
-  - http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25285
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- attribution: ''
-  definition: 'The length of the the female reproductive gland containing the germ cells. '
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "ovary length"
-  type: measurement
-  uri: http://eol.org/schema/terms/OvaryLength
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- attribution: ''
-  definition: 'The width of the the female reproductive gland containing the germ cells. '
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "ovary width"
-  type: measurement
-  uri: http://eol.org/schema/terms/OvaryWidth
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000042
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000016
   alias:
 - attribution: ''
   definition: Egg-shaped; a spheroid quality inhering in a bearer by virtue of the bearer's exhibiting a continuous convex surface with an axis of symmetry and one axis longer than the other.
@@ -75708,19 +74222,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: http://en.wikipedia.org/wiki/Parasitism
-  definition: 'non-mutual relationship between organisms of different species where one organism, the parasite, benefits at the expense of the other, the host. '
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "parasitizes"
-  type: association
-  uri: http://eol.org/schema/terms/parasitizes
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/RO_0002444
-  units_term_uri:
-  alias:
 - attribution: ''
   definition: organism that spends a significant portion of its life history attached to or within a single host organism in a relationship where the host is ultimately killed
   is_hidden_from_select: false
@@ -75827,19 +74328,6 @@ terms:
   parent_uris:
   - http://purl.obolibrary.org/obo/GO_0000003
   synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: Any behaviour pattern in which a parent invests time or energy in feeding and protecting its offspring.
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "parental care"
-  type: measurement
-  uri: http://www.owl-ontologies.com/unnamed.owl#Parental_investment
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/GO_0060746
   units_term_uri:
   alias:
 - attribution: ''
@@ -76410,20 +74898,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: Live in the water column of a marine of freshwater environment.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "pelagic"
-  type: measurement
-  uri: http://eol.org/schema/terms/pelagic
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00002030
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
   definition: ''
   is_hidden_from_select: true
   is_hidden_from_overview: true
@@ -76580,20 +75054,6 @@ terms:
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: ''
-  definition: 'Length of the external male sexual organ. '
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "penis length"
-  type: measurement
-  uri: http://eol.org/schema/terms/PenisLength
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
   alias:
 - attribution: ''
   definition: diatoms which are bilaterally symmetrical (http://en.wikipedia.org/wiki/Diatom#Classification)
@@ -78196,19 +76656,6 @@ terms:
   synonym_of_uri:
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
   alias:
-- attribution: TRY summarized records
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "plant height"
-  type: measurement
-  uri: http://www.nucleodiversus.org/index.php?mod=caracter&id=7
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
 - attribution: ''
   definition: whole plant lifeform
   is_hidden_from_select: false
@@ -78278,19 +76725,6 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: ''
-  definition: The space/row width needed by an individual plant in cultivation.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "plant spacing"
-  type: measurement
-  uri: http://eol.org/schema/terms/PlantSpacing
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
   alias:
 - attribution: ''
   definition: An intentional planting of a crop, on a large scale, usually for uses other than cereal production or pasture. The term is currently most often used for plantings of trees and shrubs. The term tends also to be used for plantings maintained on economic bases other than that of subsistence farming.
@@ -79026,19 +77460,6 @@ terms:
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002623
   synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: http://en.wikipedia.org/wiki/Pollinator
-  definition: 'moves pollen from the male anthers of a flower to the female stigma of a flower to accomplish fertilization. '
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "pollinates"
-  type: association
-  uri: http://eol.org/schema/terms/pollinates
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/RO_0002455
   units_term_uri:
   alias:
 - attribution: ''
@@ -79831,19 +78252,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'specific rate of change in population biomass or # of individuals per unit time'
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "population growth rate"
-  type: measurement
-  uri: http://eol.org/schema/terms/PopulationGrowthRate
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74924
-  alias:
-- attribution: ''
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: true
@@ -80431,19 +78839,6 @@ terms:
   synonym_of_uri:
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000272
   alias:
-- attribution: http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2008.00405.x/abstract
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "prey volume"
-  type: measurement
-  uri: http://eol.org/schema/terms/PreyVolume
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://eol.org/schema/terms/cubicMillimeter
-  alias:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -80472,18 +78867,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: http://en.wikipedia.org/wiki/Predator
-  definition: 'consumes for energetic or other nutritional needs (object of consumption is an organism) '
-  is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  name: "preys upon"
-  type: association
-  uri: http://eol.org/schema/terms/preysUpon
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/RO_0002470
-  units_term_uri:
-  alias:
 - attribution: 'International Chronostratigraphic Chart: http://www.stratigraphy.org/index.php/ics-chart-timescale'
   definition: ''
   is_hidden_from_select: false
@@ -80509,19 +78892,6 @@ terms:
   uri: http://resource.geosciml.org/classifier/ics/ischart/Pridoli
   parent_uris:
   - http://resource.geosciml.org/classifier/ics/ischart/Silurian
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: Richard M. Sibly, Christopher C. Witt, Natalie A. Wright, Chris Venditti, Walter Jetz, and James H. Brown. 2012.  Energetics, lifestyle, and reproduction in birds.  PNAS 109(27):10937-10941, doi:10.1073/pnas.1206512109
-  definition: Type of food comprising the majority of the diet of an animal
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  name: "primary diet"
-  type: measurement
-  uri: http://eol.org/schema/terms/PrimaryDiet
-  parent_uris:
-  - http://eol.org/schema/terms/TrophicGuild
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -80726,48 +79096,6 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/prismOnTriangleBaseGirdleView
   parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: Lists jurisdictions in which a given organism has probably been introduced recently.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "probably introduced range includes"
-  type: measurement
-  uri: http://eol.org/schema/terms/ProbablyIntroducedRange
-  parent_uris:
-  - http://eol.org/schema/terms/IntroducedRange
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: Lists jurisdictions in which a given organism is probably a member of the undisturbed fauna or flora.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "probably native range includes"
-  type: measurement
-  uri: http://eol.org/schema/terms/ProbablyNativeRange
-  parent_uris:
-  - http://eol.org/schema/terms/Present
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: Lists jurisdictions where a given organism is probably an ephemeral introduction, not persistently naturalized
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "probably waif range"
-  type: measurement
-  uri: http://eol.org/schema/terms/ProbablyWaifRange
-  parent_uris:
-  - http://eol.org/schema/terms/Present
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -82178,20 +80506,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'The length of the radius bone; can be determined in situ by measuring the distance from the humeroradial joint (the elbow) to the radiocarpal joint (the wrist). '
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "radius length"
-  type: measurement
-  uri: http://eol.org/schema/terms/RadiusLength
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- attribution: ''
   definition: An anatomical structure found in mollusks and used for feeding. It is a minutely toothed, chitinous ribbon. It is typically used for scraping or cutting food before the food enters the esophagus. The radula is unique to the molluscs, and is found in all classes of mollusks except for the bivalves
   is_hidden_from_select: false
   is_hidden_from_overview: true
@@ -82424,20 +80738,6 @@ terms:
   type: value
   uri: https://www.wikidata.org/entity/Q3503448
   parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: Organism is present in his region, but it is rare.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "rare in region"
-  type: measurement
-  uri: http://eol.org/schema/terms/presentAndRare
-  parent_uris:
-  - http://eol.org/schema/terms/Present
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -88375,19 +86675,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: 'BROT trait database. Traits: units and categories (SeedMass), http://www.uv.es/jgpausas/brot.htm;'
-  definition: The dry weight of seeds (including some single-fruited seeds such as achenes or caryopsis).
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "seed mass"
-  type: measurement
-  uri: http://eol.org/schema/terms/SeedMass
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/FLOPO_0015519
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000021
-  alias:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -88444,34 +86731,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "seed ripening period begin"
-  type: measurement
-  uri: http://eol.org/schema/terms/SeedRipeningBegin
-  parent_uris:
-  - http://eol.org/schema/terms/phenologicalSeason
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "seed ripening period end"
-  type: measurement
-  uri: http://eol.org/schema/terms/SeedRipeningEnd
-  parent_uris:
-  - http://eol.org/schema/terms/phenologicalSeason
-  synonym_of_uri:
-  units_term_uri:
-  alias:
 - attribution: USDA PLANTS database Characteristics Data Fields. http://plants.usda.gov/charinfo.html
   definition: The capability of the plant to spread through its seed production compared to other species with the same growth habit.
   is_hidden_from_select: false
@@ -88484,20 +86743,6 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: 'Chen, S.-C. and Moles, A. T. (2015), A mammoth mouthful? A test of the idea that larger animals ingest larger seeds. Global Ecology and Biogeography. doi: 10.1111/geb.12346'
-  definition: The three dimensional volume occupied by one seed
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "seed volume"
-  type: measurement
-  uri: http://eol.org/schema/terms/SeedVolume
-  parent_uris:
-  - http://purl.obolibrary.org/obo/PATO_0001710
-  synonym_of_uri:
-  units_term_uri: http://eol.org/schema/terms/cubicMillimeter
   alias:
 - attribution: BROT plant trait database for Mediterranean
   definition: ''
@@ -89272,19 +87517,6 @@ terms:
   name: "sex"
   type: metadata
   uri: http://rs.tdwg.org/dwc/terms/sex
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: The establishment and transmission of the specification of sexual status of an individual organism.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: true
-  name: "sex determination"
-  type: measurement
-  uri: http://purl.obolibrary.org/obo/GO_0007530
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
@@ -90708,19 +88940,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: http://onlinelibrary.wiley.com/doi/10.1111/j.1466-8238.2011.00729.x/abstract
-  definition: The total SiO2 concentration measured in a given volume of a plant or a plant part or plant extract.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "siO2 concentration"
-  type: measurement
-  uri: http://eol.org/schema/terms/SiliconDioxideConcentration
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000064
-  alias:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -90941,20 +89160,6 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: ''
-  definition: The thickness of the skeleton relative to body size.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "skeleton thickness"
-  type: measurement
-  uri: http://eol.org/schema/terms/SkeletonThickness
-  parent_uris:
-  - http://purl.obolibrary.org/obo/OBA_0002342
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000016
   alias:
 - attribution: ''
   definition: An organ that constitutes the external surface of the body. It consists of the epidermis, dermis, and skin appendages.
@@ -91267,18 +89472,6 @@ terms:
   name: "social group"
   type: value
   uri: http://eol.org/schema/terms/socialGroupCare
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  name: "social Group Living"
-  type: measurement
-  uri: http://eol.org/schema/terms/socialGroupLiving
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
@@ -95703,20 +93896,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: Length of one bird wing from tip to shoulder; also known as wing extended length.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "spread wing length"
-  type: measurement
-  uri: http://eol.org/schema/terms/SpreadWingLength
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- attribution: ''
   definition: The season between the vernal equinox and the summer solstice.
   is_hidden_from_select: true
   is_hidden_from_overview: true
@@ -99184,20 +97363,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: The distance from the base (root) of the center tail feathers to their tip. Some measurements may reference the longest feather(s) even if these aren’t the center ones.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "tail feather length"
-  type: measurement
-  uri: http://eol.org/schema/terms/TailFeatherLength
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- attribution: ''
   definition: The distance from point to point along the longest axis of the appendage at the caudal end of the vertebral column.
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -99680,20 +97845,6 @@ terms:
   name: "tarsometatarsus + middle toe length"
   type: measurement
   uri: http://eol.org/schema/terms/TarsometatarsusPlusMiddleToeLength
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- attribution: ''
-  definition: Length of the tarsometatarsus (fusion of ankle and foot bones)
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "tarsometatarsus length"
-  type: measurement
-  uri: http://eol.org/schema/terms/TarsometatarsusLength
   parent_uris:
   - http://semanticscience.org/resource/SIO_000041
   synonym_of_uri:
@@ -100981,34 +99132,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: ''
-  definition: The distance across the male reproductive gland.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "testis diameter"
-  type: measurement
-  uri: http://eol.org/schema/terms/TestisDiameter
-  parent_uris:
-  - http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25285
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- attribution: ''
-  definition: The length of the male reproductive gland.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "testis length"
-  type: measurement
-  uri: http://eol.org/schema/terms/TestisLength
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
 - attribution: http://onlinelibrary.wiley.com/doi/10.1111/jeb.12373/full
   definition: 'Anatomical location of testis; eg: internal, descended, scrotal, inguinal.'
   is_hidden_from_select: false
@@ -101020,20 +99143,6 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: ''
-  definition: The width of the male reproductive gland.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "testis width"
-  type: measurement
-  uri: http://eol.org/schema/terms/TestisWidth
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000042
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
   alias:
 - attribution: ''
   definition: ''
@@ -101864,20 +99973,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: ''
-  definition: 'Length of the first digit (thumb) on the hand (manus); can be determined in situ by measuring the distance from the the first metacarpophalangeal joint to the distal end of the distal phalanx. '
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "thumb length"
-  type: measurement
-  uri: http://eol.org/schema/terms/ThumbLength
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
 - attribution: https://en.wikipedia.org/wiki/Fish_locomotion#Thunniform
   definition: Body/caudal fin propulsion, characteristic of tunas, also found in several lamnid sharks. Virtually all the sideways movement is in the tail and the region connecting the main body to the tail (the peduncle). The tail itself tends to be large and crescent shaped. This form of swimming enables these fish to chase and catch prey more easily due to the increase in speed of swimming, like in barracudas.
   is_hidden_from_select: false
@@ -102039,20 +100134,6 @@ terms:
   - http://eol.org/schema/terms/montane_grasslands_and_shrublands
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: ''
-  definition: 'Length of the tibia bone; can be determined in situ by measuring the distance from the tibiofemoral joint (the knee) to the tibiotalar joint (the ankle).  '
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "tibia length"
-  type: measurement
-  uri: http://purl.obolibrary.org/obo/CMO_0000450
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
   alias:
 - attribution: ''
   definition: A tidal water channel. Creeks may often dry to a muddy channel with little or no flow at low tide, but often with significant depth of water at high tide.
@@ -102424,34 +100505,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: The length of a toe and claw.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "toe + claw length"
-  type: measurement
-  uri: http://eol.org/schema/terms/ToePlusClawLength
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- attribution: ''
-  definition: The length of one of the digits of the foot of a tetrapod.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "toe length"
-  type: measurement
-  uri: http://eol.org/schema/terms/ToeLength
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- attribution: ''
   definition: ''
   is_hidden_from_select: true
   is_hidden_from_overview: false
@@ -102740,19 +100793,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: definition from Wikipedia
-  definition: refers to the length of a fish measured from the tip of the snout to the tip of the longer lobe of the caudal fin, usually measured with the lobes compressed along the midline. It is a straight-line measure, not measured over the curve of the body.
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: true
-  name: "total Length"
-  type: measurement
-  uri: http://eol.org/schema/terms/TotalLength
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/CMO_0000013
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
 - attribution: ''
   definition: length from the tip of the snout to the tip of the longer lobe of the caudal fin, usually measured with the lobes compressed along the midline. It is a straight-line measure, not measured over the curve of the body
   is_hidden_from_select: true
@@ -102933,20 +100973,6 @@ terms:
   uri: http://www.geonames.org/738649
   parent_uris:
   - http://www.geonames.org/298795
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: Definition modified from http://www.merriam-webster.com/dictionary/tragus
-  definition: A measure of the size of the tragus which is a feature of mammalian ear anatomy. This tubercle is located anterior to the meatus (the hole leading to the inner ear) and projects posteriorly over the opening. The tragus can be large and distinctively shaped in species such as bats
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "tragus size"
-  type: measurement
-  uri: http://eol.org/schema/terms/TragusSize
-  parent_uris:
-  - http://purl.obolibrary.org/obo/PATO_0000117
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -103169,19 +101195,6 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/PATO_0002044
   parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "trapezoid Shaped Cell"
-  type: measurement
-  uri: http://eol.org/schema/terms/trapezoidShapedCell
-  parent_uris:
-  - http://purl.obolibrary.org/obo/PATO_0000052
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -103623,18 +101636,6 @@ terms:
   parent_uris:
   - http://eol.org/schema/terms/trophicEcology
   synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: The position an organism occupies in a food chain.
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  name: "trophic level"
-  type: measurement
-  uri: http://eol.org/schema/terms/TrophicLevel
-  parent_uris: []
-  synonym_of_uri: http://www.wikidata.org/entity/Q1053008
   units_term_uri:
   alias:
 - attribution: ''
@@ -105450,20 +103451,6 @@ terms:
   uri: https://www.geonames.org/149253
   parent_uris:
   - http://eol.org/schema/terms/Eastern_Arc_mountains
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: "[database_cross_reference: Dorland:Dorlands_Illustrated_Medical_Dictionary--31st_Ed] [database_cross_reference: ISBN:978-1416049982]"
-  definition: The distance from one end to the other of the ulna, the major bone of the forelimb.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "ulna length"
-  type: measurement
-  uri: http://purl.obolibrary.org/obo/CMO_0000440
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -108765,20 +106752,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: Lists jurisdictions where a given organism is an ephemeral introduction, not persistently naturalized
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "waif range"
-  type: measurement
-  uri: http://eol.org/schema/terms/WaifRange
-  parent_uris:
-  - http://eol.org/schema/terms/Present
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: true
@@ -110945,19 +108918,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- definition: '10 regional U.S. Army Corps of Engineers wetland delineation regions for the U.S. and its territories used by the National Wetland Plant List. (Lichvar, R.W. 2013.   The National Wetland Plant List: 2013 wetland ratings.   Phytoneuron 2013-49: 1-241. http://rsgisias.crrel.usace.army.mil/NWPL/static/cfg/doc/pdl_2013_pub/National/NWPL_Phytoneuron_2013.pdf)'
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "wetland Indicator Region (NWPL)"
-  type: measurement
-  uri: http://eol.org/schema/terms/WetlandIndicatorRegion
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000043
-  synonym_of_uri:
-  units_term_uri:
-  alias:
 - attribution: ''
   definition: 'Whale fall is the term used for a whale carcass that has fallen to the ocean floor. When a whale dies in shallow water, its carcass is typically devoured by scavengers over a relatively short period of time: within several months. However, in deeper water (depths of 2,000 m/6,600 ft or greater), fewer scavenger species exist, and the carcass can provide sustenance for a complex localized ecosystem over periods of decades.'
   is_hidden_from_select: false
@@ -111258,20 +109218,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: The linear distance from the tip of the bill to the wrist of a bird.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "wing chord length"
-  type: measurement
-  uri: http://eol.org/schema/terms/WingChordLength
-  parent_uris:
-  - http://semanticscience.org/resource/SIO_000041
-  synonym_of_uri:
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
-- attribution: ''
   definition: A dam that only partly restricts a waterway, creating a faster channel that resists the accumulation of sediment.
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -111284,33 +109230,6 @@ terms:
   - http://purl.obolibrary.org/obo/ENVO_00000002
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: ''
-  definition: Two dimensional shape of the wing appendage of a flying animal.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "wing shape"
-  type: measurement
-  uri: http://eol.org/schema/terms/WingShape
-  parent_uris:
-  - http://purl.obolibrary.org/obo/PATO_0000052
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: Distance from one wingtip to the other wingtip
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: "wingspan"
-  type: measurement
-  uri: http://www.owl-ontologies.com/unnamed.owl#Wingspan
-  parent_uris: []
-  synonym_of_uri: http://www.wikidata.org/entity/Q245097
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
   alias:
 - attribution: ''
   definition: ''
@@ -111434,19 +109353,6 @@ terms:
   - http://purl.obolibrary.org/obo/ENVO_01000155
   synonym_of_uri:
   units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: "wood Density"
-  type: measurement
-  uri: http://eol.org/schema/terms/WoodDensity
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/OBA_1000040
-  units_term_uri: http://purl.obolibrary.org/obo/UO_0000084
   alias:
 - attribution: "[database_cross_reference: GOC:TermGenie] [database_cross_reference: http://dx.doi.org/10.1111/j.1461-0248.2009.01285.x]"
   definition: Secondary xylem volumetric density. Any measurable or observable characteristic related to the volumetric density of a secondary xylem.
