@@ -1,0 +1,1946 @@
+t.name,t.uri
+cursorial,http://eol.org/schema/terms/cursorial
+5th percentile,http://eol.org/schema/terms/5thPercentile
+individuals per square kilometer,http://eol.org/schema/terms/individualspersquarekilometer
+mangroves,http://eol.org/schema/terms/mangroves
+the Nearctic,http://eol.org/schema/terms/Nearctic
+the Neotropics,http://eol.org/schema/terms/Neotropical
+newborn animal,http://purl.bioontology.org/ontology/CSP/0070-1441
+desert,http://purl.obolibrary.org/obo/ENVO_00000097
+savanna,http://purl.obolibrary.org/obo/ENVO_00000261
+peninsula,http://purl.obolibrary.org/obo/ENVO_00000305,=
+omnivore,http://www.owl-ontologies.com/unnamed.owl#Omnivore
+birds,http://eol.org/schema/terms/bird
+leaves of herbaceous plants,http://eol.org/schema/terms/herbaceousLeaf
+mammals,http://eol.org/schema/terms/mammal
+the Palearctic,http://eol.org/schema/terms/Palearctic
+weanling,http://purl.bioontology.org/ontology/CSP/0070-2069
+aquatic,http://purl.obolibrary.org/obo/ENVO_00000063
+national park,http://purl.obolibrary.org/obo/ENVO_00000367
+herbivore,http://www.owl-ontologies.com/unnamed.owl#Primary__Herbivore
+herbivore,http://www.wikidata.org/entity/Q59099
+above ground dwelling,http://eol.org/schema/terms/aboveGroundDwelling
+caatinga,http://eol.org/schema/terms/Caatinga
+fish,http://eol.org/schema/terms/fish
+herptile,http://eol.org/schema/terms/herptile
+ocean,http://purl.obolibrary.org/obo/ENVO_00000015
+fresh water,http://purl.obolibrary.org/obo/ENVO_00002011
+anthropogenic habitat,http://purl.obolibrary.org/obo/ENVO_00002031
+not invasive in,http://eol.org/schema/terms/NonInvasiveRange
+shore,http://purl.obolibrary.org/obo/ENVO_00000304
+zoological garden,http://purl.obolibrary.org/obo/ENVO_00010625
+french Equatorial Africa,https://www.wikidata.org/entity/Q271894
+kerguelen Islands,https://www.wikidata.org/entity/Q46772
+saint Lucia,https://www.wikidata.org/entity/Q760
+thailand,https://www.wikidata.org/entity/Q869
+democratic Republic of the Congo,https://www.wikidata.org/entity/Q974
+palmyra Atoll,https://www.wikidata.org/entity/Q123076
+united States,https://www.wikidata.org/entity/Q30
+east Timor,https://www.wikidata.org/entity/Q574
+zimbabwe,https://www.wikidata.org/entity/Q954
+abant Lake,http://www.geonames.org/752922
+abyssal plain,http://purl.obolibrary.org/obo/ENVO_00000244
+achondrite,http://purl.obolibrary.org/obo/ENVO_00002050
+acid dune sand,http://purl.obolibrary.org/obo/ENVO_00005798
+acid glade,http://eol.org/schema/terms/acidGlade
+acıgöl Lake,http://www.geonames.org/325452
+activated sludge,http://purl.obolibrary.org/obo/ENVO_00002046
+adak Island,http://www.wikidata.org/entity/Q176381
+adams County,http://www.geonames.org/5785282
+adelaide Peninsula,http://www.wikidata.org/entity/Q353908
+admirality Island,http://www.geonames.org/5844270
+adolescent,http://purl.obolibrary.org/obo/PATO_0001189
+adriatic Sea,http://www.geonames.org/3183462
+adult and juvenile,http://eol.org/schema/terms/adultAndJuvenile
+adult and larva,http://eol.org/schema/terms/adultAndLarva
+adult and nymph,http://eol.org/schema/terms/adultAndNymph
+adult and pupa,http://eol.org/schema/terms/adultAndPupa
+adult and subadult,http://eol.org/schema/terms/adultAndSubadult
+adventdalen,http://www.wikidata.org/entity/Q379820
+adventfjord,http://eol.org/schema/terms/Adventfjord
+"agapa River Valley, Taimyr",http://eol.org/schema/terms/AgapaRiverValley
+"agattu Island, Alaska",http://www.geonames.org/4045508
+agricultural wastewater treatment plant,http://purl.obolibrary.org/obo/ENVO_2000003
+air,http://purl.obolibrary.org/obo/ENVO_00002005
+air conditioning unit,http://purl.obolibrary.org/obo/ENVO_00002874
+air filter,http://purl.obolibrary.org/obo/ENVO_00003968
+akgöl River,http://www.geonames.org/324715
+aksaray,http://www.geonames.org/443185
+aksehir,http://www.geonames.org/324489
+aksu Stream,http://www.geonames.org/324466
+alakır Stream,http://www.geonames.org/324235
+alara Stream,http://www.geonames.org/324177
+alaska,http://www.wikidata.org/entity/Q797
+alaska Peninsula,http://www.wikidata.org/entity/Q60064
+albeluvisol,http://purl.obolibrary.org/obo/ENVO_00002233
+"alexander Island, Canada",http://www.geonames.org/5883428
+algal bloom,http://purl.obolibrary.org/obo/ENVO_2000004
+alisol,http://purl.obolibrary.org/obo/ENVO_00002231
+alkaline salt lake,http://purl.obolibrary.org/obo/ENVO_00002121
+allotment garden,http://purl.obolibrary.org/obo/ENVO_00005745
+allotment garden soil,http://purl.obolibrary.org/obo/ENVO_00005744
+alluvial paddy field soil,http://purl.obolibrary.org/obo/ENVO_00005759
+alluvial swamp soil,http://purl.obolibrary.org/obo/ENVO_00005758
+along-front current,http://purl.obolibrary.org/obo/ENVO_01000100
+altai,http://www.geonames.org/1516393
+amami-Osima,http://www.geonames.org/1865354
+ambodirafia,http://www.geonames.org/1081096
+ambon,http://www.geonames.org/6762443
+"amchitka Island, Alaska",http://www.wikidata.org/entity/Q460282
+amenity lake,http://purl.obolibrary.org/obo/ENVO_00000451
+ammarnas,http://www.wikidata.org/entity/Q472820
+amniotic fluid,http://purl.obolibrary.org/obo/ENVO_02000021
+ampefy,http://www.geonames.org/1077895
+amudsen Basin,http://eol.org/schema/terms/AmudsenBasin
+amund Rignes Island,http://www.wikidata.org/entity/Q481597
+amundsen Gulf,http://www.wikidata.org/entity/Q1974744
+anabarsky District,http://www.wikidata.org/entity/Q698261
+anaerobic stream sediment,http://purl.obolibrary.org/obo/ENVO_00002134
+anamba Island,http://www.geonames.org/1651441
+anami Islands,http://eol.org/schema/terms/AnamiIslands
+anatolia,http://www.geonames.org/323835
+"andreafsky River, Alaska",http://www.wikidata.org/entity/Q305100
+animal manure,http://purl.obolibrary.org/obo/ENVO_00003031
+animal matter fall,http://purl.obolibrary.org/obo/ENVO_01000139
+annam,http://www.geonames.org/1594320
+annual,http://eol.org/schema/terms/annual
+antalya,http://www.geonames.org/323777
+antarctica,http://eol.org/schema/terms/Antarctia
+anthropogenic abiotic mesoscopic feature,http://purl.obolibrary.org/obo/ENVO_00003075
+anthrosol,http://purl.obolibrary.org/obo/ENVO_00002230
+anuk Lake,http://www.geonames.org/323842
+anvik River,http://www.wikidata.org/entity/Q612981
+aphotic zone,http://purl.obolibrary.org/obo/ENVO_00000210
+apolyont Lake,http://www.geonames.org/738445
+appalachian oak forest (dry-mesic),http://eol.org/schema/terms/Appalachian_oak_forest_--dry_mesic--
+aquarium,http://purl.obolibrary.org/obo/ENVO_00002196
+aqueous humour,http://purl.obolibrary.org/obo/ENVO_02000024
+arabia,http://www.geonames.org/6957698
+aras River,http://www.geonames.org/143105
+arbuscular mycorrhizal association,http://purl.obolibrary.org/obo/GO_0036377
+"archangelsk, Russian Federation",http://www.geonames.org/581049
+arctic,http://www.wikidata.org/entity/Q25322
+arctic Basin,http://www.wikidata.org/entity/Q3276839
+arctoboreal,http://eol.org/schema/terms/arctoboreal
+arkhangelsk Oblast,http://www.wikidata.org/entity/Q1875
+"arkhangelskaya Bay, Novaya Zemya",http://eol.org/schema/terms/ArkhangelskayaBay
+armutlu Peninsula,http://eol.org/schema/terms/ArmutluPeninsula
+arsenate treated wood,http://purl.obolibrary.org/obo/ENVO_00002136
+arsenic-rich mud,http://purl.obolibrary.org/obo/ENVO_00002122
+arsuz Creek,http://eol.org/schema/terms/ArsuzCreek
+artificial harbor,http://purl.obolibrary.org/obo/ENVO_00000464
+artificial reef,http://purl.obolibrary.org/obo/ENVO_00000149
+artillery Lake,http://www.wikidata.org/entity/Q1349878
+aru Island,http://www.geonames.org/1651192
+asexual reproduction,http://www.owl-ontologies.com/unnamed.owl#Asexual
+ash cone,http://purl.obolibrary.org/obo/ENVO_00000399
+asia Minor,http://www.wikidata.org/entity/Q12824780
+asotin County,http://www.geonames.org/5785935
+assam,http://www.geonames.org/1278253
+atlantic wet pine savanna,http://eol.org/schema/terms/Atlantic_wet_pine_savanna
+atlantic white-cedar forest,http://eol.org/schema/terms/Atlantic_white_cedar_forest
+austral Islands,http://www.geonames.org/4034366
+axel Heiberg Island,http://www.wikidata.org/entity/Q207666
+aylmer Lake,http://www.wikidata.org/entity/Q793085
+"aynov Island, Murmansk, Russia",http://www.geonames.org/573866
+azores,http://www.geonames.org/3411865
+babar,http://www.geonames.org/1650891
+bacteria enriched soil,http://purl.obolibrary.org/obo/ENVO_00005757
+baebunta,http://www.geonames.org/1650814
+baffin Bay,http://www.wikidata.org/entity/Q37040
+baffin Island,http://www.wikidata.org/entity/Q81178
+bahamas EEz,http://marineregions.org/gazetteer.php?p=details&id=8404
+baikal,http://www.geonames.org/2026986
+bajada,http://purl.obolibrary.org/obo/ENVO_00000315
+bakery,http://purl.obolibrary.org/obo/ENVO_00003864
+bakır stream,http://www.geonames.org/322277
+banda,http://www.geonames.org/1277400
+bangka,http://www.geonames.org/1650312
+bank,http://purl.obolibrary.org/obo/ENVO_00000141
+banks Island,http://www.geonames.org/2176950
+barents Sea,http://www.wikidata.org/entity/Q45823
+barnegat Bay,http://www.geonames.org/4500631
+barrow,http://www.geonames.org/5880054
+basilan Island,http://www.geonames.org/1726402
+batang Ai,http://www.geonames.org/10171053
+"bathurst Island, Canada",http://www.wikidata.org/entity/Q217369
+batjan Island,http://www.geonames.org/1650851
+batman River,http://www.geonames.org/321835
+"bear Island, Svalbard",http://www.wikidata.org/entity/Q194364
+beaufort Sea,http://www.wikidata.org/entity/Q131274
+beaverhill Lake,http://www.wikidata.org/entity/Q2295580
+"becharof National Wildlife Refuge, Alaska",http://www.wikidata.org/entity/Q813578
+bedding-plane cave,http://purl.obolibrary.org/obo/ENVO_00000001
+beech forest soil,http://purl.obolibrary.org/obo/ENVO_00005770
+belcamp,http://www.geonames.org/4048442
+bell Shaped,http://eol.org/schema/terms/bellShaped
+bengal,http://www.wikidata.org/entity/Q80338
+benton County,http://www.geonames.org/5786991
+"bering Island, Russia",http://www.geonames.org/2126712
+bering Sea,http://www.wikidata.org/entity/Q44725
+beringia,http://www.wikidata.org/entity/Q190927
+beyazsu Stream,http://www.geonames.org/9806559
+beyşehir Lake,http://www.geonames.org/321190
+bezymyannaya Bay,http://www.geonames.org/871866
+biak Island,http://www.geonames.org/1648843
+bibundi,http://eol.org/schema/terms/Bibundi
+biennial,http://eol.org/schema/terms/biennial
+bile,http://purl.obolibrary.org/obo/ENVO_02000023
+biliran,http://www.geonames.org/1725257
+billiton Island,http://www.geonames.org/1649280
+biofilm material,http://purl.obolibrary.org/obo/ENVO_01000156
+biosolids,http://purl.obolibrary.org/obo/ENVO_00002059
+bismarck Archipelago,http://www.geonames.org/2099398
+"black Lake, Alaska",http://www.geonames.org/5857550
+black smoker,http://purl.obolibrary.org/obo/ENVO_00000218
+blood,http://purl.obolibrary.org/obo/ENVO_02000020
+blood plasma,http://purl.obolibrary.org/obo/ENVO_02000027
+blowhole,http://purl.obolibrary.org/obo/ENVO_00000168
+blue-grass field soil,http://purl.obolibrary.org/obo/ENVO_00005789
+"bluff, Alaska",http://www.wikidata.org/entity/Q19460587
+bogor,http://www.geonames.org/1648473
+"bogoslof Island, Alaska",http://www.wikidata.org/entity/Q890658
+"bogs, moorland and lowland wet heath",http://eol.org/schema/terms/bogsMoorlandLowlandWetHeath
+bohol,http://www.geonames.org/1724399
+"bolívar State, Venezuela",http://www.geonames.org/3648106
+bonin Islands,http://www.geonames.org/2111519
+boothia Peninsula,http://www.wikidata.org/entity/Q893152
+borax leachate,http://purl.obolibrary.org/obo/ENVO_00002142
+boundary current front,http://purl.obolibrary.org/obo/ENVO_01000093
+børgefjell National Park,http://www.wikidata.org/entity/Q1020241
+brackish estuary,http://purl.obolibrary.org/obo/ENVO_00002137
+brackish water environment,http://purl.obolibrary.org/obo/ENVO_01000322
+brandenburg,http://www.geonames.org/2945356
+"breakwater Island, Nunavut, Canada",http://www.geonames.org/5908293
+bridge,http://purl.obolibrary.org/obo/ENVO_00000075
+bristol Bay,http://www.wikidata.org/entity/Q917872
+british Guyana,http://www.wikidata.org/entity/Q918126
+brood pouch,http://eol.org/schema/terms/broodPouch
+broome,http://www.geonames.org/2075720
+brøggerhalvøya,http://www.wikidata.org/entity/Q83533
+bucklebury,http://www.geonames.org/7294182
+buffer zone,http://purl.obolibrary.org/obo/ENVO_00000135
+"buldir Island, Alaska",http://www.wikidata.org/entity/Q1003571
+bulk soil,http://purl.obolibrary.org/obo/ENVO_00005802
+bungo,http://www.geonames.org/2243355
+burdur Lake,http://www.geonames.org/320391
+busuanga Island,http://www.geonames.org/1722262
+buton Island,http://www.geonames.org/1647496
+büyük Menderes River,http://www.geonames.org/320156
+"bylot Island, Canada",http://www.wikidata.org/entity/Q645180
+"byron Bay, Canada",http://www.geonames.org/5912901
+caiman Islands,http://www.geonames.org/11009006
+calcisol,http://purl.obolibrary.org/obo/ENVO_00002239
+calcite hot spring,http://purl.obolibrary.org/obo/ENVO_00002143
+calcium carbonate,http://polytraits.lifewatchgreece.eu/traitspublic_traitdefinitions.php#TUBE_CALC
+california,http://eol.org/schema/terms/California
+california Alpine meadows and barrens,http://eol.org/schema/terms/California_alpine_meadows_and_barrens
+california Aspen with conifer,http://eol.org/schema/terms/California_aspen_with_conifer
+california Chaparral,http://eol.org/schema/terms/California_chaparral
+california Chaparral,http://eol.org/schema/terms/California_Shrubland/Chaparral
+california Coast redwood,http://eol.org/schema/terms/California_coast_redwood
+california Coast redwood,http://eol.org/schema/terms/California_Forested/Coast_redwood
+california Coastal sage scrub,http://eol.org/schema/terms/California_coastal_sage_scrub
+california Coastal sage scrub,http://eol.org/schema/terms/California_Shrubland/Coastal_sage_scrub
+california Coastal sage scrub-coastal prairie,http://eol.org/schema/terms/California_coastal_sage_scrub_coastal_prairie
+california Coastal sage scrub-coastal prairie,http://eol.org/schema/terms/California_Shrubland/Coastal_sage_scrub-coastal_prairie
+california Forested,http://eol.org/schema/terms/California_Forested
+california grassland,http://eol.org/schema/terms/California_grassland
+california Herbaceous wetland,http://eol.org/schema/terms/California_herbaceous_wetland
+california Invasive Plant Inventory,http://eol.org/schema/terms/californiaInvasivePlantInventory
+california Jeffrey pine,http://eol.org/schema/terms/California_jeffrey_pine
+california Mixed conifer (North Slopes),http://eol.org/schema/terms/California_Forested/Mixed_conifer_--North_Slopes--
+california Mixed conifer (north slopes),http://eol.org/schema/terms/California_mixed_conifer_--north_slopes--
+california Mixed conifer (South Slopes),http://eol.org/schema/terms/California_Forested/Mixed_conifer_--South_Slopes--
+california Mixed conifer (south slopes),http://eol.org/schema/terms/California_mixed_conifer_--south_slopes--
+california mixed evergreen,http://eol.org/schema/terms/California_mixed_evergreen
+california mixed evergreen (northern California),http://eol.org/schema/terms/Northwest_Forested/California_mixed_evergreen_--northern_California--
+california Mixed evergreen-bigcone Douglas-fir (southern coastal),http://eol.org/schema/terms/California_mixed_evergreen_bigcone_Douglas_fir_--southern_coastal--
+california Montane chaparral,http://eol.org/schema/terms/California_montane_chaparral
+california oak woodlands,http://eol.org/schema/terms/California_oak_woodlands
+california Ponderosa pine,http://eol.org/schema/terms/California_ponderosa_pine
+california Red fir-western white pine,http://eol.org/schema/terms/California_red_fir_western_white_pine
+california Red fir-white fir,http://eol.org/schema/terms/California_red_fir_white_fir
+california Saltbush,http://eol.org/schema/terms/California_saltbush
+california Shrubland,http://eol.org/schema/terms/California_Shrubland
+california Sierra Nevada lodgepole pine (cold wet upper montane),http://eol.org/schema/terms/California_Sierra_Nevada_lodgepole_pine_--cold_wet_upper_montane--
+california Sierra Nevada lodgepole pine (dry subalpine),http://eol.org/schema/terms/California_Sierra_Nevada_lodgepole_pine_--dry_subalpine--
+california Wet mountain meadow-lodgepole pine (subalpine),http://eol.org/schema/terms/California_wet_mountain_meadow_lodgepole_pine_--subalpine--
+california Woodland,http://eol.org/schema/terms/California_woodland
+"campbell Island, Canada",http://www.wikidata.org/entity/Q5028104
+canada,http://www.wikidata.org/entity/Q16
+canadian Arctic,http://eol.org/schema/terms/CanadianArctic
+canadian High Arctic,http://eol.org/schema/terms/CanadianHighArctic
+canal head reservoir,http://purl.obolibrary.org/obo/ENVO_00000378
+canal tunnel,http://purl.obolibrary.org/obo/ENVO_00000522
+canalized stream,http://purl.obolibrary.org/obo/ENVO_00000525
+"cape Lisburne, Alaska",http://www.geonames.org/5867439
+"cape Peirce, Alaska",http://www.geonames.org/5871389
+western Cape,http://www.geonames.org/1085599
+carbon dioxide-reducing sediment,http://purl.obolibrary.org/obo/ENVO_01000154
+carnivore,http://www.owl-ontologies.com/unnamed.owl#Primary__Carnivore
+carpathians,http://www.geonames.org/682674
+caspian Region,http://eol.org/schema/terms/Caspianregion
+catanduanes,http://www.geonames.org/1717951
+cayos Miskitos-San Andrés and Providencia moist forests,http://eol.org/schema/terms/Cayos_Miskitos-San_Andros_and_Providencia_moist_forests
+cebu,http://www.geonames.org/1717513
+cedar Key Seagrass Beds,http://eol.org/schema/terms/cedarKeySeagrass
+cell culture,http://purl.obolibrary.org/obo/ENVO_02000008
+central Africa,http://eol.org/schema/terms/CentralAfrica
+central Arctic Basin,http://eol.org/schema/terms/CentralArcticBasin
+ceram,http://www.geonames.org/1627558
+cerebrospinal fluid,http://purl.obolibrary.org/obo/ENVO_02000029
+ceyhan River,http://www.geonames.org/318672
+chadjibej Liman,http://www.geonames.org/706500
+"chandalar River, Alaska",http://www.wikidata.org/entity/Q955645
+check dam,http://purl.obolibrary.org/obo/ENVO_00000555
+chelan County,http://www.geonames.org/5789829
+chemical product,http://purl.obolibrary.org/obo/ENVO_2000000
+chemocline,http://purl.obolibrary.org/obo/ENVO_00002270
+chicken breeding waste,http://purl.obolibrary.org/obo/ENVO_00002266
+"chiniak Bay, Alaska",http://www.geonames.org/5859246
+chloropicrin enriched soil,http://purl.obolibrary.org/obo/ENVO_00005762
+chondrite,http://purl.obolibrary.org/obo/ENVO_00002048
+"chowiet Island, Alaska",http://www.geonames.org/5859340
+chromate contaminated soil,http://purl.obolibrary.org/obo/ENVO_00002145
+chukchi Sea,http://www.wikidata.org/entity/Q159252
+chukotka Autonomous Okrug,http://www.wikidata.org/entity/Q7984
+chyle,http://purl.obolibrary.org/obo/ENVO_02000030
+chyme,http://purl.obolibrary.org/obo/ENVO_02000026
+cin Stream,http://www.geonames.org/90881
+cis-dichloroethane contaminated sediment,http://purl.obolibrary.org/obo/ENVO_00002201
+clallam County,http://www.geonames.org/5790164
+clark County,http://www.geonames.org/5790179
+climbing plant,http://eol.org/schema/terms/climbingPlant
+cm^2/g,http://eol.org/schema/terms/centimeterSquaredPerGram
+coal mine lake sediment,http://purl.obolibrary.org/obo/ENVO_00002147
+coarse beach sand,http://purl.obolibrary.org/obo/ENVO_00002148
+coastal buoyancy current front,http://purl.obolibrary.org/obo/ENVO_01000086
+coastal upwelling,http://purl.obolibrary.org/obo/ENVO_01000006
+coastal upwelling front,http://purl.obolibrary.org/obo/ENVO_01000090
+coastal water body,http://purl.obolibrary.org/obo/ENVO_02000049
+cochin,http://www.geonames.org/1273874
+"cockburn Island, Nunavut, Canada",http://eol.org/schema/terms/CockburnIslandNunavut
+cold Spring Harbor,http://www.geonames.org/5113218
+cold surface current,http://purl.obolibrary.org/obo/ENVO_01000102
+colloidal sediment,http://purl.obolibrary.org/obo/ENVO_01000121
+columbia County,http://www.geonames.org/5790614
+colville River,http://www.wikidata.org/entity/Q1113020
+commander Islands,http://www.wikidata.org/entity/Q208268
+complex volcano,http://purl.obolibrary.org/obo/ENVO_00000371
+compost soil,http://purl.obolibrary.org/obo/ENVO_00005747
+concentration basin mediterranean sea biome,http://purl.obolibrary.org/obo/ENVO_01000004
+consequent stream,http://purl.obolibrary.org/obo/ENVO_00000490
+constructed feature,http://purl.obolibrary.org/obo/ENVO_00000070
+contaminated sludge,http://purl.obolibrary.org/obo/ENVO_00002176
+contaminated water,http://purl.obolibrary.org/obo/ENVO_00002186
+continental arc,http://purl.obolibrary.org/obo/ENVO_00000352
+continental rise,http://purl.obolibrary.org/obo/ENVO_00000274
+continental shelf,http://purl.obolibrary.org/obo/ENVO_00000223
+continental slope,http://purl.obolibrary.org/obo/ENVO_00000273
+contwoyto Lake,http://www.geonames.org/5927027
+"cook Inlet, Alaska",http://www.geonames.org/5859822
+"cooper Island, Alaska",http://www.geonames.org/5859835
+copepodid,http://eol.org/schema/terms/copepodid
+coral reef,http://purl.obolibrary.org/obo/ENVO_00000150
+coral Sea,http://www.geonames.org/2194166
+cornwall Island,http://www.geonames.org/5928081
+cornwallis Island,http://www.geonames.org/5928076
+corse,http://www.geonames.org/3023519
+cortes Island,http://www.geonames.org/5928197
+"Çoruh River""",http://www.geonames.org/6942300
+cosmetic product,http://purl.obolibrary.org/obo/ENVO_00003893
+cosmogenous sediment,http://purl.obolibrary.org/obo/ENVO_01000111
+cove,http://purl.obolibrary.org/obo/ENVO_00000138
+cowlitz County,http://www.geonames.org/5791206
+creamery,http://purl.obolibrary.org/obo/ENVO_00003967
+creosote contaminated soil,http://purl.obolibrary.org/obo/ENVO_00002117
+crimea,http://www.geonames.org/703884
+cropland,http://purl.obolibrary.org/obo/ENVO_01000245
+"cumberland Sound, Nunavut",http://www.wikidata.org/entity/Q938327
+currency note,http://purl.obolibrary.org/obo/ENVO_00003896
+d'Entrecasteaux Islands,http://www.geonames.org/2098223
+dagastan,http://eol.org/schema/terms/Dagastan
+dalaman River,http://www.geonames.org/317718
+darjiling,http://www.geonames.org/1273468
+davies Reef,http://www.geonames.org/2169306
+davis Strait,http://www.wikidata.org/entity/Q189262
+decumbent,http://eol.org/schema/terms/decumbent
+deep ocean current,http://purl.obolibrary.org/obo/ENVO_01000098
+delarof Islands,http://www.wikidata.org/entity/Q195124
+demilitiarized zone,http://purl.obolibrary.org/obo/ENVO_00000136
+denmark Strait,http://www.wikidata.org/entity/Q152058
+determinate root nodule,http://purl.obolibrary.org/obo/ENVO_01000167
+detritus,http://www.owl-ontologies.com/unnamed.owl#Detritus
+devon Island,http://www.geonames.org/5938808
+dg,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64555
+dilution basin mediterranean sea biome,http://purl.obolibrary.org/obo/ENVO_01000128
+dinagat,http://www.geonames.org/1714796
+disko Bay,http://www.wikidata.org/entity/Q1135227
+ditch mouth,http://purl.obolibrary.org/obo/ENVO_00000518
+diversionary dam,http://purl.obolibrary.org/obo/ENVO_00000558
+"dividalen, Målselv, Troms",http://www.geonames.org/3159212
+doksy,http://www.geonames.org/3076972
+doline karst,http://purl.obolibrary.org/obo/ENVO_00000336
+dolomite,http://purl.obolibrary.org/obo/ENVO_00010623
+douglas County,http://www.geonames.org/5792681
+douglas-fir (Willamette Valley foothills),http://eol.org/schema/terms/Douglas_fir_--Willamette_Valley_foothills--
+drilling bore water,http://purl.obolibrary.org/obo/ENVO_00002159
+drumlin,http://purl.obolibrary.org/obo/ENVO_00000276
+drumlin field,http://purl.obolibrary.org/obo/ENVO_00000431
+dry dam,http://purl.obolibrary.org/obo/ENVO_00000557
+dry stream valley,http://purl.obolibrary.org/obo/ENVO_0010162
+dublin,http://www.geonames.org/2964574
+duke of York Island,http://www.geonames.org/6632426
+dune soil,http://purl.obolibrary.org/obo/ENVO_00002260
+durisol,http://purl.obolibrary.org/obo/ENVO_00002238
+ear wax,http://purl.obolibrary.org/obo/ENVO_02000028
+earliest,http://eol.org/schema/terms/earliest
+early April,http://eol.org/schema/terms/earlyApril
+early August,http://eol.org/schema/terms/earlyAugust
+early December,http://eol.org/schema/terms/earlyDecember
+early January,http://eol.org/schema/terms/earlyJanuary
+early June,http://eol.org/schema/terms/earlyJune
+early March,http://eol.org/schema/terms/earlyMarch
+early May,http://eol.org/schema/terms/earlyMay
+early November,http://eol.org/schema/terms/earlyNovember
+early October,http://eol.org/schema/terms/earlyOctober
+early September,http://eol.org/schema/terms/earlySeptember
+"east Amatuli Island, Alaska",http://www.geonames.org/5861227
+east Asian Islands,http://eol.org/schema/terms/EastAsianIslands
+east fork Andreafsky River,http://www.wikidata.org/entity/Q3046499
+east Siberian Sea,http://www.wikidata.org/entity/Q163434
+east-central Europe,http://eol.org/schema/terms/EastcentralEurope
+eastern Bering Sea,http://eol.org/schema/terms/EasternBeringSea
+eastern boundary current,http://purl.obolibrary.org/obo/ENVO_01000104
+eastern Hemisphere,http://www.wikidata.org/entity/Q186198
+eastern Siberia,http://www.wikidata.org/entity/Q1191996
+eats nectar,http://eol.org/schema/terms/eatsNectar
+eats seeds,http://eol.org/schema/terms/eatsSeeds
+eber Lake,http://www.geonames.org/316014
+"egegik River, Alaska",http://www.wikidata.org/entity/Q3049132
+eggenfelden,http://www.geonames.org/2933115
+eglington Island,http://eol.org/schema/terms/EglingtonIsland
+"eldey Island, Iceland",http://www.wikidata.org/entity/Q324541
+ellesmere Island,http://www.wikidata.org/entity/Q146841
+"ellidaar River, Iceland",http://www.geonames.org/3417581
+endorheic lake,http://purl.obolibrary.org/obo/ENVO_00000197
+enewetak,http://www.geonames.org/2080552
+engano Island,http://www.geonames.org/1644921
+entebbe,http://www.geonames.org/233508
+epeiric sea biome,http://purl.obolibrary.org/obo/ENVO_01000045
+ephemeral island,http://purl.obolibrary.org/obo/ENVO_00000368
+ephemeral spring,http://purl.obolibrary.org/obo/ENVO_00000204
+epilimnion,http://purl.obolibrary.org/obo/ENVO_00002131
+epiphyte,http://eol.org/schema/terms/epiphyte
+equatorial upwelling front,http://purl.obolibrary.org/obo/ENVO_01000092
+eregli,http://eol.org/schema/terms/Eregli
+sonora,http://www.geonames.org/3982846
+estuarine front,http://purl.obolibrary.org/obo/ENVO_01000084
+ethanol enriched soil,http://purl.obolibrary.org/obo/ENVO_00003086
+"Étretat""",http://www.geonames.org/3019355
+eucalyptus forest soil,http://purl.obolibrary.org/obo/ENVO_00005787
+european Russia,http://www.wikidata.org/entity/Q875134
+eV,http://purl.obolibrary.org/obo/UO_0000266
+everglades (marl prairie),http://eol.org/schema/terms/Southeast_everglades_--marl_prairie--
+everglades sawgrass,http://eol.org/schema/terms/Southeast_everglades_sawgrass
+excreta,http://purl.obolibrary.org/obo/ENVO_02000022
+extreme high temperature habitat,http://purl.obolibrary.org/obo/ENVO_00002027
+"eyjafjordur, Iceland",http://www.geonames.org/2632003
+facultative,http://eol.org/schema/terms/facultative
+far East,http://eol.org/schema/terms/FarEast
+farmyard manure,http://purl.obolibrary.org/obo/ENVO_00003884
+faroe plateau,http://www.geonames.org/3163771
+fault cave,http://purl.obolibrary.org/obo/ENVO_00000071
+fault escarpment,http://purl.obolibrary.org/obo/ENVO_00000281
+faunivore,http://eol.org/schema/terms/faunivore
+feces,http://purl.obolibrary.org/obo/ENVO_00002003
+felsic lava,http://purl.obolibrary.org/obo/ENVO_01000232
+fennoscandia,http://www.wikidata.org/entity/Q604496
+fergusson Island,http://www.geonames.org/2097439
+bioko,http://www.geonames.org/2309792
+ferry County,http://www.geonames.org/5794294
+fetus,http://www.ebi.ac.uk/efo/EFO_0001323
+farta Eyrab,http://www.geonames.org/60013
+fishing Branch River,http://eol.org/schema/terms/FishingBranchRiver
+fishpond,http://purl.obolibrary.org/obo/ENVO_00000056
+fjord lake,http://purl.obolibrary.org/obo/ENVO_00000201
+"flatey Island, Iceland",http://www.wikidata.org/entity/Q1427332
+flood fringe,http://purl.obolibrary.org/obo/ENVO_00000257
+flooded grassland and savanna,http://purl.obolibrary.org/obo/ENVO_00000885
+flores,http://www.geonames.org/9062332
+florida Coastal Waters,http://eol.org/schema/terms/floridaCoastWater
+florida Gulf Coastal Waters,http://eol.org/schema/terms/floridaGulf
+fluvial dambo,http://purl.obolibrary.org/obo/ENVO_00000238
+foam,http://purl.obolibrary.org/obo/ENVO_00005738
+folivore,http://www.owl-ontologies.com/unnamed.owl#Folivore
+forb/herb,http://eol.org/schema/terms/forbHerb
+formosa,http://www.geonames.org/3433896
+fort Resolution,http://www.geonames.org/5955925
+"fox Island, Alaska",http://www.wikidata.org/entity/Q195182
+foxe Basin,http://www.wikidata.org/entity/Q845217
+fram Strait,http://www.geonames.org/1506773
+franklin County,http://www.geonames.org/5794976
+franz Josef Land,http://www.wikidata.org/entity/Q185018
+free-living adult,http://eol.org/schema/terms/freelivingAdult
+fresh animal manure,http://purl.obolibrary.org/obo/ENVO_00003032
+fresh water aquarium,http://purl.obolibrary.org/obo/ENVO_00002198
+freshwater algal bloom,http://purl.obolibrary.org/obo/ENVO_2000005
+freshwater lake,http://eol.org/schema/terms/freshwaterLake
+freshwater lake,http://purl.obolibrary.org/obo/ENVO_00000021
+freshwater pond,http://eol.org/schema/terms/freshwaterPond
+stream,http://eol.org/schema/terms/freshwaterStream
+freshwater/brackish,http://eol.org/schema/terms/freshwaterBrackish
+friesland,http://www.geonames.org/2755812
+frobisher Bay,http://www.geonames.org/5958389
+frozen compost soil,http://purl.obolibrary.org/obo/ENVO_00005765
+frugivore,http://www.owl-ontologies.com/unnamed.owl#Frugivore
+gakkel Ridge,http://www.wikidata.org/entity/Q603523
+ganongga Island,http://www.geonames.org/2104070
+garfield County,http://www.geonames.org/5795265
+gavriloski Island,http://eol.org/schema/terms/GavriloskiIsland
+gediz River,http://www.geonames.org/314714
+genital opening,http://eol.org/schema/terms/genitalOpening
+georgia Coastal Waters,http://eol.org/schema/terms/georgiaCoastWater
+geothermal field,http://purl.obolibrary.org/obo/ENVO_00000373
+geothermal power plant,http://purl.obolibrary.org/obo/ENVO_00002215
+germencik,http://www.geonames.org/8632402
+gimpu,http://www.geonames.org/1644065
+gitgit,http://eol.org/schema/terms/Gitgit
+goat manure,http://purl.obolibrary.org/obo/ENVO_02000084
+gökdere,http://www.geonames.org/314255
+goksu River,http://www.geonames.org/314184
+gölcük Lake,http://www.geonames.org/314122
+gold mine drainage,http://purl.obolibrary.org/obo/ENVO_00002112
+goodenough Island,http://www.geonames.org/2096769
+"gorelyi Island, Russia",http://eol.org/schema/terms/GorelyiIslandRussia
+grain of acid dune sand,http://purl.obolibrary.org/obo/ENVO_00000346
+grain of beach sand,http://purl.obolibrary.org/obo/ENVO_00000345
+grain of desert sand,http://purl.obolibrary.org/obo/ENVO_00000344
+grain of rocky sand,http://purl.obolibrary.org/obo/ENVO_00000348
+grain of sea sand,http://purl.obolibrary.org/obo/ENVO_00000347
+graminoid,http://eol.org/schema/terms/graminoid
+grant County,http://www.geonames.org/5796034
+grass silage,http://purl.obolibrary.org/obo/ENVO_00003071
+gravid adult,http://purl.obolibrary.org/obo/BTO_0004733
+grays Harbor County,http://www.geonames.org/5796126
+great Basin  big sagebrush,http://eol.org/schema/terms/Great_Basin_big_sagebrush
+great Basin Aspen with conifer (high elevation),http://eol.org/schema/terms/Great_Basin_Forested/Aspen_with_conifer_--high_elevation--
+great Basin Aspen with conifer (high elevations),http://eol.org/schema/terms/Great_Basin_aspen_with_conifer_--high_elevations--
+great Basin Aspen with conifer (low to midelevation),http://eol.org/schema/terms/Great_Basin_Forested/Aspen_with_conifer_--low_to_midelevation--
+great Basin Aspen with conifer (low to midelevations),http://eol.org/schema/terms/Great_Basin_aspen_with_conifer_--low_to_midelevations--
+great Basin Aspen with spruce-fir,http://eol.org/schema/terms/Great_Basin_aspen_with_spruce_fir
+"great Basin Aspen, stable without conifers",http://eol.org/schema/terms/Great_Basin_aspen_stable_without_conifers
+great Basin Black and low sagebrushes,http://eol.org/schema/terms/Great_Basin_black_and_low_sagebrushes
+great Basin Black and low sagebrushes with trees,http://eol.org/schema/terms/Great_Basin_black_and_low_sagebrushes_with_trees
+great Basin Blackbrush,http://eol.org/schema/terms/Great_Basin_blackbrush
+great Basin Creosotebush (and Joshua tree) shrublands with grasses,http://eol.org/schema/terms/Great_Basin_Shrubland/Creosotebush_--and_Joshua_tree--_shrublands_with_grasses
+great Basin Creosotebush shrublands with grasses,http://eol.org/schema/terms/Great_Basin_creosotebush_shrublands_with_grasses
+great Basin Curlleaf mountain-mahogany,http://eol.org/schema/terms/Great_Basin_curlleaf_mountain_mahogany
+great Basin Douglas-fir (dry),http://eol.org/schema/terms/Douglas_fir_--dry--
+great Basin Douglas-fir (dry),http://eol.org/schema/terms/Great_Basin_Forested/Great_Basin_Douglas-fir_--dry--
+great Basin Forested,http://eol.org/schema/terms/Great_Basin_Forested
+great Basin Gambel oak,http://eol.org/schema/terms/Great_Basin_gambel_oak
+great Basin grassland,http://eol.org/schema/terms/Great_Basin_grassland
+great Basin Interior ponderosa pine,http://eol.org/schema/terms/Great_Basin_Forested/Interior_ponderosa_pine
+great Basin Juniper and pinyon-juniper steppe woodland,http://eol.org/schema/terms/Great_Basin_juniper_and_pinyon_juniper_steppe_woodland
+great Basin Montane chaparral,http://eol.org/schema/terms/Great_Basin_montane_chaparral
+great Basin Mountain big sagebrush,http://eol.org/schema/terms/Great_Basin_mountain_big_sagebrush
+great Basin Mountain big sagebrush (cool sagebrush),http://eol.org/schema/terms/Great_Basin_mountain_big_sagebrush_--cool_sagebrush--
+great Basin Mountain big sagebrush with conifers,http://eol.org/schema/terms/Great_Basin_mountain_big_sagebrush_with_conifers
+great Basin Mountain meadow (mesic to dry),http://eol.org/schema/terms/Great_Basin_mountain_meadow_--mesic_to_dry--
+great Basin Mountain sagebrush (cool sage),http://eol.org/schema/terms/Great_Basin_Shrubland/Mountain_sagebrush_--cool_sage--
+great Basin Mountain shrubland with trees,http://eol.org/schema/terms/Great_Basin_mountain_shrubland_with_trees
+great Basin Ponderosa pine,http://eol.org/schema/terms/Great_Basin_ponderosa_pine
+great Basin Ponderosa pine-Douglas-fir,http://eol.org/schema/terms/Great_Basin_ponderosa_pine_Douglas_fir
+great Basin Salt desert scrubland,http://eol.org/schema/terms/Great_Basin_salt_desert_scrubland
+great Basin Salt desert shrub,http://eol.org/schema/terms/Great_Basin_salt_desert_shrub
+great Basin Shrubland,http://eol.org/schema/terms/Great_Basin_Shrubland
+great Basin Spruce-fir-pine (subalpine),http://eol.org/schema/terms/Great_Basin_spruce_fir_pine_--subalpine--
+great Basin Stable aspen without conifers,http://eol.org/schema/terms/Great_Basin_Forested/Stable_aspen_without_conifers
+"great Basin Stable aspen-cottonwood, no conifers",http://eol.org/schema/terms/Great_Basin_Forested/Stable_aspen-cottonwood_no_conifers
+great Basin Woodland,http://eol.org/schema/terms/Great_Basin_Woodland
+great Basin Wyoming sagebrush steppe,http://eol.org/schema/terms/Great_Basin_Shrubland/Wyoming_sagebrush_steppe
+great Lakes Conifer lowland (embedded in fire-prone ecosystem),http://eol.org/schema/terms/Great_Lakes_conifer_lowland_--embedded_in_fire_prone_ecosystem--
+great Lakes Conifer lowland (embedded in fire-prone system),http://eol.org/schema/terms/Great_Lakes_Forested/Conifer_lowland_--embedded_in_fire-prone_system--
+great Lakes Conifer lowland (embedded in fire-resistant ecosystem),http://eol.org/schema/terms/Great_Lakes_conifer_lowland_--embedded_in_fire_resistant_ecosystem--
+great Lakes Eastern white pine-eastern hemlock,http://eol.org/schema/terms/Great_Lakes_eastern_white_pine_eastern_hemlock
+great Lakes floodplain forest,http://eol.org/schema/terms/Great_Lakes_floodplain_forest
+great Lakes Forested,http://eol.org/schema/terms/Great_Lakes_Forested
+great Lakes Grassland,http://eol.org/schema/terms/Great_Lakes_Grassland
+great Lakes Jack pine-open lands (frequent fire-return interval),http://eol.org/schema/terms/Great_Lakes_jack_pine_open_lands_--frequent_fire_return_interval--
+great Lakes Maple-basswood,http://eol.org/schema/terms/Great_Lakes_maple_basswood
+great Lakes Maple-basswood mesic hardwood forest (Great Lakes),http://eol.org/schema/terms/Great_Lakes_maple_basswood_mesic_hardwood_forest
+great Lakes Maple-basswood-oak-aspen,http://eol.org/schema/terms/Great_Lakes_maple_basswood_oak_aspen
+great Lakes Mosaic of bluestem prairie and oak-hickory,http://eol.org/schema/terms/Great_Lakes_mosaic_of_bluestem_prairie_and_oak_hickory
+great Lakes Northern hardwood maple-beech-eastern hemlock,http://eol.org/schema/terms/Great_Lakes_northern_hardwood_maple_beech_eastern_hemlock
+great Lakes Northern hardwood-eastern hemlock forest (Great Lakes),http://eol.org/schema/terms/Great_Lakes_northern_hardwood_eastern_hemlock_forest
+great Lakes Northern oak savanna,http://eol.org/schema/terms/Great_Lakes_northern_oak_savanna
+great Lakes Oak-hickory,http://eol.org/schema/terms/Great_Lakes_oak_hickory
+great Lakes pine barrens,http://eol.org/schema/terms/Great_Lakes_pine_barrens
+great Lakes Pine-oak,http://eol.org/schema/terms/Great_Lakes_pine_oak
+great Lakes Red pine-eastern white pine (frequent fire),http://eol.org/schema/terms/Great_Lakes_red_pine_eastern_white_pine_--frequent_fire--
+great Lakes Red pine-eastern white pine (less frequent fire),http://eol.org/schema/terms/Great_Lakes_red_pine_eastern_white_pine_--less_frequent_fire--
+great Lakes spruce-fir,http://eol.org/schema/terms/Great_Lakes_spruce_fir
+great Lakes Woodland,http://eol.org/schema/terms/Great_Lakes_Woodland
+great Nicobar,http://www.geonames.org/1270834
+great Plains floodplain,http://eol.org/schema/terms/Great_Plains_floodplain
+great Pond,http://www.geonames.org/4938250
+greenland,http://www.wikidata.org/entity/Q223
+greenland Sea,http://www.wikidata.org/entity/Q132868
+greenland Shelf,http://eol.org/schema/terms/GreenlandShelf
+gronne Ejland,http://www.geonames.org/3423633
+ground moraine,http://purl.obolibrary.org/obo/ENVO_00000251
+guadalcanal,http://www.geonames.org/2108832
+guiana Shield,http://www.wikidata.org/entity/Q208807
+gulf coast wet pine savanna,http://eol.org/schema/terms/Gulf_coast_wet_pine_savanna
+gulf Coastal Plain pine flatwoods,http://eol.org/schema/terms/Gulf_Coastal_Plain_pine_flatwoods
+gulf of Chiriqui,http://www.wikidata.org/entity/Q5617574
+gulf of Oman,http://www.geonames.org/145945
+gulf of Panama,http://www.geonames.org/3703438
+gulf of Riga,http://www.geonames.org/453746
+gumnivore,http://eol.org/schema/terms/Gumnivore
+gunung Pueh,http://www.geonames.org/8453992
+gydan Peninsula,http://www.wikidata.org/entity/Q601056
+gypsisol,http://purl.obolibrary.org/obo/ENVO_00002245
+hadalpelagic zone,http://purl.obolibrary.org/obo/ENVO_00000214
+"hafnaberg, Iceland",http://www.geonames.org/3416721
+hainan,http://www.geonames.org/1809054
+"hall Island, Alaska",http://www.wikidata.org/entity/Q1571312
+halmahera Island,http://www.geonames.org/1643476
+halselva,http://eol.org/schema/terms/Halselva
+harşit River,http://www.geonames.org/748007
+hay,http://purl.obolibrary.org/obo/ENVO_00002869
+hazar Lake,http://www.geonames.org/312265
+heat stressed soil,http://purl.obolibrary.org/obo/ENVO_00005781
+heavy,http://purl.obolibrary.org/obo/PATO_0000582
+"henshaw Creek, Alaska",http://www.geonames.org/5863931
+herbivore,http://purl.bioontology.org/ontology/MESH/D060434
+hermaphrodite,http://purl.obolibrary.org/obo/PATO_0001340
+heterotrophic,http://eol.org/schema/terms/heterotrophy
+hidalgo,http://www.geonames.org/3527115
+high tide zone,http://purl.obolibrary.org/obo/ENVO_00000318
+high-level radioactive sediment,http://purl.obolibrary.org/obo/ENVO_00002155
+highly stratified estuary,http://purl.obolibrary.org/obo/ENVO_00000225
+hindustan,http://www.geonames.org/1114958
+"hjelmsøy, Norway",http://www.geonames.org/779593
+hobson's Bay,http://www.geonames.org/2163343
+holarctic,http://www.wikidata.org/entity/Q847051
+homonhon,http://www.geonames.org/1711541
+honshu,http://www.geonames.org/1862185
+hooker Island,http://www.wikidata.org/entity/Q1238610
+"hope Bay, Canada",http://www.geonames.org/5976796
+"hopedale, Canada",http://www.wikidata.org/entity/Q11338369
+"hornøy, Norway",http://www.geonames.org/779545
+hornsund,http://www.wikidata.org/entity/Q1442928
+horseshoe Lake,http://www.geonames.org/4274163
+horst,http://purl.obolibrary.org/obo/ENVO_00000289
+hotamis Lake,http://www.geonames.org/10912818
+houtman Abrolhos,http://www.geonames.org/2069568
+ht. Ikelemba,http://eol.org/schema/terms/Ht_Ikelemba
+hudson Bay,http://www.wikidata.org/entity/Q3040
+humboldt Bay,http://eol.org/schema/terms/Humboldt_Bay
+humus-rich acidic ash soil,http://purl.obolibrary.org/obo/ENVO_00005763
+"hurd Island, Nunavut, Canada",http://www.wikidata.org/entity/Q22651097
+"hvallatur, Iceland",http://www.geonames.org/3415839
+"hwangju, North Korea",http://www.geonames.org/1888496
+hydrogenous sediment,http://purl.obolibrary.org/obo/ENVO_01000110
+hydrographic feature,http://purl.obolibrary.org/obo/ENVO_00000012
+hydromorphic/phreatic dambo,http://purl.obolibrary.org/obo/ENVO_00000237
+hyperthermophilic sediment,http://purl.obolibrary.org/obo/ENVO_01000133
+ice cap depression,http://purl.obolibrary.org/obo/ENVO_00000531
+ice cap dome,http://purl.obolibrary.org/obo/ENVO_00000342
+ice cap ridge,http://purl.obolibrary.org/obo/ENVO_00000528
+ice mass,http://purl.obolibrary.org/obo/ENVO_00000299
+ice piedmont,http://purl.obolibrary.org/obo/ENVO_00009725
+ice rise,http://purl.obolibrary.org/obo/ENVO_00009686
+icefall,http://purl.obolibrary.org/obo/ENVO_00000307
+iceland,http://www.wikidata.org/entity/Q189
+idaho fescue grasslands,http://eol.org/schema/terms/Idaho_fescue_grasslands
+igloolik Island,http://www.geonames.org/5979346
+"igushik River, Alaska",http://www.wikidata.org/entity/Q3148353
+ile Europa and Bassas da India xeric scrub,http://eol.org/schema/terms/Ile_Europa_and_Bassas_da_India_xeric_scrub
+ilgın Lakes,http://www.geonames.org/319134
+immature and ovigerous,http://eol.org/schema/terms/immatureAndOvigerous
+"inari-Utsjoki region, Finland",http://eol.org/schema/terms/Inari-UtsjokiRegion
+indeterminate root nodule,http://purl.obolibrary.org/obo/ENVO_01000168
+indeterminate root nodule active meristem,http://purl.obolibrary.org/obo/ENVO_01000169
+indeterminate root nodule infection zone,http://purl.obolibrary.org/obo/ENVO_01000170
+indeterminate root nodule nitrogen fixation zone,http://purl.obolibrary.org/obo/ENVO_01000171
+indeterminate root nodule senescent zone,http://purl.obolibrary.org/obo/ENVO_01000172
+indian EEz,http://marineregions.org/gazetteer.php?p=details&id=8480
+indian River Lagoon,http://www.geonames.org/4159661
+indo-Australia,http://eol.org/schema/terms/IndoAustral
+industrial waste,http://purl.obolibrary.org/obo/ENVO_00002267
+infant,http://www.ebi.ac.uk/efo/EFO_0001355
+inorganically contaminated sediment,http://purl.obolibrary.org/obo/ENVO_00002203
+insequent stream,http://purl.obolibrary.org/obo/ENVO_00000494
+interior Arizona chaparral,http://eol.org/schema/terms/Interior_Arizona_chaparral
+intermediate lava,http://purl.obolibrary.org/obo/ENVO_01000233
+intermittent estuary,http://purl.obolibrary.org/obo/ENVO_00000229
+intermittent oxbow lake,http://purl.obolibrary.org/obo/ENVO_00000503
+intermittent reservoir,http://purl.obolibrary.org/obo/ENVO_00000506
+intermittent saline evaporation pond,http://purl.obolibrary.org/obo/ENVO_00000532
+interstitial fluid,http://purl.obolibrary.org/obo/ENVO_02000042
+intromission,http://eol.org/schema/terms/intromission
+inverse estuary,http://purl.obolibrary.org/obo/ENVO_00000228
+iriomote Island,http://www.geonames.org/1861484
+iron meteorite,http://purl.obolibrary.org/obo/ENVO_00002052
+iron-reducing sediment,http://purl.obolibrary.org/obo/ENVO_01000152
+iron-reducing zone of petroleum contaminated sediment,http://purl.obolibrary.org/obo/ENVO_00002178
+ishigaki Island,http://www.geonames.org/1861417
+isikli Lake,http://www.geonames.org/311137
+iskenderun Bay,http://www.geonames.org/311110
+island arc,http://purl.obolibrary.org/obo/ENVO_00000353
+island County,http://www.geonames.org/5798453
+isle of Karpathos,http://www.geonames.org/260893
+isonura Beach,http://www.geonames.org/1855359
+iyidere Stream,http://www.geonames.org/745029
+iznik Lake,http://www.geonames.org/745025
+james Bay,http://www.geonames.org/5985550
+"jameson Island, Nunavut, Canada",http://www.wikidata.org/entity/Q6146128
+jefferson County,http://www.geonames.org/5798663
+joint-plane cave,http://purl.obolibrary.org/obo/ENVO_00000321
+jones Sound,http://www.geonames.org/5987851
+jungle soil,http://purl.obolibrary.org/obo/ENVO_00005751
+jūrmala,http://www.geonames.org/11352655
+juvenile and ovigerous,http://eol.org/schema/terms/juvenileAndOvigerous
+kabaena island,http://www.geonames.org/1642299
+kabompo-Mwinilunga,http://eol.org/schema/terms/Kabompo-Mwinilunga
+kalinzu,http://www.geonames.org/232530
+kamarora,http://www.geonames.org/1968599
+kame,http://purl.obolibrary.org/obo/ENVO_00000542
+kame terrace,http://purl.obolibrary.org/obo/ENVO_00000433
+kampala,http://www.geonames.org/232422
+kamtchatka,http://www.geonames.org/2125072
+kandalaksha,http://www.geonames.org/553190
+kandalaksha Skerries,http://www.geonames.org/553186
+"kanektok River, Alaska",http://www.wikidata.org/entity/Q3192622
+kankau,http://eol.org/schema/terms/Kankau
+kara Sea,http://www.wikidata.org/entity/Q33629
+karamanli Dam Lake,http://www.geonames.org/309509
+karasu Stream,http://www.geonames.org/309325
+"karlov Island, Russia",http://eol.org/schema/terms/KarlovIsland
+"karrak Lake, Nunavut",http://www.wikidata.org/entity/Q22536468
+karst field,http://purl.obolibrary.org/obo/ENVO_00004683
+"kasatochi Island, Alaska",http://www.geonames.org/5865872
+kastanozem,http://purl.obolibrary.org/obo/ENVO_00002240
+katanga,http://www.geonames.org/205703
+kattegat,http://www.geonames.org/2960850
+kauai Island,http://www.geonames.org/5848511
+key Island,http://www.geonames.org/8179471
+kharlov Island,http://www.geonames.org/550523
+kiewa River Vic,http://eol.org/schema/terms/Kiewa_River_Vic
+kilpisjarvi,http://www.geonames.org/652793
+king County,http://www.geonames.org/5799783
+king Island,http://www.geonames.org/2161357
+kirkgöz Stream,http://www.geonames.org/437298
+kitsap County,http://www.geonames.org/5799853
+kittitas County,http://www.geonames.org/5799889
+kızılırmak River,http://www.geonames.org/742986
+klickitat County,http://www.geonames.org/5799909
+koca Stream,http://www.geonames.org/742888
+kodiak Island,http://www.geonames.org/5866573
+kolgeuv Island,http://eol.org/schema/terms/KolgeuvIsland
+kolonedale,http://www.geonames.org/1639721
+komi,http://www.geonames.org/545854
+komodo,http://www.geonames.org/1639691
+kömür Stream,http://www.geonames.org/10015062
+"koniuji Island, Alaska",http://www.geonames.org/5866673
+"konkovaya river basin, Russia",http://eol.org/schema/terms/Konkovayariverbasin
+konya,http://www.geonames.org/306569
+köprü Çayı,http://www.geonames.org/306529
+koshun,http://eol.org/schema/terms/Koshun
+"krisuvikurberg, Iceland",http://www.geonames.org/3415174
+kuilu-Kongo,http://eol.org/schema/terms/Kuilu-Kongo
+kujalnitsky Liman,http://www.geonames.org/703500
+kuranda,http://www.geonames.org/2160944
+kuril Islands,http://www.geonames.org/2131689
+kuş Lake,http://www.geonames.org/742026
+kusaie Island,http://www.geonames.org/2081155
+"kvichak River, Alaska",http://www.geonames.org/5866976
+"kwethluk River, Alaska",http://www.geonames.org/5866987
+kynurenate enriched soil,http://purl.obolibrary.org/obo/ENVO_00003090
+kyushu Island,http://www.geonames.org/1857892
+l-(+)-tartrate enriched soil,http://purl.obolibrary.org/obo/ENVO_00003094
+"la Pérouse Bay, Manitoba, Canada",http://eol.org/schema/terms/LaPerouseBayManitoba
+labrador,http://www.wikidata.org/entity/Q380307
+labuan,http://www.geonames.org/1733780
+lacustrine beach,http://purl.obolibrary.org/obo/ENVO_00000093
+lacustrine mudflat,http://purl.obolibrary.org/obo/ENVO_00000242
+lacustrine plain,http://purl.obolibrary.org/obo/ENVO_00000259
+lake Balaton,http://www.geonames.org/3055597
+lake Baykal,http://www.geonames.org/2026982
+lake bottom mud,http://purl.obolibrary.org/obo/ENVO_00005797
+lake channel,http://purl.obolibrary.org/obo/ENVO_00000397
+lake Chapala,http://www.geonames.org/3977024
+lake Eğirdir,http://www.geonames.org/315904
+lake Kurilskoe Keuai,http://www.geonames.org/2123976
+"lake Myvatn, Iceland",http://www.wikidata.org/entity/Q212051
+lake Rennie,http://www.geonames.org/6119478
+lake Tovel,http://www.geonames.org/3165346
+lake Tuz,http://www.geonames.org/298679
+lāna‘i,http://www.geonames.org/5850056
+land-tied island,http://purl.obolibrary.org/obo/ENVO_00000269
+laplandsky Nature Reserve,http://eol.org/schema/terms/LaplandskyNatureReserve
+large river headwater,http://purl.obolibrary.org/obo/ENVO_00000888
+larva and pupa,http://eol.org/schema/terms/larvaAndPupa
+late adult stage,http://purl.obolibrary.org/obo/UBERON_0007222
+late December,http://eol.org/schema/terms/LateDecember
+late February,http://eol.org/schema/terms/LateFebruary
+late March,http://eol.org/schema/terms/lateMarch
+late November,http://eol.org/schema/terms/LateNovember
+late October,http://eol.org/schema/terms/LateOctober
+latest,http://eol.org/schema/terms/latest
+lava,http://purl.obolibrary.org/obo/ENVO_01000231
+lawn soil,http://purl.obolibrary.org/obo/ENVO_00005756
+le Havre,http://www.geonames.org/3003796
+leaves of woody plants,http://eol.org/schema/terms/woodyLeaf
+lena-Olenyk,http://eol.org/schema/terms/Lena-Olenyk
+lentic waters,http://eol.org/schema/terms/lentic
+lesser Sunda Islands,http://www.geonames.org/1624114
+levant,http://www.geonames.org/305104
+levantine Sea,http://www.geonames.org/11152682
+"levels, fens and grazing marshes",http://eol.org/schema/terms/levelsFensGrazingMarshes
+lewis County,http://www.geonames.org/5800813
+leyte Island,http://www.geonames.org/1706802
+liana,http://eol.org/schema/terms/liana
+light weight,http://purl.obolibrary.org/obo/PATO_0000583
+lillo,http://www.geonames.org/2792359
+lincoln County,http://www.geonames.org/5800965
+little Nicobar,http://www.geonames.org/1264874
+live cave,http://purl.obolibrary.org/obo/ENVO_00000323
+lixisol,http://purl.obolibrary.org/obo/ENVO_00002242
+llangua River,http://eol.org/schema/terms/LlanguaRiver
+lock,http://purl.obolibrary.org/obo/ENVO_00000357
+lompobatang,http://www.geonames.org/1637360
+lough Currane,http://www.geonames.org/2964907
+louisiana Coastal Waters,http://eol.org/schema/terms/louisianaCoastWater
+lowland freshwater river,http://eol.org/schema/terms/lowlandFreshwaterRiver
+lowland rivers and canals,http://eol.org/schema/terms/lowlandRiversCanals
+luiseade Archipellago,http://www.geonames.org/2133000
+luwuk,http://www.geonames.org/1637001
+luzon,http://www.geonames.org/1704846
+lymph,http://purl.obolibrary.org/obo/ENVO_02000041
+madeira,http://www.geonames.org/2266877
+madenli Aksu Stream,http://eol.org/schema/terms/MadenliAksuStream
+madjene,http://www.geonames.org/1636805
+madra Creek,http://www.geonames.org/305017
+maelstrom,http://purl.obolibrary.org/obo/ENVO_00000442
+makarov Basin,http://www.geonames.org/2130834
+malampa Province,http://www.geonames.org/2208265
+maly Aynov Island,http://eol.org/schema/terms/MalyAynovIsland
+manado,http://www.geonames.org/1636544
+"manaus, Brazil",http://www.geonames.org/6319328
+manavgat River,http://www.geonames.org/304853
+manay,http://www.geonames.org/300445
+manca,http://eol.org/schema/terms/manca
+manchuria,http://eol.org/schema/terms/Manchuria
+mancilik Stream,http://www.geonames.org/11024223
+manganese-reducing sediment,http://purl.obolibrary.org/obo/ENVO_01000151
+mangrove island,http://purl.obolibrary.org/obo/ENVO_00000103
+manila,http://www.geonames.org/1701668
+manipur,http://www.geonames.org/1263706
+manured soil,http://purl.obolibrary.org/obo/ENVO_00005767
+marginal ice zone front,http://purl.obolibrary.org/obo/ENVO_01000095
+marginal sea,http://purl.obolibrary.org/obo/ENVO_01000046
+marinduque,http://www.geonames.org/1700903
+marine basaltic hydrothermal vent,http://purl.obolibrary.org/obo/ENVO_01000054
+marine benthic feature,http://purl.obolibrary.org/obo/ENVO_01000105
+marine benthic storm,http://purl.obolibrary.org/obo/ENVO_01000062
+black smoker,http://purl.obolibrary.org/obo/ENVO_01000051
+marine channel,http://purl.obolibrary.org/obo/ENVO_00000396
+marine chemocline,http://purl.obolibrary.org/obo/ENVO_01000076
+cold seep,http://purl.obolibrary.org/obo/ENVO_01000127
+coral reef buttress zone,http://purl.obolibrary.org/obo/ENVO_01000148
+coral reef deep fore reef,http://purl.obolibrary.org/obo/ENVO_01000149
+marine current,http://purl.obolibrary.org/obo/ENVO_01000067
+marine downwelling,http://purl.obolibrary.org/obo/ENVO_01000064
+marine hydrothermal plume,http://purl.obolibrary.org/obo/ENVO_01000130
+marine hydrothermal vent,http://purl.obolibrary.org/obo/ENVO_01000122
+marine hydrothermal vent chimney,http://purl.obolibrary.org/obo/ENVO_01000129
+marine lysocline,http://purl.obolibrary.org/obo/ENVO_01000079
+marine neritic benthic zone,http://purl.obolibrary.org/obo/ENVO_01000025
+marine nutricline,http://purl.obolibrary.org/obo/ENVO_01000078
+marine oligotrophic desert,http://purl.obolibrary.org/obo/ENVO_01000073
+marine oxygen minimum zone,http://purl.obolibrary.org/obo/ENVO_01000065
+marine pelagic feature,http://purl.obolibrary.org/obo/ENVO_01000044
+marine pockmark,http://purl.obolibrary.org/obo/ENVO_01000160
+marine pycnocline,http://purl.obolibrary.org/obo/ENVO_01000077
+marine reef,http://purl.obolibrary.org/obo/ENVO_01000143
+marine sludge,http://purl.obolibrary.org/obo/ENVO_00005796
+marine sponge reef,http://purl.obolibrary.org/obo/ENVO_01000161
+marine streamer,http://purl.obolibrary.org/obo/ENVO_01000068
+marine subtidal rocky reef,http://purl.obolibrary.org/obo/ENVO_01000150
+marine surface current,http://purl.obolibrary.org/obo/ENVO_01000099
+marine Taylor column,http://purl.obolibrary.org/obo/ENVO_01000072
+marine thermocline,http://purl.obolibrary.org/obo/ENVO_01000075
+ultramafic hydrothermal vent,http://purl.obolibrary.org/obo/ENVO_01000053
+marine water body,http://purl.obolibrary.org/obo/ENVO_00001999
+white smoker,http://purl.obolibrary.org/obo/ENVO_01000052
+marine wind mixed layer,http://purl.obolibrary.org/obo/ENVO_01000061
+marolambo,http://www.geonames.org/1060007
+mascarenes,http://www.geonames.org/1084889
+mason County,http://www.geonames.org/5802584
+masterton,http://www.geonames.org/2206890
+maudlandia Antarctic desert,http://eol.org/schema/terms/Maudlandia_Antarctic_desert
+maui,http://www.geonames.org/5850862
+"mcLees Lake, Alaska",http://www.geonames.org/5868599
+medial moraine,http://purl.obolibrary.org/obo/ENVO_00000250
+"mediterranean Forests, Woodlands, and Scrub",http://eol.org/schema/terms/Mediterranean_Forests_Woodlands_and_Scrub
+mediterranean Islands,http://eol.org/schema/terms/MediterraneanIslands
+mediterranean savanna,http://purl.obolibrary.org/obo/ENVO_01000229
+megalopa stage,http://purl.obolibrary.org/obo/UBERON_0014859
+melendiz River,http://www.geonames.org/304655
+mentawai Islands,http://www.geonames.org/1214515
+mergui,http://www.geonames.org/6301058
+merzimen Stream,http://eol.org/schema/terms/MerzimenStream
+mesophilic sediment,http://purl.obolibrary.org/obo/ENVO_01000131
+mesophilic sulfur spring,http://purl.obolibrary.org/obo/ENVO_00002128
+mesoscale marine eddy,http://purl.obolibrary.org/obo/ENVO_01000069
+metal contaminated soil,http://purl.obolibrary.org/obo/ENVO_00003081
+metalimnion,http://purl.obolibrary.org/obo/ENVO_00002132
+metamorphic,http://eol.org/schema/terms/metamorphic
+metamorphic and metamorphosed,http://eol.org/schema/terms/metamorphicAndMetamorphosed
+microbial feature,http://purl.obolibrary.org/obo/ENVO_01000007
+microbial mat material,http://purl.obolibrary.org/obo/ENVO_01000157
+mid December,http://eol.org/schema/terms/midDecember
+mid March,http://eol.org/schema/terms/midMarch
+mid-shelf fronts,http://purl.obolibrary.org/obo/ENVO_01000088
+midway,http://www.geonames.org/5854942
+migratory,http://www.owl-ontologies.com/unnamed.owl#Migratory
+military training area,http://purl.obolibrary.org/obo/ENVO_00000561
+misantla,http://www.geonames.org/8583754
+misool Island,http://www.geonames.org/1621136
+mL/l,http://purl.obolibrary.org/obo/UO_0000207
+mm^3,http://eol.org/schema/terms/cubicMillimeter
+moatan,http://purl.obolibrary.org/obo/ENVO_00000536
+molokai,http://www.geonames.org/6619302
+monchegorsk,http://www.geonames.org/525404
+monogenetic volcanic field,http://purl.obolibrary.org/obo/ENVO_00000355
+montane grassland and shrubland,http://purl.obolibrary.org/obo/ENVO_00000882
+morotai Island,http://www.geonames.org/1634987
+morris Jesup Rise,http://www.geonames.org/3163695
+"mortensens Creek, Alaska",http://eol.org/schema/terms/MortensensCreek
+mortimer Common,http://www.geonames.org/2642172
+motovskoy Bay,http://eol.org/schema/terms/MotovskoyBay
+mountain forest soil,http://purl.obolibrary.org/obo/ENVO_00005769
+mountain spur,http://purl.obolibrary.org/obo/ENVO_00000390
+mouth,http://purl.obolibrary.org/obo/ENVO_00000479
+muğla,http://www.geonames.org/304183
+murat River,http://eol.org/schema/terms/MuratRiver
+murmanski,http://www.geonames.org/524305
+murrumbidgee Rivers,http://eol.org/schema/terms/Murrumbidgee_Rivers
+mycetome,http://purl.obolibrary.org/obo/ENVO_01000166
+nagano Prefecture,http://www.geonames.org/1856210
+"naknek, Alaska",http://www.wikidata.org/entity/Q751433
+"nanvak Island, Alaska",http://eol.org/schema/terms/NanvakIsland
+natal,http://www.geonames.org/6320189
+national nature reserve,http://purl.obolibrary.org/obo/ENVO_00000366
+national wildlife refuge,http://purl.obolibrary.org/obo/ENVO_00000364
+near East,http://eol.org/schema/terms/NearEast
+nebraska Sandhills prairie,http://eol.org/schema/terms/Nebraska_Sandhills_prairie
+negros,http://www.geonames.org/1697809
+"nenetski, Russian Federation",http://eol.org/schema/terms/Nenetski
+neonatal,http://purl.obolibrary.org/obo/PATO_0002206
+neritic epipelagic zone,http://purl.obolibrary.org/obo/ENVO_01000042
+neritic mesopelagic zone,http://purl.obolibrary.org/obo/ENVO_01000043
+neritic sea surface microlayer,http://purl.obolibrary.org/obo/ENVO_01000041
+neritic sub-littoral zone,http://purl.obolibrary.org/obo/ENVO_01000126
+neritic supra-littoral zone,http://purl.obolibrary.org/obo/ENVO_01000124
+nertic littoral zone,http://purl.obolibrary.org/obo/ENVO_01000125
+nestling,http://eol.org/schema/terms/nestling
+neutral hot spring,http://purl.obolibrary.org/obo/ENVO_00002181
+new England,http://www.geonames.org/8502102
+new Granada,http://eol.org/schema/terms/NewGranada
+new Hebrides,http://www.geonames.org/2135600
+new Ireland,http://www.geonames.org/2089694
+new York Coastal Waters,http://eol.org/schema/terms/newyorkCoastWater
+newcastle Harbour,http://www.geonames.org/2155469
+ni‘ihau,http://www.geonames.org/5851462
+nias Islands,http://www.geonames.org/1214404
+nicobar Islands,http://www.geonames.org/1261448
+nigde,http://www.geonames.org/303826
+nilufer River,http://www.geonames.org/741301
+nitisol,http://purl.obolibrary.org/obo/ENVO_00002247
+nitrate-reducing sediment,http://purl.obolibrary.org/obo/ENVO_01000135
+nitrobenzene contaminated sediment,http://purl.obolibrary.org/obo/ENVO_00002182
+non-motile / semi-motile,http://polytraits.lifewatchgreece.eu/terms/MOB_SESS
+"nord-Fugloy, Norway",http://www.geonames.org/780110
+"nordurkot, Iceland",http://www.geonames.org/3414163
+normanby Island,http://www.geonames.org/2132814
+north Atlantic,http://www.wikidata.org/entity/Q350134
+north Carolina Coastal Waters,http://eol.org/schema/terms/northcarolinaCoastWater
+north East Arctic,http://eol.org/schema/terms/NorthEastArctic
+north-facing limestone bluff,http://eol.org/schema/terms/northFacingLimestoneBluff
+northcentral Africa,http://eol.org/schema/terms/NorthcentralAfrica
+northcentral Europe,http://eol.org/schema/terms/NorthcentralEurope
+northeast Asia,http://eol.org/schema/terms/NortheastAsia
+northeast Beech-maple,http://eol.org/schema/terms/Northeast_beech_maple
+northeast Eastern white pine-northern hardwood,http://eol.org/schema/terms/Northeast_eastern_white_pine_northern_hardwood
+northeast Eastern white pine-northern hardwoods,http://eol.org/schema/terms/Northeast_Forested/Eastern_white_pine-northern_hardwoods
+northeast Eastern woodland mosaic,http://eol.org/schema/terms/Northeast_eastern_woodland_mosaic
+northeast Forested,http://eol.org/schema/terms/Northeast_Forested
+northeast Grassland,http://eol.org/schema/terms/Northeast_Grassland
+northeast Northern hardwoods-eastern hemlock,http://eol.org/schema/terms/Northeast_northern_hardwoods_eastern_hemlock
+northeast Northern hardwoods-spruce,http://eol.org/schema/terms/Northeast_northern_hardwoods_spruce
+northeast Oak-pine (eastern dry-xeric),http://eol.org/schema/terms/Northeast_oak_pine_--eastern_dry_xeric--
+northeast Pine barrens,http://eol.org/schema/terms/Northeast_pine_barrens
+northeast Pine barrens,http://eol.org/schema/terms/Northeast_Woodland_Pine_barrens
+northeast Rocky outcrop pine,http://eol.org/schema/terms/Northeast_rocky_outcrop_pine
+northeast spruce-fir forest,http://eol.org/schema/terms/Northeast_spruce_fir_forest
+northeastern Europe,http://eol.org/schema/terms/NortheasternEurope
+northeastern Victoria Island,http://eol.org/schema/terms/NortheasternVictoriaIsland
+northern and Central Rockies Ancient juniper,http://eol.org/schema/terms/Northern_and_Central_Rockies_ancient_juniper
+northern and Central Rockies big sagebrush,http://eol.org/schema/terms/Northern_and_Central_Rockies_big_sagebrush
+northern and Central Rockies big sagebrush steppe and shrubland,http://eol.org/schema/terms/Northern_and_Central_Rockies_mountain_big_sagebrush_steppe_and_shrubland
+northern and Central Rockies Douglas-fir (cold),http://eol.org/schema/terms/Northern_and_Central_Rockies_douglas_fir_--cold--
+northern and Central Rockies Douglas-fir (warm mesic interior),http://eol.org/schema/terms/Northern_and_Central_Rockies_douglas_fir_--warm_mesic_interior--
+northern and Central Rockies Douglas-fir (xeric interior),http://eol.org/schema/terms/Northern_and_Central_Rockies_douglas_fir_--xeric_interior--
+northern and Central Rockies Forested,http://eol.org/schema/terms/Northern_and_Central_Rockies_Forested
+northern and Central Rockies Grand fir-Douglas-fir-western larch mix,http://eol.org/schema/terms/Northern_and_Central_Rockies_grand_fir_Douglas_fir_western_larch_mix
+northern and Central Rockies Grand fir-lodgepole pine-larch-Douglas-fir,http://eol.org/schema/terms/Northern_and_Central_Rockies_Forested/Grand_fir-lodgepole_pine-larch-Douglas-fir
+northern and Central Rockies Grand fir-lodgepole pine-western larch-Douglas-fir,http://eol.org/schema/terms/Northern_and_Central_Rockies_grand_fir_lodgepole_pine_western_larch_Douglas_fir
+northern and Central Rockies Grassland,http://eol.org/schema/terms/Northern_and_Central_Rockies_grassland
+northern and Central Rockies Low sagebrush shrubland,http://eol.org/schema/terms/Northern_and_Central_Rockies_low_sagebrush_shrubland
+northern and Central Rockies Lower subalpine (Wyoming and Central Rockies),http://eol.org/schema/terms/Lower_subalpine_--Wyoming_and_Central_Rockies--
+northern and Central Rockies Lower subalpine lodgepole pine,http://eol.org/schema/terms/Northern_and_Central_Rockies_Forested/Lower_subalpine_lodgepole_pine
+northern and Central Rockies Mixed conifer-upland western redcedar-western hemlock,http://eol.org/schema/terms/Northern_and_Central_Rockies_Forested/Mixed_conifer-upland_western_redcedar-western_hemlock
+northern and Central Rockies Mixed-conifer upland western redcedar-western hemlock,http://eol.org/schema/terms/Northern_and_Central_Rockies_Forested/Mixed-conifer_upland_western_redcedar-western_hemlock
+northern and Central Rockies Mixed-conifer-upland western redcedar-western hemlock,http://eol.org/schema/terms/Northern_and_Central_Rockies_mixed_conifer_upland_western_redcedar_western_hemlock
+northern and Central Rockies Mountain grassland,http://eol.org/schema/terms/Northern_and_Central_Rockies_mountain_grassland
+northern and Central Rockies Persistent lodgepole pine,http://eol.org/schema/terms/Northern_and_Central_Rockies_Forested/Persistent_lodgepole_pine
+northern and Central Rockies Ponderosa pine,http://eol.org/schema/terms/Northern_and_Central_Rockies_Ponderosa_pine
+northern and Central Rockies Ponderosa pine-Douglas-fir,http://eol.org/schema/terms/Northern_and_Central_Rockies_ponderosa_pine_Douglas_fir
+northern and Central Rockies Salt desert shrub,http://eol.org/schema/terms/Northern_and_Central_Rockies_salt_desert_shrub
+northern and Central Rockies Shrubland,http://eol.org/schema/terms/Northern_and_Central_Rockies_Shrubland
+northern and Central Rockies Upper subalpine spruce-fir (Central Rockies),http://eol.org/schema/terms/Upper_subalpine_spruce_fir_--Central_Rockies--
+northern and Central Rockies Western larch-lodgepole pine-Douglas-fir,http://eol.org/schema/terms/Northern_and_Central_Rockies_western_larch_lodgepole_pine_Douglas_fir
+northern and Central Rockies Western redcedar,http://eol.org/schema/terms/Northern_and_Central_Rockies_western_redcedar
+northern and Central Rockies Wet mountain meadow-Lodgepole pine (subalpine),http://eol.org/schema/terms/California_Grassland/Wet_mountain_meadow-Lodgepole_pine_--subalpine--
+northern and Central Rockies Woodland,http://eol.org/schema/terms/Northern_and_Central_Rockies_Woodland
+northern coastal marsh,http://eol.org/schema/terms/Northeast_northern_coastal_marsh
+northern Great Plains wooded draws and ravines,http://eol.org/schema/terms/Northern_Great_Plains_wooded_draws_and_ravines
+northern hardwoods (Northeast),http://eol.org/schema/terms/Northeast_northern_hardwoods
+northern Ocean,http://eol.org/schema/terms/NorthernOcean
+northern Plains Central tallgrass prairie,http://eol.org/schema/terms/Northern_Plains_central_tallgrass_prairie
+northern Plains mixed-grass prairie,http://eol.org/schema/terms/Northern_Plains_mixed_grass_prairie
+northern Plains Oak savanna,http://eol.org/schema/terms/Northern_Plains_oak_savanna
+northern Plains Oak woodland,http://eol.org/schema/terms/Northern_Plains_oak_woodland
+northern Plains Southern mixed-grass prairie,http://eol.org/schema/terms/Northern_Plains_southern_mixed_grass_prairie
+northern Plains Southern tallgrass prairie (East),http://eol.org/schema/terms/Northern_Plains_southern_tallgrass_prairie_--East--
+northern Plains tallgrass prairie,http://eol.org/schema/terms/Northern_Plains_tallgrass_prairie
+northern Rockies prairie grassland,http://eol.org/schema/terms/Northern_and_Central_Rockies__northern_prairie_grassland
+northwest Douglas-fir-western hemlock (wet mesic),http://eol.org/schema/terms/Northwest_Forested/Douglas-fir-western_hemlock_--wet_mesic--
+northwest Dry ponderosa pine (mesic),http://eol.org/schema/terms/Northwest_Forested/Dry_ponderosa_pine_--mesic--
+northwest Forested,http://eol.org/schema/terms/Northwest_Forested
+northwest Pine savannah (ultramafic),http://eol.org/schema/terms/Northwest_Woodland/Pine_savannah_--ultramafic--
+northwest Shrubland,http://eol.org/schema/terms/Northwest_Shrubland
+northwest Wyoming sagebrush steppe,http://eol.org/schema/terms/Northwest_Shrubland/Wyoming_sagebrush_steppe
+northwestern Victoria Island,http://eol.org/schema/terms/NorthwesternVictoriaIsland
+northwind Abyssal Basin,http://eol.org/schema/terms/NorthwindAbyssalBasin
+northwind Ridge,http://www.geonames.org/4031872
+norton Sound,http://www.geonames.org/5870368
+norway,http://www.wikidata.org/entity/Q20
+not ecosystem engineer,http://polytraits.lifewatchgreece.eu/terms/RW_NO
+nuclear weapons test site,http://purl.obolibrary.org/obo/ENVO_00000560
+"nulato River, Alaska",http://www.wikidata.org/entity/Q2004598
+nyasaland,http://www.geonames.org/922296
+nye channel,http://purl.obolibrary.org/obo/ENVO_00000437
+nymph,http://purl.obolibrary.org/obo/BTO_0000954
+obligate,http://eol.org/schema/terms/obligate
+obsequent stream,http://purl.obolibrary.org/obo/ENVO_00000493
+ocean basin,http://purl.obolibrary.org/obo/ENVO_00002450
+ocean,http://purl.obolibrary.org/obo/ENVO_01000048
+ocean current,http://purl.obolibrary.org/obo/ENVO_00000147
+ocean floor,http://purl.obolibrary.org/obo/ENVO_00000426
+ocean time series station,http://purl.obolibrary.org/obo/ENVO_00011764
+ocean trench,http://purl.obolibrary.org/obo/ENVO_00000275
+ocean water,http://purl.obolibrary.org/obo/ENVO_00002151
+oceania,http://eol.org/schema/terms/Oceania
+oceanic abyssopelagic zone,http://purl.obolibrary.org/obo/ENVO_01000038
+oceanic epipelagic zone,http://purl.obolibrary.org/obo/ENVO_01000035
+oceanic gyre,http://purl.obolibrary.org/obo/ENVO_01000074
+oceanic hadal pelagic zone,http://purl.obolibrary.org/obo/ENVO_01000039
+oceanic mesopelagic zone,http://purl.obolibrary.org/obo/ENVO_01000036
+oceanic sea surface microlayer,http://purl.obolibrary.org/obo/ENVO_01000034
+oil,http://purl.obolibrary.org/obo/ENVO_00002985
+oil reservoir,http://purl.obolibrary.org/obo/ENVO_00002185
+oil spill,http://purl.obolibrary.org/obo/ENVO_00002061
+oil tank,http://purl.obolibrary.org/obo/ENVO_00002183
+oil well,http://purl.obolibrary.org/obo/ENVO_01000003
+okanogan County,http://www.geonames.org/5805553
+"old Crow Flats, Yukon",http://www.geonames.org/6093115
+oligosaccharide composition of milk,http://eol.org/schema/terms/OligosaccharideCompositionOfMilk
+onaç,http://www.geonames.org/303517
+open water,http://eol.org/schema/terms/openWater
+opole,http://www.geonames.org/3090048
+orchard soil,http://purl.obolibrary.org/obo/ENVO_00005772
+orchid soil,http://purl.obolibrary.org/obo/ENVO_00005768
+organism is an ecosystem engineer,http://polytraits.lifewatchgreece.eu/terms/RW_YES
+oriental Region,http://eol.org/schema/terms/OrientalRegion
+ornithogenic soil,http://purl.obolibrary.org/obo/ENVO_00005782
+oronasal secretion,http://purl.obolibrary.org/obo/ENVO_02000035
+"oscar Lake, Northwest Territories",http://www.geonames.org/6094557
+"otter Island, Alaska",http://www.wikidata.org/entity/Q519236
+outflow cave,http://purl.obolibrary.org/obo/ENVO_00000324
+outlet glacier,http://purl.obolibrary.org/obo/ENVO_00000459
+"Øresund""",http://www.geonames.org/2612845
+pacific County,http://www.geonames.org/5806002
+pacific Northwest alpine and subalpine meadows and grasslands,http://eol.org/schema/terms/Pacific_Northwest_alpine_and_subalpine_meadows_and_grasslands
+pacific Northwest bluebunch wheatgrass,http://eol.org/schema/terms/Pacific_Northwest_bluebunch_wheatgrass
+pacific Northwest Douglas-fir-western hemlock (dry mesic),http://eol.org/schema/terms/Pacific_Northwest_douglas_fir_western_hemlock_--dry_mesic--
+pacific Northwest Douglas-fir-western hemlock (wet mesic),http://eol.org/schema/terms/Pacific_Northwest_douglas_fir_western_hemlock_--wet_mesic--
+pacific Northwest Dry ponderosa pine (mesic),http://eol.org/schema/terms/Pacific_Northwest_Forested/Dry_ponderosa_pine_--mesic--
+pacific Northwest Forested,http://eol.org/schema/terms/Pacific_Northwest_Forested
+pacific Northwest Grassland Marsh,http://eol.org/schema/terms/Pacific_Northwest_Grassland_Marsh
+pacific Northwest Lodgepole pine (pumice soils),http://eol.org/schema/terms/Pacific_Northwest_lodgepole_pine_--pumice_soils--
+pacific Northwest low sagebrush,http://eol.org/schema/terms/Pacific_Northwest_low_sagebrush
+pacific Northwest Mixed conifer (eastside dry),http://eol.org/schema/terms/Pacific_Northwest_mixed_conifer_--eastside_dry--
+pacific Northwest Mixed conifer (eastside mesic),http://eol.org/schema/terms/Pacific_Northwest_mixed_conifer_--eastside_mesic--
+pacific Northwest Mixed conifer (southwestern Oregon),http://eol.org/schema/terms/Pacific_Northwest_mixed_conifer_--southwestern_Oregon--
+pacific Northwest mountain big sagebrush (cool sagebrush),http://eol.org/schema/terms/Pacific_Northwest_mountain_big_sagebrush--cool_sagebrush--
+pacific Northwest Mountain hemlock,http://eol.org/schema/terms/Pacific_Northwest_mountain_hemlock
+pacific Northwest Oregon coastal tanoak,http://eol.org/schema/terms/Pacific_Northwest_Oregon_coastal_tanoak
+pacific Northwest Pine savannah (ultramafic),http://eol.org/schema/terms/Pacific_Northwest_Woodland/Pine_savannah_--ultramafic--
+pacific Northwest Ponderosa pine,http://eol.org/schema/terms/Pacific_Northwest_ponderosa_pine
+pacific Northwest Ponderosa pine (xeric),http://eol.org/schema/terms/Pacific_Northwest_ponderosa_pine_--xeric--
+pacific Northwest Ponderosa pine savanna (ultramafic),http://eol.org/schema/terms/Pacific_Northwest_ponderosa_pine_savanna_--ultramafic--
+pacific Northwest Ponderosa pine savannah (ultramafic),http://eol.org/schema/terms/Pacific_Northwest_Woodland/Ponderosa_pine_savannah_--ultramafic--
+"pacific Northwest Ponderosa pine, (mesic)",http://eol.org/schema/terms/Pacific_Northwest_Forested/Ponderosa_pine_--mesic--
+pacific Northwest Red fir,http://eol.org/schema/terms/Pacific_Northwest_red_fir
+pacific Northwest Salt desert scrubland,http://eol.org/schema/terms/Pacific_Northwest_salt_desert_scrubland
+pacific Northwest Salt desert shrub,http://eol.org/schema/terms/Pacific_Northwest_salt_desert_shrub
+pacific Northwest Shrubland,http://eol.org/schema/terms/Pacific_Northwest_shrubland
+pacific Northwest Sitka spruce-western hemlock,http://eol.org/schema/terms/Pacific_Northwest_sitka_spruce_western_hemlock
+pacific Northwest Spruce-fir,http://eol.org/schema/terms/Pacific_Northwest_spruce_fir
+pacific Northwest Subalpine fir,http://eol.org/schema/terms/Pacific_Northwest_subalpine_fir
+pacific Northwest Subalpine woodland,http://eol.org/schema/terms/Pacific_Northwest_subalpine_woodland
+pacific Northwest Western juniper (pumice),http://eol.org/schema/terms/Pacific_Northwest_western_juniper_--pumice--
+pacific Northwest Woodland,http://eol.org/schema/terms/Pacific_Northwest_Woodland
+pacific Ocean Islands,http://eol.org/schema/terms/PacificOceanIslands
+pacific Region,http://eol.org/schema/terms/PacificRegion
+pahang,http://www.geonames.org/1733042
+paisa mire,http://purl.obolibrary.org/obo/ENVO_00000188
+palawan,http://www.geonames.org/1696180
+palearctic West Asia,http://eol.org/schema/terms/PalearcticWestAsia
+palopo,http://www.geonames.org/1633037
+panaon,http://www.geonames.org/1695664
+panay,http://www.geonames.org/1695610
+pantothenate enriched soil,http://purl.obolibrary.org/obo/ENVO_00003088
+paper product,http://purl.obolibrary.org/obo/ENVO_00003895
+papua,http://www.geonames.org/1643012
+papua-Australia,http://eol.org/schema/terms/PapuaAustralia
+parasite,http://purl.obolibrary.org/obo/IDO_0000526
+parasitic adult,http://eol.org/schema/terms/parasiticAdult
+particle of silt,http://purl.obolibrary.org/obo/ENVO_00000343
+particulate organic matter,http://eol.org/schema/terms/particulateOrganicMatter
+pasabandar,http://www.geonames.org/1160024
+paternoster lake,http://purl.obolibrary.org/obo/ENVO_00000487
+paulatuk Region,http://eol.org/schema/terms/PaulatukRegion
+peaty paddy field soil,http://purl.obolibrary.org/obo/ENVO_00005776
+pelagic isohaline surface,http://purl.obolibrary.org/obo/ENVO_01000081
+pelagic isopycnal surface,http://purl.obolibrary.org/obo/ENVO_01000083
+pelagic isothermal surface,http://purl.obolibrary.org/obo/ENVO_01000080
+pend Oreille County,http://www.geonames.org/5806491
+penplain,http://purl.obolibrary.org/obo/ENVO_00000460
+per pound,http://eol.org/schema/terms/perPound
+perennial,http://eol.org/schema/terms/perennial
+periglacial lake,http://purl.obolibrary.org/obo/ENVO_00000200
+permanent marine thermocline,http://purl.obolibrary.org/obo/ENVO_01000106
+"perryville, Alaska",http://www.geonames.org/5871444
+petroleum contaminated sediment,http://purl.obolibrary.org/obo/ENVO_00002115
+phaeozem,http://purl.obolibrary.org/obo/ENVO_00002249
+photoautotroph,http://eol.org/schema/terms/photoautotrophy
+photophore,http://purl.obolibrary.org/obo/ENVO_01000163
+piece of gravel,http://purl.obolibrary.org/obo/ENVO_00000341
+pierce County,http://www.geonames.org/5806769
+"pink Mountain, British Columbia",http://www.wikidata.org/entity/Q14874742
+planktonic algae,http://eol.org/schema/terms/planktonicAlgae
+planosol,http://purl.obolibrary.org/obo/ENVO_00002251
+plant matter fall,http://purl.obolibrary.org/obo/ENVO_01000138
+plateau glacier,http://purl.obolibrary.org/obo/ENVO_00000457
+platinum mine,http://purl.obolibrary.org/obo/ENVO_00002167
+pleural effusion,http://purl.obolibrary.org/obo/ENVO_02000033
+plinthosol,http://purl.obolibrary.org/obo/ENVO_00002250
+plume front,http://purl.obolibrary.org/obo/ENVO_01000085
+plutonic rock,http://purl.obolibrary.org/obo/ENVO_00002014
+pocasin,http://purl.obolibrary.org/obo/ENVO_00000239
+pockmark field,http://purl.obolibrary.org/obo/ENVO_02000003
+pohnpei,http://www.geonames.org/2081551
+"point Barrow, Alaska",http://www.wikidata.org/entity/Q1343019
+polar,http://purl.obolibrary.org/obo/ENVO_01000238
+polar,http://purl.obolibrary.org/obo/ENVO_00003000
+polar Ural,http://www.wikidata.org/entity/Q15133453
+polder,http://purl.obolibrary.org/obo/ENVO_00000286
+polewali,http://www.geonames.org/1630935
+polillo Island,http://www.geonames.org/1693122
+political entity,http://purl.obolibrary.org/obo/ENVO_00000123
+poly-beta-hydroxybutyrate enriched soil,http://purl.obolibrary.org/obo/ENVO_00003093
+polygenetic volcanic field,http://purl.obolibrary.org/obo/ENVO_00000462
+polygonal karst,http://purl.obolibrary.org/obo/ENVO_00000335
+pond edge,http://eol.org/schema/terms/pondEdge
+pond or lagoon,http://eol.org/schema/terms/pondOrLagoon
+pond soil,http://purl.obolibrary.org/obo/ENVO_00005764
+ponds and lakes,http://eol.org/schema/terms/pondsLakes
+"ponoi River, Kola Peninaula, Russian Federation",http://www.wikidata.org/entity/Q1075070
+pontomediterranean,http://eol.org/schema/terms/Pontomediterranean
+"porcupine River, Yukon, Canada",http://www.wikidata.org/entity/Q284603
+port Erin,http://www.geonames.org/3042196
+prairie swale,http://eol.org/schema/terms/prairieSwale
+praniza,http://eol.org/schema/terms/praniza
+predator,http://eol.org/schema/terms/predator
+prejuvenile,http://eol.org/schema/terms/prejuvenile
+prepupal,http://purl.obolibrary.org/obo/PATO_0001188
+"prince of Wales, Canada",http://www.geonames.org/6113390
+prince Patrick Island,http://www.wikidata.org/entity/Q213146
+"prudhoe Bay, Alaska",http://www.wikidata.org/entity/Q1013046
+pseudocrater,http://purl.obolibrary.org/obo/ENVO_00000461
+"puale Bay, Alaska",http://www.geonames.org/5872171
+puebla,http://www.geonames.org/3521082
+pulau Buru,http://www.geonames.org/1647546
+pulp-bleaching waste water,http://purl.obolibrary.org/obo/ENVO_00002193
+pupa,http://purl.obolibrary.org/obo/UBERON_0003143
+pupal,http://purl.obolibrary.org/obo/PATO_0001187
+pus,http://purl.obolibrary.org/obo/ENVO_02000038
+putorana mountains,http://eol.org/schema/terms/Putoranamountains
+putyatin Island,http://www.geonames.org/2017536
+pyrennees,http://eol.org/schema/terms/Pyrennees
+pyritic acid mine drainage,http://purl.obolibrary.org/obo/ENVO_00002195
+pyroclastic cone,http://purl.obolibrary.org/obo/ENVO_00000356
+pyroclastic shield volcano,http://purl.obolibrary.org/obo/ENVO_00000372
+"qarlikturvik Valley, Canada",http://eol.org/schema/terms/QarlikturvikValley
+queen Maud Gulf,http://www.wikidata.org/entity/Q2122604
+questionable,http://rs.tdwg.org/ontology/voc/OccurrenceStatusTerm#Questionable
+quicksand area,http://purl.obolibrary.org/obo/ENVO_00000285
+quinate enriched soil,http://purl.obolibrary.org/obo/ENVO_00003095
+range of mounts,http://purl.obolibrary.org/obo/ENVO_00000478
+rapa,http://www.geonames.org/4033736
+"rat Islands, Alaska",http://www.wikidata.org/entity/Q1623916
+raw primary sludge,http://purl.obolibrary.org/obo/ENVO_00002057
+reading,http://www.geonames.org/2639577
+"red River, Alaska",http://www.geonames.org/5872570
+republic of Karelia,http://www.geonames.org/552548
+resequent stream,http://purl.obolibrary.org/obo/ENVO_00000492
+reservoir bed,http://purl.obolibrary.org/obo/ENVO_00000513
+resolute Passage,http://www.wikidata.org/entity/Q22369615
+respublika Sakha,http://www.geonames.org/2013162
+ribbon lake,http://purl.obolibrary.org/obo/ENVO_00000452
+rice straw,http://purl.obolibrary.org/obo/ENVO_00003870
+rich woodland,http://eol.org/schema/terms/richWoodland
+"richardson mountains, Yukon",http://www.geonames.org/6121999
+rio Bueno,http://www.geonames.org/11495614
+rio Grande do Sul,http://www.geonames.org/3451133
+riparian (Wyoming),http://eol.org/schema/terms/Riparian_--Wyoming--
+river bottom,http://eol.org/schema/terms/riverBottom
+road,http://purl.obolibrary.org/obo/ENVO_00000064
+road cut,http://purl.obolibrary.org/obo/ENVO_00000515
+roadside soil,http://purl.obolibrary.org/obo/ENVO_00005743
+rocky woodland,http://eol.org/schema/terms/rockyWoodland
+rodriguez Island,http://www.geonames.org/1545749
+"round Island, Alaska",http://www.wikidata.org/entity/Q751891
+"røst, Norway",http://www.geonames.org/3141215
+ruanda-Urundi,http://www.wikidata.org/entity/Q590743
+rubber plantation soil,http://purl.obolibrary.org/obo/ENVO_00005788
+"ruskebukta, Norway",http://www.geonames.org/777995
+rust,http://www.geonames.org/2766935
+rye grass silage,http://purl.obolibrary.org/obo/ENVO_00003900
+ryukyu Island,http://www.geonames.org/1855629
+sabah,http://www.geonames.org/1733039
+saddle dam,http://purl.obolibrary.org/obo/ENVO_00000554
+sagavanirktok River Delta,http://www.geonames.org/5873170
+saipan,http://www.geonames.org/4041550
+sakarya River,http://www.geonames.org/740350
+salawati,http://www.geonames.org/1629124
+salda Lake,http://www.geonames.org/302061
+salicylate enriched soil,http://purl.obolibrary.org/obo/ENVO_00003092
+saline hydrographic feature,http://purl.obolibrary.org/obo/ENVO_00000017
+saline lake sediment,http://purl.obolibrary.org/obo/ENVO_00002209
+saline water aquarium,http://purl.obolibrary.org/obo/ENVO_00002197
+saline wedge estuary,http://purl.obolibrary.org/obo/ENVO_00000226
+saline wetland,http://purl.obolibrary.org/obo/ENVO_00000240
+saliva,http://purl.obolibrary.org/obo/ENVO_02000036
+salomon Island,http://eol.org/schema/terms/Salomon_Island
+salura,http://www.geonames.org/2057125
+samar,http://www.geonames.org/1690649
+sambirano,http://www.geonames.org/1056890
+san Félix-San Ambrosio Islands temperate forests,http://eol.org/schema/terms/San_Felix-San_Ambrosio_Islands_temperate_forests
+san Juan County,http://www.geonames.org/5809422
+sand or mud-dweller,http://eol.org/schema/terms/sandOrMud
+sand prairie,http://eol.org/schema/terms/sandPrairie
+sandur,http://purl.obolibrary.org/obo/ENVO_00000312
+sangihe Islands,http://www.geonames.org/1628777
+santa Catarina,http://www.geonames.org/3450387
+santa Terezinha,http://eol.org/schema/terms/Santa_Terezinha
+santarem,http://eol.org/schema/terms/Santarem
+saprotrophic,http://eol.org/schema/terms/saprotrophic
+sarcosine enriched soil,http://purl.obolibrary.org/obo/ENVO_00003083
+sardinia,http://www.geonames.org/2523227
+sawah soil,http://purl.obolibrary.org/obo/ENVO_00005752
+sawu,http://www.geonames.org/2056955
+scandinavia,http://www.wikidata.org/entity/Q21195
+scavenger,http://www.owl-ontologies.com/unnamed.owl#Scavenger
+scroll plane,http://purl.obolibrary.org/obo/ENVO_00000253
+sea floor,http://purl.obolibrary.org/obo/ENVO_00000482
+sea ice,http://purl.obolibrary.org/obo/ENVO_00002200
+sea of Marmara,http://www.geonames.org/630669
+sea water,http://purl.obolibrary.org/obo/ENVO_00002149
+sea water,http://purl.obolibrary.org/obo/ENVO_01000321
+seal fall,http://purl.obolibrary.org/obo/ENVO_01000141
+seasonal marine thermocline,http://purl.obolibrary.org/obo/ENVO_01000107
+seldianaya Inlet,http://eol.org/schema/terms/SeldianayaInletRussia
+sepik Basin,http://eol.org/schema/terms/SepikBasin
+seto Inland Sea,http://www.geonames.org/1852650
+"seven Islands, Murmansk",http://www.geonames.org/497151
+severnaya Zemlya,http://www.wikidata.org/entity/Q192281
+sexes shaped differently,http://www.owl-ontologies.com/unnamed.owl#Sexes_shaped_differently
+seyhan Nehri,http://www.geonames.org/300992
+"sheenjek River, Alaska",http://www.wikidata.org/entity/Q2277693
+shelf-slope/shelf-break front,http://purl.obolibrary.org/obo/ENVO_01000089
+shelikof Strait,http://www.wikidata.org/entity/Q1668640
+shillong,http://www.geonames.org/1256523
+shiwha Bay,http://www.geonames.org/1912206
+shortland Island,http://www.geonames.org/2103517
+shrub,http://eol.org/schema/terms/shrub
+siargao,http://www.geonames.org/1686882
+sibuyan,http://www.geonames.org/1686701
+sichuan,http://www.geonames.org/1794299
+sicily,http://www.geonames.org/2523119
+sikkim,http://www.geonames.org/1256312
+siliceous rock,http://www.wikidata.org/entity/Q1504227
+simalur,http://www.geonames.org/1213750
+singkawang,http://www.geonames.org/1626916
+sirmilik National Park,http://www.wikidata.org/entity/Q795332
+sisal plantation,http://purl.obolibrary.org/obo/ENVO_00000160
+skagerrak,http://www.geonames.org/2960845
+skagit County,http://www.geonames.org/5810608
+skamania County,http://www.geonames.org/5810628
+skatole enriched soil,http://purl.obolibrary.org/obo/ENVO_00003085
+"skoruvik, Iceland",http://www.geonames.org/2626848
+"skrukkebukta, Norway",http://eol.org/schema/terms/SkrukkebuktaNorway
+"slettnes, Gamvik, Finnmark",http://www.geonames.org/777638
+slightly stratified estuary,http://purl.obolibrary.org/obo/ENVO_00000224
+snohomish County,http://www.geonames.org/5810982
+society Island,http://www.wikidata.org/entity/Q118920
+somerset Island,http://www.wikidata.org/entity/Q212219
+somma volcano,http://purl.obolibrary.org/obo/ENVO_00000350
+songkhla,http://www.geonames.org/1606146
+"sorfugloy, Norway",http://www.geonames.org/3137591
+sorong,http://www.geonames.org/1626542
+"sortlandssundet, Norway",http://www.wikidata.org/entity/Q1773645
+south Adamans,http://eol.org/schema/terms/SouthAdamans
+south Florida coastal prairie-mangrove swamp,http://eol.org/schema/terms/South_Florida_coastal_prairie_mangrove_swamp
+south Florida slash pine flatwoods,http://eol.org/schema/terms/South_Florida_slash_pine_flatwoods
+south Malabar,http://eol.org/schema/terms/SouthMalabar
+south-central US Blackland prairie,http://eol.org/schema/terms/South_central_US_blackland_prairie
+south-central US Bluestem-sacahuista,http://eol.org/schema/terms/South_central_US_bluestem_sacahuista
+south-central US Cross Timbers,http://eol.org/schema/terms/South_central_US_cross_Timbers
+south-central US Desert grassland,http://eol.org/schema/terms/South_central_US_desert_grassland
+south-central US Forested,http://eol.org/schema/terms/South_central_US_Forested
+south-central US Grassland,http://eol.org/schema/terms/South_central_US_Grassland
+south-central US Interior Highlands dry-mesic forest and woodland,http://eol.org/schema/terms/South_central_US_interior_highlands_dry_mesic_forest_and_woodland
+south-central US Interior Highlands oak-hickory-pine,http://eol.org/schema/terms/South_central_US_interior_Highlands_oak_hickory_pine
+south-central US Interior Highlands oak-hickory-pine,http://eol.org/schema/terms/South-central_US_Woodland/Interior_Highlands_oak-hickory-pine
+south-central US Mesquite savanna,http://eol.org/schema/terms/South_central_US_mesquite_savanna
+south-central US Oak savanna,http://eol.org/schema/terms/South_central_US_oak_savanna
+south-central US Oak woodland-shrubland-grassland mosaic,http://eol.org/schema/terms/South_central_US_oak_woodland_shrubland_grassland_mosaic
+south-central US Oak-hickory savanna,http://eol.org/schema/terms/South-central_US_Woodland/Oak-hickory_savanna
+south-central US Oak-hickory savanna (East Texas),http://eol.org/schema/terms/Oak_hickory_savanna_--East_Texas--
+south-central US Pine bluestem,http://eol.org/schema/terms/South-central_US_Woodland/Pine_bluestem
+south-central US Pine/bluestem,http://eol.org/schema/terms/South_central_US_pine/bluestem
+south-central US Shinnery oak-mixed grass,http://eol.org/schema/terms/South_central_US_shinnery_oak_mixed_grass
+south-central US Shinnery oak-tallgrass,http://eol.org/schema/terms/South_central_US_shinnery_oak_tallgrass
+south-central US Shrubland,http://eol.org/schema/terms/South_central_US_south_central_US_Shrubland
+south-central US Southern floodplain,http://eol.org/schema/terms/South_central_US_southern_floodplain
+south-central US Southern floodplain (rare fire),http://eol.org/schema/terms/South_central_US_southern_floodplain_--rare_fire--
+south-central US Southern shortgrass or mixed-grass prairie,http://eol.org/schema/terms/South_central_US_southern_shortgrass_or_mixed_grass_prairie
+south-central US Southern tallgrass prairie,http://eol.org/schema/terms/South_central_US_southern_tallgrass_prairie
+south-central US Southwestern shrub steppe,http://eol.org/schema/terms/South_central_US_southwestern_shrub_steppe
+south-central US Woodland,http://eol.org/schema/terms/South_central_US_Woodland
+southcentral Europe,http://eol.org/schema/terms/SouthcentralEurope
+southeast Coastal Plain pine-oak-hickory,http://eol.org/schema/terms/Southeast_coastal_Plain_pine_oak_hickory
+southeast Floodplain marsh,http://eol.org/schema/terms/Southeast_floodplain_marsh
+southeast Forested,http://eol.org/schema/terms/Southeast_Forested
+southeast Grassland,http://eol.org/schema/terms/Southeast_Grassland
+southeast Gulf Coastal Plain Blackland prairie and woodland,http://eol.org/schema/terms/Southeast_Gulf_Coastal_Plain_Blackland_prairie_and_woodland
+southeast Loess bluff and plain forest,http://eol.org/schema/terms/Southeast_Loess_bluff_and_plain_forest
+southeast Longleaf pine (mesic uplands),http://eol.org/schema/terms/Southeast_longleaf_pine_--mesic_uplands--
+southeast Longleaf pine-Sandhills prairie,http://eol.org/schema/terms/Southeast_longleaf_pine_Sandhills_prairie
+southeast Longleaf pine/bluestem,http://eol.org/schema/terms/Southeast_longleaf_pine/bluestem
+southeast Maritime forest,http://eol.org/schema/terms/Southeast_maritime_forest
+southeast Mesic-dry flatwoods,http://eol.org/schema/terms/Southeast_mesic_dry_flatwoods
+southeast Palmetto prairie,http://eol.org/schema/terms/Southeast_palmetto_prairie
+southeast Pine rocklands,http://eol.org/schema/terms/Southeast_pine_rocklands
+southeast Pocosin,http://eol.org/schema/terms/Southeast_pocosin
+southeast Pond cypress savanna,http://eol.org/schema/terms/Southeast_Grassland/Pond_cypress_savanna
+southeast Pond pine,http://eol.org/schema/terms/Southeast_pond_pine
+southeast Pondcypress savanna,http://eol.org/schema/terms/Southeast_pondcypress_savanna
+southeast Sand pine scrub,http://eol.org/schema/terms/Southeast_sand_pine_scrub
+southeast Shrubland,http://eol.org/schema/terms/Southeast_Shrubland
+southeast Southern floodplain,http://eol.org/schema/terms/southern_floodplain
+southeast Southern tidal brackish to freshwater marsh,http://eol.org/schema/terms/Southeast_southern_tidal_brackish_to_freshwater_marsh
+southeast Woodland,http://eol.org/schema/terms/Southeast_Woodland
+southeastern red spruce-Fraser fir,http://eol.org/schema/terms/Southeastern_red_spruce_Fraser_fir
+southern Appalachian high-elevation forest,http://eol.org/schema/terms/Southern_Appalachian_high_elevation_forest
+southern Appalachians Alpine meadows barrens,http://eol.org/schema/terms/California_Grassland/Alpine_meadows_barrens
+southern Appalachians Appalachian shortleaf pine,http://eol.org/schema/terms/Southern_Appalachians_shortleaf_pine
+southern Appalachians Bluestem-oak barrens,http://eol.org/schema/terms/Southern_Appalachians_bluestem_oak_barrens
+southern Appalachians Bottomland hardwood forest,http://eol.org/schema/terms/Southern_Appalachians_bottomland_hardwood_forest
+southern Appalachians Eastern hemlock-eastern white pine-hardwood,http://eol.org/schema/terms/Southern_Appalachians_eastern_hemlock_eastern_white_pine_hardwood
+southern Appalachians Eastern prairie-woodland mosaic,http://eol.org/schema/terms/Southern_Appalachians_eastern_prairie_woodland_mosaic
+southern Appalachians Eastern white pine-northern hardwood,http://eol.org/schema/terms/Southern_Appalachians_eastern_white_pine_northern_hardwood
+southern Appalachians Forested,http://eol.org/schema/terms/Southern_Appalachians_Forested
+southern Appalachians Grassland,http://eol.org/schema/terms/Southern_Appalachians_Grassland
+southern Appalachians Mixed mesophytic hardwood,http://eol.org/schema/terms/Southern_Appalachians_mixed_mesophytic_hardwood
+southern Appalachians Mixed-mesophytic hardwood,http://eol.org/schema/terms/Southern_Appalachians_Forested/Mixed-mesophytic_hardwood
+southern Appalachians Oak (eastern dry-xeric),http://eol.org/schema/terms/Southern_Appalachians_oak_--eastern_dry_xeric--
+southern Appalachians oak forest (dry-mesic),http://eol.org/schema/terms/Southern_Appalachians_oak_forest_--dry_mesic--
+southern Appalachians Oak-ash woodland,http://eol.org/schema/terms/Southern_Appalachians_oak_ash_woodland
+southern Appalachians oak-hickory-pine,http://eol.org/schema/terms/Southern_Appalachians_oak_hickory_pine
+southern Appalachians Table Mountain pine-pitch pine,http://eol.org/schema/terms/Southern_Appalachians_Table_Mountain_pine_pitch_pine
+southern Appalachians Table Mountain-pitch pine,http://eol.org/schema/terms/Southern_Appalachians_Woodland/Table_Mountain-pitch_pine
+southern Appalachians Virginia pine,http://eol.org/schema/terms/Southern_Appalachians_Virginia_pine
+southern Appalachians Woodland,http://eol.org/schema/terms/Southern_Appalachians_Woodland
+southwest Aspen with spruce-fir,http://eol.org/schema/terms/Southwest_aspen_with_spruce_fir
+"southwest Aspen, stable without conifers",http://eol.org/schema/terms/Southwest_aspen_stable_without_conifers
+southwest Bristlecone-limber pine,http://eol.org/schema/terms/Southwest_Bristlecone_limber_pine
+southwest Desert grassland,http://eol.org/schema/terms/Southwest_desert_grassland
+southwest Desert grassland with shrubs and trees,http://eol.org/schema/terms/Southwest_desert_grassland_with_shrubs_and_trees
+southwest Desert shrubland without grass,http://eol.org/schema/terms/Southwest_desert_shrubland_without_grass
+southwest Forested,http://eol.org/schema/terms/Southwest_Forested
+southwest Gambel oak,http://eol.org/schema/terms/Southwest_gambel_oak
+southwest Grassland,http://eol.org/schema/terms/Southwest_Grassland
+southwest Low sagebrush shrubland,http://eol.org/schema/terms/Southwest_low_sagebrush_shrubland
+southwest Madrean oak-conifer woodland,http://eol.org/schema/terms/Southwest_madrean_oak_conifer_woodland
+southwest Mesquite bosques,http://eol.org/schema/terms/Southwest_mesquite_bosques
+southwest Montane and subalpine grasslands,http://eol.org/schema/terms/Southwest_montane_and_subalpine_grasslands
+southwest Montane and subalpine grasslands with shrubs or trees,http://eol.org/schema/terms/Southwest_montane_and_subalpine_grasslands_with_shrubs_or_trees
+southwest Mountain sagebrush (cool sage),http://eol.org/schema/terms/Southwest_Shrubland/Mountain_sagebrush_--cool_sage--
+southwest Mountain sagebrush (cool sagebrush),http://eol.org/schema/terms/Southwest_mountain_sagebrush_--cool_sagebrush--
+southwest Mountain-mahogany shrubland,http://eol.org/schema/terms/Southwest_mountain_mahogany_shrubland
+southwest Pacifica,http://eol.org/schema/terms/SouthwestPacifica
+southwest Pinyon-juniper (mixed fire regime),http://eol.org/schema/terms/Southwest_pinyon_juniper_--mixed_fire_regime--
+southwest Pinyon-juniper (rare replacement fire regime),http://eol.org/schema/terms/Southwest_pinyon_juniper_--rare_replacement_fire_regime--
+southwest Plains mesa grassland,http://eol.org/schema/terms/Southwest_plains_mesa_grassland
+southwest Plains mesa grassland with shrubs or trees,http://eol.org/schema/terms/Southwest_plains_mesa_grassland_with_shrubs_or_trees
+southwest Ponderosa pine/grassland,http://eol.org/schema/terms/Southwest_Ponderosa_pine/grassland
+southwest Riparian deciduous woodland,http://eol.org/schema/terms/Southwest_riparian_deciduous_woodland
+southwest Riparian forest with conifers,http://eol.org/schema/terms/Southwest_riparian_forest_with_conifers
+southwest Salt desert scrubland,http://eol.org/schema/terms/Southwest_salt_desert_scrubland
+southwest Shortgrass prairie,http://eol.org/schema/terms/Southwest_shortgrass_prairie
+southwest Shortgrass prairie with shrubs,http://eol.org/schema/terms/Southwest_shortgrass_prairie_with_shrubs
+southwest Shortgrass prairie with trees,http://eol.org/schema/terms/Southwest_shortgrass_prairie_with_trees
+southwest Shrubland,http://eol.org/schema/terms/Southwest_Shrubland
+southwest Spruce-fir,http://eol.org/schema/terms/Southwest_spruce_fir
+southwest Stable aspen without conifers,http://eol.org/schema/terms/Southwest_Forested/Stable_aspen_without_conifers
+southwest Woodland,http://eol.org/schema/terms/Southwest_Woodland
+southwestern shrub steppe,http://eol.org/schema/terms/Southwestern_shrub_steppe
+southwestern shrub steppe with trees,http://eol.org/schema/terms/Southwestern_shrub_steppe_with_trees
+"sør-Varanger, Finnmark",http://www.geonames.org/777554
+spatter cone,http://purl.obolibrary.org/obo/ENVO_00000401
+spit,http://purl.obolibrary.org/obo/ENVO_00000306
+spokane County,http://www.geonames.org/5811704
+spruce forest soil,http://purl.obolibrary.org/obo/ENVO_00005784
+"st Lawrence River, Quebec",http://www.geonames.org/6156984
+"st. George Island, Alaska",http://www.wikidata.org/entity/Q1672851
+st. Helier,http://www.geonames.org/3042091
+st. Johanna Island,http://eol.org/schema/terms/SaintJohannaIsland
+st. Lawrence Island,http://www.wikidata.org/entity/Q638407
+"st. Paul Island, Alaska",http://www.geonames.org/8643336
+st. Peter and St. Paul rocks,http://eol.org/schema/terms/St._Peter_and_St._Paul_rocks
+st. Thomas,http://eol.org/schema/terms/SaintThomas
+st. Thome,http://eol.org/schema/terms/SaintThome
+stable manure,http://purl.obolibrary.org/obo/ENVO_00003927
+stagnosol,http://purl.obolibrary.org/obo/ENVO_00002274
+gujarat,http://www.geonames.org/1270770
+nagaland,http://www.geonames.org/1262271
+odisha,http://www.geonames.org/1261029
+rajasthan,http://www.geonames.org/1258899
+tamil Nadu,http://www.geonames.org/1255053
+stevens County,http://www.geonames.org/5812148
+stillborn,http://eol.org/schema/terms/stillborn
+stony meteorite,http://purl.obolibrary.org/obo/ENVO_00002049
+stony-iron meteorite,http://purl.obolibrary.org/obo/ENVO_00002051
+storfjorden,http://www.wikidata.org/entity/Q2097444
+strand crack,http://purl.obolibrary.org/obo/ENVO_00009726
+"strandasýsla, Iceland",http://www.wikidata.org/entity/Q1206841
+stratfield Mortimer,http://www.geonames.org/7294187
+stratovolcano,http://purl.obolibrary.org/obo/ENVO_00000404
+straw,http://purl.obolibrary.org/obo/ENVO_00003869
+streams and upland rivers,http://eol.org/schema/terms/streamsUplandRivers
+stromatolite mat,http://purl.obolibrary.org/obo/ENVO_00002157
+subglacial lake,http://purl.obolibrary.org/obo/ENVO_00000198
+subglacial volcano,http://purl.obolibrary.org/obo/ENVO_00000407
+subjacent karst,http://purl.obolibrary.org/obo/ENVO_00000333
+subpolar coniferous forest,http://purl.obolibrary.org/obo/ENVO_01000250
+subsequent stream,http://purl.obolibrary.org/obo/ENVO_00000491
+subtropical and temperate rainforests or woodlands,http://purl.obolibrary.org/obo/ENVO_00002991
+subtropical convergence front,http://purl.obolibrary.org/obo/ENVO_01000094
+sula Island,http://www.geonames.org/10276516
+sulphate-reducing sediment,http://purl.obolibrary.org/obo/ENVO_01000153
+sultan Swamp,http://www.geonames.org/300180
+sulu,http://eol.org/schema/terms/Sulu
+sumba,http://www.geonames.org/2056940
+sumbawa,http://www.geonames.org/1626187
+sunda,http://www.geonames.org/1742893
+surface convergence,http://purl.obolibrary.org/obo/ENVO_01000097
+surface water,http://purl.obolibrary.org/obo/ENVO_00002042
+svalbard,http://www.wikidata.org/entity/Q25231
+sweat,http://purl.obolibrary.org/obo/ENVO_02000025
+sydney,http://www.geonames.org/2147714
+"syltefjord, Norway",http://www.wikidata.org/entity/Q323614
+syltefjordstauran,http://www.geonames.org/9245460
+syngenetic karst,http://purl.obolibrary.org/obo/ENVO_00000334
+synovial fluid,http://purl.obolibrary.org/obo/ENVO_02000039
+tafea Province,http://www.geonames.org/2134739
+tahiti,http://www.geonames.org/4033649
+tahtalı River,http://www.geonames.org/9985649
+tainan,http://www.geonames.org/1668352
+talaud Island,http://www.geonames.org/1625441
+tama Abu range,http://www.geonames.org/1737792
+tami Island,http://www.geonames.org/2085873
+taminabuan,http://eol.org/schema/terms/Taminabuan
+"tanaga Island, Alaska",http://www.wikidata.org/entity/Q1772570
+tanganyika,http://www.wikidata.org/entity/Q158725
+tanimbar Island,http://www.geonames.org/1642113
+tap water,http://eol.org/schema/terms/tapWater
+taymyr Peninsula,http://www.wikidata.org/entity/Q37056
+tears,http://purl.obolibrary.org/obo/ENVO_02000034
+technosol,http://purl.obolibrary.org/obo/ENVO_00002275
+tekir stream,http://www.geonames.org/10632523
+temperate broad-leaf forests or woodlands and subpolar deciduous thickets,http://purl.obolibrary.org/obo/ENVO_00002989
+temperate broadleaf and mixed forest,http://purl.obolibrary.org/obo/ENVO_00000876
+temperate coniferous forest,http://purl.obolibrary.org/obo/ENVO_00000875
+temperate needle-leaf forests or woodlands,http://purl.obolibrary.org/obo/ENVO_00002992
+temperate shelf and sea,http://purl.obolibrary.org/obo/ENVO_00000895
+temperate upwelling,http://purl.obolibrary.org/obo/ENVO_00000896
+teno River,http://www.wikidata.org/entity/Q3646270
+terracette,http://purl.obolibrary.org/obo/ENVO_00000441
+terrarium,http://purl.obolibrary.org/obo/ENVO_00000349
+territorial,http://eol.org/schema/terms/Territorial
+texas Coastal Waters,http://eol.org/schema/terms/texasCoastWater
+thelon Lake,http://eol.org/schema/terms/ThelonLake
+thermophilic granular sludge,http://purl.obolibrary.org/obo/ENVO_00002212
+thermophilic sediment,http://purl.obolibrary.org/obo/ENVO_01000132
+threonine enriched soil,http://purl.obolibrary.org/obo/ENVO_00003091
+thursday Island,http://www.geonames.org/2146681
+thurston County,http://www.geonames.org/5813521
+tidal mixing front,http://purl.obolibrary.org/obo/ENVO_01000087
+tidal mudflat,http://purl.obolibrary.org/obo/ENVO_00000241
+tigris,http://www.geonames.org/96998
+till plan,http://purl.obolibrary.org/obo/ENVO_00000254
+timor,http://www.geonames.org/1623843
+tjandikusuma,http://eol.org/schema/terms/Tjandikusuma
+tombolo,http://purl.obolibrary.org/obo/ENVO_00000420
+tonkin,http://www.geonames.org/1290660
+topographic upwelling front,http://purl.obolibrary.org/obo/ENVO_01000091
+tozman Stream,http://www.geonames.org/738649
+trang,http://www.geonames.org/1150006
+transbaikalia,http://www.geonames.org/2012777
+transcaucasica,http://www.geonames.org/465524
+transvasement,http://purl.obolibrary.org/obo/ENVO_00000445
+tree,http://eol.org/schema/terms/tree
+tree hole,http://eol.org/schema/terms/treeHole
+trimethylamine enriched soil,http://purl.obolibrary.org/obo/ENVO_00003084
+trophosome,http://purl.obolibrary.org/obo/ENVO_01000165
+tropical and subtropical dry broadleaf forest,http://purl.obolibrary.org/obo/ENVO_00000880
+"tropical and subtropical grassland, savanna, and shrubland",http://purl.obolibrary.org/obo/ENVO_00000881
+tropical coral reef,http://purl.obolibrary.org/obo/ENVO_00000898
+tropical upwelling,http://purl.obolibrary.org/obo/ENVO_00000897
+tuamotus,http://www.geonames.org/4033263
+"tugidak Island, Alaska",http://www.wikidata.org/entity/Q4000269
+tuktoyaktuk Harbour,http://www.geonames.org/6170032
+tuktoyaktuk Peninsula,http://www.wikidata.org/entity/Q22540861
+"tuluksak River, Alaska",http://www.geonames.org/5876776
+tundra,http://eol.org/schema/terms/tundra
+tundra,http://purl.obolibrary.org/obo/ENVO_00000112
+tundra mire,http://purl.obolibrary.org/obo/ENVO_00000187
+tunnel valley,http://purl.obolibrary.org/obo/ENVO_00000436
+turkestan,http://www.wikidata.org/entity/Q1315785
+twining,http://eol.org/schema/terms/twining
+"ugashik River, Alaska",http://www.geonames.org/5877101
+ultramafic lava,http://purl.obolibrary.org/obo/ENVO_01000235
+underground irrigation canal,http://purl.obolibrary.org/obo/ENVO_00000505
+underground physiographic feature,http://purl.obolibrary.org/obo/ENVO_00002184
+ungava Peninsula,http://www.wikidata.org/entity/Q84127
+upland forest,http://eol.org/schema/terms/uplandForest
+upland prairie,http://eol.org/schema/terms/uplandPrairie
+ural,http://www.wikidata.org/entity/Q1322976
+urban,http://purl.obolibrary.org/obo/ENVO_01000249
+urea enriched soil,http://purl.obolibrary.org/obo/ENVO_00005753
+urine,http://purl.obolibrary.org/obo/ENVO_00002047
+ussuriysk,http://www.geonames.org/2014006
+"utherad, East Iceland",http://eol.org/schema/terms/Utherad
+"utka River, Kamchatka",http://eol.org/schema/terms/UtkaRiver
+vadoze zone,http://purl.obolibrary.org/obo/ENVO_00000328
+"valdakmyra, Norway",http://eol.org/schema/terms/ValdakmyraNorway
+van Lake Basin,http://www.geonames.org/298114
+varanasi,http://www.geonames.org/1253405
+vegetable garden soil,http://purl.obolibrary.org/obo/ENVO_00005779
+vertically mixed estuary,http://purl.obolibrary.org/obo/ENVO_00000227
+very light,http://purl.bioontology.org/ontology/SNOMEDCT/260361001
+"vestmannaeyjar, Iceland",http://www.wikidata.org/entity/Q187251
+vienna,http://www.geonames.org/2761369
+vilkitski Bay,http://eol.org/schema/terms/VilkitskiBay
+village biome,http://purl.obolibrary.org/obo/ENVO_01000246
+vine,http://eol.org/schema/terms/vine
+visible gonads,http://eol.org/schema/terms/visibleGonads
+vitreous humor,http://purl.obolibrary.org/obo/ENVO_02000032
+volcanic dike,http://purl.obolibrary.org/obo/ENVO_00000498
+volcanic fissure,http://purl.obolibrary.org/obo/ENVO_00000408
+wadi mouth,http://purl.obolibrary.org/obo/ENVO_00000507
+wahkiakum County,http://www.geonames.org/5814851
+waigiou,http://eol.org/schema/terms/Waigiou
+"walker Bay, Nunavut, Canada",http://www.geonames.org/6175262
+walla Walla County,http://www.geonames.org/5814921
+warehouse,http://purl.obolibrary.org/obo/ENVO_00003963
+warm seep,http://purl.obolibrary.org/obo/ENVO_00002926
+warm surface current,http://purl.obolibrary.org/obo/ENVO_01000101
+water,http://purl.obolibrary.org/obo/ENVO_00002006
+water mass front,http://purl.obolibrary.org/obo/ENVO_01000096
+water scum,http://purl.obolibrary.org/obo/ENVO_00005794
+wauseon,http://www.geonames.org/5175877
+west Gulf Coastal Plain pine (uplands + flatwoods),http://eol.org/schema/terms/West_Gulf_Coastal_Plain_pine_--uplands_+_flatwoods--
+west Gulf Coastal plain pine (uplands and flatwoods),http://eol.org/schema/terms/South-central_US_Forested/West_Gulf_Coastal_plain_pine_--uplands_and_flatwoods--
+west Gulf Coastal Plain pine-hardwood woodland or forest upland,http://eol.org/schema/terms/West_Gulf_Coastal_Plain_pine_hardwood_woodland_or_forest_upland
+west Micronesia,http://eol.org/schema/terms/WestMicronesia
+west Pacific Islands,http://eol.org/schema/terms/WestPacificIslands
+west Palaearctic,http://eol.org/schema/terms/WestPalaearctic
+western boundary current,http://purl.obolibrary.org/obo/ENVO_01000103
+western Hemisphere,http://www.wikidata.org/entity/Q181982
+west Siberia,http://www.wikidata.org/entity/Q1191358
+wet meadow,http://eol.org/schema/terms/wetMeadow
+white Sea,http://www.geonames.org/577742
+whitman County,http://www.geonames.org/5815891
+"wilmot Island, Nunavut, Canada",http://www.wikidata.org/entity/Q8022830
+wing dam,http://purl.obolibrary.org/obo/ENVO_00000556
+wokingham,http://www.geonames.org/2633708
+wooded slope,http://eol.org/schema/terms/woodedSlope
+woodland border,http://eol.org/schema/terms/woodlandBorder
+woody,http://eol.org/schema/terms/woodyPlant
+world heritage site,http://purl.obolibrary.org/obo/ENVO_00000375
+wyoming big sagebrush semidesert,http://eol.org/schema/terms/Wyoming_big_sagebrush_semidesert
+wyoming big sagebrush semidesert with trees,http://eol.org/schema/terms/Wyoming_big_sagebrush_semidesert_with_trees
+wyoming big sagebrush steppe,http://eol.org/schema/terms/Wyoming_big_sagebrush_steppe
+xeric basin,http://purl.obolibrary.org/obo/ENVO_00000893
+xylene contaminated soil,http://purl.obolibrary.org/obo/ENVO_00002146
+yakima County,http://www.geonames.org/5816597
+yellow Sea,http://www.geonames.org/1818183
+young,http://purl.obolibrary.org/obo/PATO_0000309
+young adult,http://eol.org/schema/terms/youngAdult
+yukon North Slope,http://eol.org/schema/terms/YukonNorthSlope
+yunnan,http://www.geonames.org/1785694
+"zackerbergdalen, Northeast Greenland",http://eol.org/schema/terms/ZackerbergdalenNortheastGreenland
+apex predator,http://www.wikidata.org/entity/Q19067
+atlantic Ocean,http://www.marineregions.org/gazetteer.php?p=details&id=1902
+deep infaunal,http://eol.org/schema/terms/deepInfaunal
+mediterranean Sea,http://www.marineregions.org/gazetteer.php?p=details&id=1905
+decomposer,http://www.wikidata.org/entity/Q842391
+indo-Pacific Ocean,http://www.marineregions.org/gazetteer.php?p=details&id=14289
+leaf miner,http://www.wikidata.org/entity/Q1544843
+pacific Ocean,http://www.marineregions.org/gazetteer.php?p=details&id=1903
+photoautotroph,http://eol.org/schema/terms/photoautotroph
+ophiophagy,http://www.wikidata.org/entity/Q2746753
+parasitic plant,http://www.wikidata.org/entity/Q127498
+south China and Eastern Archipelagic Seas,http://www.marineregions.org/gazetteer.php?p=details&id=4331
+colonial,http://eol.org/schema/terms/Colonial
+appendage,http://purl.obolibrary.org/obo/UBERON_0000026
+integument,http://purl.obolibrary.org/obo/UBERON_0002199
+ivory Coast,http://www.wikidata.org/entity/Q1008
+federated States of Micronesia,http://www.wikidata.org/entity/Q702
+thailand,http://www.wikidata.org/entity/Q869
+timor l'Est,http://www.wikidata.org/entity/Q574
+united States of America,http://www.wikidata.org/entity/Q30
+ecuador,http://www.wikidata.org/entity/Q736
+myanmar,http://www.wikidata.org/entity/Q836
+netherlands Antilles,http://www.wikidata.org/entity/Q25227
+saint Lucia,http://www.wikidata.org/entity/Q760
+chukchi Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4257
+coral Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4364
+alboran Sea,http://www.marineregions.org/gazetteer.php?p=details&id=3324
+arabian Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4268
+arctic Ocean,http://www.marineregions.org/gazetteer.php?p=details&id=1906
+baffin Bay,http://www.marineregions.org/gazetteer.php?p=details&id=4253
+balearic Sea,http://www.marineregions.org/gazetteer.php?p=details&id=3322
+banda Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4349
+bass Strait,http://www.marineregions.org/gazetteer.php?p=details&id=4366
+bay of Fundy,http://www.marineregions.org/gazetteer.php?p=details&id=4289
+aldabra,http://www.geonames.org/11791455
+andaman Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4274
+arafura Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4347
+bali Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4340
+barents Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4247
+bay of Bengal,http://www.marineregions.org/gazetteer.php?p=details&id=4273
+bay of Biscay,http://www.marineregions.org/gazetteer.php?p=details&id=2359
+beaufort Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4256
+bering Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4310
+bismarck Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4360
+black Sea,http://www.marineregions.org/gazetteer.php?p=details&id=3319
+bristol Channel,http://www.marineregions.org/gazetteer.php?p=details&id=3141
+caribbean Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4287
+celebes Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4359
+chilean Sea,http://www.wikidata.org/entity/Q1251080
+bouvet,http://www.geonames.org/3371122
+cabinda,http://www.geonames.org/2243266
+celtic Sea,http://www.marineregions.org/gazetteer.php?p=details&id=2351
+davis Strait,http://www.marineregions.org/gazetteer.php?p=details&id=4250
+east Siberian Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4244
+easter Island,http://www.geonames.org/4030726
+falkland Isl,http://www.geonames.org/3427040
+flores Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4341
+greenland Sea,http://www.marineregions.org/gazetteer.php?p=details&id=2356
+gulf of Aden,http://www.marineregions.org/gazetteer.php?p=details&id=4265
+gulf of Boni,http://www.marineregions.org/gazetteer.php?p=details&id=4350
+gulf of California,http://www.marineregions.org/gazetteer.php?p=details&id=4314
+gulf of Mexico,http://www.marineregions.org/gazetteer.php?p=details&id=4288
+east Aegean Isl,http://www.geonames.org/256376
+eastern China Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4302
+english Channel,http://www.marineregions.org/gazetteer.php?p=details&id=2389
+faeroe Isl.,http://www.geonames.org/2622009
+Îles Tuamotu-Gambier,http://www.geonames.org/4030621
+great Australian Bight,http://www.marineregions.org/gazetteer.php?p=details&id=4276
+gulf of Alaska,http://www.marineregions.org/gazetteer.php?p=details&id=4312
+gulf of Aqaba,http://www.marineregions.org/gazetteer.php?p=details&id=4263
+gulf of Bothnia,http://www.marineregions.org/gazetteer.php?p=details&id=2402
+gulf of Finland,http://www.marineregions.org/gazetteer.php?p=details&id=2407
+gulf of Guinea,http://www.marineregions.org/gazetteer.php?p=details&id=4286
+gulf of Oman,http://www.marineregions.org/gazetteer.php?p=details&id=4267
+gulf of St Lawrence,http://www.marineregions.org/gazetteer.php?p=details&id=4290
+gulf of Tomini,http://www.marineregions.org/gazetteer.php?p=details&id=4355
+halmahera Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4353
+herschel Island,https://www.wikidata.org/entity/Q1547493
+inner Seas off the West Coast of Scotland,http://www.marineregions.org/gazetteer.php?p=details&id=4283
+ionian Sea,http://www.marineregions.org/gazetteer.php?p=details&id=3351
+java Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4338
+kriti,http://www.geonames.org/258763
+gulf of Riga,http://www.marineregions.org/gazetteer.php?p=details&id=2409
+gulf of Suez,http://www.marineregions.org/gazetteer.php?p=details&id=4262
+gulf of Thailand,http://www.marineregions.org/gazetteer.php?p=details&id=4334
+hudson Bay,http://www.marineregions.org/gazetteer.php?p=details&id=4252
+hudson Strait,http://www.marineregions.org/gazetteer.php?p=details&id=4251
+indian Ocean,http://www.marineregions.org/gazetteer.php?p=details&id=1904
+irish Sea,http://www.marineregions.org/gazetteer.php?p=details&id=2357
+kara Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4246
+kattegat,http://www.marineregions.org/gazetteer.php?p=details&id=2374
+labrador Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4291
+laccadive Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4269
+laptev Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4245
+lincoln Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4254
+malacca Strait,http://www.marineregions.org/gazetteer.php?p=details&id=4275
+marion-Prince Edward Isl,http://www.geonames.org/9281111
+mozambique Channel Isl,http://www.geonames.org/6690916
+north Atlantic,http://www.marineregions.org/gazetteer.php?p=details&id=1912
+north Sea,http://www.marineregions.org/gazetteer.php?p=details&id=2350
+ligurian Sea,http://www.marineregions.org/gazetteer.php?p=details&id=3363
+lord Howe Island,http://www.geonames.org/2159558
+makassar Strait,http://www.marineregions.org/gazetteer.php?p=details&id=4339
+marcus Island,http://www.geonames.org/2111921
+melilla,http://www.geonames.org/2513947
+midway Islands,http://www.geonames.org/5854943
+mozambique Channel,http://www.marineregions.org/gazetteer.php?p=details&id=4261
+north Pacific,http://www.marineregions.org/gazetteer.php?p=details&id=1908
+northwestern Passages,http://www.marineregions.org/gazetteer.php?p=details&id=5698
+norwegian Sea,http://www.marineregions.org/gazetteer.php?p=details&id=2353
+ogasawara-shoto,http://www.geonames.org/2111520
+pagalu (Annobon),http://www.geonames.org/2310306
+philippine Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4300
+principe,http://www.geonames.org/2410878
+republic of Georgia,http://www.geonames.org/614427
+rio de la Plata,http://www.marineregions.org/gazetteer.php?p=details&id=4325
+santa Cruz Islands,http://www.geonames.org/2178509
+savu Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4343
+sea of Azov,http://www.marineregions.org/gazetteer.php?p=details&id=3320
+persian Gulf,http://www.marineregions.org/gazetteer.php?p=details&id=4266
+phoenix Isl,http://www.geonames.org/4030911
+red Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4264
+sea of Japan,http://www.marineregions.org/gazetteer.php?p=details&id=4307
+sea of Okhostk,http://www.marineregions.org/gazetteer.php?p=details&id=4309
+selvagens,http://www.geonames.org/2263082
+skagerrak,http://www.marineregions.org/gazetteer.php?p=details&id=2379
+solomon Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4361
+south Yemen,http://www.geonames.org/85050
+sulu Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4358
+tasman Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4365
+tokelau Isl,http://www.geonames.org/4031073
+sea of Marmara,http://www.marineregions.org/gazetteer.php?p=details&id=3369
+seto Inland Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4306
+singapore Strait,http://www.marineregions.org/gazetteer.php?p=details&id=4336
+south Atlantic,http://www.marineregions.org/gazetteer.php?p=details&id=1914
+south China Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4332
+south Pacific,http://www.marineregions.org/gazetteer.php?p=details&id=1910
+southern Ocean,http://www.marineregions.org/gazetteer.php?p=details&id=1907
+strait of Gibraltar,http://www.marineregions.org/gazetteer.php?p=details&id=3346
+tubuai Isl,http://www.geonames.org/4033252
+tyrrhenian Sea,http://www.marineregions.org/gazetteer.php?p=details&id=3386
+wake Isl,http://www.geonames.org/4041684
+yellow Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4303
+white Sea,http://www.marineregions.org/gazetteer.php?p=details&id=4248
+arboreal,http://eol.org/schema/terms/arboreal
+cambrian Stage 2 Age,http://resource.geosciml.org/classifier/ics/ischart/CambrianStage2
+chemoautotroph,http://eol.org/schema/terms/chemoautotrophic
+graminivore,http://www.wikidata.org/entity/Q5593647
+intermediate-magnesium calcite,http://eol.org/schema/terms/intermediateMgCalcite
+low-magnesium calcite,http://eol.org/schema/terms/lowMgCalcite
+paibian Age,http://resource.geosciml.org/classifier/ics/ischart/Paibian
+palynivore,http://www.wikidata.org/entity/Q3805698
+parasitoid,http://www.wikidata.org/entity/Q595663
+photosymbiotroph,http://www.wikidata.org/entity/Q50621879
+fungivore,http://www.wikidata.org/entity/Q3331325
+puducherry,http://www.geonames.org/1259424
+punjab (India),http://www.geonames.org/1259224
+saba,http://www.geonames.org/3513314
+sint Eustatius,http://www.geonames.org/3513232
+mixed mountain and highland,http://purl.obolibrary.org/obo/ENVO_00002996
+kiribati Exclusive Economic Zone,http://eol.org/schema/terms/kiribatiExclusiveEconomicZone
+eastern Cape,http://www.geonames.org/1085593
+coral Sea Islands Territory,http://www.geonames.org/2170371
+gauteng,http://www.geonames.org/1085594
+limpopo,http://www.geonames.org/1085597
+mpumalanga,http://www.geonames.org/1085595
+northern Cape,http://www.geonames.org/1085596
+aguascalientes,http://www.geonames.org/4019231
+anhui,http://www.geonames.org/1818058
+Antipodes Island Group,http://www.geonames.org/2193911
+arunachal Pradesh,http://www.geonames.org/1278341
+australian Capital Territory,http://www.geonames.org/2177478
+beijing,http://www.geonames.org/2038349
+brazilia Distrito Federal,http://www.geonames.org/3463504
+peninsular Malaysia,http://www.geonames.org/1745185
+pondicherry,http://www.geonames.org/1259426
+quintana Roo,http://www.geonames.org/3520887
+meghalaya,http://www.geonames.org/1263207
+mendoza,http://www.geonames.org/3844419
+misiones,http://www.geonames.org/3430657
+nakhichevan,http://www.geonames.org/147435
+andhra Pradesh,http://www.geonames.org/1278629
+antofagasta,http://www.geonames.org/3899537
+atacama,http://www.geonames.org/3899191
+baja California Sur,http://www.geonames.org/4017698
+bihar,http://www.geonames.org/1275715
+provincia de Buenos Aires,http://www.geonames.org/3435907
+campeche,http://www.geonames.org/3531730
+caprivi Strip,http://www.geonames.org/877332
+catamarca,http://www.geonames.org/3862286
+chaco,http://www.geonames.org/3861887
+chattisgarh,http://www.geonames.org/1444364
+chiapas,http://www.geonames.org/3531011
+chihuahua,http://www.geonames.org/4014336
+chubut,http://www.geonames.org/3861244
+coahuila,http://www.geonames.org/4013674
+corrientes,http://www.geonames.org/3435214
+dadra-Nagar-Haveli,http://www.geonames.org/1273726
+daman,http://www.geonames.org/1273616
+delhi,http://www.geonames.org/1273293
+Cannanore Islands,http://www.geonames.org/1274985
+chandigarh,http://www.geonames.org/1274744
+chatham Islands,http://www.geonames.org/4033013
+chechnya,http://www.geonames.org/569665
+chongqing,http://www.geonames.org/1814905
+ciudad de México,http://www.geonames.org/3527646
+colima,http://www.geonames.org/4013513
+coquimbo,http://www.geonames.org/3893623
+crozet Islands,http://www.geonames.org/936339
+dagestan,http://www.geonames.org/567293
+dependencias Federales,http://www.geonames.org/3640846
+diu,http://www.geonames.org/1272504
+desventuradas,http://www.geonames.org/10124146
+durango,http://www.geonames.org/4011741
+fernando de Noronha,http://www.geonames.org/3399637
+gansu,http://www.geonames.org/1810676
+fujian,http://www.geonames.org/1811017
+goa,http://www.geonames.org/1271157
+guangdong,http://www.geonames.org/1809935
+guerrero,http://www.geonames.org/3527213
+haryana,http://www.geonames.org/1270260
+heilongjiang Sheng,http://www.geonames.org/2036965
+himachal Pradesh,http://www.geonames.org/1270101
+hunan,http://www.geonames.org/1806691
+Îles Tubuaï,http://www.geonames.org/4033250
+ilha de Santiago,http://www.geonames.org/3374199
+guanajuato,http://www.geonames.org/4005267
+guangxi,http://www.geonames.org/1809867
+guizhou,http://www.geonames.org/1809445
+hebei,http://www.geonames.org/1808773
+henan,http://www.geonames.org/1808520
+hubei,http://www.geonames.org/1806949
+ilha da Trindade,http://www.geonames.org/3446035
+isla de Aves,http://www.geonames.org/3648752
+isla Malpelo,http://www.geonames.org/3675570
+jalisco,http://www.geonames.org/4004156
+jharkhand,http://www.geonames.org/1444365
+jiangxi,http://www.geonames.org/1806222
+jujuy,http://www.geonames.org/3853404
+karnataka,http://www.geonames.org/1267701
+kerala,http://www.geonames.org/1267254
+khabarovsk,http://www.geonames.org/2022888
+krasnoyarsk,http://www.geonames.org/1502020
+la Araucania,http://www.geonames.org/3899463
+la Rioja,http://www.geonames.org/3848949
+irkutskaya Oblast,http://www.geonames.org/2023468
+isla Guadalupe,http://www.geonames.org/4005434
+jiangsu,http://www.geonames.org/1806260
+jilin Sheng,http://www.geonames.org/2036500
+karaikal,http://www.geonames.org/1267888
+kinmen County,http://www.geonames.org/1676511
+krasnodar,http://www.geonames.org/542415
+la Pampa,http://www.geonames.org/3849574
+liaoning Sheng,http://www.geonames.org/2036115
+los Lagos,http://www.geonames.org/3881974
+magadanskaya Oblast,http://www.geonames.org/2123627
+madhya Pradesh,http://www.geonames.org/1264542
+mizoram,http://www.geonames.org/1262963
+morelos,http://www.geonames.org/3522961
+nayarit,http://www.geonames.org/3995012
+new Zealand North,http://www.geonames.org/2185983
+nicobar Islands,http://www.geonames.org/1261447
+nei Mongol,http://www.geonames.org/2035607
+new Zealand South,http://www.geonames.org/2182504
+ningxia Huizu Zizhiqu,http://www.geonames.org/1799355
+northwest European Russia,http://www.wikidata.org/entity/Q15054934
+oaxaca,http://www.geonames.org/3522509
+primorskiy Kray,http://www.geonames.org/2017623
+northern Territory,http://www.geonames.org/2064513
+sakhalin,http://www.geonames.org/2121530
+san Juan Province,http://www.geonames.org/3837152
+santa Cruz,http://www.geonames.org/3836350
+shaanxi,http://www.geonames.org/1796480
+shanghai,http://www.geonames.org/1796231
+punjab (Pakistan),http://www.geonames.org/1167710
+qinghai,http://www.geonames.org/1280239
+región del Libertador General Bernardo O’Higgins,http://www.geonames.org/3883281
+republic of Crimea,http://www.geonames.org/703883
+respublika Buryatiya,http://www.geonames.org/2050915
+revillagigedo Islands,http://www.geonames.org/3988751
+rocas Alijos,http://www.wikidata.org/entity/Q670647
+región de Magallanes y Antártica Chilena,http://www.geonames.org/4036650
+región del Maule,http://www.geonames.org/3880306
+respublika Altay,http://www.geonames.org/1506272
+respublika Tyva,http://www.geonames.org/1488873
+rio Negro,http://www.geonames.org/3838830
+salta,http://www.geonames.org/3838231
+san Luis Province,http://www.geonames.org/3837029
+santiago del Estero,http://www.geonames.org/3835868
+shandong,http://www.geonames.org/1796328
+shanxi,http://www.geonames.org/1795912
+sinaloa,http://www.geonames.org/3983035
+south Sandwich Islands,http://www.geonames.org/3426222
+state of Uttarakhand,http://www.geonames.org/1444366
+tamaulipas,http://www.geonames.org/3516391
+the Coastal Waters of Southeast Alaska and British Columbia,http://www.geonames.org/8617633
+shikoku,http://www.geonames.org/1852487
+st. Vincent,http://www.geonames.org/3577816
+tabasco,http://www.geonames.org/3516458
+territory of Ashmore and Cartier Islands,http://www.geonames.org/2077507
+tianjin,http://www.geonames.org/1792943
+tlaxcala,http://www.geonames.org/3515359
+tripura,http://www.geonames.org/1254169
+veracruz,http://www.geonames.org/3514780
+tierra del Fuego (Argentina),http://www.geonames.org/3834450
+tucuman,http://www.geonames.org/3833578
+volcano Islands,http://www.geonames.org/2112272
+west Bengal,http://www.geonames.org/1252881
+zhejiang,http://www.geonames.org/1784764
+xinjiang,http://www.geonames.org/1529047
+yanam,http://www.geonames.org/1252796
+zacatecas,http://www.geonames.org/3979840
+kwaZulu-Natal,http://www.geonames.org/972062
