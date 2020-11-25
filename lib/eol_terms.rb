@@ -72,6 +72,27 @@ module EolTerms
       end
       @list
     end
+
+    # alias is a ruby keyword; use term_alias for the parameter name instead
+    def alias_uri(term_alias)
+      alias_hash(term_alias)&.[]('uri')
+    end
+
+    def alias_hash(term_alias)
+      terms_by_alias[term_alias]
+    end
+
+    def terms_by_alias
+      return @terms_by_alias if @terms_by_alias
+
+      @terms_by_alias = {}
+
+      list(true).each do |term|
+        @terms_by_alias[term['alias']] = term if term.include?('alias') && !term['alias'].nil? && !term['alias'].empty?
+      end
+
+      @terms_by_alias
+    end
   end
   private_class_method :inject_ids
 end

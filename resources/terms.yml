@@ -8843,7 +8843,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
-  alias:
+  alias: body_length
 - attribution: "literature body sizes metazoa\r\n"
   definition: ''
   is_hidden_from_select: true
@@ -8892,7 +8892,7 @@ terms:
   parent_uris: []
   synonym_of_uri: http://purl.obolibrary.org/obo/VT_0001259
   units_term_uri:
-  alias:
+  alias: body_mass
 - attribution: ''
   definition: The amount of matter in the body of an organism.
   is_hidden_from_select: false
@@ -11853,7 +11853,7 @@ terms:
   - https://eol.org/schema/terms/fixes
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: fixes
 - attribution: USDA Plants database. Characteristics Data Fields. http://plants.usda.gov/charinfo.html
   definition: 'The percentage of organic carbon divided by the percentage of total nitrogen in organic material. '
   is_hidden_from_select: false
@@ -16919,7 +16919,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: conservation_status
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -17868,7 +17868,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: crepuscular
 - attribution: 'International Chronostratigraphic Chart: http://www.stratigraphy.org/index.php/ics-chart-timescale'
   definition: ''
   is_hidden_from_select: false
@@ -17996,7 +17996,7 @@ terms:
   - http://eol.org/schema/terms/extant
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: iucn_cr
 - attribution: http://www.natureserve.org/conservation-tools/conservation-status-assessment
   definition: At very high risk of extirpation in the jurisdiction due to very restricted range, very few populations or occurrences, very steep declines, severe threats, or other factors.
   is_hidden_from_select: true
@@ -18989,7 +18989,7 @@ terms:
   - http://eol.org/schema/terms/extant
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: iucn_dd
 - attribution: https://www.worldwildlife.org/ecoregions/pa0804
   definition: ''
   is_hidden_from_select: false
@@ -20443,7 +20443,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: diurnal
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -23010,7 +23010,7 @@ terms:
   - http://purl.obolibrary.org/obo/RO_0008506
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: eats
 - attribution: ''
   definition: a carnivore that feeds primarily on echinoderms
   is_hidden_from_select: false
@@ -23092,7 +23092,7 @@ terms:
   - http://eol.org/schema/terms/EcomorphologicalGuild
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: ecosystem_engineering
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -23805,7 +23805,7 @@ terms:
   - http://eol.org/schema/terms/extant
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: iucn_en
 - attribution: ''
   definition: The organism has federal Endangered status in the United States of America.
   is_hidden_from_select: true
@@ -25437,7 +25437,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: iucn_ex
 - attribution: http://www.iucnredlist.org/technical-documents/categories-and-criteria
   definition: A taxon is Extinct in the Wild when it is known only to survive in cultivation, in captivity \r\nor as a naturalized population (or populations) well outside the past range. A taxon is \r\npresumed Extinct in the Wild when exhaustive surveys in known and/or expected habitat, \r\nat appropriate times (diurnal, seasonal, annual), throughout its historic range have failed \r\nto record an individual. Surveys should be over a time frame appropriate to the taxon’s \r\nlife cycle and life form
   is_hidden_from_select: false
@@ -25450,7 +25450,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: iucn_ew
 - attribution: ''
   definition: Indicates whether a taxon is extant (living today) or extinct.
   is_hidden_from_select: false
@@ -25462,7 +25462,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: extinction_status
 - attribution: ''
   definition: No longer present in the wild in a particular region, though present elsewhere
   is_hidden_from_select: false
@@ -26500,7 +26500,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri: http://eol.org/schema/terms/paleo_megaannum
-  alias:
+  alias: fossil_first
 - attribution: ''
   definition: A narrow, verical cave passage, often developed along a joint but not necessarily so. Usually due to solution but sometimes to tension.
   is_hidden_from_select: false
@@ -26819,7 +26819,7 @@ terms:
   - http://purl.obolibrary.org/obo/PATO_0000014
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: flower_color
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -27226,7 +27226,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: forms
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -27491,7 +27491,7 @@ terms:
   - http://purl.obolibrary.org/obo/ENVO_00002030
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: freshwater
 - attribution: ''
   definition: ''
   is_hidden_from_select: true
@@ -27793,7 +27793,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: fruit_type
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -31006,7 +31006,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: habitat
 - attribution: ''
   definition: A category or description of the habitat in which the Event occurred.
   is_hidden_from_select: true
@@ -34395,7 +34395,7 @@ terms:
   parent_uris: []
   synonym_of_uri: http://eol.org/schema/terms/endangered
   units_term_uri:
-  alias:
+  alias: en
 - attribution: http://en.wikipedia.org/w/index.php?title=Inch&oldid=585805187
   definition: 'An inch (plural: inches; abbreviation or symbol: in or ″ – a double prime) is a unit of length in the imperial and United States customary systems of measurement. Historically an inch was also used in a number of other systems of units. Traditional standards for the exact length of an inch have varied in the past, but now the imperial or US customary inch is defined to be exactly 25.4 mm. There are 12 inches in a foot and therefore 36 inches in a yard.'
   is_hidden_from_select: true
@@ -35812,7 +35812,7 @@ terms:
   - http://purl.obolibrary.org/obo/RO_0008506
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: is_eaten_by
 - attribution: ''
   definition: A relationship that is mediated in some way by the environment or environmental feature
   is_hidden_from_select: false
@@ -39416,7 +39416,7 @@ terms:
   - http://eol.org/schema/terms/extant
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: extant
 - attribution: ''
   definition: A man-made watercourse, or makeshift aqueduct, often an artificial channel which supplies water to a watermill or its mill pond, collecting water from upstream of the mill so that the natural level of the driving water is above the level of the stream at the mill. Alternatively to may deliver water for mineral washing and concentration, irrigation or to a dye works.
   is_hidden_from_select: false
@@ -39918,7 +39918,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: lifecycle_habit
 - attribution: ''
   definition: A time quality inhering in a bearer by virtue of the bearer's expected maximum age.
   is_hidden_from_select: false
@@ -39942,7 +39942,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: lifestage
 - attribution: ''
   definition: Hydrofoils, or fins, are used to push against the water to create a normal force to provide thrust, propelling the animal through water. The reduction of fin cross-sectional area helps to minimize drag, and therefore increase efficiency. Regardless of size of the animal, at any particular speed, maximum possible lift is proportional to (wing area) x (speed)<sup>2</sup>. Dolphins and whales have large, horizontal caudal hydrofoils, while many fish and sharks have vertical caudal hydrofoils.
   is_hidden_from_select: false
@@ -40518,7 +40518,7 @@ terms:
   - http://www.wikidata.org/entity/Q33596
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: locomotion
 - definition: The metric unit of mass (gram) expressed on a logarithmic-scale (base 10).
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -42686,7 +42686,7 @@ terms:
   - http://purl.obolibrary.org/obo/ENVO_01000307
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: marine
 - attribution: ''
   definition: A habitat that is in or on a sea or ocean containing high concentrations of dissolved salts and other total dissolved solids (typically >35 grams dissolved salts per litre).
   is_hidden_from_select: true
@@ -46936,7 +46936,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: motility
 - attribution: https://www.worldwildlife.org/ecoregions/at0121
   definition: ''
   is_hidden_from_select: false
@@ -48118,7 +48118,7 @@ terms:
   - http://eol.org/schema/terms/Present
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: native_range
 - attribution: ''
   definition: A harbor which is formed by a natural landform where a part of a body of water is protected and deep enough to furnish anchorage.
   is_hidden_from_select: false
@@ -48272,7 +48272,7 @@ terms:
   - http://eol.org/schema/terms/extant
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: iucn_nt
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -49296,7 +49296,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: nitrogen
 - attribution: "[database_cross_reference: Wikipedia:Nitrogen_fixation]"
   definition: 'The process in which nitrogen is taken from its relatively inert molecular form (N2) in the atmosphere and converted into nitrogen compounds useful for other chemical processes, such as ammonia, nitrate and nitrogen dioxide. '
   is_hidden_from_select: false
@@ -49524,7 +49524,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: nocturnal
 - attribution: ''
   definition: An organism that is nocturnal/crepuscular, cathemeral, crepuscular or diurnal/crepuscular
   is_hidden_from_select: false
@@ -52246,7 +52246,7 @@ terms:
   parent_uris: []
   synonym_of_uri: http://eol.org/schema/terms/leastConcern
   units_term_uri:
-  alias:
+  alias: iucn_lc
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -55708,7 +55708,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: parental_care
 - attribution: ''
   definition: 'A reproductive behavior in which a parent cares for and rears offspring. '
   is_hidden_from_select: false
@@ -57590,7 +57590,7 @@ terms:
   - http://eol.org/schema/terms/growthHabit
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: growth_habit
 - attribution: ''
   definition: A stature and vigor trait (TO:0000133) which is associated with the height of a whole plant (PO:0000003).
   is_hidden_from_select: false
@@ -58158,7 +58158,7 @@ terms:
   - http://purl.obolibrary.org/obo/RO_0002623
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: pollinated_by
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -59311,7 +59311,7 @@ terms:
   - http://purl.obolibrary.org/obo/RO_0002471
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: preyed_upon_by
 - attribution: ''
   definition: An interaction relationship involving a predation process, where the subject kills the target in order to eat it or to feed to siblings, offspring or group members
   is_hidden_from_select: false
@@ -59325,7 +59325,7 @@ terms:
   - http://purl.obolibrary.org/obo/RO_0002470
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: preys_on
 - attribution: 'International Chronostratigraphic Chart: http://www.stratigraphy.org/index.php/ics-chart-timescale'
   definition: ''
   is_hidden_from_select: false
@@ -61225,7 +61225,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: reproduction
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -66011,7 +66011,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: sex
 - attribution: Fairbairn
   definition: ''
   is_hidden_from_select: false
@@ -66454,7 +66454,7 @@ terms:
   - https://www.wikidata.org/entity/Q757163
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: shrub
 - attribution: https://www1.usgs.gov/csas/nvcs/nvcsGetUnitDetails?elementGlobalId=860211
   definition: ''
   is_hidden_from_select: true
@@ -67655,7 +67655,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: solitary
 - attribution: ''
   definition: ''
   is_hidden_from_select: true
@@ -70482,7 +70482,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: statistical_method
 - attribution: ''
   definition: Acellular mineralized structure located in the statocyst (balance organ) of some aquatic invertebrates
   is_hidden_from_select: false
@@ -70697,7 +70697,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: stops_at
 - attribution: http://www.uv.es/jgpausas/brot.htm
   definition: non-woody storage organs, normally modified stems as bulbs, corms or tubers
   is_hidden_from_select: false
@@ -74029,7 +74029,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: terrestrial
 - attribution: ''
   definition: Terrestrial and freshwater habitat
   is_hidden_from_select: false
@@ -75457,7 +75457,7 @@ terms:
   parent_uris: []
   synonym_of_uri: http://purl.obolibrary.org/obo/PATO_0000050
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000035
-  alias:
+  alias: lifespan
 - attribution: ''
   definition: total estimated number of species in this clade (known + undescribed + undiscovered) (estimate based on expert opinion) (Appeltans et al. 2012. The Magnitude of Global Marine Species Diversity. Current Biology 22, 2189–2202. http://dx.doi.org/10.1016/j.cub.2012.09.036)
   is_hidden_from_select: false
@@ -75821,7 +75821,7 @@ terms:
   - https://www.wikidata.org/entity/Q757163
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: tree
 - attribution: 'International Chronostratigraphic Chart: http://www.stratigraphy.org/index.php/ics-chart-timescale'
   definition: ''
   is_hidden_from_select: false
@@ -76165,7 +76165,7 @@ terms:
   - http://eol.org/schema/terms/TrophicGuild
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: trophic_level
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -80453,7 +80453,7 @@ terms:
   - http://eol.org/schema/terms/extant
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: iucn_vu
 - attribution: http://www.natureserve.org/conservation-tools/conservation-status-assessment
   definition: At moderate risk of extirpation in the jurisdiction due to a fairly restricted range, relatively few populations or occurrences, recent and widespread declines, threats, or other factors.
   is_hidden_from_select: true
