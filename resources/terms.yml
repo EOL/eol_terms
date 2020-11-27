@@ -84727,8 +84727,8 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: 
-  definition: uses self-propelled locomotion to change location on a regular basis 
+- attribution:
+  definition: uses self-propelled locomotion to change location on a regular basis
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -84882,7 +84882,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/youngAdult
   parent_uris:
-  -http://www.ebi.ac.uk/efo/EFO_0001272
+  - http://www.ebi.ac.uk/efo/EFO_0001272
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -84937,7 +84937,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/BTO_0004733
   parent_uris:
-  -http://www.ebi.ac.uk/efo/EFO_0001272
+  - http://www.ebi.ac.uk/efo/EFO_0001272
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -84978,7 +84978,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/UBERON_0007222
   parent_uris:
-  -http://www.ebi.ac.uk/efo/EFO_0001272
+  - http://www.ebi.ac.uk/efo/EFO_0001272
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -85043,9 +85043,9 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: http://eol.org/schema/terms/monogamous
+  name: monogamous
   type: value
-  uri: 
+  uri: http://eol.org/schema/terms/monogamous
   parent_uris:
   - http://eol.org/schema/terms/socialGroupLiving
   synonym_of_uri:
