@@ -75,10 +75,12 @@ module EolTerms
 
     # alias is a ruby keyword; use term_alias for the parameter name instead
     def alias_uri(term_alias)
-      alias_hash(term_alias)&.[]('uri')
+      alias_hash(term_alias)['uri']
     end
 
     def alias_hash(term_alias)
+      raise TypeError, "Term with alias #{term_alias} doesn't exist" unless terms_by_alias.include?(term_alias)
+
       terms_by_alias[term_alias]
     end
 

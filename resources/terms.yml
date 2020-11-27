@@ -26833,7 +26833,7 @@ terms:
   - http://purl.obolibrary.org/obo/RO_0002619
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: flowers_visited_by
 - attribution: ''
   definition: the volume of fluid which passes per unit time
   is_hidden_from_select: false
@@ -39267,7 +39267,7 @@ terms:
   - http://purl.obolibrary.org/obo/FLOPO_0019932
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: leaf_complexity
 - attribution: ''
   definition: the area of the leaflet lamina in the one sided projection
   is_hidden_from_select: true
@@ -39319,7 +39319,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: leaf_morphology
 - attribution: ''
   definition: The ratio of the quantity of nitrogen in the leaf or component thereof, i.e. leaf lamina or leaflet, per respective unit dry mass
   is_hidden_from_select: false
