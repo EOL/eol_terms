@@ -84740,3 +84740,327 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: 5th percentile
+  type: value
+  uri: http://eol.org/schema/terms/5thPercentile
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: cm^2/g
+  type: value
+  uri: http://eol.org/schema/terms/centimeterSquaredPerGram
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: colonial
+  type: value
+  uri: http://eol.org/schema/terms/Colonial
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: earliest
+  type: value
+  uri: http://eol.org/schema/terms/earliest
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: individuals per square kilometer
+  type: value
+  uri: http://eol.org/schema/terms/individualspersquarekilometer
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: latest
+  type: value
+  uri: http://eol.org/schema/terms/latest
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: nestling
+  type: value
+  uri: http://eol.org/schema/terms/nestling
+  parent_uris:
+  - http://purl.obolibrary.org/obo/PATO_0001501
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: not invasive in
+  type: value
+  uri: http://eol.org/schema/terms/NonInvasiveRange
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: stillborn
+  type: value
+  uri: http://eol.org/schema/terms/stillborn
+  parent_uris:
+  - http://purl.obolibrary.org/obo/PATO_0001501
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: https://en.wikipedia.org/wiki/Territory_(animal)
+  definition: In ethology, territory is the sociographical area that an animal of a particular species consistently defends against conspecifics, or, occasionally, animals of other species. Animals that defend territories in this way are referred to as territorial.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: territorial
+  type: value
+  uri: http://eol.org/schema/terms/Territorial
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: young adult
+  type: value
+  uri: http://eol.org/schema/terms/youngAdult
+  parent_uris:
+  -http://www.ebi.ac.uk/efo/EFO_0001272
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: decigram; a unit of mass equal to ten grams
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: dg
+  type: value
+  uri: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64555
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: newborn animal
+  type: value
+  uri: http://purl.bioontology.org/ontology/CSP/0070-1441
+  parent_uris:
+  - http://purl.obolibrary.org/obo/PATO_0001501
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: animal newly changed to forms of nourishment other than nursing.
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: weanling
+  type: value
+  uri: http://purl.bioontology.org/ontology/CSP/0070-2069
+  parent_uris:
+  - http://purl.obolibrary.org/obo/PATO_0001501
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: containing a developing embryo, fetus, or unborn offspring within the body
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: gravid adult
+  type: value
+  uri: http://purl.obolibrary.org/obo/BTO_0004733
+  parent_uris:
+  -http://www.ebi.ac.uk/efo/EFO_0001272
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: of an age which is relatively low
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: young
+  type: value
+  uri: http://purl.obolibrary.org/obo/PATO_0000309
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: of an age between the onset of puberty and maturity
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: adolescent
+  type: value
+  uri: http://purl.obolibrary.org/obo/PATO_0001189
+  parent_uris:
+  - http://purl.obolibrary.org/obo/PATO_0001501
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: a sexually mature lifestage of an age which is relatively high
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: late adult stage
+  type: value
+  uri: http://purl.obolibrary.org/obo/UBERON_0007222
+  parent_uris:
+  -http://www.ebi.ac.uk/efo/EFO_0001272
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: milliliter per liter; a unit of concentration
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: mL/L
+  type: value
+  uri: http://purl.obolibrary.org/obo/UO_0000207
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: a developmental stage in animals before birth
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: fetus
+  type: value
+  uri: http://www.ebi.ac.uk/efo/EFO_0001323
+  parent_uris:
+  - http://purl.obolibrary.org/obo/PATO_0001501
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: an early juvenile developmental stage
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: infant
+  type: value
+  uri: http://www.ebi.ac.uk/efo/EFO_0001355
+  parent_uris:
+  - http://purl.obolibrary.org/obo/PATO_0001501
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: http://en.wikipedia.org/wiki/Harem_%28zoology%29
+  definition: an animal group consisting of one or two males, a number of females, and their offspring
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: harem
+  type: value
+  uri: http://eol.org/schema/terms/harem
+  parent_uris:
+  - http://eol.org/schema/terms/socialGroupLiving
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: https://en.wikipedia.org/wiki/Monogamy_in_animals
+  definition: a pair bond between two adult animals of the same species – typically of the opposite sex. This pair may cohabitate in an area or territory for some duration of time, and in some cases may copulate and reproduce with only each other. Monogamy may either be short-term, lasting one to a few seasons or long-term, lasting many seasons and in extreme cases, life-long.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: http://eol.org/schema/terms/monogamous
+  type: value
+  uri: 
+  parent_uris:
+  - http://eol.org/schema/terms/socialGroupLiving
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: https://en.wikipedia.org/wiki/Group_living
+  definition: where individuals of the same species (conspecifics), maintain spatial proximity with one another over time with mechanisms of social attraction
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: group living
+  type: value
+  uri: http://eol.org/schema/terms/socialGroupLiving
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
