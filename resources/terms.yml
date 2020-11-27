@@ -85064,3 +85064,16 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: deep infaunal
+  type: value
+  uri: http://eol.org/schema/terms/deepInfaunal
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
