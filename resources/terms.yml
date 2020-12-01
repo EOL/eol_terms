@@ -15912,8 +15912,7 @@ terms:
   name: co-occurs with
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0008506
-  parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0002437
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -16413,8 +16412,7 @@ terms:
   name: commensal with
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002441
-  parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0002437
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -16526,8 +16524,7 @@ terms:
   name: competes with
   type: association
   uri: http://purl.obolibrary.org/obo/GO_0044402
-  parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0002437
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -31501,8 +31498,7 @@ terms:
   name: has associate
   type: association
   uri: http://polytraits.lifewatchgreece.eu/terms/SOC
-  parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0002437
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -35070,19 +35066,6 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000035
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: interacts with
-  type: association
-  uri: http://purl.obolibrary.org/obo/RO_0002437
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
   alias:
 - attribution: ''
   definition: A relatively undissected upland between adjacent stream valleys.
@@ -47697,8 +47680,7 @@ terms:
   name: mutualistic with
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002442
-  parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0002437
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -57534,19 +57516,6 @@ terms:
   - http://purl.obolibrary.org/obo/NBO_0000371
   - http://purl.obolibrary.org/obo/ENVO_01000023
   - http://eol.org/schema/terms/pelagic
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: http://www.marinespecies.org/traits/wiki/Traits:Plankton
-  definition: 'Living in a fluid medium (eg: water) but unable to maintain their position or distribution independently of the movement of the fluid (adapted from Lincoln et al., 1998).'
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: planktonic
-  type: value
-  uri: "http://www.marinespecies.org/traits/Plankton\uFEFF"
-  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -72533,8 +72502,7 @@ terms:
   name: symbiont of
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002440
-  parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0002437
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -85075,5 +85043,73 @@ terms:
   uri: http://eol.org/schema/terms/deepInfaunal
   parent_uris: []
   synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: mm^3
+  type: value
+  uri: http://eol.org/schema/terms/cubicMillimeter
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "/lb"
+  type: value
+  uri: http://eol.org/schema/terms/perPound
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: living in aquatic habitat, in the water column, not associated with the coastal or benthic zones
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: pelagic
+  type: value
+  uri: http://eol.org/schema/terms/pelagic
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Tropical Indo-Pacific
+  type: value
+  uri: http://marineregions.org/mrgid/18075
+  parent_uris:
+  - http://www.marineregions.org/mrgid/14289
+  -http://eol.org/schema/terms/TropicalOcean
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: brackish water
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_01000322
+  parent_uris: []
+  synonym_of_uri:
+  - http://purl.obolibrary.org/obo/ENVO_00002019
   units_term_uri:
   alias:
