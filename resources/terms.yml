@@ -85095,7 +85095,7 @@ terms:
   uri: http://marineregions.org/mrgid/18075
   parent_uris:
   - http://www.marineregions.org/mrgid/14289
-  -http://eol.org/schema/terms/TropicalOcean
+  - http://eol.org/schema/terms/TropicalOcean
   synonym_of_uri:
   units_term_uri:
   alias:
