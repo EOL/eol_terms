@@ -16416,6 +16416,7 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+  is_symmetrical_association: true
 - attribution: USDA PLANTS database Characteristics Data Fields. http://plants.usda.gov/charinfo.html
   definition: The availability of plant propagules in the commercial marketplace.
   is_hidden_from_select: false
@@ -47684,6 +47685,7 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+  is_symmetrical_association: true
 - attribution: ''
   definition: ''
   is_hidden_from_select: true
@@ -72506,6 +72508,7 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+  is_symmetrical_association: true
 - attribution: ''
   definition: A consumer that acquires nutrition from a symbiont
   is_hidden_from_select: false

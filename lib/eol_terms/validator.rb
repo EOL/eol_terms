@@ -21,6 +21,7 @@ module EolTerms
       synonym_of_uri
       type
       uri
+      is_symmetrical_association
     ].freeze
     REQUIRED_FIELDS = %w[uri name].freeze
 
