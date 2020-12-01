@@ -76576,20 +76576,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: Tropical Indo-Pacific
-  type: value
-  uri: http://marineregions.org/mrgid/18075
-  parent_uris:
-  - http://www.marineregions.org/mrgid/14289
-  synonym_of_uri:
-  units_term_uri:
-  alias:
 - attribution: https://www1.usgs.gov/csas/nvcs/nvcsGetUnitDetails?elementGlobalId=860344
   definition: ''
   is_hidden_from_select: false
