@@ -24913,8 +24913,8 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: Polytraits
-  definition: ''
+- attribution: ''
+  definition: A semi-enclosed coastal body of water with one or more rivers or streams flowing into it, and with a free connection to the open sea.
   is_hidden_from_select: true
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
@@ -43568,7 +43568,7 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
@@ -43577,6 +43577,7 @@ terms:
   uri: http://www.wikidata.org/entity/Q3110238
   parent_uris: []
   synonym_of_uri:
+  - http://www.geonames.org/1024031
   units_term_uri:
   alias:
 - attribution: ''
@@ -62869,16 +62870,16 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
   name: russia
   type: value
   uri: http://www.wikidata.org/entity/Q159
-  parent_uris:
-  - http://www.wikidata.org/entity/Q5401
+  parent_uris: []
   synonym_of_uri:
+  -  http://www.geonames.org/2017370
   units_term_uri:
   alias:
 - attribution: ''
@@ -63130,16 +63131,16 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
   name: Saint Helena
   type: value
   uri: http://www.geonames.org/3370751
-  parent_uris:
-  - http://www.marineregions.org/mrgid/1914
+  parent_uris: []
   synonym_of_uri:
+  - http://www.geonames.org/6930057
   units_term_uri:
   alias:
 - attribution: ''
@@ -63548,6 +63549,7 @@ terms:
   - https://eol.org/schema/terms/usnvc_2_C
   - http://purl.obolibrary.org/obo/ENVO_00000230
   - http://purl.obolibrary.org/obo/ENVO_00000035
+  - http://purl.obolibrary.org/obo/ENVO_00000240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -85089,10 +85091,410 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
+  definition: Water ice which has formed by the freezing of sea water.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: sea ice
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00002200
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000277
+  - http://purl.obolibrary.org/obo/ENVO_00000447
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A lake from which there is no outflow of water, either on the surface as rivers, or underground by flow or diffusion through rock or permeable material.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: endorheic lake
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00000197
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000252
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A lake permanently covered by ice.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: ice-covered lake
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00000198
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000252
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A hydrothermal vent found on the ocean floor. The vents are formed in fields hundreds of meters wide when superheated water from below the Earth's crust comes through the ocean floor. The superheated water is rich in dissolved minerals from the crust, most notably sulfides, which crystallize to create a chimney-like structure around each vent. When the superheated water in the vent comes in contact with the cold ocean water, many minerals are precipitated, creating the distinctive black color. The metal sulfides that are deposited can become massive sulfide ore deposits in time.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: black smoker
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00000218
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000030
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: An estuary which is located in regions where evaporation greatly exceeds the inflow of fresh water, forming a zone of maximum salinity towards which both riverine and marine water masses flow, before sinking and spreading along the bottom in both seaward and landward directions.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: inverse estuary
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00000228
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00000045
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A wetland ecosystem in which soil is saturated with saline water.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: saline wetland
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00000240
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00000043
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: abyssal plain
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00000244
+  parent_uris: []
+  synonym_of_uri:
+  - http://purl.obolibrary.org/obo/ENVO_01000027
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A slope which is part of the seafloor and extends from the end of the continental shelf (the shelf break) to the continental rise.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: continental slope
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00000273
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000024
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A slope which bridges a continental slope and an abyssal plain, is formed by the accumulation of sediments transported from a continental slope by processes including turbidity currents, and has a gradient less than a continental slope yet greater than a continental shelf.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: continental rise
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00000274
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000024
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: bajada
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00000315
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00000314
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: high tide zone
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00000318
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00000316
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A tall, conical volcano composed of many layers of hardened lava, tephra, and volcanic ash. These volcanoes are characterized by a steep profile and periodic, explosive eruptions. The lava that flows from them is viscous, and cools and hardens before spreading very far.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: stratovolcano
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00000404
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00000247
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: The top-most layer in a thermally stratified lake, occurring above the deeper hypolimnion. It is warmer and typically has a higher pH and dissolved oxygen concentration than the hypolimnion
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: epilimnion
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00002131
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000252
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A cline which is part of a lake and across which temperature changes rapidly with depth.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: metalimnion
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00002132
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000252
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: Phaeozems accommodate soils of relatively wet grassland and forest regions in moderately continental climates. Phaeozems are much like Chernozems and Kastanozems but are leached more intensively. Consequently, they have dark, humus rich surface horizons that, in comparison with Chernozems and Kastanozems, are less rich in bases. Phaeozems may or may not have secondary carbonates but have a high base saturation in the upper metre of the soil.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: phaeozem
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00002249
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00001998
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: dune soil
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00002260
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00000170
+  - http://purl.obolibrary.org/obo/ENVO_00001998
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: warm seep
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00002926
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000262
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: grass silage
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00003071
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_0010003
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: roadside soil
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00005743
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00001998
+  - http://eol.org/schema/terms/disturbedArea
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: mountain forest soil
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00005769
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00002261
+  - http://purl.obolibrary.org/obo/ENVO_01000435
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: beech forest soil
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00005770
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00002261
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: Soil in which trees from an orchard grow.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: orchard soil
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00005772
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00002261
+  - http://purl.obolibrary.org/obo/ENVO_00002259
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: spruce forest soil
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00005784
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00002261
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: marine sludge
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00005796
+  parent_uris:
+  - http://eol.org/schema/terms/contaminatedHabitat
+  - http://purl.obolibrary.org/obo/ENVO_00000447
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: lake bottom mud
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00005797
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000252
+  - https://eol.org/schema/terms/freshwater_benthic
+  - http://purl.obolibrary.org/obo/ENVO_01000001
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: a littoral zone which extends, approximately, from the spray region above the high tide mark to the edge of the coninental shelf.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: marine littoral zone
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_01000125
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000687
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A marine benthic biome which is determined by a cold seep.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: cold seep
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_01000127
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000262
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
   definition: ''
   is_hidden_from_select: true
   is_hidden_from_overview: false
-  is_hidden_from_glossary: true
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: marine reef
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_01000143
+  parent_uris: []
+  synonym_of_uri:
+  - http://purl.obolibrary.org/obo/ENVO_01000029
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: brackish water
   type: value
@@ -85100,5 +85502,91 @@ terms:
   parent_uris: []
   synonym_of_uri:
   - http://purl.obolibrary.org/obo/ENVO_00002019
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A marine reef which is primarily composed of self-adhered or conglomerated mussel shells.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: mussel reef
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_01001386
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000029
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Tromelin Island
+  type: value
+  uri: https://www.geonames.org/933907
+  parent_uris:
+  - http://www.geonames.org/1546748
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Grande Glorieuse
+  type: value
+  uri: https://www.wikidata.org/entity/Q3593084
+  parent_uris:
+  - http://www.geonames.org/1546748
+  - http://www.marineregions.org/mrgid/4261
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Île du Lys
+  type: value
+  uri: https://www.geonames.org/1024034
+  parent_uris:
+  - http://www.geonames.org/1546748
+  - http://www.marineregions.org/mrgid/4261
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Europa
+  type: value
+  uri: https://www.geonames.org/933910
+  parent_uris:
+  - http://www.geonames.org/1546748
+  - http://www.marineregions.org/mrgid/4261
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: a multinucleate cell which can result from multiple nuclear divisions without their accompanying cytokinesis. Research suggests that coenobium formation may be a defense against grazing in some species.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: coenobium
+  type: value
+  uri: http://eol.org/schema/terms/coenobium
+  parent_uris: []
+  synonym_of_uri: []
   units_term_uri:
   alias:
