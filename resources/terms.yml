@@ -85505,20 +85505,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: A marine reef which is primarily composed of self-adhered or conglomerated mussel shells.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: mussel reef
-  type: value
-  uri: http://purl.obolibrary.org/obo/ENVO_01001386
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01000029
-  synonym_of_uri: []
-  units_term_uri:
-  alias:
-- attribution: ''
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
