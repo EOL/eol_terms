@@ -17315,12 +17315,12 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: eating of feces.
+  definition: an organism that feeds on feces
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: coprophagy
+  name: coprophage
   type: value
   uri: http://www.wikidata.org/entity/Q320011
   parent_uris:
@@ -21176,12 +21176,12 @@ terms:
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000033
   alias:
 - attribution: ''
-  definition: eating of hard-shelled or exoskeleton bearing organisms, such as corals, shelled mollusks, or crabs.
+  definition: an organism that eats hard-shelled or exoskeleton bearing organisms, such as corals, shelled mollusks, or crabs.
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: durophagy
+  name: durophage
   type: value
   uri: http://www.wikidata.org/entity/Q5316712
   parent_uris:
@@ -63471,7 +63471,7 @@ terms:
   alias:
 - attribution: ''
   definition: An environmental system which has its properties and dynamics determined by saline water
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
@@ -85572,6 +85572,32 @@ terms:
   name: coenobium
   type: value
   uri: http://eol.org/schema/terms/coenobium
+  parent_uris: []
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: a size category or range applying to an occurrence or measurement record
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: size class
+  type: value
+  uri: http://eol.org/schema/terms/SizeClass
+  parent_uris: []
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: https://en.wikipedia.org/wiki/Hertz
+  definition: the derived unit of frequency in the International System of Units (SI) and is defined as one cycle per second
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: Hz
+  type: value
+  uri: http://purl.obolibrary.org/obo/UO_0000106
   parent_uris: []
   synonym_of_uri: []
   units_term_uri:
