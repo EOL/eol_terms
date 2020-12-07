@@ -8208,3 +8208,5 @@ uri_ids:
   https://www.geonames.org/1024034: 8201
   https://www.geonames.org/933910: 8202
   http://eol.org/schema/terms/coenobium: 8203
+  http://eol.org/schema/terms/sizeclass: 8204
+  http://purl.obolibrary.org/obo/uo_0000106: 8205
