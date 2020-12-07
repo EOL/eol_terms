@@ -42,6 +42,7 @@ EolTerms.rebuild_ids("/Users/jrice/git/eol_terms/resources/uri_ids.yml")
 # Bump version HERE!
 git add .
 git ci -m "Version bump, new terms."
+git push
 ssh si
 bweb
 jweb
