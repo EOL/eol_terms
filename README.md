@@ -46,15 +46,12 @@ git push
 ssh si
 bweb
 jweb
-bundle update eol_terms
-bin/stop_work
-rails r "TermBootstrapper.new.load"
+bin/up_terms
 exit
 exit
 bharv
 dharv
-bundle update eol_terms
-bin/stop_work
+bin/up_terms
 ```
 
 ### Methods
