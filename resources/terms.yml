@@ -85602,3 +85602,16 @@ terms:
   synonym_of_uri: []
   units_term_uri:
   alias:
+- attribution: ''
+  definition: decibels; 1/10th of a bel, a relative unit of amplitude or power. Commonly used in acoustics as a unit of sound pressure level, relative to the standard reference sound pressure of 20 micropascals in air or 1 micropascal in water. 
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: dB
+  type: value
+  uri: http://purl.obolibrary.org/obo/UO_0000259
+  parent_uris: []
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
