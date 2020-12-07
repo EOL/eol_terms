@@ -42431,7 +42431,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: mangrove
+  name: mangrove swamp
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000181
   parent_uris:
