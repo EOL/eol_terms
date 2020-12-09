@@ -36,10 +36,9 @@ rake build ; rake install ; irb -r eol_terms
 This is for JRice, to speed things up a bit:
 
 ```
-rake build ; rake install ; irb -r eol_terms
-EolTerms.validate
-EolTerms.rebuild_ids("/Users/jrice/git/eol_terms/resources/uri_ids.yml")
-# Bump version HERE!
+rake build ; rake install
+ruby -r eol_terms -e "EolTerms.validate && EolTerms.rebuild_ids('/Users/jrice/git/eol_terms/resources/uri_ids.yml')"
+bump patch
 git add .
 git ci -m "Version bump, new terms."
 git push
