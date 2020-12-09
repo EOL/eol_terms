@@ -80100,7 +80100,7 @@ terms:
   - http://purl.obolibrary.org/obo/RO_0002618
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: visits_flowers_of
 - attribution: ''
   definition: The sensory system subserving the sense of vision.
   is_hidden_from_select: false
