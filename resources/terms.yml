@@ -83871,7 +83871,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: µm"
+  name: µm
   type: value
   uri: http://purl.obolibrary.org/obo/UO_0000017
   parent_uris: []
