@@ -85742,3 +85742,16 @@ terms:
   synonym_of_uri: []
   units_term_uri:
   alias:
+- attribution: https://en.wikipedia.org/wiki/Dispersal_vector
+  definition: which agent of biological dispersal moves a dispersal unit, or organism, away from its birth population to another location or population in which the individual will reproduce. 
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: has dispersal vector
+  type: measurement
+  uri: http://eol.org/schema/terms/HasDispersalVector
+  parent_uris: []
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
