@@ -861,6 +861,7 @@ terms:
   uri: https://eol.org/schema/terms/CNVC_CM744_canopy
   parent_uris:
   - https://eol.org/schema/terms/CNVC_CM744
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -1931,6 +1932,7 @@ terms:
   uri: https://eol.org/schema/terms/CNVC_M156_canopy
   parent_uris:
   - https://eol.org/schema/terms/CNVC_M156
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -5598,6 +5600,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_2_C_4_Ne_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_2_C_4_Ne
+  - http://purl.obolibrary.org/obo/ENVO_01001242
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -5819,6 +5822,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_A_5_Ua_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_A_5_Ua
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -5875,6 +5879,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_A_5_Ua_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_A_5_Ua
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -10903,6 +10908,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_1_Nc_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_1_Nc
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -10945,6 +10951,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_1_Nc_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_1_Nc
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -10974,6 +10981,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_2_B_1_Na_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_2_B_1_Na
+  - http://purl.obolibrary.org/obo/ENVO_01001242
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -11513,7 +11521,6 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000047
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri: http://purl.obolibrary.org/obo/ENVO_01001242
   units_term_uri:
   alias:
@@ -12074,6 +12081,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_A_4_Ed_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_A_4_Ed
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -12088,6 +12096,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_A_4_Ed_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_A_4_Ed
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -12117,6 +12126,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_A_1_Ea_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_A_1_Ea
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -12159,6 +12169,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_A_1_Ea_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_A_1_Ea
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -13904,6 +13915,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_2_B_2_Nb_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_2_B_2_Nb
+  - http://purl.obolibrary.org/obo/ENVO_01001242
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -22214,6 +22226,7 @@ terms:
   uri: https://eol.org/schema/terms/CNVC_M495_canopy
   parent_uris:
   - https://eol.org/schema/terms/CNVC_M495
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -22331,6 +22344,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_2_B_4_Na_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_2_B_4_Na
+  - http://purl.obolibrary.org/obo/ENVO_01001242
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -22373,6 +22387,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_2_B_4_Na_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_2_B_4_Na
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -22417,6 +22432,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_2_Na_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_2_Na
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -22487,6 +22503,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_2_Na_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_2_Na
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -22545,6 +22562,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_2_B_2_Nc_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_2_B_2_Nc
+  - http://purl.obolibrary.org/obo/ENVO_01001242
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -22615,6 +22633,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_2_B_2_Nc_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_2_B_2_Nc
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -22690,6 +22709,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_2_C_4_Nd_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_2_C_4_Nd
+  - http://purl.obolibrary.org/obo/ENVO_01001242
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -22776,6 +22796,7 @@ terms:
   uri: https://eol.org/schema/terms/CNVC_CM014_canopy
   parent_uris:
   - https://eol.org/schema/terms/CNVC_CM014
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -22850,6 +22871,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_3_Na_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_3_Na
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -22934,6 +22956,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_3_Na_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_3_Na
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -41600,6 +41623,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_1_Nd_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_1_Nd
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -41642,6 +41666,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_1_Nd_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_1_Nd
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -49951,6 +49976,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_2_C_2_Na_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_2_C_2_Na
+  - http://purl.obolibrary.org/obo/ENVO_01001242
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -50082,6 +50108,7 @@ terms:
   uri: https://eol.org/schema/terms/CNVC_M299_canopy
   parent_uris:
   - https://eol.org/schema/terms/CNVC_M299
+  - http://purl.obolibrary.org/obo/ENVO_01001242
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -50154,6 +50181,7 @@ terms:
   uri: https://eol.org/schema/terms/CNVC_M300_canopy
   parent_uris:
   - https://eol.org/schema/terms/CNVC_M300
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -50241,6 +50269,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_5_Na_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_5_Na
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -50297,6 +50326,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_5_Na_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_5_Na
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -50459,6 +50489,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_2_Ne_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_2_Ne
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -50501,6 +50532,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_2_Ne_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_2_Ne
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -50560,6 +50592,7 @@ terms:
   uri: https://eol.org/schema/terms/CNVC_M179_canopy
   parent_uris:
   - https://eol.org/schema/terms/CNVC_M179
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -58338,6 +58371,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_A_1_Oc_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_A_1_Oc
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -58413,6 +58447,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_A_2_Oa_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_A_2_Oa
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -58455,6 +58490,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_A_2_Oa_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_A_2_Oa
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -62165,6 +62201,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_2_Nb_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_2_Nb
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -62235,6 +62272,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_2_Nb_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_2_Nb
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -62310,6 +62348,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_3_Nc_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_3_Nc
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -62352,6 +62391,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_3_Nc_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_3_Nc
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -68676,6 +68716,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_3_Nb_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_3_Nb
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -68760,6 +68801,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_3_Nb_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_3_Nb
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -68790,6 +68832,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_1_Na_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_1_Na
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -68874,6 +68917,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_1_Na_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_1_Na
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -68903,6 +68947,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_2_B_2_Nh_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_2_B_2_Nh
+  - http://purl.obolibrary.org/obo/ENVO_01001242
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -71073,6 +71118,7 @@ terms:
   uri: https://eol.org/schema/terms/CNVC_M075_canopy
   parent_uris:
   - https://eol.org/schema/terms/CNVC_M075
+  - http://purl.obolibrary.org/obo/ENVO_01001242
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -78928,6 +78974,7 @@ terms:
   uri: https://eol.org/schema/terms/CNVC_M024_canopy
   parent_uris:
   - https://eol.org/schema/terms/CNVC_M024
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -79029,6 +79076,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_3_Ng_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_3_Ng
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -79085,6 +79133,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_3_Ng_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_3_Ng
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -79099,6 +79148,7 @@ terms:
   uri: https://eol.org/schema/terms/CNVC_M035_canopy
   parent_uris:
   - https://eol.org/schema/terms/CNVC_M035
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -79185,6 +79235,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_2_Nd_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_2_Nd
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -79255,6 +79306,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_2_Nd_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_2_Nd
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -79299,6 +79351,7 @@ terms:
   uri: https://eol.org/schema/terms/CNVC_M025_canopy
   parent_uris:
   - https://eol.org/schema/terms/CNVC_M025
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -81166,6 +81219,7 @@ terms:
   uri: https://eol.org/schema/terms/CNVC_M496_canopy
   parent_uris:
   - https://eol.org/schema/terms/CNVC_M496
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -81714,6 +81768,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_2_B_2_Nf_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_2_B_2_Nf
+  - http://purl.obolibrary.org/obo/ENVO_01001242
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -81770,6 +81825,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_2_B_2_Nf_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_2_B_2_Nf
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -81799,6 +81855,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_2_B_2_Ng_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_2_B_2_Ng
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -81841,6 +81898,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_2_B_2_Ng_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_2_B_2_Ng
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -81870,6 +81928,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_3_Nd_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_3_Nd
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -81912,6 +81971,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_3_Nd_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_3_Nd
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -81941,6 +82001,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_2_Nc_canopy
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_2_Nc
+  - http://purl.obolibrary.org/obo/ENVO_01001240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -81983,6 +82044,7 @@ terms:
   uri: https://eol.org/schema/terms/usnvc_1_B_2_Nc_understory
   parent_uris:
   - https://eol.org/schema/terms/usnvc_1_B_2_Nc
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -85608,6 +85670,75 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/UO_0000259
   parent_uris: []
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: where activity is distributed approximately evenly throughout the 24 h of the daily cycle, or when significant amounts of activity, particularly feeding and/or traveling, occur within both the light and dark portions of that cycle. 
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: cathemeral
+  type: value
+  uri: https://www.wikidata.org/entity/Q5052479
+  parent_uris: []
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: '' 
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Chaco
+  type: value
+  uri: http://www.geonames.org/3861887
+  parent_uris:
+  - http://www.geonames.org/3865483
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: An island formed of trees and shrubs that grow in saline coastal habitats in the tropics and subtropics. 
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: mangrove island
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00000103
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000181
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: the ground layer of a forest or woodland where leaf litter or other plant matter accumulates. 
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: litter layer
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_01000338
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01001305
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: a layer of plant life which grows below the canopy without penetrating it. 
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: understory
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_01000335
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000175
   synonym_of_uri: []
   units_term_uri:
   alias:
