@@ -85755,3 +85755,16 @@ terms:
   synonym_of_uri: []
   units_term_uri:
   alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "mol/cell"
+  type: value
+  uri: http://eol.org/schema/terms/mol_cell-1
+  parent_uris: []
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
