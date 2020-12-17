@@ -85768,3 +85768,16 @@ terms:
   synonym_of_uri: []
   units_term_uri:
   alias:
+- attribution: ''
+  definition: being or occurring at an advanced period of time or after a usual or expected time.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: late
+  type: value
+  uri: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64998
+  parent_uris: []
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
