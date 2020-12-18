@@ -83,4 +83,3 @@ Adding missing key: http://eol.org/schema/terms/coneplushalfsphere-20percent (#1
 Done.
 => nil
 ```
-foo
