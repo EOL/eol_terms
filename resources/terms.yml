@@ -23027,8 +23027,7 @@ terms:
   name: eats
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002470
-  parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0008506
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias: eats
@@ -31547,7 +31546,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0008508
   parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0008506
   - http://purl.obolibrary.org/obo/RO_0002442
   synonym_of_uri:
   units_term_uri:
@@ -31592,7 +31590,6 @@ terms:
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002440
   - http://purl.obolibrary.org/obo/RO_0002303
-  - http://purl.obolibrary.org/obo/RO_0008506
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -31688,7 +31685,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002460
   parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0008506
   - http://purl.obolibrary.org/obo/RO_0002442
   synonym_of_uri:
   units_term_uri:
@@ -33324,7 +33320,6 @@ terms:
   uri: http://purl.obolibrary.org/obo/RO_0002453
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002440
-  - http://purl.obolibrary.org/obo/RO_0008506
   - http://purl.obolibrary.org/obo/RO_0002442
   synonym_of_uri:
   units_term_uri:
@@ -35812,8 +35807,7 @@ terms:
   name: is eaten by
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002471
-  parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0008506
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias: is_eaten_by
@@ -35839,8 +35833,7 @@ terms:
   name: is killed by
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002627
-  parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0008506
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -35854,7 +35847,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002459
   parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0008506
   - http://purl.obolibrary.org/obo/RO_0002442
   synonym_of_uri:
   units_term_uri:
@@ -37575,8 +37567,7 @@ terms:
   name: kills
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002626
-  parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0008506
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -39171,7 +39162,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0008507
   parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0008506
   - http://purl.obolibrary.org/obo/RO_0002442
   synonym_of_uri:
   units_term_uri:
@@ -80120,7 +80110,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002619
   parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0008506
   - http://purl.obolibrary.org/obo/RO_0002442
   synonym_of_uri:
   units_term_uri:
@@ -80135,7 +80124,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002618
   parent_uris:
-  - http://purl.obolibrary.org/obo/RO_0008506
   - http://purl.obolibrary.org/obo/RO_0002442
   synonym_of_uri:
   units_term_uri:
@@ -85768,3 +85756,31 @@ terms:
   synonym_of_uri: []
   units_term_uri:
   alias:
+- attribution: ''
+  definition: being or occurring at an advanced period of time or after a usual or expected time.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: late
+  type: value
+  uri: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64998
+  parent_uris: []
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Sardinia
+  type: value
+  uri: http://www.geonames.org/2523227
+  parent_uris:
+  - http://www.geonames.org/3175395
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+
