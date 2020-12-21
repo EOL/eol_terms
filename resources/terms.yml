@@ -23143,8 +23143,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: ectoparasite of
   type: association
@@ -23936,8 +23936,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: endoparasite of
   type: association
@@ -24418,8 +24418,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: epiphyte of
   type: association
@@ -26843,8 +26843,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: flowers visited by
   type: association
@@ -31525,8 +31525,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: has ectoparasite
   type: association
@@ -31539,8 +31539,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: has eggs laid on by
   type: association
@@ -31553,8 +31553,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: has endoparasite
   type: association
@@ -31567,8 +31567,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: has epiphyte
   type: association
@@ -31596,8 +31596,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: has hyperparasite
   type: association
@@ -31610,8 +31610,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: has parasitoid
   type: association
@@ -31638,8 +31638,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: true
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: has predator
   type: association
@@ -31678,8 +31678,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: has vector
   type: association
@@ -33820,8 +33820,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: hyperparasite of
   type: association
@@ -35827,8 +35827,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: is killed by
   type: association
@@ -37561,8 +37561,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: kills
   type: association
@@ -39155,8 +39155,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: lays eggs on
   type: association
@@ -55636,8 +55636,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: parasitoid of
   type: association
@@ -80103,8 +80103,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: visited by
   type: association
@@ -80117,8 +80117,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: visits
   type: association
@@ -80131,8 +80131,8 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: visits flowers of
   type: association
