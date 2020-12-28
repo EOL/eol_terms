@@ -240,7 +240,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: 2 cones-30%"
+  name: 2 cones-30%
   type: value
   uri: http://eol.org/schema/terms/2Cones-30Percent
   parent_uris: []
@@ -14556,7 +14556,7 @@ terms:
   is_hidden_from_glossary: true
   is_text_only: ''
   name: poison
-  type: ''
+  type: value
   uri: http://purl.obolibrary.org/obo/CHEBI_64909
   parent_uris: []
   synonym_of_uri:
@@ -83883,7 +83883,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: µatm"
+  name: µatm
   type: value
   uri: http://eol.org/schema/terms/microatmosphere
   parent_uris: []
@@ -83895,7 +83895,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: µg"
+  name: µg
   type: value
   uri: http://purl.obolibrary.org/obo/UO_0000023
   parent_uris: []
@@ -83934,7 +83934,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: µm^(-1)"
+  name: µm^(-1)
   type: value
   uri: http://eol.org/schema/terms/perMicrometer
   parent_uris: []
@@ -83973,7 +83973,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: µmol /cell /day"
+  name: µmol /cell /day
   type: value
   uri: http://eol.org/schema/terms/µmol_cell-1_day-1
   parent_uris: []
@@ -83986,7 +83986,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: µmol /m2 /s"
+  name: µmol /m2 /s
   type: value
   uri: http://eol.org/schema/terms/µmol_m-2_s-1
   parent_uris: []
@@ -83999,7 +83999,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: µmol/cell"
+  name: µmol/cell
   type: value
   uri: http://eol.org/schema/terms/µmol_cell-1
   parent_uris: []
@@ -84012,7 +84012,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: µmol/cm2/hr"
+  name: µmol/cm2/hr
   type: value
   uri: http://eol.org/schema/terms/µmol_cm-2_hr-1
   parent_uris: []
@@ -84025,7 +84025,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: µmol/g"
+  name: µmol/g
   type: value
   uri: https://eol.org/schema/terms/micromolpergram
   parent_uris: []
@@ -84038,7 +84038,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: µmol/l"
+  name: µmol/l
   type: value
   uri: http://purl.obolibrary.org/obo/NCIT_C48508
   parent_uris: []
@@ -84051,7 +84051,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: µmol/l"
+  name: µmol/l
   type: value
   uri: http://purl.obolibrary.org/obo/UO_0000064
   parent_uris: []
@@ -84064,7 +84064,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: µmol/m2/sec"
+  name: µmol/m2/sec
   type: value
   uri: http://eol.org/schema/terms/Âµmol_m-2_s-1
   parent_uris: []
@@ -84077,7 +84077,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: "× South Pare Mountains"
+  name: South Pare Mountains
   type: value
   uri: http://www.geonames.org/149747
   parent_uris:
@@ -84091,7 +84091,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: ÅLand Islands"
+  name: ÅLand Islands
   type: value
   uri: https://www.geonames.org/661883
   parent_uris:
@@ -85780,6 +85780,19 @@ terms:
   uri: http://www.geonames.org/2523227
   parent_uris:
   - http://www.geonames.org/3175395
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A substance, extract, or preparation for diffusing or imparting an agreeable or attractive smell.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: fragrance
+  type: value
+  uri: http://purl.obolibrary.org/obo/CHEBI_48318
+  parent_uris:
   synonym_of_uri: []
   units_term_uri:
   alias:
