@@ -6680,6 +6680,7 @@ terms:
   uri: http://www.geonames.org/290291
   parent_uris:
   - https://www.wikidata.org/entity/Q106447
+  - http://www.geonames.org/6957698
   - http://www.geonames.org/6269133
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
@@ -38011,6 +38012,7 @@ terms:
   uri: http://www.geonames.org/285570
   parent_uris:
   - https://www.wikidata.org/entity/Q106447
+  - http://www.geonames.org/6957698
   - http://www.geonames.org/6269133
   synonym_of_uri:
   units_term_uri:
@@ -42630,10 +42632,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: mariana islands
+  name: Mariana islands
   type: value
   uri: https://www.wikidata.org/entity/Q153732
-  parent_uris: []
+  parent_uris:
+  - http://www.marineregions.org/mrgid/1908
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -53472,6 +53475,7 @@ terms:
   uri: http://www.geonames.org/286963
   parent_uris:
   - http://www.geonames.org/6269133
+  - http://www.geonames.org/6957698
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -60269,6 +60273,7 @@ terms:
   uri: http://www.geonames.org/289688
   parent_uris:
   - https://www.wikidata.org/entity/Q106447
+  - http://www.geonames.org/6957698
   - http://www.geonames.org/6269133
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
@@ -64292,6 +64297,7 @@ terms:
   uri: http://www.geonames.org/102358
   parent_uris:
   - http://www.geonames.org/6269133
+  - http://www.geonames.org/6957698
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -78087,6 +78093,7 @@ terms:
   uri: http://www.geonames.org/290557
   parent_uris:
   - http://www.geonames.org/6269133
+  - http://www.geonames.org/6957698
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -78707,7 +78714,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Us Minor Outlying Islands
+  name: US Minor Outlying Islands
   type: value
   uri: http://www.geonames.org/5854968
   parent_uris:
@@ -83322,6 +83329,7 @@ terms:
   uri: http://www.geonames.org/69543
   parent_uris:
   - http://www.geonames.org/6269133
+  - http://www.geonames.org/6957698
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -83698,7 +83706,8 @@ terms:
   type: value
   uri: http://marineregions.org/mrgid/2234
   parent_uris: []
-  synonym_of_uri: http://www.geonames.org/878675
+  synonym_of_uri: 
+  - http://www.geonames.org/878675
   units_term_uri:
   alias:
 - attribution: ''
@@ -85794,6 +85803,118 @@ terms:
   uri: http://purl.obolibrary.org/obo/CHEBI_48318
   parent_uris:
   synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: a dense settlement biome which has been urbanised
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: urban
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_01000249
+  parent_uris:
+  synonym_of_uri: 
+  - http://purl.obolibrary.org/obo/ENVO_00000856
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Zimbabwe
+  type: value
+  uri: http://www.wikidata.org/entity/Q954
+  parent_uris:
+  synonym_of_uri:
+  - http://www.geonames.org/878675
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Arabia
+  type: value
+  uri: http://www.geonames.org/6957698
+  parent_uris:
+  - http://www.geonames.org/6269133
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: 
+  type: value
+  uri: http://www.wikidata.org/entity/Q192188
+  parent_uris:
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Chagos Archipelago
+  type: value
+  uri: http://www.wikidata.org/entity/Q192188
+  parent_uris:
+  - http://www.marineregions.org/mrgid/1904
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Palmyra Atoll
+  type: value
+  uri: https://www.wikidata.org/entity/Q123076
+  parent_uris:
+  - http://www.geonames.org/5854968
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Saint Paul Island
+  type: value
+  uri: http://www.geonames.org/8643336
+  parent_uris:
+  - http://www.geonames.org/5879092
+  - http://www.marineregions.org/mrgid/4310
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Mariana islands
+  type: value
+  uri: http://www.wikidata.org/entity/Q153732
+  parent_uris: 
+  synonym_of_uri:
+  - https://www.wikidata.org/entity/Q153732
   units_term_uri:
   alias:
 
