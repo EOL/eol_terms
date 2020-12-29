@@ -85904,4 +85904,29 @@ terms:
   - https://www.wikidata.org/entity/Q153732
   units_term_uri:
   alias:
-
+- attribution: ''
+  definition: "The pH of a medium (water column, soil moisture) at which the growth rate of an organism is typically optimized"
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: optimal growth pH
+  type: measurement
+  uri: http://eol.org/schema/terms/OptimalGrowthpH
+  parent_uris: 
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A unit of cellular chemical production or consumption. Moles of substance per cell per day.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "mol/cell/day"
+  type: value
+  uri: http://eol.org/schema/terms/mol_cell-1_day-1
+  parent_uris: 
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
