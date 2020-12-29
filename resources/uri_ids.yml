@@ -8215,3 +8215,7 @@ uri_ids:
   http://purl.obolibrary.org/obo/envo_01000338: 8208
   http://purl.obolibrary.org/obo/envo_01000335: 8209
   http://eol.org/schema/terms/mol_cell-1: 8210
+  http://purl.obolibrary.org/obo/chebi_48318: 8211
+  http://www.wikidata.org/entity/q954: 8212
+  http://www.wikidata.org/entity/q192188: 8213
+  http://www.wikidata.org/entity/q153732: 8214
