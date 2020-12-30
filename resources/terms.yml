@@ -85943,3 +85943,16 @@ terms:
   synonym_of_uri: 
   units_term_uri:
   alias:
+- attribution: ''
+  definition: A unit of chemical or particle flux. Moles of atoms, molecules or photons, to pass through a square meter per second.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: "mol/m^2/s"
+  type: value
+  uri: http://eol.org/schema/terms/mol_m-2_s-1
+  parent_uris: 
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
