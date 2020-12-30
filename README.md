@@ -33,26 +33,7 @@ rake build ; rake install ; irb -r eol_terms
 
 #### Crib sheet
 
-This is for JRice, to speed things up a bit:
-
-```
-rake build ; rake install
-ruby -r eol_terms -e "EolTerms.validate" # Yes, these need to be two separate steps.
-ruby -r eol_terms -e "EolTerms.rebuild_ids('/Users/jrice/git/eol_terms/resources/uri_ids.yml')"
-bump patch
-git add . # actually I think the bump from the last step *does* this?
-git ci -m "Version bump, new terms."
-git push
-ssh si
-bweb
-jweb
-bin/up_terms
-exit
-exit
-bharv
-dharv
-bin/up_terms
-```
+See the crib.txt file for JRice's "instructions" on how to do the former.
 
 ### Methods
 

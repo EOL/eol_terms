@@ -8219,3 +8219,6 @@ uri_ids:
   http://www.wikidata.org/entity/q954: 8212
   http://www.wikidata.org/entity/q192188: 8213
   http://www.wikidata.org/entity/q153732: 8214
+  http://eol.org/schema/terms/optimalgrowthph: 8215
+  http://eol.org/schema/terms/mol_cell-1_day-1: 8216
+  http://eol.org/schema/terms/physiologicalstate: 8217
