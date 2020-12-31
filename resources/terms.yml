@@ -14445,6 +14445,7 @@ terms:
   uri: http://purl.obolibrary.org/obo/ENVO_00000395
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_00002030
+  - http://eol.org/schema/terms/lotic
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -19835,6 +19836,7 @@ terms:
   uri: https://www.wikidata.org/entity/Q736879
   parent_uris:
   - https://www.wikidata.org/entity/Q22093455
+  - http://purl.obolibrary.org/obo/ENVO_01000373
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -23254,12 +23256,12 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: organic vessel in which an embryo first begins to develop
+  definition: organic vessels in which embryos first begin to develop
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: egg
+  name: eggs
   type: value
   uri: https://www.wikidata.org/entity/Q17147
   parent_uris: []
@@ -24946,7 +24948,7 @@ terms:
   type: ''
   uri: http://purl.obolibrary.org/obo/ENVO_00000045
   parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/ENVO_00002150
+  synonym_of_uri: http://purl.obolibrary.org/obo/ENVO_01000020
   units_term_uri:
   alias:
 - attribution: ''
@@ -26018,15 +26020,14 @@ terms:
   is_hidden_from_glossary: true
   name: female larger
   uri: http://eol.org/schema/terms/female_larger
-  parent_uris:
-  - http://purl.obolibrary.org/obo/GO_0019953
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: Adw Birds
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
+  is_hidden_from_overview: false
   is_hidden_from_glossary: true
   name: female more colorful
   uri: http://eol.org/schema/terms/female_more_colorful
@@ -26814,13 +26815,13 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: "[database_cross_reference: POC:curators]\r\n"
-  definition: 'A determinate reproductive shoot system that has as part at least one carpel or at least one stamen and does not contain any other determinate shoot system as a part. '
+- attribution: ''
+  definition: 'determinate reproductive shoot systems having as part at least one carpel or at least one stamen and containing no other determinate shoot system as a part. '
   is_hidden_from_select: false
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: flower
+  name: flowers
   type: value
   uri: http://purl.obolibrary.org/obo/PO_0009046
   parent_uris: []
@@ -38275,7 +38276,9 @@ terms:
   name: lake
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000252
-  parent_uris: []
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00000873
+  - http://purl.obolibrary.org/obo/ENVO_01000617
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -39209,12 +39212,12 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: A phyllome that is not associated with a reproductive structure
+  definition: phyllomes not associated with a reproductive structure
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: leaf
+  name: leaves
   type: value
   uri: http://purl.obolibrary.org/obo/PO_0025034
   parent_uris:
@@ -40464,7 +40467,7 @@ terms:
   alias:
 - attribution: ''
   definition: A spatial region or named place.
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
@@ -42184,15 +42187,14 @@ terms:
   is_hidden_from_glossary: true
   name: male larger
   uri: http://eol.org/schema/terms/male_larger
-  parent_uris:
-  - http://purl.obolibrary.org/obo/GO_0019953
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: Adw Birds
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
+  is_hidden_from_overview: false
   is_hidden_from_glossary: true
   name: male more colorful
   uri: http://eol.org/schema/terms/male_more_colorful
@@ -53573,12 +53575,12 @@ terms:
   units_term_uri:
   alias:
 - attribution: Richard M. Sibly, Christopher C. Witt, Natalie A. Wright, Chris Venditti, Walter Jetz, and James H. Brown. 2012.  Energetics, lifestyle, and reproduction in birds.  PNAS 109(27):10937-10941, doi:10.1073/pnas.1206512109
-  definition: Only the female feeds and nurtures offspring.
+  definition: the female feeds and nurtures offspring
   is_hidden_from_select: false
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: only female provides care
+  name: female provides care
   type: value
   uri: http://eol.org/schema/terms/parentalCareFemale
   parent_uris:
@@ -53940,7 +53942,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: ''
+  definition: 'waste containing mostly natural organic materials; remains of plants, animal excrement, biological sludge, and so forth'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -53948,9 +53950,9 @@ terms:
   name: organic waste
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00002873
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01000373
+  parent_uris: []
   synonym_of_uri:
+  - http://purl.obolibrary.org/obo/ENVO_01000373
   units_term_uri:
   alias:
 - attribution: ''
@@ -54932,7 +54934,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: palearctic
+  name: the Palearctic
   type: value
   uri: https://www.wikidata.org/entity/Q106447
   parent_uris:
@@ -55782,7 +55784,8 @@ terms:
   name: particulate organic matter
   type: value
   uri: https://www.wikidata.org/entity/Q22093455
-  parent_uris: []
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000373
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -57999,6 +58002,7 @@ terms:
   uri: http://purl.obolibrary.org/obo/ENVO_00000894
   parent_uris: []
   synonym_of_uri:
+  - http://purl.obolibrary.org/obo/ENVO_01000339
   units_term_uri:
   alias:
 - attribution: ''
@@ -58719,6 +58723,7 @@ terms:
   uri: http://purl.obolibrary.org/obo/ENVO_00000033
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_00000873
+  - http://purl.obolibrary.org/obo/ENVO_01000617
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -61290,6 +61295,7 @@ terms:
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_00000873
   - http://purl.obolibrary.org/obo/ENVO_00000002
+  - http://purl.obolibrary.org/obo/ENVO_01000617
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -61934,6 +61940,7 @@ terms:
   uri: http://purl.obolibrary.org/obo/ENVO_01000253
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_00000873
+  - http://eol.org/schema/terms/lotic
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -64147,6 +64154,7 @@ terms:
   uri: http://eol.org/schema/terms/sap
   parent_uris: []
   synonym_of_uri:
+  - http://purl.obolibrary.org/obo/PO_0025538
   units_term_uri:
   alias:
 - attribution: ''
@@ -65214,12 +65222,12 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: "[database_cross_reference: POC:curators]"
-  definition: 'A multi-tissue plant structure (PO:0025496) that develops from a plant ovule (PO:0020003) and has as parts a plant embryo (PO:0009009) enclosed in a seed coat (PO:0009088). '
+- attribution: ''
+  definition: 'multi-tissue plant structures that develop from a plant ovule and have as parts a plant embryo enclosed in a seed coat. '
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  name: seed
+  name: seeds
   type: value
   uri: http://purl.obolibrary.org/obo/PO_0009010
   parent_uris:
@@ -85060,9 +85068,9 @@ terms:
   name: monogamous
   type: value
   uri: http://eol.org/schema/terms/monogamous
-  parent_uris:
-  - http://eol.org/schema/terms/socialGroupLiving
+  parent_uris: []
   synonym_of_uri:
+  - http://purl.obolibrary.org/obo/ECOCORE_00000063
   units_term_uri:
   alias:
 - attribution: https://en.wikipedia.org/wiki/Group_living
@@ -85953,6 +85961,339 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/mol_m-2_s-1
   parent_uris: 
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: a water body in which the accumulated water, in its totality, has very little to no directed flow
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: lentic
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_01000617
+  parent_uris: 
+  - http://purl.obolibrary.org/obo/ENVO_00002030
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: One male and one female have an exclusive mating relationship
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: monogamous
+  type: value
+  uri: http://purl.obolibrary.org/obo/ECOCORE_00000063
+  parent_uris: 
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: aquatic environment that may persist for hours or weeks before returning to a dry state
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: temporary aquatic
+  type: value
+  uri: http://eol.org/schema/terms/temporaryAquatic
+  parent_uris: 
+  - http://purl.obolibrary.org/obo/ENVO_00002030
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: having equal proportion around a central point or axis
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: radially symmetric
+  type: value
+  uri: http://purl.obolibrary.org/obo/PATO_0001325
+  parent_uris: 
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: being symmetric about a plane running from frontal end to caudal end (head to tail), and having nearly identical right and left halves
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: bilaterally symmetric
+  type: value
+  uri: http://purl.obolibrary.org/obo/PATO_0001324
+  parent_uris: 
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: action or precaution against a threat against an uncertainty or possible unpleasant events
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: protection
+  type: value
+  uri: https://www.wikidata.org/entity/Q2251595
+  parent_uris: 
+  - http://polytraits.lifewatchgreece.eu/terms/BP_YES
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: supplying materials, especially food
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: provisioning
+  type: value
+  uri: https://www.wikidata.org/entity/Q2874419
+  parent_uris: 
+  - http://polytraits.lifewatchgreece.eu/terms/BP_YES
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: One male has an exclusive mating relationship with two or more females
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: polygynous
+  type: value
+  uri: http://purl.obolibrary.org/obo/ECOCORE_00000065
+  parent_uris: 
+  - http://purl.obolibrary.org/obo/GO_0019953
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: One female has an exclusive mating relationship with two or more males
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: polyandrous
+  type: value
+  uri: http://purl.obolibrary.org/obo/ECOCORE_00000064
+  parent_uris: 
+  - http://purl.obolibrary.org/obo/GO_0019953
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A member of one sex mates with any member of the opposite sex
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: promiscuous
+  type: value
+  uri: http://purl.obolibrary.org/obo/ECOCORE_00000067
+  parent_uris: 
+  - http://purl.obolibrary.org/obo/GO_0019953
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: highest level of animal sociality a species can attain. Includes cooperative brood care (including care of offspring from other individuals), overlapping generations within a colony of adults, and a division of labor
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: eusocial
+  type: value
+  uri: https://www.wikidata.org/entity/Q753694
+  parent_uris: 
+  - http://eol.org/schema/terms/socialGroupLiving
+  - http://eol.org/schema/terms/CooperativeBreeding
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ascending a steep object
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: climbing
+  type: value
+  uri: http://purl.obolibrary.org/obo/NBO_0000368
+  parent_uris: 
+  - http://eol.org/schema/terms/activelyMobile
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: organism that consumes fungi
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: fungivore
+  type: value
+  uri: https://www.wikidata.org/entity/Q3331325
+  parent_uris:
+  - http://eol.org/schema/terms/secondaryConsumer
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: a consumer that that feeds on unhatched eggs
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: ovivore
+  type: value
+  uri: https://www.wikidata.org/entity/Q60743215
+  parent_uris:
+  - http://eol.org/schema/terms/secondaryConsumer
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: composite organism that arises from algae or cyanobacteria living among filaments of multiple fungi in a symbiotic relationship
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: lichen
+  type: value
+  uri: https://www.wikidata.org/entity/Q43142
+  parent_uris: 
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: class of tetrapods
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: birds
+  type: value
+  uri: https://www.wikidata.org/entity/Q5113
+  parent_uris:
+  - https://www.wikidata.org/entity/Q19159
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: dead and decaying flesh of an animal
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: carrion
+  type: value
+  uri: https://www.wikidata.org/entity/Q202994
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000373
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: vertebrate animal that lives in water and (typically) has gills
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: fish
+  type: value
+  uri: https://www.wikidata.org/entity/Q152
+  parent_uris: 
+  - http://eol.org/schema/terms/vertebrate
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: class of tetrapods
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: mammals
+  type: value
+  uri: https://www.wikidata.org/entity/Q7377
+  parent_uris:
+  - https://www.wikidata.org/entity/Q19159
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: class of tetrapods
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: reptiles
+  type: value
+  uri: https://www.wikidata.org/entity/Q10811
+  parent_uris:
+  - https://www.wikidata.org/entity/Q19159
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: animals that typically have a long tube-like body
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: worms
+  type: value
+  uri: https://www.wikidata.org/entity/Q47253
+  parent_uris:
+  - http://eol.org/schema/terms/invertebrate
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: solid or semisolid remains of the food that could not be digested, from any animal
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: feces
+  type: value
+  uri: https://www.wikidata.org/entity/Q496
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000373
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: phylum of animals
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: arthropods
+  type: value
+  uri: https://www.wikidata.org/entity/Q1360
+  parent_uris:
+  - http://eol.org/schema/terms/invertebrate
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: class of tetrapods, whose living forms include frogs, toads, salamanders, newts and caecilians
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: amphibians
+  type: value
+  uri: https://www.wikidata.org/entity/Q10908
+  parent_uris:
+  - https://www.wikidata.org/entity/Q19159
   synonym_of_uri: 
   units_term_uri:
   alias:
