@@ -69993,19 +69993,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: A symmetry quality inhering in a bearer by virtue of the bearer's having equal proportion around a central point or axis.
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: spiral
-  type: value
-  uri: http://purl.obolibrary.org/obo/PATO_0001325
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
