@@ -1189,6 +1189,7 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+  is_symmetrical_association: true
 - attribution: https://www.worldwildlife.org/ecoregions/aa0101
   definition: ''
   is_hidden_from_select: false
@@ -15930,6 +15931,7 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+  is_symmetrical_association: true
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -16543,6 +16545,7 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+  is_symmetrical_association: true
 - attribution: https://en.wikipedia.org/wiki/Universal_adaptive_strategy_theory
   definition: Competitors are species that thrive in areas of low intensity stress and disturbance and excel in biological competition. These species are able to outcompete others by most efficiently tapping into available resources. Competitors do this through a combination of favorable characteristics, including rapid growth rate, high productivity and high capacity for phenotypic plasticity.
   is_hidden_from_select: false
@@ -31524,6 +31527,7 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+  is_symmetrical_association: true
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -35826,6 +35830,7 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+  is_symmetrical_association: true
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
