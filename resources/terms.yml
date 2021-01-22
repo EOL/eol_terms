@@ -70404,7 +70404,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  is_text_only: true
+  is_text_only: false
   name: standard length
   type: measurement
   uri: http://eol.org/schema/terms/StandardLength
