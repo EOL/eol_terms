@@ -86289,3 +86289,29 @@ terms:
   synonym_of_uri: 
   units_term_uri:
   alias:
+- attribution: ''
+  definition: any duplicate of the holotype (i. e. part of a single gathering made by a collector at one time, from which the holotype was derived); it is always a specimen.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: isotype
+  type: value
+  uri: http://rs.tdwg.org/ontology/voc/TaxonName#Isotype
+  parent_uris: []
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: The name, acronym, coden, or initialism identifying the collection or data set from which the record was derived.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: collection code
+  type: metadata
+  uri: http://rs.tdwg.org/dwc/terms/collectionCode
+  parent_uris: []
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
