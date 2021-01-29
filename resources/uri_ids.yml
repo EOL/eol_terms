@@ -8246,3 +8246,5 @@ uri_ids:
   https://www.wikidata.org/entity/q496: 8239
   https://www.wikidata.org/entity/q1360: 8240
   https://www.wikidata.org/entity/q10908: 8241
+  http://rs.tdwg.org/ontology/voc/taxonname#isotype: 8242
+  http://rs.tdwg.org/dwc/terms/collectioncode: 8243
