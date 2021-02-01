@@ -86319,20 +86319,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: Museum National d'Histoire Naturelle
-  type: value
-  uri: http://biocol.org/urn:lsid:biocol.org:col:34988
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Muséum d'Histoire Naturelle de Bourges
   type: value
@@ -86345,7 +86332,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Conservatoire et Jardins Botaniques de Nancy, Université de Nancy
   type: value
@@ -86358,7 +86345,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Université de Montpellier
   type: value
@@ -86371,7 +86358,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Muséum d'Histoire Naturelle d'Aix-en-Provence
   type: value
@@ -86384,7 +86371,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Société Nationale des Sciences Naturelles et Mathématiques de Cherbourg
   type: value
@@ -86397,7 +86384,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Conservatoire Botanique National Alpin
   type: value
@@ -86410,7 +86397,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: UNIVEGE Université Clermont Auvergne
   type: value
@@ -86423,7 +86410,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Swedish Museum of Natural History
   type: value
@@ -86436,7 +86423,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Museum of Evolution
   type: value
@@ -86449,20 +86436,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: Forschungsinstitut und Natur-Museum Senckenberg
-  type: value
-  uri: http://biocol.org/urn:lsid:biocol.org:col:34838
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Zoologisches Forschungsmuseum Alexander Koenig
   type: value
@@ -86475,7 +86449,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Botanischer Garten und Botanisches Museum Berlin, Zentraleinrichtung der Freien Universität Berlin
   type: value
@@ -86488,7 +86462,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Staatliches Museum fuer Naturkund Stuttgart
   type: value
@@ -86501,7 +86475,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Staatliches Museum für Naturkunde Stuttgart
   type: value
@@ -86514,7 +86488,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: 'Senckenberg Gesellschaft für Naturforschung: Senckenberg Forschungsinstitut und Naturmuseum'
   type: value
@@ -86527,7 +86501,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Philipps University Marburg
   type: value
@@ -86540,7 +86514,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Senckenberg Deutsches Entomologisches Institut
   type: value
@@ -86553,7 +86527,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Regensburgische Botanische Gesellschaft
   type: value
@@ -86566,7 +86540,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Ludwig-Maximilians-Universität
   type: value
@@ -86579,23 +86553,10 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
-  name: Museum National d'Histoire Naturelle
+  name: 'Senckenberg Gesellschaft für Naturforschung: Senckenberg Museum für Naturkunde Görlitz'
   type: value
-  uri: http://biocol.org/urn:lsid:biocol.org:col:34988
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: 'Senckenberg Gesellschaft für Naturforschung: Senckenberg Museum für Naturkunde Görlitz
-  type: value'
   uri: http://biocol.org/urn:lsid:biocol.org:col:14113
   parent_uris: []
   synonym_of_uri:
@@ -86605,7 +86566,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Alfred-Wegener-Institut für Polar- und Meeresforschung
   type: value
@@ -86618,20 +86579,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: Natural History Museum, London
-  type: value
-  uri: http://biocol.org/urn:lsid:biocol.org:col:34665
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Martin-Luther-Universität
   type: value
@@ -86644,7 +86592,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Naturkundemuseum im Ottoneum
   type: value
@@ -86657,7 +86605,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Hessisches Landesmuseum Darmstadt
   type: value
@@ -86670,7 +86618,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Museo Civico di Storia Naturale Giacomo Doria
   type: value
@@ -86683,20 +86631,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: Academy of Natural Sciences
-  type: value
-  uri: http://biocol.org/urn:lsid:biocol.org:col:34784
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: University of Leipzig
   type: value
@@ -86709,20 +86644,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: Harvard University, Museum of Comparative Zoology
-  type: value
-  uri: http://biocol.org/urn:lsid:biocol.org:col:33791
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Universidad de La Salle
   type: value
@@ -86735,7 +86657,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Agricultural Research Council-Plant Protection Research Institute
   type: value
@@ -86748,7 +86670,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Naturhistorisches Museum Wien
   type: value
@@ -86761,7 +86683,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Universidad de Costa Rica
   type: value
@@ -86774,7 +86696,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Naturalis Biodiversity Center, Zoology Collections
   type: value
@@ -86787,7 +86709,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Hungarian Natural History Museum
   type: value
@@ -86800,7 +86722,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Jardim Botânico do Rio de Janeiro
   type: value
@@ -86813,7 +86735,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Royal Botanic Gardens (Kew)
   type: value
@@ -86826,7 +86748,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Royal Botanic Garden Edinburgh
   type: value
@@ -86839,33 +86761,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: Harvard University, Museum of Comparative Zoology
-  type: value
-  uri: http://biocol.org/urn:lsid:biocol.org:col:33791
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: Peabody Museum of Natural History
-  type: value
-  uri: http://biocol.org/urn:lsid:biocol.org:col:34880
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Florida Museum of Natural History
   type: value
@@ -86878,7 +86774,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Universite de Strasbourg, Museum Zoologique
   type: value
@@ -86891,7 +86787,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Universite Paris VI
   type: value
@@ -86904,7 +86800,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: SNSB-Zoologische Staatssammlung Muenchen
   type: value
@@ -86917,7 +86813,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH
   type: value
@@ -86930,7 +86826,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Senckenberg Museum
   type: value
@@ -86943,7 +86839,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Staatliches Museum fuer Naturkunde Karlsruhe (State Museum of Natural History)
   type: value
@@ -86956,20 +86852,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: Museum für Naturkunde Berlin (Zoological Collections)
-  type: value
-  uri: http://grbio.org/cool/8syf-d21i
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Institut und Museum fur Geologie und Palaeontologie, Universitat Tuebingen
   type: value
@@ -86982,7 +86865,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Senckenberg Museum fuer Naturkunde Goerlitz
   type: value
@@ -86995,7 +86878,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Zoologisches Museum Hamburg
   type: value
@@ -87008,7 +86891,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Jena Microbial Resource Collection
   type: value
@@ -87021,7 +86904,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Zoologisches Institut und Zoologisches Museum, Universitat Hamburg
   type: value
@@ -87034,7 +86917,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Museum of Zoology Senckenberg Dresden
   type: value
@@ -87047,7 +86930,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Institute of Virology
   type: value
@@ -87060,20 +86943,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: Musée Royal de l’Afrique Centrale
-  type: value
-  uri: http://grbio.org/cool/z14b-bb31
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Institut Royal des Sciences Naturelles de Belgique
   type: value
@@ -87086,7 +86956,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Uebersee-Museum
   type: value
@@ -87099,7 +86969,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Swedish Museum of Natural History, Entomology Collections
   type: value
@@ -87112,7 +86982,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Zoologischen Museums Greifswald
   type: value
@@ -87125,7 +86995,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Museum Wiesbaden, Department of Natural Science
   type: value
@@ -87138,7 +87008,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Martin Luther Universitaet
   type: value
@@ -87151,7 +87021,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: National Museums of Kenya
   type: value
@@ -87164,7 +87034,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: National Museum of Namibia
   type: value
@@ -87177,7 +87047,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Staatliches Naturhistorisches Museum in Braunschweig
   type: value
@@ -87190,33 +87060,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: Zoological Survey of India
-  type: value
-  uri: http://grbio.org/cool/5icv-29es
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: Zoological Museum, University of Copenhagen
-  type: value
-  uri: http://grbio.org/cool/mci8-ehqk
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Staatliches Museum fuer Tierkunde
   type: value
@@ -87229,7 +87073,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Iziko Museums of Cape Town
   type: value
@@ -87242,7 +87086,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Naturhistorisches Museum, Basel
   type: value
@@ -87255,20 +87099,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: Zoologisches Museum der Universitaet Kiel
-  type: value
-  uri: http://grbio.org/cool/jqaq-6vk8
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Sammlung des Naturkundemseum Erfurt
   type: value
@@ -87281,20 +87112,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: Universite de Strasbourg, Museum Zoologique
-  type: value
-  uri: http://grbio.org/cool/55ed-egza
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Transvaal Museum
   type: value
@@ -87307,7 +87125,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Swedish Museum of Natural History - Zoological Collections
   type: value
@@ -87320,20 +87138,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: Swedish Museum of Natural History, Entomology Collections
-  type: value
-  uri: http://grbio.org/cool/rsbi-vwmq
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: University of Gothenburg
   type: value
@@ -87346,7 +87151,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Lund University
   type: value
@@ -87359,9 +87164,9 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
-  name:
+  name: Universiteit van Amsterdam, Zoologisch Museum
   type: value
   uri: http://grbio.org/cool/a65z-wv6r
   parent_uris: []
@@ -87372,7 +87177,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Universiteit van Amsterdam, Zoologisch Museum
   type: value
@@ -87385,7 +87190,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Natuurhistorische Museum Maastricht
   type: value
@@ -87398,7 +87203,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: University Museum of Zoology, Cambridge
   type: value
@@ -87411,7 +87216,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: The Sam Noble Oklahoma State Museum of Natural History
   type: value
@@ -87424,7 +87229,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: North Carolina Museum of Natural Sciences
   type: value
@@ -87437,7 +87242,7 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Museum für Naturkunde
   type: value
