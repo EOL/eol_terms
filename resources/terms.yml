@@ -62025,7 +62025,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: rna:dna ratio
+  name: 'rna:dna ratio'
   type: measurement
   uri: http://eol.org/schema/terms/RNAtoDNAratio
   parent_uris: []
@@ -66426,7 +66426,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: shoot:root ratio (srr)
+  name: 'shoot:root ratio (srr)'
   type: measurement
   uri: http://eol.org/schema/terms/ShootRootRatio
   parent_uris: []
@@ -83706,7 +83706,7 @@ terms:
   type: value
   uri: http://marineregions.org/mrgid/2234
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   - http://www.geonames.org/878675
   units_term_uri:
   alias:
@@ -85658,7 +85658,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: decibels; 1/10th of a bel, a relative unit of amplitude or power. Commonly used in acoustics as a unit of sound pressure level, relative to the standard reference sound pressure of 20 micropascals in air or 1 micropascal in water. 
+  definition: decibels; 1/10th of a bel, a relative unit of amplitude or power. Commonly used in acoustics as a unit of sound pressure level, relative to the standard reference sound pressure of 20 micropascals in air or 1 micropascal in water.
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -85671,7 +85671,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: where activity is distributed approximately evenly throughout the 24 h of the daily cycle, or when significant amounts of activity, particularly feeding and/or traveling, occur within both the light and dark portions of that cycle. 
+  definition: where activity is distributed approximately evenly throughout the 24 h of the daily cycle, or when significant amounts of activity, particularly feeding and/or traveling, occur within both the light and dark portions of that cycle.
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -85684,7 +85684,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: '' 
+  definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
@@ -85698,7 +85698,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: An island formed of trees and shrubs that grow in saline coastal habitats in the tropics and subtropics. 
+  definition: An island formed of trees and shrubs that grow in saline coastal habitats in the tropics and subtropics.
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -85712,7 +85712,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: the ground layer of a forest or woodland where leaf litter or other plant matter accumulates. 
+  definition: the ground layer of a forest or woodland where leaf litter or other plant matter accumulates.
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -85726,7 +85726,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: a layer of plant life which grows below the canopy without penetrating it. 
+  definition: a layer of plant life which grows below the canopy without penetrating it.
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -85740,7 +85740,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: https://en.wikipedia.org/wiki/Dispersal_vector
-  definition: which agent of biological dispersal moves a dispersal unit, or organism, away from its birth population to another location or population in which the individual will reproduce. 
+  definition: which agent of biological dispersal moves a dispersal unit, or organism, away from its birth population to another location or population in which the individual will reproduce.
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -85815,7 +85815,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000249
   parent_uris:
-  synonym_of_uri: 
+  synonym_of_uri:
   - http://purl.obolibrary.org/obo/ENVO_00000856
   units_term_uri:
   alias:
@@ -85899,7 +85899,7 @@ terms:
   name: Mariana islands
   type: value
   uri: http://www.wikidata.org/entity/Q153732
-  parent_uris: 
+  parent_uris:
   synonym_of_uri:
   - https://www.wikidata.org/entity/Q153732
   units_term_uri:
@@ -85913,8 +85913,8 @@ terms:
   name: optimal growth pH
   type: measurement
   uri: http://eol.org/schema/terms/OptimalGrowthpH
-  parent_uris: 
-  synonym_of_uri: 
+  parent_uris:
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -85926,8 +85926,8 @@ terms:
   name: "mol/cell/day"
   type: value
   uri: http://eol.org/schema/terms/mol_cell-1_day-1
-  parent_uris: 
-  synonym_of_uri: 
+  parent_uris:
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: https://en.wikipedia.org/wiki/Physiology
@@ -85939,8 +85939,8 @@ terms:
   name: "physiological state"
   type: measurement
   uri: http://eol.org/schema/terms/physiologicalState
-  parent_uris: 
-  synonym_of_uri: 
+  parent_uris:
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -85952,8 +85952,8 @@ terms:
   name: "mol/m^2/s"
   type: value
   uri: http://eol.org/schema/terms/mol_m-2_s-1
-  parent_uris: 
-  synonym_of_uri: 
+  parent_uris:
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -85965,9 +85965,9 @@ terms:
   name: lentic
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000617
-  parent_uris: 
+  parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_00002030
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -85979,8 +85979,8 @@ terms:
   name: monogamous
   type: value
   uri: http://purl.obolibrary.org/obo/ECOCORE_00000063
-  parent_uris: 
-  synonym_of_uri: 
+  parent_uris:
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -85992,9 +85992,9 @@ terms:
   name: temporary aquatic
   type: value
   uri: http://eol.org/schema/terms/temporaryAquatic
-  parent_uris: 
+  parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_00002030
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86006,8 +86006,8 @@ terms:
   name: radially symmetric
   type: value
   uri: http://purl.obolibrary.org/obo/PATO_0001325
-  parent_uris: 
-  synonym_of_uri: 
+  parent_uris:
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86019,8 +86019,8 @@ terms:
   name: bilaterally symmetric
   type: value
   uri: http://purl.obolibrary.org/obo/PATO_0001324
-  parent_uris: 
-  synonym_of_uri: 
+  parent_uris:
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86032,9 +86032,9 @@ terms:
   name: protection
   type: value
   uri: https://www.wikidata.org/entity/Q2251595
-  parent_uris: 
+  parent_uris:
   - http://polytraits.lifewatchgreece.eu/terms/BP_YES
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86046,9 +86046,9 @@ terms:
   name: provisioning
   type: value
   uri: https://www.wikidata.org/entity/Q2874419
-  parent_uris: 
+  parent_uris:
   - http://polytraits.lifewatchgreece.eu/terms/BP_YES
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86060,9 +86060,9 @@ terms:
   name: polygynous
   type: value
   uri: http://purl.obolibrary.org/obo/ECOCORE_00000065
-  parent_uris: 
+  parent_uris:
   - http://purl.obolibrary.org/obo/GO_0019953
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86074,9 +86074,9 @@ terms:
   name: polyandrous
   type: value
   uri: http://purl.obolibrary.org/obo/ECOCORE_00000064
-  parent_uris: 
+  parent_uris:
   - http://purl.obolibrary.org/obo/GO_0019953
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86088,9 +86088,9 @@ terms:
   name: promiscuous
   type: value
   uri: http://purl.obolibrary.org/obo/ECOCORE_00000067
-  parent_uris: 
+  parent_uris:
   - http://purl.obolibrary.org/obo/GO_0019953
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86102,10 +86102,10 @@ terms:
   name: eusocial
   type: value
   uri: https://www.wikidata.org/entity/Q753694
-  parent_uris: 
+  parent_uris:
   - http://eol.org/schema/terms/socialGroupLiving
   - http://eol.org/schema/terms/CooperativeBreeding
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86117,9 +86117,9 @@ terms:
   name: climbing
   type: value
   uri: http://purl.obolibrary.org/obo/NBO_0000368
-  parent_uris: 
+  parent_uris:
   - http://eol.org/schema/terms/activelyMobile
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86133,7 +86133,7 @@ terms:
   uri: https://www.wikidata.org/entity/Q3331325
   parent_uris:
   - http://eol.org/schema/terms/secondaryConsumer
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86147,7 +86147,7 @@ terms:
   uri: https://www.wikidata.org/entity/Q60743215
   parent_uris:
   - http://eol.org/schema/terms/secondaryConsumer
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86159,8 +86159,8 @@ terms:
   name: lichen
   type: value
   uri: https://www.wikidata.org/entity/Q43142
-  parent_uris: 
-  synonym_of_uri: 
+  parent_uris:
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86174,7 +86174,7 @@ terms:
   uri: https://www.wikidata.org/entity/Q5113
   parent_uris:
   - https://www.wikidata.org/entity/Q19159
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86188,7 +86188,7 @@ terms:
   uri: https://www.wikidata.org/entity/Q202994
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_01000373
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86200,9 +86200,9 @@ terms:
   name: fish
   type: value
   uri: https://www.wikidata.org/entity/Q152
-  parent_uris: 
+  parent_uris:
   - http://eol.org/schema/terms/vertebrate
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86216,7 +86216,7 @@ terms:
   uri: https://www.wikidata.org/entity/Q7377
   parent_uris:
   - https://www.wikidata.org/entity/Q19159
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86230,7 +86230,7 @@ terms:
   uri: https://www.wikidata.org/entity/Q10811
   parent_uris:
   - https://www.wikidata.org/entity/Q19159
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86244,7 +86244,7 @@ terms:
   uri: https://www.wikidata.org/entity/Q47253
   parent_uris:
   - http://eol.org/schema/terms/invertebrate
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86258,7 +86258,7 @@ terms:
   uri: https://www.wikidata.org/entity/Q496
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_01000373
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86272,7 +86272,7 @@ terms:
   uri: https://www.wikidata.org/entity/Q1360
   parent_uris:
   - http://eol.org/schema/terms/invertebrate
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86286,7 +86286,7 @@ terms:
   uri: https://www.wikidata.org/entity/Q10908
   parent_uris:
   - https://www.wikidata.org/entity/Q19159
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86299,7 +86299,7 @@ terms:
   type: value
   uri: http://rs.tdwg.org/ontology/voc/TaxonName#Isotype
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86312,7 +86312,7 @@ terms:
   type: metadata
   uri: http://rs.tdwg.org/dwc/terms/collectionCode
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86325,7 +86325,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:34988
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86338,7 +86338,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15111
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86351,7 +86351,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:12884
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86364,7 +86364,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15519
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86377,7 +86377,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15142
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86390,7 +86390,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:14074
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86403,7 +86403,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15852
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86416,7 +86416,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15582
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86429,7 +86429,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15668
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86442,7 +86442,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15542
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86455,7 +86455,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:34838
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86468,7 +86468,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:34613
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86481,7 +86481,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15534
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86494,7 +86494,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:34840
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86507,7 +86507,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15291
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86516,11 +86516,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: Senckenberg Gesellschaft für Naturforschung: Senckenberg Forschungsinstitut und Naturmuseum
+  name: 'Senckenberg Gesellschaft für Naturforschung: Senckenberg Forschungsinstitut und Naturmuseum'
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15465
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86533,7 +86533,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:13860
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86546,7 +86546,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:33211
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86559,7 +86559,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15512
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86572,7 +86572,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15749
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86585,7 +86585,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:34988
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86594,11 +86594,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: Senckenberg Gesellschaft für Naturforschung: Senckenberg Museum für Naturkunde Görlitz
-  type: value
+  name: 'Senckenberg Gesellschaft für Naturforschung: Senckenberg Museum für Naturkunde Görlitz
+  type: value'
   uri: http://biocol.org/urn:lsid:biocol.org:col:14113
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86611,7 +86611,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:14903
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86624,7 +86624,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:34665
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86637,7 +86637,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15866
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86650,7 +86650,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15087
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86663,7 +86663,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:33445
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86676,7 +86676,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:13627
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86689,7 +86689,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:34784
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86702,7 +86702,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15517
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86715,7 +86715,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:33791
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86728,7 +86728,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:14289
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86741,7 +86741,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:34248
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86754,7 +86754,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15588
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86767,7 +86767,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15819
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86780,7 +86780,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:34992
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86793,7 +86793,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:13261
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86806,7 +86806,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15528
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86819,7 +86819,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15867
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86832,7 +86832,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15670
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86845,7 +86845,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:33791
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86858,7 +86858,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:34880
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86871,7 +86871,7 @@ terms:
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:15676
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86884,7 +86884,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/55ed-egza
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86897,7 +86897,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/8vvf-1hz8
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86910,7 +86910,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/4b7r-7sec
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86923,7 +86923,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/szd3-24en
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86936,7 +86936,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/xn2j-yt1q
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86949,7 +86949,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/tc3a-fmpc
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86962,7 +86962,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/8syf-d21i
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86975,7 +86975,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/b26r-wc8g
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -86988,7 +86988,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/b2rf-iikk
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87001,7 +87001,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/kdnf-0379
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87014,7 +87014,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/68v4-h0g2
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87027,7 +87027,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/82c5-17ij
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87040,7 +87040,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/4j3t-w40g
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87053,7 +87053,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/9v03-q2ss
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87066,7 +87066,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/z14b-bb31
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87079,7 +87079,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/wzbt-fxwr
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87092,7 +87092,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/9tx7-8fc2
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87105,7 +87105,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/rsbi-vwmq
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87118,7 +87118,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/gs4h-1fee
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87131,7 +87131,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/zw2m-hsji
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87144,7 +87144,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/pvva-bewi
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87157,7 +87157,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/h6fg-emd8
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87170,7 +87170,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/y6s1-e7mm
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87183,7 +87183,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/8k5c-712s
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87196,7 +87196,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/5icv-29es
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87209,7 +87209,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/mci8-ehqk
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87222,7 +87222,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/857x-bdj2
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87235,7 +87235,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/94p5-pepz
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87248,7 +87248,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/1d5a-4efs
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87261,7 +87261,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/jqaq-6vk8
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87274,7 +87274,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/87iw-xebj
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87287,7 +87287,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/55ed-egza
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87300,7 +87300,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/s8gp-ktsi
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87313,7 +87313,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/4m0z-xq14
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87326,7 +87326,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/rsbi-vwmq
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87339,7 +87339,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/k8xg-58r8
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87352,7 +87352,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/8mvb-q2p1
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87361,11 +87361,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: 
+  name:
   type: value
   uri: http://grbio.org/cool/a65z-wv6r
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87378,7 +87378,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/jyde-k516
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87391,7 +87391,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/6t80-4rpg
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87404,7 +87404,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/2td2-qsp1
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87417,7 +87417,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/nb4j-77jf
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87430,7 +87430,7 @@ terms:
   type: value
   uri: http://grbio.org/cool/aasf-rm4s
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
@@ -87443,6 +87443,6 @@ terms:
   type: value
   uri: http://grbio.org/cool/jp8y-i5nv
   parent_uris: []
-  synonym_of_uri: 
+  synonym_of_uri:
   units_term_uri:
   alias:
