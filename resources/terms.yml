@@ -87251,3 +87251,17 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: ''
+  definition: A free-swimming larva of a scyphozoan jellyfish formed by transverse fission of a scyphistoma and growing into a medusa.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: ephyra
+  type: value
+  uri: http://purl.obolibrary.org/obo/BTO_0006391
+  parent_uris: 
+  - http://purl.obolibrary.org/obo/PATO_0001185
+  synonym_of_uri:
+  units_term_uri:
+  alias:
