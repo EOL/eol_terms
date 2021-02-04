@@ -87265,3 +87265,42 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: 'Arai M.N. (2008) The potential importance of podocysts to the formation of scyphozoan blooms: a review. In: Pitt K.A., Purcell J.E. (eds) Jellyfish Blooms: Causes, Consequences, and Recent Advances. Developments in Hydrobiology, vol 206. Springer, Dordrecht. https://doi.org/10.1007/978-1-4020-9749-2_16'
+  definition: 'cysts with stored reserves of organic compounds produced beneath the pedal discs of polyps of scyphozoans in the orders Rhizostomae (suborder Dactyliophorae) and Semaeostomae. They excyst small polyps that develop into fully active polyps (scyphistomae) capable of further podocyst production and of medusa production by strobilation.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: podocyst
+  type: value
+  uri: http://eol.org/schema/terms/podocyst
+  parent_uris: 
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: 'H. Rietema. 1982. Effects of Photoperiod and Temperature on Macrothallus Initiation in Dumontia contorta (Rhodophyta). Marine Ecology Progress Series, Vol. 8, No. 2 (May 7 1982), pp. 187-196. Stable URL: https://www.jstor.org/stable/24814664'
+  definition: a crustose disc, grown from a spore that can be produced by either the gametophytic phase or the sporophytic phase of a plant.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: microthallus
+  type: value
+  uri: http://eol.org/schema/terms/microthallus
+  parent_uris: 
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: 'H. Rietema. 1982. Effects of Photoperiod and Temperature on Macrothallus Initiation in Dumontia contorta (Rhodophyta). Marine Ecology Progress Series, Vol. 8, No. 2 (May 7 1982), pp. 187-196. Stable URL: https://www.jstor.org/stable/24814664'
+  definition: a tubular, branched, erect thallus that grows from a microthallus under short-day conditions and low temperatures.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: macrothallus
+  type: value
+  uri: http://eol.org/schema/terms/macrothallus
+  parent_uris: 
+  synonym_of_uri:
+  units_term_uri:
+  alias:
