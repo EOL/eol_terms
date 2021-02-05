@@ -8327,3 +8327,24 @@ uri_ids:
   http://rs.tdwg.org/ontology/voc/taxonname#isolectotype: 8320
   http://rs.tdwg.org/ontology/voc/taxonname#isosyntype: 8321
   http://eol.org/schema/terms/eudoxid: 8322
+  http://eol.org/schema/terms/originalmaterial: 8323
+  http://rs.tdwg.org/ontology/voc/taxonname#isoneotype: 8324
+  http://rs.tdwg.org/ontology/voc/taxonname#epitype: 8325
+  http://eol.org/schema/terms/museumofforestrylycksele: 8326
+  http://eol.org/schema/terms/collection_agarai: 8327
+  http://eol.org/schema/terms/collection_fwillemse: 8328
+  http://eol.org/schema/terms/collection_ghschmidt: 8329
+  http://eol.org/schema/terms/collection_heller: 8330
+  http://eol.org/schema/terms/collection_singrisch: 8331
+  http://eol.org/schema/terms/entomological_museum_department_of_agriculture_bangkok_thailand: 8332
+  http://eol.org/schema/terms/exepitype: 8333
+  http://eol.org/schema/terms/exholotype: 8334
+  http://eol.org/schema/terms/exparatype: 8335
+  http://eol.org/schema/terms/extype: 8336
+  http://eol.org/schema/terms/king_abdulaziz_university: 8337
+  http://eol.org/schema/terms/löbbecke_museum_düsseldorf: 8338
+  http://eol.org/schema/terms/mus_rothschild: 8339
+  http://eol.org/schema/terms/muséum_d'histoire_naturelle_de_la_ville_de_genève: 8340
+  http://eol.org/schema/terms/zoological_museum_helsinki: 8341
+  http://rs.tdwg.org/ontology/voc/taxonname#paraneotype: 8342
+  http://rs.tdwg.org/ontology/voc/taxonname#plastoneotype: 8343
