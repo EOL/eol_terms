@@ -87330,3 +87330,16 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: 'Mary M. Grossmann, Allen G. Collins & Dhugal J. Lindsay (2014) Description of the eudoxid stages of Lensia havock and Lensia leloupi (Cnidaria: Siphonophora: Calycophorae), with a review of all known Lensia eudoxid bracts, Systematics and Biodiversity, 12:2, 163-180, DOI: 10.1080/14772000.2014.902867'
+  definition: 'a free-living sexual unit, released as a cormidia from the end of the polygastric colony of a siphonophore'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: eudoxid
+  type: value
+  uri: http://eol.org/schema/terms/eudoxid
+  parent_uris: 
+  synonym_of_uri:
+  units_term_uri:
+  alias:
