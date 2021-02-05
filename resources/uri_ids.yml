@@ -8320,3 +8320,10 @@ uri_ids:
   http://grbio.org/cool/nb4j-77jf: 8313
   http://grbio.org/cool/aasf-rm4s: 8314
   http://grbio.org/cool/jp8y-i5nv: 8315
+  http://purl.obolibrary.org/obo/bto_0006391: 8316
+  http://eol.org/schema/terms/podocyst: 8317
+  http://eol.org/schema/terms/microthallus: 8318
+  http://eol.org/schema/terms/macrothallus: 8319
+  http://rs.tdwg.org/ontology/voc/taxonname#isolectotype: 8320
+  http://rs.tdwg.org/ontology/voc/taxonname#isosyntype: 8321
+  http://eol.org/schema/terms/eudoxid: 8322
