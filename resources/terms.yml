@@ -87395,3 +87395,224 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: A. Garai collection
+  type: value
+  uri: http://eol.org/schema/terms/collection_AGarai
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: F. Willemse collection
+  type: value
+  uri: http://eol.org/schema/terms/collection_Fwillemse
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: G. H. Schmidt collection
+  type: value
+  uri: http://eol.org/schema/terms/collection_GHSchmidt
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: Heller collection
+  type: value
+  uri: http://eol.org/schema/terms/collection_Heller
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: Singrisch collection
+  type: value
+  uri: http://eol.org/schema/terms/collection_Singrisch
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: Entomological Museum Department of Agriculture Bangkok Thailand
+  type: value
+  uri: http://eol.org/schema/terms/Entomological_Museum_Department_of_Agriculture_Bangkok_Thailand
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A strain or cultivation derived from epitype material. Ex-types are not regulated by the botanical or zoological code.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: ex-epitype
+  type: value
+  uri: http://eol.org/schema/terms/exepitype
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A strain or cultivation derived from holotype material. Ex-types are not regulated by the botanical or zoological code.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: ex-holotype
+  type: value
+  uri: http://eol.org/schema/terms/exholotype
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A strain or cultivation derived from paratype material. Ex-types are not regulated by the botanical or zoological code.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: ex-paratype
+  type: value
+  uri: http://eol.org/schema/terms/exparatype
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A strain or cultivation derived from some kind of type material. Ex-types are not regulated by the botanical or zoological code.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: ex-type
+  type: value
+  uri: http://eol.org/schema/terms/extype
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: 'https://www.kau.edu.sa/'
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: King Abdulaziz University
+  type: value
+  uri: http://eol.org/schema/terms/King_Abdulaziz_University
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: Löbbecke Museum Düsseldorf
+  type: value
+  uri: http://eol.org/schema/terms/Löbbecke_Museum_Düsseldorf
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: Museum Rothschild
+  type: value
+  uri: http://eol.org/schema/terms/Mus_Rothschild
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: 'http://institutions.ville-geneve.ch/fr/mhn/'
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: Muséum d'histoire naturelle de la Ville de Genève
+  type: value
+  uri: http://eol.org/schema/terms/Muséum_d'histoire_naturelle_de_la_Ville_de_Genève
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: Zoological Museum Helsinki
+  type: value
+  uri: http://eol.org/schema/terms/Zoological_Museum_Helsinki
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: All of the specimens in the syntype series of a species or infraspecific taxon other than the neotype itself
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: paraneotype
+  type: value
+  uri: http://rs.tdwg.org/ontology/voc/TaxonName#Paraneotype
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A copy or cast of neotype material
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: plastoneotype
+  type: value
+  uri: http://rs.tdwg.org/ontology/voc/TaxonName#Plastoneotype
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
