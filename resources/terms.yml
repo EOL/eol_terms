@@ -87317,3 +87317,16 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: ''
+  definition: A duplicate of a syntype
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: isolectotype
+  type: value
+  uri: http://rs.tdwg.org/ontology/voc/TaxonName#Isosyntype
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
