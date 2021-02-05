@@ -87323,7 +87323,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: isolectotype
+  name: isosyntype
   type: value
   uri: http://rs.tdwg.org/ontology/voc/TaxonName#Isosyntype
   parent_uris: []
@@ -87349,9 +87349,48 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: isolectotype
+  name: original material
   type: value
   uri: http://eol.org/schema/terms/originalMaterial
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A duplicate of a neotype
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: isoneotype
+  type: value
+  uri: http://rs.tdwg.org/ontology/voc/TaxonName#Isoneotype
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: a specimen or illustration selected to serve as an interpretative type when any kind of holotype, lectotype, etc. is demonstrably ambiguous and cannot be critically identified for purposes of the precise application of the name of a taxon
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: epitype
+  type: value
+  uri: http://rs.tdwg.org/ontology/voc/TaxonName#Epitype
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: 'https://www.skogsmuseet.se/'
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: Museum Of Forestry Lycksele
+  type: value
+  uri: http://eol.org/schema/terms/MuseumOfForestryLycksele
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
