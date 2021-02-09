@@ -8348,3 +8348,6 @@ uri_ids:
   http://eol.org/schema/terms/zoological_museum_helsinki: 8341
   http://rs.tdwg.org/ontology/voc/taxonname#paraneotype: 8342
   http://rs.tdwg.org/ontology/voc/taxonname#plastoneotype: 8343
+  http://eol.org/schema/terms/isoparatype: 8344
+  http://eol.org/schema/terms/prototype: 8345
+  http://purl.obolibrary.org/obo/po_0007016: 8346
