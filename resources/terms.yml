@@ -87260,7 +87260,7 @@ terms:
   name: ephyra
   type: value
   uri: http://purl.obolibrary.org/obo/BTO_0006391
-  parent_uris: 
+  parent_uris:
   - http://purl.obolibrary.org/obo/PATO_0001185
   synonym_of_uri:
   units_term_uri:
@@ -87274,7 +87274,7 @@ terms:
   name: podocyst
   type: value
   uri: http://eol.org/schema/terms/podocyst
-  parent_uris: 
+  parent_uris:
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -87287,7 +87287,7 @@ terms:
   name: microthallus
   type: value
   uri: http://eol.org/schema/terms/microthallus
-  parent_uris: 
+  parent_uris:
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -87300,7 +87300,7 @@ terms:
   name: macrothallus
   type: value
   uri: http://eol.org/schema/terms/macrothallus
-  parent_uris: 
+  parent_uris:
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -87339,7 +87339,7 @@ terms:
   name: eudoxid
   type: value
   uri: http://eol.org/schema/terms/eudoxid
-  parent_uris: 
+  parent_uris:
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -88176,7 +88176,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: A parasite lifecycle stage that is the early developmental stage capable of asexual reproduction: in sporozoans it is usually enclosed within an oocyst; in digeneans it is an intramolluscan stage lacking a gut.
+  definition: 'A parasite lifecycle stage that is the early developmental stage capable of asexual reproduction: in sporozoans it is usually enclosed within an oocyst; in digeneans it is an intramolluscan stage lacking a gut.'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -88301,7 +88301,7 @@ terms:
   is_text_only: false
   name: cysticercus stage
   type: value
-  uri: http://purl.obolibrary.org/obo/UBERON_0014856 
+  uri: http://purl.obolibrary.org/obo/UBERON_0014856
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
