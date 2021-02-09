@@ -34851,7 +34851,7 @@ terms:
   is_hidden_from_glossary: true
   is_text_only: false
   name: inherited from
-  type: metadata
+  type: value
   uri: https://eol.org/schema/terms/starts_at
   parent_uris: []
   synonym_of_uri:
@@ -70702,12 +70702,12 @@ terms:
   is_hidden_from_glossary: true
   is_text_only: false
   name: stops at
-  type: metadata
+  type: value
   uri: https://eol.org/schema/terms/stops_at
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias: stops_at
+  alias:
 - attribution: http://www.uv.es/jgpausas/brot.htm
   definition: non-woody storage organs, normally modified stems as bulbs, corms or tubers
   is_hidden_from_select: false
