@@ -34851,7 +34851,7 @@ terms:
   is_hidden_from_glossary: true
   is_text_only: false
   name: inherited from
-  type: value
+  type: metadata
   uri: https://eol.org/schema/terms/starts_at
   parent_uris: []
   synonym_of_uri:
@@ -70702,7 +70702,7 @@ terms:
   is_hidden_from_glossary: true
   is_text_only: false
   name: stops at
-  type: value
+  type: metadata
   uri: https://eol.org/schema/terms/stops_at
   parent_uris: []
   synonym_of_uri:
