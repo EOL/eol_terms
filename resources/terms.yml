@@ -12976,7 +12976,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  is_text_only: true
+  is_text_only: false
   name: cell length
   type: measurement
   uri: http://eol.org/schema/terms/CellLength
@@ -13171,7 +13171,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  is_text_only: true
+  is_text_only: false
   name: cell width
   type: measurement
   uri: http://eol.org/schema/terms/CellWidth
@@ -15047,7 +15047,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
-  is_text_only: true
+  is_text_only: false
   name: chloroplast number
   type: measurement
   uri: http://eol.org/schema/terms/ChloroplastNumber
@@ -15392,7 +15392,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  is_text_only: true
+  is_text_only: false
   name: cingulum width
   type: measurement
   uri: http://eol.org/schema/terms/CingulumWidth
@@ -16577,7 +16577,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
-  is_text_only: true
+  is_text_only: false
   name: composition
   type: measurement
   uri: http://purl.obolibrary.org/obo/PATO_0000025
@@ -23343,7 +23343,7 @@ terms:
   is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  is_text_only: true
+  is_text_only: false
   name: egg diameter
   type: measurement
   uri: http://eol.org/schema/terms/OvaDiameter
@@ -23659,7 +23659,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  is_text_only: true
+  is_text_only: false
   name: elevation
   type: metadata
   uri: http://rs.tdwg.org/dwc/terms/verbatimElevation
@@ -24262,7 +24262,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  is_text_only: true
+  is_text_only: false
   name: epicone length
   type: measurement
   uri: http://purl.obolibrary.org/obo/OBA_1000126
@@ -27216,7 +27216,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  is_text_only: true
+  is_text_only: false
   name: fork length
   type: measurement
   uri: http://eol.org/schema/terms/ForkLength
@@ -33870,7 +33870,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  is_text_only: true
+  is_text_only: false
   name: hypocone length
   type: measurement
   uri: http://purl.obolibrary.org/obo/OBA_1000127
@@ -46439,7 +46439,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  is_text_only: true
+  is_text_only: false
   name: Mongolia
   type: value
   uri: https://www.geonames.org/2029969
@@ -52365,7 +52365,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  is_text_only: true
+  is_text_only: false
   name: nucleus length
   type: measurement
   uri: http://purl.obolibrary.org/obo/OBA_1000083
@@ -52406,7 +52406,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  is_text_only: true
+  is_text_only: false
   name: nucleus width
   type: measurement
   uri: http://purl.obolibrary.org/obo/OBA_1000085
@@ -59127,7 +59127,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
-  is_text_only: true
+  is_text_only: false
   name: precambrian supereon
   type: value
   uri: http://resource.geosciml.org/classifier/ics/ischart/Precambrian
@@ -59791,7 +59791,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  is_text_only: true
+  is_text_only: false
   name: proterozoic eon
   type: value
   uri: http://resource.geosciml.org/classifier/ics/ischart/Proterozoic
@@ -71772,7 +71772,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  is_text_only: true
+  is_text_only: false
   name: sulcus width
   type: measurement
   uri: http://purl.obolibrary.org/obo/OBA_1000098
@@ -87651,6 +87651,722 @@ terms:
   name: flowering
   type: value
   uri: http://purl.obolibrary.org/obo/PO_0007016
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+  - attribution: 'http://www.merriam-webstercollegiate.com/dictionary/adolescarial'
+  definition: late larval trematode or a developing trematode not yet attained sexual maturity
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: adolescaria
+  type: value
+  uri: http://eol.org/schema/terms/adolescaria
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: adult and juvenile individuals are present
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: adult and juvenile
+  type: value
+  uri: http://eol.org/schema/terms/adultAndJuvenile
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: adult and larval individuals are present
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: adult and larva
+  type: value
+  uri: http://eol.org/schema/terms/adultAndLarva
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: adult and nymph stage individuals are present
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: adult and nymph
+  type: value
+  uri: http://eol.org/schema/terms/adultAndNymph
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: adult and pupal stage individuals are present
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: adult and pupa
+  type: value
+  uri: http://eol.org/schema/terms/adultAndPupa
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: adult and subadult individuals are present
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: adult and subadult
+  type: value
+  uri: http://eol.org/schema/terms/adultAndSubadult
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'having some features of a winged (alate) adult aphid. For example immature winged forms with wing buds'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: alatoid nymph
+  type: value
+  uri: http://eol.org/schema/terms/alatoidNymph
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: nymph lacking wings. Apterous aphids may be immature or adult, but (confusingly) the term apterae can also refer to wingless adults
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: apterous nymph
+  type: value
+  uri: http://eol.org/schema/terms/apterousNymph
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: a young bird that leaves the nest soon after hatching and typically walks or hops near its family group until it is able to fly
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: chick
+  type: value
+  uri: http://eol.org/schema/terms/chick
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: 'http://en.wikipedia.org/wiki/Copepodid#Copepoda'
+  definition: 'post-naupliar life stage of a copepod. All copepodid stages are characterised by two pairs of unsegmented swimming appendages, and an unsegmented "hind-body" comprising the thorax and the abdomen.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: copepodid
+  type: value
+  uri: http://eol.org/schema/terms/copepodid
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'carpellate or pistillate; having only functional carpels'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: female flowers
+  type: value
+  uri: http://eol.org/schema/terms/femaleFlowers
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: flowering and fruiting
+  type: value
+  uri: http://eol.org/schema/terms/floweringAndFruiting
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: immature and ovigerous individuals are present
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: immature and ovigerous
+  type: value
+  uri: http://eol.org/schema/terms/immatureAndOvigerous
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: in bud
+  type: value
+  uri: http://eol.org/schema/terms/in_bud
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: juvenile and ovigerous individuals are present
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: juvenile and ovigerous
+  type: value
+  uri: http://eol.org/schema/terms/juvenileAndOvigerous
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: larvae and pupae are present
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: larva and pupa
+  type: value
+  uri: http://eol.org/schema/terms/larvaAndPupa
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: male and hermaphroditic individuals are present
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: male and hermaphrodite
+  type: value
+  uri: http://eol.org/schema/terms/maleAndHermaphrodite
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: male female and hermaphroditic individuals are present
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: male female and hermaphrodite
+  type: value
+  uri: http://eol.org/schema/terms/maleFemaleAndHermaphrodite
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'staminate; having only functional stamens'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: male flowers
+  type: value
+  uri: http://eol.org/schema/terms/maleFlowers
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: 'https://en.wikipedia.org/wiki/Manca'
+  definition: post-larval juvenile in some crustaceans
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: manca
+  type: value
+  uri: http://eol.org/schema/terms/manca
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: marita
+  type: value
+  uri: http://eol.org/schema/terms/marita
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: metamorph
+  type: value
+  uri: http://eol.org/schema/terms/metamorph
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: a ciliated nonfeeding trematode larva
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: miracidium
+  type: value
+  uri: http://eol.org/schema/terms/miracidium
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: morphotype
+  type: value
+  uri: http://eol.org/schema/terms/morphotype
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: non-breeding
+  type: value
+  uri: http://eol.org/schema/terms/nonBreeding
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: a unisexual trematode lifestage in an intermediate host
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: parthenita
+  type: value
+  uri: http://eol.org/schema/terms/parthenita
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'the  last larval form, the infective form, found in the second intermediate host of many Cestoda with aquatic life cycles'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: plerocercoid
+  type: value
+  uri: http://eol.org/schema/terms/plerocercoid
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'the fully developed metacestode stage of a trypanorhynch; a juvenile scolex surrounded by a bladder-like structure'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: plerocercus
+  type: value
+  uri: http://eol.org/schema/terms/plerocercus
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: postmetamorph
+  type: value
+  uri: http://eol.org/schema/terms/postmetamorph
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: a replete, haematophagous larval stage of a Gnathiid isopod
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: praniza
+  type: value
+  uri: http://eol.org/schema/terms/praniza
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'a larval form of a digenetic trematode that is produced within a sporocyst, has a mouth, pharynx, and gut'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: redia
+  type: value
+  uri: http://eol.org/schema/terms/redia
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'an infective tapeworm larva. When the first intermediate host of a tapeworm is eaten by the vertebrate second intermediate host, the larva develops into a tetrathyridium in the peritoneal cavity or in viscera.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: tetrathyridium
+  type: value
+  uri: http://eol.org/schema/terms/tetrathyridium
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: Multinucleate mass of protoplasm bounded only by a plasma membrane; the main vegetative form of acellular slime moulds.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: plasmodium
+  type: value
+  uri: http://purl.obolibrary.org/obo/BTO_0000757
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Any of various immature insects; especially: a larva of an insect (as a grasshopper, true bug, or mayfly) with incomplete metamorphosis that differs from the imago especially in size and in its incompletely developed wings and genitalia.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: nymph
+  type: value
+  uri: http://purl.obolibrary.org/obo/BTO_0000954
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A primitive usually unicellular often environmentally resistant dormant or reproductive body produced by plants and some microorganisms and capable of development into a new individual either directly or after fusion with another spore.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: spore
+  type: value
+  uri: http://purl.obolibrary.org/obo/BTO_0001171
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A sporozoan zygote undergoing sporogenous development.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: sporulated oocyst
+  type: value
+  uri: http://purl.obolibrary.org/obo/BTO_0001293
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: Oval, quickly multiplying trophozoite of Toxoplasma gondii, found in all tissues except non-nucleated erythrocytes during the acute stage of toxoplasmosis.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: tachyzoite
+  type: value
+  uri: http://purl.obolibrary.org/obo/BTO_0001346
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: Zygote, specifically a sporozoan zygote undergoing sporogenous development.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: oocyst
+  type: value
+  uri: http://purl.obolibrary.org/obo/BTO_0001773
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: The prelarval stage of filarioidea in the blood and other tissues of mammals and birds. They are removed from these hosts by blood-sucking insects in which they metamorphose into mature larvae.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: microfilarial stage
+  type: value
+  uri: http://purl.obolibrary.org/obo/BTO_0003670
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A usually tadpole-shaped larval trematode worm that develops in a molluscan host from a redia.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: cercaria
+  type: value
+  uri: http://purl.obolibrary.org/obo/BTO_0005513
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A parasite lifecycle stage that is the early developmental stage capable of asexual reproduction: in sporozoans it is usually enclosed within an oocyst; in digeneans it is an intramolluscan stage lacking a gut.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: sporocyst stage
+  type: value
+  uri: http://purl.obolibrary.org/obo/OPL_0000098
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: being capable of initiating, sustaining, or supporting reproduction.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: fertile
+  type: value
+  uri: http://purl.obolibrary.org/obo/PATO_0000955
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A biological sex quality inhering in an organism or a population with both male and female sexual organs in one individual.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: hermaphrodite
+  type: value
+  uri: http://purl.obolibrary.org/obo/PATO_0001340
+  parent_uris: []
+  synonym_of_uri:
+  - http://purl.obolibrary.org/obo/UBERON_0007197
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: forming the end of another entity
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: terminal
+  type: value
+  uri: http://purl.obolibrary.org/obo/PATO_0002476
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: The early stage in fruit ripening
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: early fruit ripening stage
+  type: value
+  uri: http://purl.obolibrary.org/obo/PO_0007001
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: The stage at which fruit ripening is complete
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: fruit ripening complete stage
+  type: value
+  uri: http://purl.obolibrary.org/obo/PO_0007038
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'A flower development stage that begins when pollen is released by anther dehiscence and/or the stigma is receptive and ends with the process of pollination and/or floral organ senescence'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: flowering stage
+  type: value
+  uri: http://purl.obolibrary.org/obo/PO_0007616
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'A sporophyte reproductive stage that begins when a fruit on a whole plant that is not currently participating in a whole plant fruit development stage begins a fruit initiation stage, and ends with the earliest of the following: (1) the whole plant begins a sporophyte senescent stage, (2) the whole plant begins a sporophyte dormant stage, or (3) all fruits on the whole plant are finished ripening.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: fruit development stage
+  type: value
+  uri: http://purl.obolibrary.org/obo/PO_0025500
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A life cycle stage of holometabolous insects in which the organism is a pupa and starts with the larval-pupal apolysis and ends with pupal-adult apolysis
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: pupa
+  type: value
+  uri: http://purl.obolibrary.org/obo/UBERON_0003143
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: The larval form of any of the Taenia tapeworms
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: cysticercus stage
+  type: value
+  uri: http://purl.obolibrary.org/obo/UBERON_0014856 
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: The crustacean post-larval stage of a crab
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: megalopa stage
+  type: value
+  uri: http://purl.obolibrary.org/obo/UBERON_0014859
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'An infectious life-cycle stage, which can infect by direct skin penetration (e.g. Schistosoma sp.) or ingestion (e.g. Fasciola sp.). Cercariae develop in and emerge from the intermediate invertebrate (snail) host.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: cercarium
+  type: value
+  uri: http://purl.obolibrary.org/obo/WBls_0000708
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: The larval stages of a tapeworm, beginning with the metamorphosis of the oncosphere and ending with the first evidence of sexuality in the adult worm.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: metacestode
+  type: value
+  uri: http://purl.obolibrary.org/obo/WBls_0000716
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'A dormant Digenean (fluke) life stage which occurs after cercariae are released from the intermediate snail host and encyst on vegetation until they are ingested by the definitive host.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: metacercarium
+  type: value
+  uri: http://purl.obolibrary.org/obo/WBls_0000720
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: remains of an exoskeleton left after an ecdysozoan has moulted
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: exuviae
+  type: value
+  uri: http://wikidata.org/entity/Q776682
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
