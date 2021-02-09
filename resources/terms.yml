@@ -87642,3 +87642,16 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: ''
+  definition: A sporophyte reproductive stage during which a flower on a whole plant is open
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: flowering
+  type: value
+  uri: http://purl.obolibrary.org/obo/PO_0007016
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
