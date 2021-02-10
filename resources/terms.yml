@@ -70707,7 +70707,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: stops_at
 - attribution: http://www.uv.es/jgpausas/brot.htm
   definition: non-woody storage organs, normally modified stems as bulbs, corms or tubers
   is_hidden_from_select: false
