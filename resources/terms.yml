@@ -88452,6 +88452,19 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
+  definition: 'S. Y. Emmert, collector for http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: S. Y. Emmert
+  type: value
+  uri:  http://eol.org/schema/terms/S_Y_Emmert
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
   definition: 'T. Omtzigt, collector for http://www.akentsoc.org/the_fauna/checklist'
   is_hidden_from_select: true
   is_hidden_from_overview: false
@@ -88595,14 +88608,14 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'D. S. Sikes, A. B. , N. K. Sikes, collector for http://www.akentsoc.org/the_fauna/checklist'
+  definition: 'N. K. Sikes, collector for http://www.akentsoc.org/the_fauna/checklist'
   is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: D. S. Sikes, A. B. , N. K. Sikes
+  name: N. K. Sikes
   type: value
-  uri:  http://eol.org/schema/terms/D_S_Sikes,_A_B_,_N_K_Sikes
+  uri:  http://eol.org/schema/terms/N_K_Sikes
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
@@ -88699,14 +88712,14 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'J. M. Campbell, A. Smetana, collector for http://www.akentsoc.org/the_fauna/checklist'
+  definition: 'J. M. Campbell, collector for http://www.akentsoc.org/the_fauna/checklist'
   is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: J. M. Campbell, A. Smetana
+  name: J. M. Campbell
   type: value
-  uri:  http://eol.org/schema/terms/J_M_Campbell,_A_Smetana
+  uri:  http://eol.org/schema/terms/J_M_Campbell
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
@@ -88725,14 +88738,14 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'A. M. Hagerty, S. Y. Emmert, collector for http://www.akentsoc.org/the_fauna/checklist'
+  definition: 'A. M. Hagerty, collector for http://www.akentsoc.org/the_fauna/checklist'
   is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: A. M. Hagerty, S. Y. Emmert
+  name: A. M. Hagerty
   type: value
-  uri:  http://eol.org/schema/terms/A_M_Hagerty,_S_Y_Emmert
+  uri:  http://eol.org/schema/terms/A_M_Hagerty
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
@@ -88868,14 +88881,14 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'Eric Sieh, Derek S. Sikes, collector for http://www.akentsoc.org/the_fauna/checklist'
+  definition: 'Eric Sieh, collector for http://www.akentsoc.org/the_fauna/checklist'
   is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Eric Sieh, Derek S. Sikes
+  name: Eric Sieh
   type: value
-  uri:  http://eol.org/schema/terms/Eric_Sieh,_Derek_S_Sikes
+  uri:  http://eol.org/schema/terms/Eric_Sieh
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
@@ -89167,14 +89180,14 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'A. Smetana, J. M. Campbell, collector for http://www.akentsoc.org/the_fauna/checklist'
+  definition: 'A. Smetana, collector for http://www.akentsoc.org/the_fauna/checklist'
   is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: A. Smetana, J. M. Campbell
+  name: A. Smetana
   type: value
-  uri:  http://eol.org/schema/terms/A_Smetana,_J_M_Campbell
+  uri:  http://eol.org/schema/terms/A_Smetana
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
