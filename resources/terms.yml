@@ -105583,3 +105583,449 @@ terms:
   name: Zdenek Fric
   type: value
   uri: http://eol.org/schema/terms/Zdenek_Fric
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'A Banner, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: A Banner
+  type: value
+  uri: http://eol.org/schema/terms/A_Banner
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'B Meades, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: B Meades
+  type: value
+  uri: http://eol.org/schema/terms/B_Meades
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'C Cadrin, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: C Cadrin
+  type: value
+  uri: http://eol.org/schema/terms/C_Cadrin
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'C Chappell, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: C Chappell
+  type: value
+  uri: http://eol.org/schema/terms/C_Chappell
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'C Kennedy, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: C Kennedy
+  type: value
+  uri: http://eol.org/schema/terms/C_Kennedy
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'C McCain, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: C McCain
+  type: value
+  uri: http://eol.org/schema/terms/C_McCain
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'C Morneau, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: C Morneau
+  type: value
+  uri: http://eol.org/schema/terms/C_Morneau
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'D Meidinger, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: D Meidinger
+  type: value
+  uri: http://eol.org/schema/terms/D_Meidinger
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'G Cushon, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: G Cushon
+  type: value
+  uri: http://eol.org/schema/terms/G_Cushon
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'G Kittel, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: G Kittel
+  type: value
+  uri: http://eol.org/schema/terms/G_Kittel
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'J Archibald, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: J Archibald
+  type: value
+  uri: http://eol.org/schema/terms/J_Archibald
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'J Kagan, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: J Kagan
+  type: value
+  uri: http://eol.org/schema/terms/J_Kagan
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'J Moran, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: J Moran
+  type: value
+  uri: http://eol.org/schema/terms/J_Moran
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'J Pojar, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: J Pojar
+  type: value
+  uri: http://eol.org/schema/terms/J_Pojar
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'K Baldwin, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: K Baldwin
+  type: value
+  uri: http://eol.org/schema/terms/K_Baldwin
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'K Boggs, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: K Boggs
+  type: value
+  uri: http://eol.org/schema/terms/K_Boggs
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'K Chapman, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: K Chapman
+  type: value
+  uri: http://eol.org/schema/terms/K_Chapman
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'K Klinka, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: K Klinka
+  type: value
+  uri: http://eol.org/schema/terms/K_Klinka
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'K McKenna, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: K McKenna
+  type: value
+  uri: http://eol.org/schema/terms/K_McKenna
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'L Allen, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: L Allen
+  type: value
+  uri: http://eol.org/schema/terms/L_Allen
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'M Major, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: M Major
+  type: value
+  uri: http://eol.org/schema/terms/M_Major
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'M McLaughlan, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: M McLaughlan
+  type: value
+  uri: http://eol.org/schema/terms/M_McLaughlan
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'M Wester, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: M Wester
+  type: value
+  uri: http://eol.org/schema/terms/M_Wester
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'N Flynn, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: N Flynn
+  type: value
+  uri: http://eol.org/schema/terms/N_Flynn
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'P Uhlig, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: P Uhlig
+  type: value
+  uri: http://eol.org/schema/terms/P_Uhlig
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'S Basquill, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: S Basquill
+  type: value
+  uri: http://eol.org/schema/terms/S_Basquill
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'T DeMeo, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: T DeMeo
+  type: value
+  uri: http://eol.org/schema/terms/T_DeMeo
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'W MacKenzie, contributor to http://www.cnvc-cnvc.ca/'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: W MacKenzie
+  type: value
+  uri: http://eol.org/schema/terms/W_MacKenzie
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'L Mucina, contributor to http://euroveg.org/eva-database'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: L Mucina
+  type: value
+  uri: http://eol.org/schema/terms/L_Mucina
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'H Bültmann, contributor to http://euroveg.org/eva-database'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: H Bültmann
+  type: value
+  uri: http://eol.org/schema/terms/H_Bültmann
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'K Dierssen, contributor to http://euroveg.org/eva-database'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: K Dierssen
+  type: value
+  uri: http://eol.org/schema/terms/K_Dierssen
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'C Roux, contributor to http://euroveg.org/eva-database'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: C Roux
+  type: value
+  uri: http://eol.org/schema/terms/C_Roux
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Stephen D. Cairns
+  type: value
+  uri: https://orcid.org/0000-0001-7209-9271
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Derek S.Harbour
+  type: value
+  uri: https://www.researchgate.net/scientific-contributions/Derek-Harbour-2000983057
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
