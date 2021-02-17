@@ -104666,3 +104666,961 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: ''
+  definition: 'A Cline, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: A Cline
+  type: value
+  uri: http://eol.org/schema/terms/A_Cline
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'A M Ray, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: A M Ray
+  type: value
+  uri: http://eol.org/schema/terms/A_M_Ray
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Aaron Hagerty, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Aaron Hagerty
+  type: value
+  uri: http://eol.org/schema/terms/Aaron_Hagerty
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Ales Smetana, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Ales Smetana
+  type: value
+  uri: http://eol.org/schema/terms/Ales_Smetana
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Alexandr B Ryvkin, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Alexandr B Ryvkin
+  type: value
+  uri: http://eol.org/schema/terms/Alexandr_B_Ryvkin
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Alexey Shavrin, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Alexey Shavrin
+  type: value
+  uri: http://eol.org/schema/terms/Alexey_Shavrin
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Andrew Smith, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Andrew Smith
+  type: value
+  uri: http://eol.org/schema/terms/Andrew_Smith
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'B Burks, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: B Burks
+  type: value
+  uri: http://eol.org/schema/terms/B_Burks
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Bethany Sweet, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Bethany Sweet
+  type: value
+  uri: http://eol.org/schema/terms/Bethany_Sweet
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Brandi Fleshman, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Brandi Fleshman
+  type: value
+  uri: http://eol.org/schema/terms/Brandi_Fleshman
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Buchanan, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Buchanan
+  type: value
+  uri: http://eol.org/schema/terms/Buchanan
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'C W O'Brien, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: C W O'Brien
+  type: value
+  uri: http://eol.org/schema/terms/C_W_O'Brien
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Casey Bickford, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Casey Bickford
+  type: value
+  uri: http://eol.org/schema/terms/Casey_Bickford
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'D Anderson, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: D Anderson
+  type: value
+  uri: http://eol.org/schema/terms/D_Anderson
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'D E Bright, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: D E Bright
+  type: value
+  uri: http://eol.org/schema/terms/D_E_Bright
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'D Kritsch, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: D Kritsch
+  type: value
+  uri: http://eol.org/schema/terms/D_Kritsch
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'D R Maddison, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: D R Maddison
+  type: value
+  uri: http://eol.org/schema/terms/D_R_Maddison
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Dave Guinn, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Dave Guinn
+  type: value
+  uri: http://eol.org/schema/terms/Dave_Guinn
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Dominique M Collet, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Dominique M Collet
+  type: value
+  uri: http://eol.org/schema/terms/Dominique_M_Collet
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Dr Dave Kavanaugh, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Dr Dave Kavanaugh
+  type: value
+  uri: http://eol.org/schema/terms/Dr_Dave_Kavanaugh
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Dr Wayne Mathis, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Dr Wayne Mathis
+  type: value
+  uri: http://eol.org/schema/terms/Dr_Wayne_Mathis
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Dr Yuri Mikhailov, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Dr Yuri Mikhailov
+  type: value
+  uri: http://eol.org/schema/terms/Dr_Yuri_Mikhailov
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'E Ball, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: E Ball
+  type: value
+  uri: http://eol.org/schema/terms/E_Ball
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'E Chapin, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: E Chapin
+  type: value
+  uri: http://eol.org/schema/terms/E_Chapin
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'E Holsten, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: E Holsten
+  type: value
+  uri: http://eol.org/schema/terms/E_Holsten
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'E Richard Hoebeke, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: E Richard Hoebeke
+  type: value
+  uri: http://eol.org/schema/terms/E_Richard_Hoebeke
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'G B Vogt, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: G B Vogt
+  type: value
+  uri: http://eol.org/schema/terms/G_B_Vogt
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'G G E Scudder, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: G G E Scudder
+  type: value
+  uri: http://eol.org/schema/terms/G_G_E_Scudder
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'H E James Hammond, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: H E James Hammond
+  type: value
+  uri: http://eol.org/schema/terms/H_E_James_Hammond
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Henri Goulet, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Henri Goulet
+  type: value
+  uri: http://eol.org/schema/terms/Henri_Goulet
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Hume Douglas, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Hume Douglas
+  type: value
+  uri: http://eol.org/schema/terms/Hume_Douglas
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'J McNamara, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: J McNamara
+  type: value
+  uri: http://eol.org/schema/terms/J_McNamara
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'J Nosek, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: J Nosek
+  type: value
+  uri: http://eol.org/schema/terms/J_Nosek
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Jan Klimaszewski, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Jan Klimaszewski
+  type: value
+  uri: http://eol.org/schema/terms/Jan_Klimaszewski
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Jozef A Slowik, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Jozef A Slowik
+  type: value
+  uri: http://eol.org/schema/terms/Jozef_A_Slowik
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'K Post, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: K Post
+  type: value
+  uri: http://eol.org/schema/terms/K_Post
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Kathryn M Daly, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Kathryn M Daly
+  type: value
+  uri: http://eol.org/schema/terms/Kathryn_M_Daly
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Keith Pike, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Keith Pike
+  type: value
+  uri: http://eol.org/schema/terms/Keith_Pike
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'L LeSage, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: L LeSage
+  type: value
+  uri: http://eol.org/schema/terms/L_LeSage
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'M Smith, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: M Smith
+  type: value
+  uri: http://eol.org/schema/terms/M_Smith
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Margaret Thayer, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Margaret Thayer
+  type: value
+  uri: http://eol.org/schema/terms/Margaret_Thayer
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Martin Johnson, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Martin Johnson
+  type: value
+  uri: http://eol.org/schema/terms/Martin_Johnson
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Matt Bowser, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Matt Bowser
+  type: value
+  uri: http://eol.org/schema/terms/Matt_Bowser
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Michael Draney, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Michael Draney
+  type: value
+  uri: http://eol.org/schema/terms/Michael_Draney
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'N Vandenberg, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: N Vandenberg
+  type: value
+  uri: http://eol.org/schema/terms/N_Vandenberg
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'N Woodley, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: N Woodley
+  type: value
+  uri: http://eol.org/schema/terms/N_Woodley
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Patrice Bouchard, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Patrice Bouchard
+  type: value
+  uri: http://eol.org/schema/terms/Patrice_Bouchard
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Paul H Williams, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Paul H Williams
+  type: value
+  uri: http://eol.org/schema/terms/Paul_H_Williams
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Paul Skelley, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Paul Skelley
+  type: value
+  uri: http://eol.org/schema/terms/Paul_Skelley
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'R E Gordon, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: R E Gordon
+  type: value
+  uri: http://eol.org/schema/terms/R_E_Gordon
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'R Gagne, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: R Gagne
+  type: value
+  uri: http://eol.org/schema/terms/R_Gagne
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'R Hopping, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: R Hopping
+  type: value
+  uri: http://eol.org/schema/terms/R_Hopping
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'R Roughley, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: R Roughley
+  type: value
+  uri: http://eol.org/schema/terms/R_Roughley
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'R Sailer, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: R Sailer
+  type: value
+  uri: http://eol.org/schema/terms/R_Sailer
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'R Snelling, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: R Snelling
+  type: value
+  uri: http://eol.org/schema/terms/R_Snelling
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'R Thorp, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: R Thorp
+  type: value
+  uri: http://eol.org/schema/terms/R_Thorp
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Rehanon Pampell, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Rehanon Pampell
+  type: value
+  uri: http://eol.org/schema/terms/Rehanon_Pampell
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Robert Davidson, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Robert Davidson
+  type: value
+  uri: http://eol.org/schema/terms/Robert_Davidson
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Roy Beckwith, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Roy Beckwith
+  type: value
+  uri: http://eol.org/schema/terms/Roy_Beckwith
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'S Wood, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: S Wood
+  type: value
+  uri: http://eol.org/schema/terms/S_Wood
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Sarah Huguet, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Sarah Huguet
+  type: value
+  uri: http://eol.org/schema/terms/Sarah_Huguet
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Sayde Ridling, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Sayde Ridling
+  type: value
+  uri: http://eol.org/schema/terms/Sayde_Ridling
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Stewart Blaine Peck, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Stewart Blaine Peck
+  type: value
+  uri: http://eol.org/schema/terms/Stewart_Blaine_Peck
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'T Erwin, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: T Erwin
+  type: value
+  uri: http://eol.org/schema/terms/T_Erwin
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'T G Griswold, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: T G Griswold
+  type: value
+  uri: http://eol.org/schema/terms/T_G_Griswold
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'T MacRae, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: T MacRae
+  type: value
+  uri: http://eol.org/schema/terms/T_MacRae
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'T Spilman, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: T Spilman
+  type: value
+  uri: http://eol.org/schema/terms/T_Spilman
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'TorbjÃ¸rn Ekrem, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: TorbjÃ¸rn Ekrem
+  type: value
+  uri: http://eol.org/schema/terms/TorbjÃ¸rn_Ekrem
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'U Scheller, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: U Scheller
+  type: value
+  uri: http://eol.org/schema/terms/U_Scheller
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Vondel, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Vondel
+  type: value
+  uri: http://eol.org/schema/terms/Vondel
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'W Barr, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: W Barr
+  type: value
+  uri: http://eol.org/schema/terms/W_Barr
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'W Mason, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: W Mason
+  type: value
+  uri: http://eol.org/schema/terms/W_Mason
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Yves Bousquet, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Yves Bousquet
+  type: value
+  uri: http://eol.org/schema/terms/Yves_Bousquet
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Zdenek Fric, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Zdenek Fric
+  type: value
+  uri: http://eol.org/schema/terms/Zdenek_Fric
