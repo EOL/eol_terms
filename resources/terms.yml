@@ -105497,14 +105497,14 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'TorbjÃ¸rn Ekrem, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  definition: 'T Ekrem, contributor to http://www.akentsoc.org/the_fauna/checklist'
   is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: TorbjÃ¸rn Ekrem
+  name: T Ekrem
   type: value
-  uri: http://eol.org/schema/terms/TorbjÃ¸rn_Ekrem
+  uri: http://eol.org/schema/terms/T_Ekrem
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
