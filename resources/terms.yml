@@ -106029,3 +106029,484 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Museu Paraense Emilio Goeldi
+  type: value
+  uri: http://grbio.org/cool/90vz-swjg
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Instituto Nacional de Pesquisas da Amazônia (INPA)
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:15657
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: 'Museu Nacional/Universidade Federal do Rio de Janeiro'
+  type: value
+  uri: http://grbio.org/cool/zi1i-a0b5
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: 'Laboratorio de Ictiologia (UEFS)'
+  type: value
+  uri: http://grbio.org/cool/f5ns-yjm0
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Instituto de Botânica, IBT
+  type: value
+  uri: http://grbio.org/cool/9bgd-aynx
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Comissão Executiva do Plano da Lavoura Cacaueira
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:15526
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Museu Botânico Municipal
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:15641
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Universidade Federal do Paraná
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:15175
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Universidade de Sao Paulo
+  type: value
+  uri: http://grbio.org/cool/745q-57sa
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Universidade de Brasília
+  type: value
+  uri: http://grbio.org/cool/f3e5-itw6
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Museu de Zoologia da Universidade Estadual de Campinas
+  type: value
+  uri: http://grbio.org/cool/9pz2-d68t
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Universidade de São Paulo
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:15730
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Instituto Nacional da Mata Atlântica - INMA
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:15042
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Universidade Federal de Pernambuco, UFPE
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:15350
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Museu Nacional/UFRJ
+  type: value
+  uri: https://www.gbif.org/grscicoll/institution/74500a12-385d-46ed-b987-00005cdba42d
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Universidade Federale do Rio Grande do Sul
+  type: value
+  uri: http://grbio.org/cool/3q02-t412
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Universidade Federal de Minas Gerais
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:15456
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Instituto Anchietano de Pesquisas
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:15731
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Universidade Estadual de Campinas
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:15616
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Universidade Federal de Santa Catarina
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:14336
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Pontificia Universidade Catolica do Rio Grande do Sul
+  type: value
+  uri: http://grbio.org/cool/bqgs-f9q8
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Embrapa Recursos Genéticos e Biotecnologia - Embrapa Cenargen
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:15624
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Fundação Oswaldo Cruz (Fiocruz)
+  type: value
+  uri: http://grscicoll.org/cool/vky1-24r6
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Universidade Federal de Uberlândia
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:15469
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Universidade Federal da Bahia
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:15066
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Empresa Pernambucana de Pesquisa Agropecuária (IPA)
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:12992
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Museu de Ciências Naturais - Fundação Zoobotânica do Rio Grande do Sul
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:13038
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Reserva Natural Vale
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:13923
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Instituto Nacional de Pesquisas da Amazônia (INPA)Instituto Nacional de Pesquisas da Amazônia (INPA)
+  type: value
+  uri: http://grbio.org/cool/rm88-499z
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Universidade Federal do Ceará, UFC
+  type: value
+  uri: http://grbio.org/cool/fd8f-cqfa
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: UFES
+  type: value
+  uri: http://grbio.org/cool/ziwj-dnct
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Instituto Florestal
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:13329
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Universidade Estadual de Londrina, UEL
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:15097
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Universidade Federal de Mato Grosso
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:14332
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Instituto Agronômico de Campinas
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:15566
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Universidade Federal de Juiz de Fora
+  type: value
+  uri: http://biocol.org/urn:lsid:biocol.org:col:15387
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'A strain or cultivation derived from isotype material. Ex-types are not regulated by the botanical or zoological code.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: exisotype
+  type: value
+  uri: http://eol.org/schema/terms/exisotype
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
