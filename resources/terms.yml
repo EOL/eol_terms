@@ -26854,6 +26854,8 @@ terms:
   name: flowers visited by
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002623
+  inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002622
+  inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002619
   synonym_of_uri:
@@ -31537,6 +31539,8 @@ terms:
   name: has ectoparasite
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002633
+  inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002632 
+  inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002445
   synonym_of_uri:
@@ -31551,6 +31555,8 @@ terms:
   name: has eggs laid on by
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0008508
+  inverse_of_uri: http://purl.obolibrary.org/obo/RO_0008507
+  inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002442
   synonym_of_uri:
@@ -31565,6 +31571,8 @@ terms:
   name: has endoparasite
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002635
+  inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002634
+  inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002445
   synonym_of_uri:
@@ -31608,6 +31616,8 @@ terms:
   name: has hyperparasite
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002554
+  inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002553
+  inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002453
   synonym_of_uri:
@@ -31622,6 +31632,8 @@ terms:
   name: has parasitoid
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002209
+  inverse_uri: http://purl(dot)obolibrary(dot)org/obo/RO_0002208
+  inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002445
   synonym_of_uri:
@@ -31636,6 +31648,8 @@ terms:
   name: has pathogen
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002557
+  inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002556
+  inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002453
   synonym_of_uri:
@@ -31690,6 +31704,8 @@ terms:
   name: has vector
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002460
+  inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002459
+  inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002442
   synonym_of_uri:
@@ -33324,6 +33340,8 @@ terms:
   name: host of
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002453
+  inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002454
+  inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002440
   - http://purl.obolibrary.org/obo/RO_0002442
@@ -35817,6 +35835,8 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias: is_eaten_by
+  inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002470
+  inverse_only: true
 - attribution: ''
   definition: A relationship that is mediated in some way by the environment or environmental feature
   is_hidden_from_select: false
@@ -35840,6 +35860,8 @@ terms:
   name: is killed by
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002627
+  inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002626
+  inverse_only: true
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
@@ -37734,6 +37756,20 @@ terms:
   uri: http://purl.obolibrary.org/obo/RO_0008503
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002445
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: kleptoparasite of
+  type: association
+  uri: http://purl.obolibrary.org/obo/RO_0008504
+  inverse_of_uri: http://purl.obolibrary.org/obo/RO_0008503
+  inverse_only: true
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -55639,6 +55675,8 @@ terms:
   name: parasitized by
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002445
+  inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002444
+  inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002453
   synonym_of_uri:
@@ -59315,6 +59353,8 @@ terms:
   name: preyed upon by
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002458
+  inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002439
+  inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002471
   synonym_of_uri:
@@ -80116,6 +80156,8 @@ terms:
   name: visited by
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002619
+  inverse_uri: http://purl(dot)obolibrary(dot)org/obo/RO_0002618
+  inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002442
   synonym_of_uri:
@@ -85746,8 +85788,23 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: has dispersal vector
-  type: measurement
+  type: association
   uri: http://eol.org/schema/terms/HasDispersalVector
+  parent_uris: []
+  synonym_of_uri: []
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: dispersal vector for
+  type: association
+  uri: http://eol.org/schema/terms/DispersalVectorFor
+  inverse_of_uri: http://eol.org/schema/terms/HasDispersalVector
+  inverse_only: true
   parent_uris: []
   synonym_of_uri: []
   units_term_uri:
