@@ -31632,7 +31632,7 @@ terms:
   name: has parasitoid
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002209
-  inverse_uri: http://purl(dot)obolibrary(dot)org/obo/RO_0002208
+  inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002208
   inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002445
@@ -80156,7 +80156,7 @@ terms:
   name: visited by
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002619
-  inverse_uri: http://purl(dot)obolibrary(dot)org/obo/RO_0002618
+  inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002618
   inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002442
