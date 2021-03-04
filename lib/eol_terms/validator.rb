@@ -23,7 +23,6 @@ module EolTerms
       uri
       is_symmetrical_association
       inverse_of_uri
-      is_inverse_only
     ].freeze
     REQUIRED_FIELDS = %w[uri name].freeze
 

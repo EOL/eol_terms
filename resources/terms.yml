@@ -26855,7 +26855,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002623
   inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002622
-  is_inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002619
   synonym_of_uri:
@@ -31540,7 +31539,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002633
   inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002632 
-  is_inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002445
   synonym_of_uri:
@@ -31556,7 +31554,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0008508
   inverse_of_uri: http://purl.obolibrary.org/obo/RO_0008507
-  is_inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002442
   synonym_of_uri:
@@ -31572,7 +31569,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002635
   inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002634
-  is_inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002445
   synonym_of_uri:
@@ -31617,7 +31613,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002554
   inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002553
-  is_inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002453
   synonym_of_uri:
@@ -31633,7 +31628,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002209
   inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002208
-  is_inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002445
   synonym_of_uri:
@@ -31649,7 +31643,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002557
   inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002556
-  is_inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002453
   synonym_of_uri:
@@ -31705,7 +31698,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002460
   inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002459
-  is_inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002442
   synonym_of_uri:
@@ -33341,7 +33333,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002453
   inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002454
-  is_inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002440
   - http://purl.obolibrary.org/obo/RO_0002442
@@ -35836,7 +35827,6 @@ terms:
   units_term_uri:
   alias: is_eaten_by
   inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002470
-  is_inverse_only: true
 - attribution: ''
   definition: A relationship that is mediated in some way by the environment or environmental feature
   is_hidden_from_select: false
@@ -35861,7 +35851,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002627
   inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002626
-  is_inverse_only: true
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
@@ -37769,7 +37758,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0008504
   inverse_of_uri: http://purl.obolibrary.org/obo/RO_0008503
-  is_inverse_only: true
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -55676,7 +55664,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002445
   inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002444
-  is_inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002453
   synonym_of_uri:
@@ -59354,7 +59341,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002458
   inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002439
-  is_inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002471
   synonym_of_uri:
@@ -80157,7 +80143,6 @@ terms:
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002619
   inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002618
-  is_inverse_only: true
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002442
   synonym_of_uri:
@@ -85804,7 +85789,6 @@ terms:
   type: association
   uri: http://eol.org/schema/terms/DispersalVectorFor
   inverse_of_uri: http://eol.org/schema/terms/HasDispersalVector
-  is_inverse_only: true
   parent_uris: []
   synonym_of_uri: []
   units_term_uri:
