@@ -59,7 +59,7 @@ module EolTerms
       @validator.validate(silent)
     end
 
-    def rebuild_ids(path)
+    def rebuild_ids(path = './resources/uri_ids.yml')
       validate(true)
       @checker = IdChecker.new(path)
       @checker.rebuild_ids
