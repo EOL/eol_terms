@@ -8391,8 +8391,8 @@ uri_ids:
   http://purl.obolibrary.org/obo/wbls_0000716: 8384
   http://purl.obolibrary.org/obo/wbls_0000720: 8385
   http://wikidata.org/entity/q776682: 8386
-  http://eol.org/schema/terms/lisa_saperstein: 8387
-  http://eol.org/schema/terms/derek_s_sikes: 8388
+  http://purl.obolibrary.org/obo/ro_0008504: 8387
+  http://eol.org/schema/terms/dispersalvectorfor: 8388
   http://eol.org/schema/terms/s_y_emmert: 8389
   http://eol.org/schema/terms/t_omtzigt: 8390
   http://eol.org/schema/terms/ann_k_johnson: 8391
@@ -9782,5 +9782,5 @@ uri_ids:
   http://biocol.org/urn:lsid:biocol.org:col:15566: 9775
   http://biocol.org/urn:lsid:biocol.org:col:15387: 9776
   http://eol.org/schema/terms/exisotype: 9777
-  http://purl.obolibrary.org/obo/ro_0008504: 9778
-  http://eol.org/schema/terms/dispersalvectorfor: 9779
+  http://eol.org/schema/terms/lisa_saperstein: 9778
+  http://eol.org/schema/terms/derek_s_sikes: 9779
