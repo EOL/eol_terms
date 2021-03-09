@@ -97948,7 +97948,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: - Coleção de Fanerógamas
+  name: 'SP - Herbário do Estado "Maria Eneyda P. Kaufmann Fidalgo" - Coleção de Fanerógamas'
   type: value
   uri:  https://www.gbif.org/dataset/17efa320-7312-4b55-bf0a-a4cfc4613169
   parent_uris: []
@@ -99781,7 +99781,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: FBIP: "One baobab species or two-morphological and molecular data to address this question"
+  name: 'FBIP: "One baobab species or two-morphological and molecular data to address this question"'
   type: value
   uri:  https://www.gbif.org/dataset/3c7c79f0-4ee6-4ea0-bc96-1c347d63cb67
   parent_uris: []
@@ -104638,7 +104638,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'C W O'Brien, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  definition: "C W O'Brien, contributor to http://www.akentsoc.org/the_fauna/checklist"
   is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
