@@ -89191,7 +89191,11 @@ terms:
   alias:
 - attribution: ''
   definition: 'Hunter Heaivilin, @supersistence, creator of https://github.com/supersistence/EcoCrop-ScrapeR'
-
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: EcoCrop ScrapeR
   type: value
   uri:  https://github.com/supersistence
   parent_uris: []
@@ -89207,7 +89211,6 @@ terms:
   name: Dana Campbell
   type: value
   uri:  https://www.researchgate.net/profile/Dana_Campbell
-
   is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
@@ -106229,7 +106232,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Reserva Natural Vale
+  name: 'Reserva Natural Vale, Meio Ambiente'
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:13923
   parent_uris: []
