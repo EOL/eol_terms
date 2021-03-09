@@ -3899,20 +3899,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: anthropogenic contamination feature
-  type: value
-  uri: http://purl.obolibrary.org/obo/ENVO_00002204
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000002
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
   definition: Anthropogenic material in or on which organisms may live.
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -16945,51 +16931,6 @@ terms:
   type: value
   uri: http://www.wikidata.org/entity/Q72638
   parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: contaminated habitat
-  type: value
-  uri: http://eol.org/schema/terms/contaminatedHabitat
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: contaminated sediment
-  type: value
-  uri: http://purl.obolibrary.org/obo/ENVO_00002114
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00002204
-  - http://purl.obolibrary.org/obo/ENVO_00002007
-  - http://eol.org/schema/terms/contaminatedHabitat
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: contaminated soil
-  type: value
-  uri: http://purl.obolibrary.org/obo/ENVO_00002116
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00002204
-  - http://purl.obolibrary.org/obo/ENVO_00001998
-  - http://eol.org/schema/terms/contaminatedHabitat
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -53205,20 +53146,6 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: oil contaminated soil
-  type: value
-  uri: http://purl.obolibrary.org/obo/ENVO_00002875
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00002116
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
@@ -53982,20 +53909,6 @@ terms:
   parent_uris: []
   synonym_of_uri:
   - http://purl.obolibrary.org/obo/ENVO_01000373
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: organically contaminated sediment
-  type: value
-  uri: http://purl.obolibrary.org/obo/ENVO_00002202
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00002114
-  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: Polytraits
@@ -60548,20 +60461,6 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: radioactive sediment
-  type: value
-  uri: http://purl.obolibrary.org/obo/ENVO_00002154
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00002114
-  synonym_of_uri:
-  units_term_uri:
-  alias:
 - attribution: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC224338/
   definition: ''
   is_hidden_from_select: false
@@ -63588,20 +63487,6 @@ terms:
   type: value
   uri: http://purl.bioontology.org/ontology/MESH/D012472
   parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: salt contaminated soil
-  type: value
-  uri: http://purl.obolibrary.org/obo/ENVO_00005775
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00002116
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -72115,20 +72000,6 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/PATO_0001665
   parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: superfund site
-  type: value
-  uri: http://purl.obolibrary.org/obo/ENVO_00002156
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00002204
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -85500,7 +85371,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: ''
+  definition: 'The residual semi-solid material left in marine habitat from domestic or industrial processes, or wastewater treatment processes'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -85509,7 +85380,6 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00005796
   parent_uris:
-  - http://eol.org/schema/terms/contaminatedHabitat
   - http://purl.obolibrary.org/obo/ENVO_00000447
   synonym_of_uri: []
   units_term_uri:
@@ -95845,7 +95715,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: FBIP:IZIKO-UCT:Historical Survey (1930-1980)
+  name: "FBIP:IZIKO-UCT:Historical Survey (1930-1980)"
   type: value
   uri:  https://www.gbif.org/dataset/2429f28c-dc43-40e7-92f6-49206e0729fb
   parent_uris: []
@@ -95897,7 +95767,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Revision of southern African species of the anglerfish genus Chaunax (Lophiiformes: Chaunacidae), with descriptions of three new species
+  name: "Revision of southern African species of the anglerfish genus Chaunax (Lophiiformes: Chaunacidae), with descriptions of three new species"
   type: value
   uri:  https://www.gbif.org/dataset/6d3dae45-756e-4254-ad92-fda051e93c5e
   parent_uris: []
@@ -95988,7 +95858,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Freshwater biodiversity of the Eastern Highlands of Zimbabwe: Assessing conservation priorities using primary species-occurrence data
+  name: "Freshwater biodiversity of the Eastern Highlands of Zimbabwe: Assessing conservation priorities using primary species-occurrence data"
   type: value
   uri:  https://www.gbif.org/dataset/1160e07d-3285-403e-8770-8426ef450bbf
   parent_uris: []
@@ -96105,7 +95975,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: FBIP:ELM: Malacology Collections
+  name: "FBIP:ELM: Malacology Collections"
   type: value
   uri:  https://www.gbif.org/dataset/85487457-e02f-4dee-95ea-8dc0d220c52d
   parent_uris: []
@@ -96248,7 +96118,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: AM: Freshwater Invertebrates (1900-2005)
+  name: AM: "Freshwater Invertebrates (1900-2005)"
   type: value
   uri:  https://www.gbif.org/dataset/2ca312ee-40cf-49e0-b864-31531b7eba81
   parent_uris: []
@@ -96261,7 +96131,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: DNSM: Durban Natural Science Museum Insect Collection (1900-2011)
+  name: "DNSM: Durban Natural Science Museum Insect Collection (1900-2011)"
   type: value
   uri:  https://www.gbif.org/dataset/b94fcfd1-f3a5-44bc-bc50-d3e5f80a733d
   parent_uris: []
@@ -96313,7 +96183,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: FBIP: SeaKeys - Iziko_UCT_Historical Fish
+  name: "FBIP: SeaKeys - Iziko_UCT_Historical Fish"
   type: value
   uri:  https://www.gbif.org/dataset/d71e908c-f944-4fdd-9872-178754a00805
   parent_uris: []
@@ -96326,7 +96196,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: FBIP: IZIKO Marine Bony Fish (1884-2013)
+  name: "FBIP: IZIKO Marine Bony Fish (1884-2013)"
   type: value
   uri:  https://www.gbif.org/dataset/1b18bab9-abdb-41b4-83c8-368ca2e6d391
   parent_uris: []
@@ -96391,7 +96261,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Type specimens in the Port Elizabeth Museum, South Africa, including the historically important Albany Museum collection. Part 2: Reptiles (Squamata)
+  name: "Type specimens in the Port Elizabeth Museum, South Africa, including the historically important Albany Museum collection. Part 2: Reptiles (Squamata)"
   type: value
   uri:  https://www.gbif.org/dataset/7d3f7d13-68b6-4560-9de7-41a6b05f3776
   parent_uris: []
@@ -96404,7 +96274,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: AM: Terrestrial Insect Collections (1896-2000)
+  name: "AM: Terrestrial Insect Collections (1896-2000)"
   type: value
   uri:  https://www.gbif.org/dataset/56fe0b98-95e1-4544-b398-fa7cebf18598
   parent_uris: []
@@ -96443,7 +96313,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: UCT: South Africa Seaweeds(1905-2008)
+  name: "UCT: South Africa Seaweeds(1905-2008)"
   type: value
   uri:  https://www.gbif.org/dataset/7401f23d-e962-4828-8646-dc4d8cfc2394
   parent_uris: []
@@ -96534,7 +96404,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: University of Pretoria: Dung Beetles (Coleoptera: Scarabaeidae: Scarabaeinae)
+  name: "University of Pretoria: Dung Beetles (Coleoptera: Scarabaeidae: Scarabaeinae)"
   type: value
   uri:  https://www.gbif.org/dataset/df14ad14-c42d-4527-af3d-204892b6de43
   parent_uris: []
@@ -96547,7 +96417,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Hanging on - lucinid bivalve survivors from the Paleocene and Eocene in the western Indian Ocean (Bivalvia: Lucinidae)
+  name: "Hanging on - lucinid bivalve survivors from the Paleocene and Eocene in the western Indian Ocean (Bivalvia: Lucinidae)"
   type: value
   uri:  https://www.gbif.org/dataset/26ac6a51-9d0a-4cb0-8502-230b45cf66e6
   parent_uris: []
@@ -96638,7 +96508,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Katydids (Orthoptera: Tettigoniidae) of Gorongosa National Park and Central Mozambique
+  name: "Katydids (Orthoptera: Tettigoniidae) of Gorongosa National Park and Central Mozambique"
   type: value
   uri:  https://www.gbif.org/dataset/3981e1e7-9d35-4f45-857c-da0bca835157
   parent_uris: []
@@ -96820,7 +96690,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: SAFRING: Historical Bird Ringing Records (2005-2009)
+  name: "SAFRING: Historical Bird Ringing Records (2005-2009)"
   type: value
   uri:  https://www.gbif.org/dataset/b4ae1720-1431-49ee-bfeb-8146fc42b1a3
   parent_uris: []
@@ -96924,7 +96794,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: IZIKO: Marine Invertebrate Collection (1900-2011)
+  name: "IZIKO: Marine Invertebrate Collection (1900-2011)"
   type: value
   uri:  https://www.gbif.org/dataset/379156c8-c268-4537-aea4-83d94cc785f5
   parent_uris: []
@@ -96963,7 +96833,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: FBIP:IZIKO-UCT:Historical Invertebrates (1930-1980)
+  name: "FBIP:IZIKO-UCT:Historical Invertebrates (1930-1980)"
   type: value
   uri:  https://www.gbif.org/dataset/cd6fe3a0-eee9-4066-8420-e36313ed833d
   parent_uris: []
@@ -97002,7 +96872,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: BODATSA: Botanical Collections
+  name: "BODATSA: Botanical Collections"
   type: value
   uri:  https://www.gbif.org/dataset/d0963cee-1a29-47a2-b9bf-fb0e7690077c
   parent_uris: []
@@ -97015,7 +96885,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: FBIP: Magnoliophyta collection
+  name: "FBIP: Magnoliophyta collection"
   type: value
   uri:  https://www.gbif.org/dataset/7abad3fc-068a-4f34-8b3d-bfe03155ccde
   parent_uris: []
@@ -97288,7 +97158,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: FBIP:Catalogue of type specimens in the South African National Collection Of Insects
+  name: "FBIP:Catalogue of type specimens in the South African National Collection Of Insects"
   type: value
   uri:  https://www.gbif.org/dataset/e0bde7d0-36fb-4036-81fe-4c3429dfa67f
   parent_uris: []
@@ -97340,7 +97210,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Ditsong National Museum of Natural History Collection: 1805-2008
+  name: "Ditsong National Museum of Natural History Collection: 1805-2008"
   type: value
   uri:  https://www.gbif.org/dataset/9a9dcc47-fdca-4881-998a-9596dcedff6a
   parent_uris: []
@@ -97496,7 +97366,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: FBIP: SeaKeys - iziko_cartilaginous_fish
+  name: "FBIP: SeaKeys - iziko_cartilaginous_fish"
   type: value
   uri:  https://www.gbif.org/dataset/e87e0415-bdb2-45eb-8954-b6b4454e1852
   parent_uris: []
@@ -97548,7 +97418,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Annotated catalogue of the click-beetle subfamily Tetralobinae (Coleoptera: Elateridae)
+  name: "Annotated catalogue of the click-beetle subfamily Tetralobinae (Coleoptera: Elateridae)"
   type: value
   uri:  https://www.gbif.org/dataset/15860f7f-9e92-47f7-b2c4-091fa9370965
   parent_uris: []
@@ -97600,7 +97470,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Platynotina (Coleoptera: Tenebrionidae) collections on the World
+  name: "Platynotina (Coleoptera: Tenebrionidae) collections on the World"
   type: value
   uri:  https://www.gbif.org/dataset/ca5ff7c0-ad1f-11db-9793-b8a03c50a862
   parent_uris: []
@@ -97639,7 +97509,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Description of a new flat gecko (Squamata: Gekkonidae: Afroedura) from Mount Gorongosa, Mozambique
+  name: "Description of a new flat gecko (Squamata: Gekkonidae: Afroedura) from Mount Gorongosa, Mozambique"
   type: value
   uri:  https://www.gbif.org/dataset/4de1fb75-1a31-4228-bc0c-6ad2f4b99c45
   parent_uris: []
@@ -97691,7 +97561,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: A review of the deepwater cardinalfish genus Epigonus (Perciformes: Epigonidae) of the Western Indian Ocean, with description of two new species
+  name: "A review of the deepwater cardinalfish genus Epigonus (Perciformes: Epigonidae) of the Western Indian Ocean, with description of two new species"
   type: value
   uri:  https://www.gbif.org/dataset/6dc55986-74fa-4ac0-bca6-b301f3831180
   parent_uris: []
@@ -97704,7 +97574,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: ARC-PPRI: National Survey of Arachnida (1905-2009)
+  name: "ARC-PPRI: National Survey of Arachnida (1905-2009)"
   type: value
   uri:  https://www.gbif.org/dataset/823c374e-b830-4ff2-9e97-0e86c39a3d8a
   parent_uris: []
@@ -98133,7 +98003,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: An update on the spider genus Loxosceles (Araneae: Sicariidae) in the Afrotropical region, with description of seven new species
+  name: "An update on the spider genus Loxosceles (Araneae: Sicariidae) in the Afrotropical region, with description of seven new species"
   type: value
   uri:  https://www.gbif.org/dataset/7cf1fed4-397f-4cdc-8720-5fdf220ebf63
   parent_uris: []
@@ -98263,7 +98133,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: ARC-PPRI: National Collection Of Fungi(1817-2009)
+  name: "ARC-PPRI: National Collection Of Fungi(1817-2009)"
   type: value
   uri:  https://www.gbif.org/dataset/c5843752-6eae-4869-ba5c-b5fe0996cfca
   parent_uris: []
@@ -98328,7 +98198,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Reef Life Survey: Global reef fish dataset
+  name: "Reef Life Survey: Global reef fish dataset"
   type: value
   uri:  https://www.gbif.org/dataset/38f06820-08c5-42b2-94f6-47cc3e83a54a
   parent_uris: []
@@ -98367,7 +98237,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: SANBI: DNA Banking(1987-2011)
+  name: "SANBI: DNA Banking(1987-2011)"
   type: value
   uri:  https://www.gbif.org/dataset/0b2f8a72-cfec-4c00-9424-9ee0bd8bec72
   parent_uris: []
@@ -98393,7 +98263,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: FBIP: Holothrix  herbarium specimen dataset
+  name: "FBIP: Holothrix  herbarium specimen dataset"
   type: value
   uri:  https://www.gbif.org/dataset/c8323cbb-26b1-4c87-bc89-9bfb1efe9a56
   parent_uris: []
@@ -98432,7 +98302,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: NMSA: Arthropod Collections (1900-2012)
+  name: "NMSA: Arthropod Collections (1900-2012)"
   type: value
   uri:  https://www.gbif.org/dataset/aa4916c3-3dc7-4c90-9f8e-b81d986df153
   parent_uris: []
@@ -98510,7 +98380,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: FBIP:SAEON: Historical Research Survey Database (1897-1949)
+  name: "FBIP:SAEON: Historical Research Survey Database (1897-1949)"
   type: value
   uri:  https://www.gbif.org/dataset/570ceb60-ac58-4b98-9723-54000ee7b391
   parent_uris: []
@@ -98575,7 +98445,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: UCT: Southern African Reptile Conservation Assessment (1910-2009)
+  name: "UCT: Southern African Reptile Conservation Assessment (1910-2009)"
   type: value
   uri:  https://www.gbif.org/dataset/c90a0778-e222-406f-bcd7-ed96a2bc5f4c
   parent_uris: []
@@ -98653,7 +98523,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Hydrolagus erithacus sp. nov. (Chimaeriformes: Chimaeridae), a new species of chimaerid from the southeastern Atlantic and southwestern Indian oceans
+  name: "Hydrolagus erithacus sp. nov. (Chimaeriformes: Chimaeridae), a new species of chimaerid from the southeastern Atlantic and southwestern Indian oceans"
   type: value
   uri:  https://www.gbif.org/dataset/79270395-b651-4f89-8109-3dc0441aec72
   parent_uris: []
@@ -98679,7 +98549,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Museu de Ciències Naturals de Barcelona: MCNB-Art
+  name: "Museu de Ciències Naturals de Barcelona: MCNB-Art"
   type: value
   uri:  https://www.gbif.org/dataset/7a498826-f762-11e1-a439-00145eb45e9a
   parent_uris: []
@@ -98705,7 +98575,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Review of the genus Engyprosopon Günther, 1862 (Pleuronectiformes: Bothidae) from waters off Taiwan, with descriptions of two new species
+  name: "Review of the genus Engyprosopon Günther, 1862 (Pleuronectiformes: Bothidae) from waters off Taiwan, with descriptions of two new species"
   type: value
   uri:  https://www.gbif.org/dataset/786fe950-08b0-4072-bf66-7f64702748df
   parent_uris: []
@@ -98861,7 +98731,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: A contribution to the knowledge of the subfamily Panagaeinae Hope, 1838 from Africa. Part 2. Revision of the Craspedophorus leprieuri and C. regalis groups (Coleoptera: Carabidae)
+  name: "A contribution to the knowledge of the subfamily Panagaeinae Hope, 1838 from Africa. Part 2. Revision of the Craspedophorus leprieuri and C. regalis groups (Coleoptera: Carabidae)"
   type: value
   uri:  https://www.gbif.org/dataset/ec0dbb00-2a4a-41c9-9e60-185f972be9bd
   parent_uris: []
@@ -98913,7 +98783,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: SANBI: Mozambique Sky Islands-Amphibian survey
+  name: "SANBI: Mozambique Sky Islands-Amphibian survey"
   type: value
   uri:  https://www.gbif.org/dataset/28974207-7d4f-498a-ac68-bb036acc0010
   parent_uris: []
@@ -99030,7 +98900,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Astonishing diversity revealed: an annotated and illustrated inventory of Nudipleura (Gastropoda: Heterobranchia) from Mozambique
+  name: "Astonishing diversity revealed: an annotated and illustrated inventory of Nudipleura (Gastropoda: Heterobranchia) from Mozambique"
   type: value
   uri:  https://www.gbif.org/dataset/a5cbd5ef-7f49-4a94-a2f4-61adcc8c8d01
   parent_uris: []
@@ -99056,7 +98926,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Taxonomic revision of the sub-Saharan Anthidiellum Cockerell (Apoidea: Megachilidae: Anthidiini)
+  name: "Taxonomic revision of the sub-Saharan Anthidiellum Cockerell (Apoidea: Megachilidae: Anthidiini)"
   type: value
   uri:  https://www.gbif.org/dataset/3270409d-d789-45b8-be3a-cae44026650c
   parent_uris: []
@@ -99147,7 +99017,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: SANBI: Mozambique Sky Islands-Reptile Survey
+  name: "SANBI: Mozambique Sky Islands-Reptile Survey"
   type: value
   uri:  https://www.gbif.org/dataset/2d34b8f7-1c8e-471f-977a-9116cea9354b
   parent_uris: []
@@ -99173,7 +99043,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Pseudolatirus Bellardi, 1884 revisited, with the description of two new genera and five new species (Neogastropoda: Fasciolariidae)
+  name: "Pseudolatirus Bellardi, 1884 revisited, with the description of two new genera and five new species (Neogastropoda: Fasciolariidae)"
   type: value
   uri:  https://www.gbif.org/dataset/6e9cff4b-1933-4022-99e2-b20ac41a65f1
   parent_uris: []
@@ -99186,7 +99056,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: The species of the genus Diaclina Jacquelin du Val (Coleoptera: Tenebrionidae: Alphitobiini) from Sub-Saharan Africa
+  name: "The species of the genus Diaclina Jacquelin du Val (Coleoptera: Tenebrionidae: Alphitobiini) from Sub-Saharan Africa"
   type: value
   uri:  https://www.gbif.org/dataset/2ba86023-6d9d-4e4c-93dd-9f9ae644f504
   parent_uris: []
@@ -99212,7 +99082,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Contribution to the knowledge of the genus Singilis Rambur, 1837 of Africa (Coleoptera: Carabidae: Lebiini). Part IV
+  name: "Contribution to the knowledge of the genus Singilis Rambur, 1837 of Africa (Coleoptera: Carabidae: Lebiini). Part IV"
   type: value
   uri:  https://www.gbif.org/dataset/7ac39c12-7f35-4280-b730-45090dacb715
   parent_uris: []
@@ -99277,7 +99147,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Hidden diversity in deep-water bandfishes: review of Owstonia with descriptions of twenty-one new species (Teleostei: Cepolidae: Owstoniinae)
+  name: "Hidden diversity in deep-water bandfishes: review of Owstonia with descriptions of twenty-one new species (Teleostei: Cepolidae: Owstoniinae)"
   type: value
   uri:  https://www.gbif.org/dataset/12d5867a-e343-4c8f-9401-5fcb63f7b8b4
   parent_uris: []
@@ -99303,7 +99173,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Museu de Ciències Naturals de Barcelona: MCNB-Malac
+  name: "Museu de Ciències Naturals de Barcelona: MCNB-Malac"
   type: value
   uri:  https://www.gbif.org/dataset/71d46a30-f762-11e1-a439-00145eb45e9a
   parent_uris: []
@@ -99394,7 +99264,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Occurrence data of Laphyctis (Diptera: Asiloidea: Asilidae)
+  name: "Occurrence data of Laphyctis (Diptera: Asiloidea: Asilidae)"
   type: value
   uri:  https://www.gbif.org/dataset/6f6da8ae-e270-49e0-b0b4-5ea7c968f9da
   parent_uris: []
@@ -99407,7 +99277,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Annotated zoogeography of non-marine Tardigrada. Part IV: Africa
+  name: "Annotated zoogeography of non-marine Tardigrada. Part IV: Africa"
   type: value
   uri:  https://www.gbif.org/dataset/ac866645-a8b9-45a8-8c7d-d3aff74ede70
   parent_uris: []
@@ -99433,7 +99303,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Morphological revision of the hyperdiverse Brueelia - complex (Insecta: Phthiraptera: Ischnocera: Philopteridae) with new taxa, checklists and generic key
+  name: "Morphological revision of the hyperdiverse Brueelia - complex (Insecta: Phthiraptera: Ischnocera: Philopteridae) with new taxa, checklists and generic key"
   type: value
   uri:  https://www.gbif.org/dataset/d8cc2cd8-8410-49aa-a75d-7a41d9f52b26
   parent_uris: []
@@ -99511,7 +99381,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: An annotated type catalogue of the anguid, dibamid, scincid and varanid lizards in the Department of Herpetology, Zoological Institute, Russian Academy of Sciences, St. Petersburg, Russia (Reptilia: Sauria: Anguidae, Dibamidae, Scincidae and Varanidae)
+  name: "An annotated type catalogue of the anguid, dibamid, scincid and varanid lizards in the Department of Herpetology, Zoological Institute, Russian Academy of Sciences, St. Petersburg, Russia (Reptilia: Sauria: Anguidae, Dibamidae, Scincidae and Varanidae)"
   type: value
   uri:  https://www.gbif.org/dataset/75cf2f82-3221-4299-a256-bb96c1cbd9dc
   parent_uris: []
@@ -99524,7 +99394,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Taxonomic review of the tribe Sisyphini sensu stricto Mulsant, 1842 (Coleoptera: Scarabaeidae: Scarabaeinae) in southern Africa, including new species descriptions
+  name: "Taxonomic review of the tribe Sisyphini sensu stricto Mulsant, 1842 (Coleoptera: Scarabaeidae: Scarabaeinae) in southern Africa, including new species descriptions"
   type: value
   uri:  https://www.gbif.org/dataset/a725007b-2d51-4c92-838a-9e8fd27484c8
   parent_uris: []
@@ -99589,7 +99459,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Euryalid brittle stars from the International Indian Ocean Expedition 1963 - 64 (Echinodermata: Ophiuroidea: Euryalida)
+  name: "Euryalid brittle stars from the International Indian Ocean Expedition 1963 - 64 (Echinodermata: Ophiuroidea: Euryalida)"
   type: value
   uri:  https://www.gbif.org/dataset/6251bf04-bedf-44cf-92b2-73e551eb56f6
   parent_uris: []
@@ -99667,7 +99537,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Three new Sisyphus species (Coleoptera: Scarabaeidae: Scarabaeinae) from shaded vegetation in southern Africa
+  name: "Three new Sisyphus species (Coleoptera: Scarabaeidae: Scarabaeinae) from shaded vegetation in southern Africa"
   type: value
   uri:  https://www.gbif.org/dataset/3166e193-d052-4efa-953b-4e5ac1b6f568
   parent_uris: []
@@ -99680,7 +99550,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: ECatSym: Electronic World Catalog of Symphyta
+  name: "ECatSym: Electronic World Catalog of Symphyta"
   type: value
   uri:  https://www.gbif.org/dataset/bd63a93c-8283-11e2-b873-00145eb45e9a
   parent_uris: []
@@ -99693,7 +99563,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: A revision of the Afrotropical species of Pachylophus Loew (Diptera: Chloropidae) and some related Ovoviviparous genera
+  name: "A revision of the Afrotropical species of Pachylophus Loew (Diptera: Chloropidae) and some related Ovoviviparous genera"
   type: value
   uri:  https://www.gbif.org/dataset/72a80b13-e18f-4dc3-bec2-bb20d17f0e5f
   parent_uris: []
@@ -99732,7 +99602,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: New species of the Scarabaeus subgenus Scarabaeolus Balthasar, with a review of the subgenus (Scarabaeidae: Scarabaeinae: Scarabaeini)
+  name: "New species of the Scarabaeus subgenus Scarabaeolus Balthasar, with a review of the subgenus (Scarabaeidae: Scarabaeinae: Scarabaeini)"
   type: value
   uri:  https://www.gbif.org/dataset/80783542-5446-42b3-a9bd-177b0e4ec73a
   parent_uris: []
@@ -99745,7 +99615,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Revision of the genus Poriptus Stål (Hemiptera: Heteroptera: Pentatomidae: Pentatominae)
+  name: "Revision of the genus Poriptus Stål (Hemiptera: Heteroptera: Pentatomidae: Pentatominae)"
   type: value
   uri:  https://www.gbif.org/dataset/5c0c2f5c-adc0-4cca-a4a8-f1efeb00ffb8
   parent_uris: []
@@ -99784,7 +99654,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Occurrence of Skipper butterflies (Lepidoptera:Hesperiidae) in Invertebrate Zoology Collection at National Museums of Kenya
+  name: "Occurrence of Skipper butterflies (Lepidoptera:Hesperiidae) in Invertebrate Zoology Collection at National Museums of Kenya"
   type: value
   uri:  https://www.gbif.org/dataset/507c5b51-1f83-4c7f-9111-94fb255adfd7
   parent_uris: []
@@ -99953,7 +99823,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: FBIP: One baobab species or two-morphological and molecular data to address this question
+  name: FBIP: "One baobab species or two-morphological and molecular data to address this question"
   type: value
   uri:  https://www.gbif.org/dataset/3c7c79f0-4ee6-4ea0-bc96-1c347d63cb67
   parent_uris: []
@@ -99992,7 +99862,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Enigmaticolus inflatus sp. nov., a new buccinid species from a methane seep area in the South China Sea (Gastropoda: Neogastropoda)
+  name: "Enigmaticolus inflatus sp. nov., a new buccinid species from a methane seep area in the South China Sea (Gastropoda: Neogastropoda)"
   type: value
   uri:  https://www.gbif.org/dataset/a221e7cc-6002-4874-990a-663ebca2b503
   parent_uris: []
@@ -100083,7 +99953,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: A contribution to the knowledge of the subfamily Panagaeinae Hope, 1838 from Africa. Part 3. Revision of the Craspedophorus strachani and C. brevicollis groups (Coleoptera: Carabidae)
+  name: "A contribution to the knowledge of the subfamily Panagaeinae Hope, 1838 from Africa. Part 3. Revision of the Craspedophorus strachani and C. brevicollis groups (Coleoptera: Carabidae)"
   type: value
   uri:  https://www.gbif.org/dataset/4603132a-4e96-4119-bf2f-21ffe40dce69
   parent_uris: []
@@ -100096,7 +99966,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Museo Nacional de Ciencias Naturales, Colección de Malacología: MNCN-Malac
+  name: "Museo Nacional de Ciencias Naturales, Colección de Malacología: MNCN-Malac"
   type: value
   uri:  https://www.gbif.org/dataset/8386db32-f762-11e1-a439-00145eb45e9a
   parent_uris: []
@@ -100122,7 +99992,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: ARC-PPRI: Collection of Southern African bees  (1800-2007)
+  name: "ARC-PPRI: Collection of Southern African bees  (1800-2007)"
   type: value
   uri:  https://www.gbif.org/dataset/a7a2e528-e053-484d-9e2f-41bb3ea02c70
   parent_uris: []
@@ -100265,7 +100135,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Harvard University Herbaria: All Records
+  name: "Harvard University Herbaria: All Records"
   type: value
   uri:  https://www.gbif.org/dataset/861e6afe-f762-11e1-a439-00145eb45e9a
   parent_uris: []
@@ -100395,7 +100265,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Butterflies (Lepidoptera: Lycaenidae) Occurrence Data in Sub-Saharan Africa
+  name: "Butterflies (Lepidoptera: Lycaenidae) Occurrence Data in Sub-Saharan Africa"
   type: value
   uri:  https://www.gbif.org/dataset/ebe7091d-8787-420e-871f-cb945e3b5d47
   parent_uris: []
@@ -100447,7 +100317,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: ARC-PPRI: National Collection of Insects: Coleoptera Collection (1879-2012)
+  name: "ARC-PPRI: National Collection of Insects: Coleoptera Collection (1879-2012)"
   type: value
   uri:  https://www.gbif.org/dataset/961572c9-2cca-4473-8c6e-9d288ef6ca29
   parent_uris: []
@@ -100499,7 +100369,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: UCT: Southern African Butterfly Conservation Assessment (1815-2009)
+  name: "UCT: Southern African Butterfly Conservation Assessment (1815-2009)"
   type: value
   uri:  https://www.gbif.org/dataset/590471f8-1497-4158-ab7f-b9294b656cda
   parent_uris: []
@@ -100655,7 +100525,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: A global revision of the Seahorses Hippocampus Rafinesque 1810 (Actinopterygii: Syngnathiformes): Taxonomy and biogeography with recommendations for further research
+  name: "A global revision of the Seahorses Hippocampus Rafinesque 1810 (Actinopterygii: Syngnathiformes): Taxonomy and biogeography with recommendations for further research"
   type: value
   uri:  https://www.gbif.org/dataset/f27bf01d-bf27-4e86-b2ba-81b84931d348
   parent_uris: []
@@ -100681,7 +100551,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: NU: KwaZulu-Natal Invasive Alien Species (1821-2011)
+  name: "NU: KwaZulu-Natal Invasive Alien Species (1821-2011)"
   type: value
   uri:  https://www.gbif.org/dataset/b79aa9e2-e14b-40df-98d6-10b98a618064
   parent_uris: []
@@ -100902,7 +100772,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: FBIP: Systematics of South African Hymenoptera
+  name: "FBIP: Systematics of South African Hymenoptera"
   type: value
   uri:  https://www.gbif.org/dataset/71c89f07-0299-4d9d-9e80-3652cffdf308
   parent_uris: []
@@ -100941,7 +100811,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: New species of Ilanga (Gastropoda: Trochoidea: Solariellidae) from the Indo-West Pacific
+  name: "New species of Ilanga (Gastropoda: Trochoidea: Solariellidae) from the Indo-West Pacific"
   type: value
   uri:  https://www.gbif.org/dataset/7aff0d3b-eb60-43e7-ace6-caffff8c1d72
   parent_uris: []
@@ -100967,7 +100837,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Revision of the genus Delopleurus Boheman (Coleoptera: Scarabaeidae: Scarabaeinae) with description of new species from Africa
+  name: "Revision of the genus Delopleurus Boheman (Coleoptera: Scarabaeidae: Scarabaeinae) with description of new species from Africa"
   type: value
   uri:  https://www.gbif.org/dataset/3bad6762-1788-4f94-9cfd-1281b8619c55
   parent_uris: []
@@ -101019,7 +100889,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Occurrence data of Afrotropical Mydidae (Insecta: Diptera: Asiloidea)
+  name: "Occurrence data of Afrotropical Mydidae (Insecta: Diptera: Asiloidea)"
   type: value
   uri:  https://www.gbif.org/dataset/6cc9b613-5f76-4654-9270-6eed8f57a34e
   parent_uris: []
@@ -101097,7 +100967,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Eunice sensu latu (Annelida: Eunicidae) from Australia: description of seven new species and comments on previously reported species of the genera Eunice, Leodice and Nicidion
+  name: "Eunice sensu latu (Annelida: Eunicidae) from Australia: description of seven new species and comments on previously reported species of the genera Eunice, Leodice and Nicidion"
   type: value
   uri:  https://www.gbif.org/dataset/4210c98c-65e5-4557-a166-49fd6f9ead0a
   parent_uris: []
@@ -101123,7 +100993,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Antlions of southern Africa: Syngenes Kolbe, 1897, with descriptions of two new species and comments on extra-limital taxa (Neuroptera: Myrmeleontidae: Acanthaclisini)
+  name: "Antlions of southern Africa: Syngenes Kolbe, 1897, with descriptions of two new species and comments on extra-limital taxa (Neuroptera: Myrmeleontidae: Acanthaclisini)"
   type: value
   uri:  https://www.gbif.org/dataset/eb673df4-addc-4ff1-a244-12940e61c6ac
   parent_uris: []
@@ -101240,7 +101110,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: FBIP: Barcoding of the national collection of fungi: with special Emphasis on Hypocrealean fungi
+  name: "FBIP: Barcoding of the national collection of fungi: with special Emphasis on Hypocrealean fungi"
   type: value
   uri:  https://www.gbif.org/dataset/b5cd47e0-0039-4092-a77f-7493b586a3e1
   parent_uris: []
@@ -101266,7 +101136,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Catalogue of Egyptian Tephritoidea (Diptera: Schizophora: Acalyptratae)
+  name: "Catalogue of Egyptian Tephritoidea (Diptera: Schizophora: Acalyptratae)"
   type: value
   uri:  https://www.gbif.org/dataset/70390707-8e0d-4e5e-8531-e35541bc049c
   parent_uris: []
@@ -101344,7 +101214,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Indo-West Pacific species of Trachinotus with spots on their sides as adults, with description of a new species endemic to the Marquesas Islands (Teleostei: Carangidae)
+  name: "Indo-West Pacific species of Trachinotus with spots on their sides as adults, with description of a new species endemic to the Marquesas Islands (Teleostei: Carangidae)"
   type: value
   uri:  https://www.gbif.org/dataset/eeaba26d-91f6-41e6-b88a-373c047d47cf
   parent_uris: []
@@ -101396,7 +101266,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Museu de Ciències Naturals de Barcelona: MCNB-ZG
+  name: "Museu de Ciències Naturals de Barcelona: MCNB-ZG"
   type: value
   uri:  https://www.gbif.org/dataset/71d6a0a2-f762-11e1-a439-00145eb45e9a
   parent_uris: []
@@ -101500,7 +101370,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: On the taxonomy of the genus Tumicla Wallengren, 1863 with description of two new species from Mozambique (Lepidoptera: Erebidae: Arctiinae)
+  name: "On the taxonomy of the genus Tumicla Wallengren, 1863 with description of two new species from Mozambique (Lepidoptera: Erebidae: Arctiinae)"
   type: value
   uri:  https://www.gbif.org/dataset/6ab5cadd-8428-4e3f-a5c6-b909cee2f89f
   parent_uris: []
@@ -101513,7 +101383,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Four new species of the genus Tumicla Wallengren, 1863 (Lepidoptera: Erebidae Arctiinae: Lithosiini)
+  name: "Four new species of the genus Tumicla Wallengren, 1863 (Lepidoptera: Erebidae Arctiinae: Lithosiini)"
   type: value
   uri:  https://www.gbif.org/dataset/ddf01fc8-a165-492e-aa9a-25316f7f4ab6
   parent_uris: []
@@ -101552,7 +101422,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: A review of Lamyra Loew (Diptera: Asilidae: Laphriinae)
+  name: "A review of Lamyra Loew (Diptera: Asilidae: Laphriinae)"
   type: value
   uri:  https://www.gbif.org/dataset/478feec8-889a-45c6-a315-d8bd4a50f479
   parent_uris: []
@@ -101578,7 +101448,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: ARC-PPRI: Chalcidoidea Collection (1900-2010)
+  name: "ARC-PPRI: Chalcidoidea Collection (1900-2010)"
   type: value
   uri:  https://www.gbif.org/dataset/b2ee8537-2a6c-4b4b-965a-538b47788606
   parent_uris: []
@@ -101591,7 +101461,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Redescription of Ateleopus japonicus Bleeker 1853, a senior synonym of Ateleopus natalensis Regan 1921 (Teleostei: Ateleopodiformes: Ateleopodidae)
+  name: "Redescription of Ateleopus japonicus Bleeker 1853, a senior synonym of Ateleopus natalensis Regan 1921 (Teleostei: Ateleopodiformes: Ateleopodidae)"
   type: value
   uri:  https://www.gbif.org/dataset/947c4dad-ee7b-414b-b38e-4823cbb3f7c5
   parent_uris: []
@@ -101617,7 +101487,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: GRBGT: Southern Cape Herbarium Specimen Collections (1882-2008)
+  name: "GRBGT: Southern Cape Herbarium Specimen Collections (1882-2008)"
   type: value
   uri:  https://www.gbif.org/dataset/10112b19-2e18-4129-b472-18df75dce84c
   parent_uris: []
@@ -101695,7 +101565,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: ARC-PPRI: National Collection of Nematodes and South African Plant-Parasitic Nematode Survey(1901-2014)
+  name: "ARC-PPRI: National Collection of Nematodes and South African Plant-Parasitic Nematode Survey(1901-2014)"
   type: value
   uri:  https://www.gbif.org/dataset/5edbfe13-c150-43d3-ac38-729b6aeb6147
   parent_uris: []
@@ -101903,7 +101773,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Review of the moray eels (Anguilliformes: Muraenidae) of the Red Sea, with description of a new species
+  name: "Review of the moray eels (Anguilliformes: Muraenidae) of the Red Sea, with description of a new species"
   type: value
   uri:  https://www.gbif.org/dataset/4bc9a2a0-5eb7-4a14-aa2a-013ccd6ca4b1
   parent_uris: []
@@ -102007,7 +101877,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Two new species of the genus Atractoscion, and resurrection of the species Atractoscion atelodus (Günther 1867) (Perciformes: Sciaenidae)
+  name: "Two new species of the genus Atractoscion, and resurrection of the species Atractoscion atelodus (Günther 1867) (Perciformes: Sciaenidae)"
   type: value
   uri:  https://www.gbif.org/dataset/0cd32718-ed0b-4afa-b3ec-46f4f308b0a9
   parent_uris: []
@@ -102098,7 +101968,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Museu de Ciències Naturals de Barcelona: MCNB-Cord
+  name: "Museu de Ciències Naturals de Barcelona: MCNB-Cord"
   type: value
   uri:  https://www.gbif.org/dataset/71d58564-f762-11e1-a439-00145eb45e9a
   parent_uris: []
@@ -102163,7 +102033,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: A taxonomic revision of the catshark genus Holohalaelurus Fowler 1934 (Chondrichthyes: Carcharhiniformes: Scyliorhinidae), with descriptions of two new species.
+  name: "A taxonomic revision of the catshark genus Holohalaelurus Fowler 1934 (Chondrichthyes: Carcharhiniformes: Scyliorhinidae), with descriptions of two new species."
   type: value
   uri:  https://www.gbif.org/dataset/9ba41305-96ee-48ab-9847-e54ba0dd7ba0
   parent_uris: []
@@ -102293,7 +102163,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: A taxonomic revision of Cheilodactylidae and Latridae (Centrarchiformes: Cirrhitoidei) using morphological and genomic characters
+  name: "A taxonomic revision of Cheilodactylidae and Latridae (Centrarchiformes: Cirrhitoidei) using morphological and genomic characters"
   type: value
   uri:  https://www.gbif.org/dataset/3b0c3795-56ed-4afb-99d4-6db0f65b13b7
   parent_uris: []
@@ -102579,7 +102449,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Tetranychus urticae literature occurrences in a predator-prey system: Phytoseiulus persimilis (Acari: Phytoseiidae) and Tetranychus urticae (Acari: Tetranychidae)
+  name: "Tetranychus urticae literature occurrences in a predator-prey system: Phytoseiulus persimilis (Acari: Phytoseiidae) and Tetranychus urticae (Acari: Tetranychidae)"
   type: value
   uri:  https://www.gbif.org/dataset/a9c0892e-0991-4c73-826d-8629cd71d95a
   parent_uris: []
@@ -102605,7 +102475,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Revision of Afrotropical Dyscritobaeus Perkins, 1910 (Hymenoptera: Scelionidae)
+  name: "Revision of Afrotropical Dyscritobaeus Perkins, 1910 (Hymenoptera: Scelionidae)"
   type: value
   uri:  https://www.gbif.org/dataset/2b965791-3303-41ac-bf83-be05c09c78ea
   parent_uris: []
@@ -102618,7 +102488,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: New records of the bee genus Colletes Latreille 1802 (Hymenoptera: Apoidea Colletidae) in Ethiopia with description of a new species
+  name: "New records of the bee genus Colletes Latreille 1802 (Hymenoptera: Apoidea Colletidae) in Ethiopia with description of a new species"
   type: value
   uri:  https://www.gbif.org/dataset/8d92cf24-b58e-41fb-86f2-aa9678af28c6
   parent_uris: []
@@ -102631,7 +102501,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: The Yponomeutidae of the Afrotropical region (Lepidoptera: Yponomeutoidea)
+  name: "The Yponomeutidae of the Afrotropical region (Lepidoptera: Yponomeutoidea)"
   type: value
   uri:  https://www.gbif.org/dataset/b0e41b14-7810-464d-9b1b-322bab9aa1bc
   parent_uris: []
@@ -102657,7 +102527,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Note on some antlions from Mozambique (Neuroptera: Myrmeleontidae)
+  name: "Note on some antlions from Mozambique (Neuroptera: Myrmeleontidae)"
   type: value
   uri:  https://www.gbif.org/dataset/c847dc2a-049b-442c-85ac-20c27cb4f634
   parent_uris: []
@@ -102696,7 +102566,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Jocquestus, a new genus of trachelid sac spiders from the Afrotropical Region (Arachnida: Araneae)
+  name: "Jocquestus, a new genus of trachelid sac spiders from the Afrotropical Region (Arachnida: Araneae)"
   type: value
   uri:  https://www.gbif.org/dataset/05d2a4ba-f50f-4645-bbb3-05cd83dcbd7e
   parent_uris: []
@@ -102813,7 +102683,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Occurrence data of new Afrotropical and Oriental Mydidae (Diptera: Asiloidea)
+  name: "Occurrence data of new Afrotropical and Oriental Mydidae (Diptera: Asiloidea)"
   type: value
   uri:  https://www.gbif.org/dataset/7eee6e2c-571c-41f4-8920-9a39d46ff142
   parent_uris: []
@@ -102826,7 +102696,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: An overview of the African genera of Prodidominae spiders: descriptions and remarks (Araneae: Gnaphosidae)
+  name: "An overview of the African genera of Prodidominae spiders: descriptions and remarks (Araneae: Gnaphosidae)"
   type: value
   uri:  https://www.gbif.org/dataset/432b7d8c-8d5b-4f24-ae3e-28484ed728d3
   parent_uris: []
@@ -102865,7 +102735,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Revision of the Palaearctic species of Eupelmus (Eupelmus) Dalman (Hymenoptera: Chalcidoidea: Eupelmidae)
+  name: "Revision of the Palaearctic species of Eupelmus (Eupelmus) Dalman (Hymenoptera: Chalcidoidea: Eupelmidae)"
   type: value
   uri:  https://www.gbif.org/dataset/ae784474-b543-438c-b369-51b671b83fc4
   parent_uris: []
@@ -102878,7 +102748,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Revision of the genus Euthalenessa Darboux (Polychaeta: Sigalionidae)
+  name: "Revision of the genus Euthalenessa Darboux (Polychaeta: Sigalionidae)"
   type: value
   uri:  https://www.gbif.org/dataset/a3e8c76c-0e3e-4d18-a540-e46ca2fc8c8c
   parent_uris: []
@@ -102891,7 +102761,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: A geographic distribution database of Mononychellus mites (Acari: Tetranychidae) on cassava (Manihot esculenta)
+  name: "A geographic distribution database of Mononychellus mites (Acari: Tetranychidae) on cassava (Manihot esculenta)"
   type: value
   uri:  https://www.gbif.org/dataset/785cf038-7b79-4c2f-9e9e-eb940fcd4c0c
   parent_uris: []
@@ -102917,7 +102787,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Digitonthophagus Balthasar, 1959: taxonomy, systematics, and morphological phylogeny of the genus revealing an African species complex (Coleoptera: Scarabaeidae: Scarabaeinae)
+  name: "Digitonthophagus Balthasar, 1959: taxonomy, systematics, and morphological phylogeny of the genus revealing an African species complex (Coleoptera: Scarabaeidae: Scarabaeinae)"
   type: value
   uri:  https://www.gbif.org/dataset/cf486ccc-d298-4179-8ccf-e29a9c894ab4
   parent_uris: []
@@ -102930,7 +102800,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Revision of Afrotropical Silky Lacewings (Neuroptera: Psychopsidae)
+  name: "Revision of Afrotropical Silky Lacewings (Neuroptera: Psychopsidae)"
   type: value
   uri:  https://www.gbif.org/dataset/b93895f2-f4a1-4c78-b0dc-1fee622c25c0
   parent_uris: []
@@ -103008,7 +102878,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: The Lampropidae (Crustacea: Cumacea) of the World
+  name: "The Lampropidae (Crustacea: Cumacea) of the World"
   type: value
   uri:  https://www.gbif.org/dataset/e10e53f2-0e1b-46f6-8b0f-af19d5529711
   parent_uris: []
@@ -103047,7 +102917,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: FBIP: Baboon spider distribution records from selected South African museums
+  name: "FBIP: Baboon spider distribution records from selected South African museums"
   type: value
   uri:  https://www.gbif.org/dataset/f12967b8-55a1-4d81-b390-5656a1b73ebc
   parent_uris: []
@@ -103086,7 +102956,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: A new species of the genus Nothobranchius (Cyprinodontiformes: Nothobranchiidae) from the coastal area of northeastern Mozambique.
+  name: "A new species of the genus Nothobranchius (Cyprinodontiformes: Nothobranchiidae) from the coastal area of northeastern Mozambique."
   type: value
   uri:  https://www.gbif.org/dataset/1c1b91f0-7b86-4e1f-8761-ccd6990d7763
   parent_uris: []
@@ -103099,7 +102969,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Description of two new species of Xevioso (Araneae: Phyxelididae) from Southern Africa, with the northernmost localities for the genus
+  name: "Description of two new species of Xevioso (Araneae: Phyxelididae) from Southern Africa, with the northernmost localities for the genus"
   type: value
   uri:  https://www.gbif.org/dataset/58fe9824-63d2-4915-a61a-315b8c8bb678
   parent_uris: []
@@ -103125,7 +102995,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Remarks on some interesting African Pamphagidae and Acrididae (Insecta Orthoptera: Acridoidea)
+  name: "Remarks on some interesting African Pamphagidae and Acrididae (Insecta Orthoptera: Acridoidea)"
   type: value
   uri:  https://www.gbif.org/dataset/c1ddd833-efa5-4a0c-bb3b-558198c129ae
   parent_uris: []
@@ -103138,7 +103008,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Revision of the Highly Specialized Ant Genus Discothyrea (Hymenoptera: Formicidae) in the Afrotropics with X-Ray Microtomography and 3 D Cybertaxonomy
+  name: "Revision of the Highly Specialized Ant Genus Discothyrea (Hymenoptera: Formicidae) in the Afrotropics with X-Ray Microtomography and 3 D Cybertaxonomy"
   type: value
   uri:  https://www.gbif.org/dataset/56172c62-3e7c-4ab7-83d4-1dd9f5c57eb5
   parent_uris: []
@@ -103151,7 +103021,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Overview of the Ferdina - like Goniasteridae (Echinodermata: Asteroidea) including a new subfamily, three new genera and fourteen new species
+  name: "Overview of the Ferdina - like Goniasteridae (Echinodermata: Asteroidea) including a new subfamily, three new genera and fourteen new species"
   type: value
   uri:  https://www.gbif.org/dataset/f3ad9b4c-35d8-4a01-a14b-3dd968623358
   parent_uris: []
@@ -103255,7 +103125,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: A review of the Lecithoceridae (Lepidoptera: Gelechioidea) of southern Africa, based on type specimens deposited in the Ditsong National Museum of Natural History (TMSA), with descriptions of three new species
+  name: "A review of the Lecithoceridae (Lepidoptera: Gelechioidea) of southern Africa, based on type specimens deposited in the Ditsong National Museum of Natural History (TMSA), with descriptions of three new species"
   type: value
   uri:  https://www.gbif.org/dataset/628844a2-73ea-4aed-b578-5d228dc8e736
   parent_uris: []
@@ -103281,7 +103151,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Annelida): an amphi-Atlantic Hyalopale bispinosa species complex and five new species from reefs of the Caribbean Sea and Indo-Pacific Oceans
+  name: "Revision of Hyalopale (Chrysopetalidae; Phyllodocida; Annelida): an amphi-Atlantic Hyalopale bispinosa species complex and five new species from reefs of the Caribbean Sea and Indo-Pacific Oceans"
   type: value
   uri:  https://www.gbif.org/dataset/43f393b8-6c05-4861-9b7c-2f7f1a169d10
   parent_uris: []
@@ -103294,7 +103164,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Reading between the lines: revealing cryptic species diversity and colour patterns in Hypselodoris nudibranchs (Mollusca: Heterobranchia: Chromodorididae)
+  name: "Reading between the lines: revealing cryptic species diversity and colour patterns in Hypselodoris nudibranchs (Mollusca: Heterobranchia: Chromodorididae)"
   type: value
   uri:  https://www.gbif.org/dataset/49bea467-fac6-484a-9902-05483dec9a52
   parent_uris: []
@@ -103359,7 +103229,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Glossing over cryptic species: Descriptions of four new species of Glossodoris and three new species of Doriprismatica (Nudibranchia: Chromodorididae)
+  name: "Glossing over cryptic species: Descriptions of four new species of Glossodoris and three new species of Doriprismatica (Nudibranchia: Chromodorididae)"
   type: value
   uri:  https://www.gbif.org/dataset/247b6cb3-245a-4fb9-b065-5b0548b5b7ce
   parent_uris: []
@@ -103424,7 +103294,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: An annotated type catalogue of the camel spiders (Arachnida: Solifugae) held in the Zoological Museum Hamburg
+  name: "An annotated type catalogue of the camel spiders (Arachnida: Solifugae) held in the Zoological Museum Hamburg"
   type: value
   uri:  https://www.gbif.org/dataset/d689036e-f453-4296-ad56-c8d60f7e69d5
   parent_uris: []
@@ -103684,7 +103554,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Guide to the Parasites of Fishes of Canada Part V: Nematoda
+  name: "Guide to the Parasites of Fishes of Canada Part V: Nematoda"
   type: value
   uri:  https://www.gbif.org/dataset/11620862-ddcf-4c01-b0d9-32867e03d74b
   parent_uris: []
@@ -104048,7 +103918,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Designation of a neotype for Glypturus rabalaisae Sakai, 2011, a ghost shrimp from continental shelf waters of the northern Gulf of Mexico (Crustacea: Decapoda: Callianassidae)
+  name: "Designation of a neotype for Glypturus rabalaisae Sakai, 2011, a ghost shrimp from continental shelf waters of the northern Gulf of Mexico (Crustacea: Decapoda: Callianassidae)"
   type: value
   uri:  https://www.gbif.org/dataset/543b652a-0a3f-4e5c-a698-4075c1efc89e
   parent_uris: []
@@ -104152,7 +104022,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Filling the gaps: descriptions of unnamed species included in the latest molecular phylogeny of Pholcidae (Araneae)
+  name: "Filling the gaps: descriptions of unnamed species included in the latest molecular phylogeny of Pholcidae (Araneae)"
   type: value
   uri:  https://www.gbif.org/dataset/aa93de4b-c9ed-4b3e-a1c2-3f5d90faba57
   parent_uris: []
@@ -104438,7 +104308,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Two new whiprays, Maculabatis arabica sp. nov. and M. bineeshi sp. nov. (Myliobatiformes: Dasyatidae), from the northern Indian Ocean
+  name: "Two new whiprays, Maculabatis arabica sp. nov. and M. bineeshi sp. nov. (Myliobatiformes: Dasyatidae), from the northern Indian Ocean"
   type: value
   uri:  https://www.gbif.org/dataset/f4c9adb0-020a-45ad-aa93-c9e39f65b099
   parent_uris: []
