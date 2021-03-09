@@ -34966,7 +34966,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: instituto nacional de pesquisas da amazonia (inpa)
+  name: instituto nacional de pesquisas da amazonia (INPA)
   type: value
   uri: http://grbio.org/cool/rm88-499z
   parent_uris: []
@@ -104770,19 +104770,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'Dominique M Collet, contributor to http://www.akentsoc.org/the_fauna/checklist'
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: Dominique M Collet
-  type: value
-  uri: http://eol.org/schema/terms/Dominique_M_Collet
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
   definition: 'Dr Dave Kavanaugh, contributor to http://www.akentsoc.org/the_fauna/checklist'
   is_hidden_from_select: true
   is_hidden_from_overview: false
@@ -104843,19 +104830,6 @@ terms:
   name: E Chapin
   type: value
   uri: http://eol.org/schema/terms/E_Chapin
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: 'E Holsten, contributor to http://www.akentsoc.org/the_fauna/checklist'
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: E Holsten
-  type: value
-  uri: http://eol.org/schema/terms/E_Holsten
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
@@ -106299,19 +106273,6 @@ terms:
   name: Reserva Natural Vale
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:13923
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: Instituto Nacional de Pesquisas da Amazônia (INPA)Instituto Nacional de Pesquisas da Amazônia (INPA)
-  type: value
-  uri: http://grbio.org/cool/rm88-499z
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
