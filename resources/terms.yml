@@ -19257,12 +19257,12 @@ terms:
 - attribution: http://paleodb.org/public/tips/ecology_tips.html
   definition: Benthic organism that lives deep within unlithified (soft) substrate.
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
   is_text_only: false
   name: deep infaunal
   type: value
-  uri: "http://eol.org/schema/terms/deepInfaunal\uFEFF"
+  uri: http://eol.org/schema/terms/deepInfaunal
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
@@ -84971,19 +84971,6 @@ terms:
   name: group living
   type: value
   uri: http://eol.org/schema/terms/socialGroupLiving
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: deep infaunal
-  type: value
-  uri: http://eol.org/schema/terms/deepInfaunal
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
