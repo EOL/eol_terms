@@ -1,4 +1,3 @@
----
 terms:
 - attribution: ''
   definition: a measure of specific growth rate
@@ -89113,7 +89112,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'La'ona DeWilde, collector for http://www.akentsoc.org/the_fauna/checklist'
+  definition: "La'ona DeWilde, collector for http://www.akentsoc.org/the_fauna/checklist"
   is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
@@ -90274,7 +90273,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'Cailin O'Connor, contributor to AmphibiaWeb'
+  definition: "Cailin O'Connor, contributor to AmphibiaWeb"
   is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
@@ -96077,7 +96076,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: AM: "Freshwater Invertebrates (1900-2005)"
+  name: "AM: Freshwater Invertebrates (1900-2005)"
   type: value
   uri:  https://www.gbif.org/dataset/2ca312ee-40cf-49e0-b864-31531b7eba81
   parent_uris: []
