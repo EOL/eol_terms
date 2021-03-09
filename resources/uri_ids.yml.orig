@@ -9782,5 +9782,8 @@ uri_ids:
   http://biocol.org/urn:lsid:biocol.org:col:15566: 9775
   http://biocol.org/urn:lsid:biocol.org:col:15387: 9776
   http://eol.org/schema/terms/exisotype: 9777
+<<<<<<< HEAD
+=======
   http://purl.obolibrary.org/obo/ro_0008504: 9778
   http://eol.org/schema/terms/dispersalvectorfor: 9779
+>>>>>>> main
