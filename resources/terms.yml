@@ -95838,16 +95838,30 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: 'https://www.mnhn.fr/fr'
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: "Histoire naturelle (MNHN - Paris)"
+  type: value
+  uri:  http://grbio.org/cool/cxwr-bj09
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
 - attribution: ''
   definition: 'a gbif dataset'
   is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Histoire naturelle (MNHN - Paris)
+  name: "The fishes collection (IC) of the Muséum national d'Histoire naturelle (MNHN - Paris)"
   type: value
   uri:  https://www.gbif.org/dataset/f58922e2-93ed-4703-ba22-12a0674d1b54
-  parent_uris: []
+  parent_uris:
+  - http://grbio.org/cool/cxwr-bj09
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -95860,7 +95874,8 @@ terms:
   name: Collection Pisces SMF
   type: value
   uri:  https://www.gbif.org/dataset/96582dc4-f762-11e1-a439-00145eb45e9a
-  parent_uris: []
+  parent_uris:
+  - http://grbio.org/cool/cxwr-bj09
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -96364,10 +96379,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Histoire naturelle (MNHN - Paris)
+  name: "The molluscs collection (IM) of the Muséum national d'Histoire naturelle (MNHN - Paris)"
   type: value
   uri:  https://www.gbif.org/dataset/0214a6a7-898f-4ee8-b888-0be60ecde81f
-  parent_uris: []
+  parent_uris:
+  - http://grbio.org/cool/cxwr-bj09
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -96416,10 +96432,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Histoire Naturelle (MNHN - Paris)
+  name: "The vascular plants collection (P) at the Herbarium of the Muséum national d'Histoire Naturelle (MNHN - Paris)"
   type: value
   uri:  https://www.gbif.org/dataset/b5cdf794-8fa4-4a85-8b26-755d087bf531
-  parent_uris: []
+  parent_uris:
+  - http://grbio.org/cool/cxwr-bj09
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -96533,10 +96550,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Histoire Naturelle (MNHN - Paris)
+  name: "The reptiles and amphibians collection (RA) of the Muséum national d'Histoire Naturelle (MNHN - Paris)"
   type: value
   uri:  https://www.gbif.org/dataset/217b0d4f-c87e-4063-b6c5-78277e40e866
-  parent_uris: []
+  parent_uris:
+  - http://grbio.org/cool/cxwr-bj09
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -96897,10 +96915,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Histoire naturelle (MNHN - Paris)
+  name: "The Orthoptera collection (EO) of the Muséum national d'Histoire naturelle (MNHN - Paris)"
   type: value
   uri:  https://www.gbif.org/dataset/1b2af425-9f6f-4b28-a008-af9757317c4c
-  parent_uris: []
+  parent_uris:
+  - http://grbio.org/cool/cxwr-bj09
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -96923,10 +96942,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Histoire naturelle (MNHN - Paris)
+  name: "The Hemiptera collection (EH) of the Muséum national d'Histoire naturelle (MNHN - Paris)"
   type: value
   uri:  https://www.gbif.org/dataset/d9474ec2-061c-4858-bfdd-e10ba6aca397
-  parent_uris: []
+  parent_uris:
+  - http://grbio.org/cool/cxwr-bj09
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -97469,10 +97489,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Histoire naturelle (MNHN - Paris)
+  name: "The Lepidoptera collection (EL) of the Muséum national d'Histoire naturelle (MNHN - Paris)"
   type: value
   uri:  https://www.gbif.org/dataset/33e3780b-d539-4e5e-b82f-1662b5941a9e
-  parent_uris: []
+  parent_uris:
+  - http://grbio.org/cool/cxwr-bj09
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -97937,10 +97958,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Histoire naturelle (MNHN - Paris)
+  name: "The Coleoptera collection (EC) of the Muséum national d'Histoire naturelle (MNHN - Paris)"
   type: value
   uri:  https://www.gbif.org/dataset/eff7d030-3013-43da-b686-6bafdd228131
-  parent_uris: []
+  parent_uris:
+  - http://grbio.org/cool/cxwr-bj09
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -98652,10 +98674,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Histoire Naturelle (MNHN - Paris)
+  name: "The birds collection (ZO) of the Muséum national d'Histoire Naturelle (MNHN - Paris)"
   type: value
   uri:  https://www.gbif.org/dataset/ba0c03ab-fa61-4a3c-8db7-35c8c3454168
-  parent_uris: []
+  parent_uris:
+  - http://grbio.org/cool/cxwr-bj09
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -98938,10 +98961,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Histoire naturelle (MNHN - Paris)
+  name: "The Hymenoptera collection (EY) of the Muséum national d'Histoire naturelle (MNHN - Paris)"
   type: value
   uri:  https://www.gbif.org/dataset/2cc23bac-e94b-414f-95ab-cc838c03f765
-  parent_uris: []
+  parent_uris:
+  - http://grbio.org/cool/cxwr-bj09
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -98951,10 +98975,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Histoire Naturelle (MNHN - Paris)
+  name: "The cryptogamy collection (PC) at the Herbarium of the Muséum national d'Histoire Naturelle (MNHN - Paris)"
   type: value
   uri:  https://www.gbif.org/dataset/fea77396-7b26-44cb-8580-aefadc8db276
-  parent_uris: []
+  parent_uris:
+  - http://grbio.org/cool/cxwr-bj09
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -99445,10 +99470,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Histoire naturelle (MNHN - Paris)
+  name: "The echinoderm collection (IE) of the Muséum national d'Histoire naturelle (MNHN - Paris)"
   type: value
   uri:  https://www.gbif.org/dataset/b568aebb-b2c8-4dd2-8a59-ab74d50f8640
-  parent_uris: []
+  parent_uris:
+  - http://grbio.org/cool/cxwr-bj09
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -99471,10 +99497,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Histoire naturelle (MNHN - Paris)
+  name: "The mammals collection (ZM) of the Muséum national d'Histoire naturelle (MNHN - Paris)"
   type: value
   uri:  https://www.gbif.org/dataset/3959ee49-7678-4a88-9049-5dfc55ccebf3
-  parent_uris: []
+  parent_uris:
+  - http://grbio.org/cool/cxwr-bj09
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -99497,10 +99524,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Histoire naturelle (MNHN - Paris)
+  name: "The nematodes collection (IN) of the Muséum national d'Histoire naturelle (MNHN - Paris)"
   type: value
   uri:  https://www.gbif.org/dataset/e0ebf2a1-3656-468a-b0b6-1aa93ff43fef
-  parent_uris: []
+  parent_uris:
+  - http://grbio.org/cool/cxwr-bj09
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -100355,10 +100383,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Histoire naturelle (MNHN - Paris)
+  name: "The crustaceans collection (IU) of the Muséum national d'Histoire naturelle (MNHN - Paris)"
   type: value
   uri:  https://www.gbif.org/dataset/da6a07ed-9eee-460d-9448-910f542c1a7b
-  parent_uris: []
+  parent_uris:
+  - http://grbio.org/cool/cxwr-bj09
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -102552,10 +102581,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Histoire naturelle (MNHN - Paris)
+  name: "The cnidarians collection (IK) of the Muséum national d'Histoire naturelle (MNHN - Paris)"
   type: value
   uri:  https://www.gbif.org/dataset/b5cdf587-3342-48ec-9130-ba1281d7166f
-  parent_uris: []
+  parent_uris:
+  - http://grbio.org/cool/cxwr-bj09
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -102825,10 +102855,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Histoire naturelle (MNHN - Paris)
+  name: "The Araneae collection (AR) of the Muséum national d'Histoire naturelle (MNHN - Paris)"
   type: value
   uri:  https://www.gbif.org/dataset/614122e1-7e55-4f0f-a616-a4c454664f10
-  parent_uris: []
+  parent_uris:
+  - http://grbio.org/cool/cxwr-bj09
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -104216,10 +104247,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Histoire naturelle (MNHN - Paris)
+  name: The Scorpiones collection (RS) of the Muséum national d'Histoire naturelle (MNHN - Paris)
   type: value
   uri:  https://www.gbif.org/dataset/2f23ac81-674e-4e4e-982f-73f49ccdb9df
-  parent_uris: []
+  parent_uris:
+  - http://grbio.org/cool/cxwr-bj09
   synonym_of_uri:
   units_term_uri:
   alias:
