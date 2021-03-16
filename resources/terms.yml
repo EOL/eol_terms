@@ -725,11 +725,11 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/abrin
   parent_uris: []
-  synonym_of_uri:
+  synonym_of_uri: http://purl.bioontology.org/ontology/MESH/D000036
   units_term_uri:
   alias:
 - attribution: ''
-  definition: ''
+  definition: 'A toxic lectin from the seeds of jequirity, Abrus precatorius L. Very active poison. Five different proteins have so far been isolated: Abrus agglutinin, the component responsible for: hemagglutinating activity, & abrins a-d, the toxic principals each consisting of two peptide chains are held together by disulfide bonds.'
   is_hidden_from_select: false
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
@@ -1402,19 +1402,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: organisms adapted to spending a considerable part of their life in the air, away from the ground, vegetation or water.
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: aerial
-  type: value
-  uri: http://eol.org/schema/terms/aerial
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
   definition: Behavior related to the movement of an organism from one location to another through the air.
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -1703,7 +1690,7 @@ terms:
   alias:
 - attribution: ''
   definition: Wastewater produced in the course of agricultural activities
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
@@ -1711,8 +1698,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00002265
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000077
-  synonym_of_uri:
+  synonym_of_uri: http://purl.obolibrary.org/obo/ENVO_01000371
   units_term_uri:
   alias:
 - attribution: ''
@@ -1727,6 +1713,7 @@ terms:
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_01000155
   - http://purl.obolibrary.org/obo/ENVO_00002264
+  - http://purl.obolibrary.org/obo/ENVO_00000077
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -6571,7 +6558,7 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
@@ -6579,8 +6566,7 @@ terms:
   type: value
   uri: http://www.geonames.org/3471168
   parent_uris:
-  - http://www.geonames.org/3469034
-  synonym_of_uri:
+  synonym_of_uri: https://www.geonames.org/3471168
   units_term_uri:
   alias:
 - attribution: ''
@@ -10133,7 +10119,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/bulb
   parent_uris: []
-  synonym_of_uri:
+  synonym_of_uri: http://purl.obolibrary.org/obo/PO_0025356
   units_term_uri:
   alias:
 - attribution: ''
@@ -12015,7 +12001,7 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
@@ -12023,8 +12009,7 @@ terms:
   type: value
   uri: http://www.geonames.org/4563233
   parent_uris:
-  - http://www.marineregions.org/mrgid/1902
-  synonym_of_uri:
+  synonym_of_uri: http://www.marineregions.org/mrgid/4287
   units_term_uri:
   alias:
 - attribution: ''
@@ -14249,7 +14234,7 @@ terms:
   alias:
 - attribution: https://www.worldwildlife.org/ecoregions/nt0704
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
@@ -14257,9 +14242,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/Cerrado
   parent_uris:
-  - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_grasslands_savannas_and_shrublands
-  synonym_of_uri:
+  synonym_of_uri: https://www.wikidata.org/entity/Q278512
   units_term_uri:
   alias:
 - attribution: ''
@@ -14274,6 +14257,8 @@ terms:
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_01001305
   - http://www.geonames.org/3469034
+  - http://www.geonames.org/6255150
+  - http://eol.org/schema/terms/tropical_and_subtropical_grasslands_savannas_and_shrublands
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -16706,7 +16691,7 @@ terms:
   alias:
 - attribution: ''
   definition: A cell shape that approximates a cone. (see Table 1, Olenina, I., Hajdu, S., Edler, L., Andersson, A., Wasmund, N., Busch, S., Göbel, J., Gromisz, S., Huseby, S., Huttunen, M., Jaanus, A., Kokkonen, P., Ledaine, I. and Niemkiewicz, E. 2006. Biovolumes and size-classes of phytoplankton in the Baltic Sea. HELCOM Balt.Sea Environ. Proc. No. 106, 144pp.)
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
@@ -16714,7 +16699,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/coneShapedCell
   parent_uris: []
-  synonym_of_uri:
+  synonym_of_uri: http://eol.org/schema/terms/cone
   units_term_uri:
   alias:
 - attribution: ''
@@ -19436,7 +19421,7 @@ terms:
   type: value
   uri: http://marineregions.org/mrgid/2198
   parent_uris: []
-  synonym_of_uri: http://www.wikidata.org/entity/Q974
+  synonym_of_uri: http://www.geonames.org/2260494
   units_term_uri:
   alias:
 - attribution: ''
@@ -19449,9 +19434,7 @@ terms:
   type: value
   uri: http://www.geonames.org/203312
   parent_uris:
-  - https://www.wikidata.org/entity/Q186198
-  - http://www.geonames.org/6255146
-  synonym_of_uri:
+  synonym_of_uri: http://www.geonames.org/2260494
   units_term_uri:
   alias:
 - attribution: ''
@@ -19464,8 +19447,7 @@ terms:
   type: value
   uri: http://www.wikidata.org/entity/Q974
   parent_uris:
-  - http://eol.org/schema/terms/Afrotropical
-  synonym_of_uri:
+  synonym_of_uri: http://www.geonames.org/2260494
   units_term_uri:
   alias:
 - attribution: ''
@@ -19563,12 +19545,12 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: ''
+  definition: 'Depressive states usually of moderate intensity in contrast with major depression present in neurotic and psychotic disorders.'
   is_hidden_from_select: false
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: depression
+  name: depression (symptom)
   type: value
   uri: http://purl.bioontology.org/ontology/MSH/D003863
   parent_uris: []
@@ -22149,16 +22131,15 @@ terms:
   alias:
 - attribution: http://www.cnvc-cnvc.ca/abstract.cfm?assoc_id=M495
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Eastern North American Boreal Forest
+  name: Eastern North American Boreal Forest, shrub layer
   type: value
   uri: https://eol.org/schema/terms/CNVC_M495_shru
   parent_uris:
-  - https://eol.org/schema/terms/CNVC_M495
-  synonym_of_uri:
+  synonym_of_uri: https://eol.org/schema/terms/CNVC_M495_shrub
   units_term_uri:
   alias:
 - attribution: http://www.cnvc-cnvc.ca/abstract.cfm?assoc_id=M495
@@ -24735,7 +24716,7 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
@@ -24743,8 +24724,7 @@ terms:
   type: value
   uri: http://www.geonames.org/3463930
   parent_uris:
-  - http://www.geonames.org/3469034
-  synonym_of_uri:
+  synonym_of_uri: https://www.geonames.org/3463930
   units_term_uri:
   alias:
 - attribution: ''
@@ -28065,7 +28045,7 @@ terms:
   alias:
 - attribution: ''
   definition: An area density unit which is equal to the mass of an object in grams divided by the surface area in meters squared
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
@@ -28073,7 +28053,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/gramsPerMeterSquared
   parent_uris: []
-  synonym_of_uri:
+  synonym_of_uri: http://purl.obolibrary.org/obo/UO_0010049
   units_term_uri:
   alias:
 - attribution: ''
@@ -28851,7 +28831,7 @@ terms:
   type: value
   uri: 'http://purl.obolibrary.org/obo/NBO_0000369 '
   parent_uris: []
-  synonym_of_uri:
+  synonym_of_uri: http://purl.obolibrary.org/obo/NBO_0000369
   units_term_uri:
   alias:
 - attribution: ''
@@ -36286,7 +36266,7 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
@@ -36294,8 +36274,7 @@ terms:
   type: value
   uri: https://www.wikidata.org/entity/Q14056
   parent_uris:
-  - http://www.geonames.org/3144096
-  synonym_of_uri:
+  synonym_of_uri: http://www.geonames.org/3041964
   units_term_uri:
   alias:
 - attribution: ''
@@ -36437,8 +36416,7 @@ terms:
   type: value
   uri: http://www.geonames.org/3042142
   parent_uris:
-  - http://www.geonames.org/2635167
-  synonym_of_uri:
+  synonym_of_uri: http://www.geonames.org/3042143
   units_term_uri:
   alias:
 - attribution: ''
@@ -37695,7 +37673,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: kleptoparasite of
+  name: kleptoparasitized by
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0008504
   inverse_of_uri: http://purl.obolibrary.org/obo/RO_0008503
@@ -37733,7 +37711,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: known marine species
+  name: described accepted species
   type: measurement
   uri: http://eol.org/schema/terms/DescribedAcceptedSpecies
   parent_uris: []
@@ -38705,7 +38683,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: larval development
+  name: larval development mode
   type: measurement
   uri: http://polytraits.lifewatchgreece.eu/terms/LDEV
   parent_uris: []
@@ -41258,7 +41236,7 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
@@ -41266,9 +41244,7 @@ terms:
   type: value
   uri: http://www.wikidata.org/entity/Q105472
   parent_uris:
-  - http://www.geonames.org/7729885
-  - http://www.wikidata.org/entity/Q42530
-  synonym_of_uri:
+  synonym_of_uri: https://www.wikidata.org/entity/Q105472
   units_term_uri:
   alias:
 - attribution: ''
@@ -43173,7 +43149,7 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
@@ -43181,8 +43157,7 @@ terms:
   type: value
   uri: http://www.geonames.org/3457419
   parent_uris:
-  - http://www.geonames.org/3469034
-  synonym_of_uri:
+  synonym_of_uri: https://www.geonames.org/3457419
   units_term_uri:
   alias:
 - attribution: ''
@@ -43201,7 +43176,7 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
@@ -43209,8 +43184,7 @@ terms:
   type: value
   uri: http://www.geonames.org/3457415
   parent_uris:
-  - http://www.geonames.org/3469034
-  synonym_of_uri:
+  synonym_of_uri: https://www.geonames.org/3457415
   units_term_uri:
   alias:
 - attribution: ''
@@ -43754,7 +43728,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: median
+  name: median (position)
   type: value
   uri: http://purl.obolibrary.org/obo/FMA_74528
   parent_uris: []
@@ -45375,7 +45349,7 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
@@ -45383,8 +45357,7 @@ terms:
   type: value
   uri: http://www.geonames.org/3457153
   parent_uris:
-  - http://www.geonames.org/3469034
-  synonym_of_uri:
+  synonym_of_uri: https://www.geonames.org/3457153
   units_term_uri:
   alias:
 - attribution: ''
@@ -45757,10 +45730,11 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: mixed
+  name: mixed substrate
   type: value
   uri: http://polytraits.lifewatchgreece.eu/terms/SUBST_MIX
-  parent_uris: []
+  parent_uris:
+  - http://purl.obolibrary.org/obo/PATO_0002122
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -46060,10 +46034,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: moderate
+  name: moderate rate
   type: value
   uri: http://eol.org/schema/terms/moderateRate
-  parent_uris: []
+  parent_uris:
+  - http://purl.obolibrary.org/obo/PATO_0000395
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -46379,7 +46354,7 @@ terms:
   type: value
   uri: http://marineregions.org/mrgid/17584
   parent_uris: []
-  synonym_of_uri: http://www.geonames.org/2029969
+  synonym_of_uri: https://www.geonames.org/2029969
   units_term_uri:
   alias:
 - attribution: ''
@@ -46392,10 +46367,7 @@ terms:
   type: value
   uri: http://www.geonames.org/2029969
   parent_uris:
-  - http://www.geonames.org/7729894
-  - https://www.wikidata.org/entity/Q186198
-  - https://www.wikidata.org/entity/Q106447
-  synonym_of_uri:
+  synonym_of_uri: https://www.geonames.org/2029969
   units_term_uri:
   alias:
 - attribution: ''
@@ -46407,7 +46379,10 @@ terms:
   name: Mongolia
   type: value
   uri: https://www.geonames.org/2029969
-  parent_uris: []
+  parent_uris:
+  - http://www.geonames.org/7729894
+  - https://www.wikidata.org/entity/Q186198
+  - https://www.wikidata.org/entity/Q106447
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -49433,20 +49408,6 @@ terms:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
-  is_hidden_from_overview: true
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: no sexual metamorphosis
-  type: value
-  uri: http://polytraits.lifewatchgreece.eu/terms/SM_NO
-  parent_uris:
-  - http://purl.obolibrary.org/obo/GO_0019953
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
@@ -49872,7 +49833,7 @@ terms:
   alias:
 - attribution: http://www.cnvc-cnvc.ca/abstract.cfm?assoc_id=M079
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
@@ -49880,9 +49841,7 @@ terms:
   type: value
   uri: https://eol.org/schema/terms/CNVC_M079
   parent_uris:
-  - https://eol.org/schema/terms/eastern_north_america
-  - http://purl.obolibrary.org/obo/ENVO_01000022
-  synonym_of_uri:
+  synonym_of_uri: https://eol.org/schema/terms/CNVC_D034
   units_term_uri:
   alias:
 - attribution: https://www1.usgs.gov/csas/nvcs/nvcsGetUnitDetails?elementGlobalId=860325
@@ -51983,7 +51942,7 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
@@ -51991,8 +51950,7 @@ terms:
   type: value
   uri: http://www.wikidata.org/entity/Q2007
   parent_uris:
-  - http://www.geonames.org/6251999
-  synonym_of_uri:
+  synonym_of_uri: https://www.wikidata.org/entity/Q2007
   units_term_uri:
   alias:
 - attribution: ''
@@ -52006,6 +51964,7 @@ terms:
   uri: https://www.wikidata.org/entity/Q2007
   parent_uris:
   - https://www.wikidata.org/entity/Q1145847
+  - http://www.geonames.org/6251999
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -52619,7 +52578,7 @@ terms:
   type: value
   uri: https://www.wikidata.org/entity/Q2023
   parent_uris: []
-  synonym_of_uri: http://www.wikidata.org/entity/Q2023
+  synonym_of_uri: http://www.geonames.org/6091732
   units_term_uri:
   alias:
 - attribution: ''
@@ -52857,7 +52816,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Oceania
+  name: Oceania Realm
   type: value
   uri: http://marineregions.org/mrgid/22739
   parent_uris: []
@@ -53475,7 +53434,7 @@ terms:
   type: value
   uri: http://polytraits.lifewatchgreece.eu/terms/FEED_O
   parent_uris: []
-  synonym_of_uri: http://www.wikidata.org/entity/Q164509
+  synonym_of_uri: https://www.wikidata.org/entity/Q164509
   units_term_uri:
   alias:
 - attribution: ''
@@ -55181,20 +55140,18 @@ terms:
   alias:
 - attribution: https://www.worldwildlife.org/ecoregions/nt0907
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   name: Pantanal
   type: value
   uri: http://eol.org/schema/terms/Pantanal
   parent_uris:
-  - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/flooded_grasslands_and_savannas
-  synonym_of_uri:
+  synonym_of_uri: https://www.wikidata.org/entity/Q157603
   units_term_uri:
   alias:
 - attribution: ''
-  definition: ''
+  definition: 'tropical wetland mostly within Brazil, and portions in Bolivia and Paraguay'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
@@ -55204,6 +55161,8 @@ terms:
   uri: https://www.wikidata.org/entity/Q157603
   parent_uris:
   - http://www.geonames.org/3469034
+  - http://www.geonames.org/6255150
+  - http://eol.org/schema/terms/flooded_grasslands_and_savannas
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -55472,7 +55431,7 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
@@ -55480,8 +55439,7 @@ terms:
   type: value
   uri: http://www.geonames.org/3455077
   parent_uris:
-  - http://www.geonames.org/3469034
-  synonym_of_uri:
+  synonym_of_uri: https://www.geonames.org/3455077
   units_term_uri:
   alias:
 - attribution: ''
@@ -55654,7 +55612,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: parental care
+  name: some parental care
   type: value
   uri: http://polytraits.lifewatchgreece.eu/terms/BP_YES
   parent_uris: []
@@ -56170,7 +56128,7 @@ terms:
   type: value
   uri: http://polytraits.lifewatchgreece.eu/terms/LM_P
   parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/ENVO_00000208
+  synonym_of_uri: http://eol.org/schema/terms/pelagic
   units_term_uri:
   alias:
 - attribution: ''
@@ -57100,8 +57058,8 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: ''
-  is_hidden_from_select: false
+  definition: 'The general physical characteristics of the marine environment in which an organism lives'
+  is_hidden_from_select: true
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
@@ -57109,7 +57067,7 @@ terms:
   type: measurement
   uri: http://polytraits.lifewatchgreece.eu/terms/PHF
   parent_uris: []
-  synonym_of_uri:
+  synonym_of_uri: http://purl.obolibrary.org/obo/RO_0002303
   units_term_uri:
   alias:
 - attribution: ''
@@ -59439,10 +59397,11 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: prism on triangle base
+  name: prism on triangle base (girdle view)
   type: value
   uri: http://eol.org/schema/terms/prismOnTriangleBaseGirdleView
-  parent_uris: []
+  parent_uris:
+  - http://eol.org/schema/terms/prismOnTriangleBase
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -60166,6 +60125,8 @@ terms:
   uri: https://www.wikidata.org/entity/Q105472
   parent_uris:
   - http://www.marineregions.org/mrgid/1912
+  - http://www.geonames.org/7729885
+  - http://www.wikidata.org/entity/Q42530
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -61315,7 +61276,7 @@ terms:
   type: measurement
   uri: http://eol.org/schema/terms/RespClip
   parent_uris: []
-  synonym_of_uri:
+  synonym_of_uri: http://eol.org/schema/terms/ResproutAbility
   units_term_uri:
   alias:
 - attribution: 'BROT trait database. Traits: units and categories (RespClip), http://www.uv.es/jgpausas/brot.htm USDA PLANTS database Characteristics Data Fields (Resprout Ability). http://plants.usda.gov/charinfo.html'
@@ -61727,8 +61688,7 @@ terms:
   type: value
   uri: http://www.geonames.org/3451189
   parent_uris:
-  - http://www.geonames.org/3469034
-  synonym_of_uri:
+  synonym_of_uri: https://www.geonames.org/3451189
   units_term_uri:
   alias:
 - attribution: ''
@@ -61755,8 +61715,7 @@ terms:
   type: value
   uri: http://marineregions.org/mrgid/4325
   parent_uris:
-  - http://www.marineregions.org/mrgid/1914
-  synonym_of_uri:
+  synonym_of_uri: http://www.marineregions.org/mrgid/4325
   units_term_uri:
   alias:
 - attribution: ''
@@ -63653,7 +63612,7 @@ terms:
   type: metadata
   uri: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Sample_Size
   parent_uris: []
-  synonym_of_uri:
+  synonym_of_uri: http://eol.org/schema/terms/SampleSize
   units_term_uri:
   alias:
 - attribution: ''
@@ -63852,7 +63811,7 @@ terms:
   alias:
 - attribution: created by Anne Thessen
   definition: 'A sediment/soil habitat consisting of sand and mid in a ratio of less than 1:4 '
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
@@ -63860,8 +63819,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/sandyMud
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00002007
-  synonym_of_uri:
+  synonym_of_uri: http://polytraits.lifewatchgreece.eu/terms/SUBST_SM
   units_term_uri:
   alias:
 - attribution: ''
@@ -63870,7 +63828,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: sandy mud
+  name: muddy sand
   type: value
   uri: http://polytraits.lifewatchgreece.eu/terms/SUBST_MS
   parent_uris:
@@ -63879,7 +63837,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: ''
+  definition: '	50 - 80% mud; 20 -50% sand.'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -65968,20 +65926,6 @@ terms:
   uri: http://polytraits.lifewatchgreece.eu/terms/SM
   parent_uris:
   - http://eol.org/schema/terms/SexualSystem
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: ''
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: sexual metamorphosis
-  type: value
-  uri: http://polytraits.lifewatchgreece.eu/terms/SM_YES
-  parent_uris:
-  - http://purl.obolibrary.org/obo/GO_0019953
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -70266,7 +70210,7 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
@@ -70274,7 +70218,7 @@ terms:
   type: value
   uri: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Standard_Deviation
   parent_uris: []
-  synonym_of_uri:
+  synonym_of_uri: http://semanticscience.org/resource/SIO_000770
   units_term_uri:
   alias:
 - attribution: ''
@@ -70424,7 +70368,7 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
@@ -70432,7 +70376,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/stem
   parent_uris: []
-  synonym_of_uri:
+  synonym_of_uri: http://purl.obolibrary.org/obo/PO_0009047
   units_term_uri:
   alias:
 - attribution: ''
@@ -72151,7 +72095,7 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
@@ -72159,8 +72103,7 @@ terms:
   type: value
   uri: https://www.wikidata.org/entity/Q25231
   parent_uris:
-  - http://www.geonames.org/3144096
-  synonym_of_uri:
+  synonym_of_uri: http://www.geonames.org/7521757
   units_term_uri:
   alias:
 - attribution: ''
@@ -72601,7 +72544,7 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
@@ -72609,8 +72552,7 @@ terms:
   type: value
   uri: http://www.geonames.org/3448433
   parent_uris:
-  - http://www.geonames.org/3469034
-  synonym_of_uri:
+  synonym_of_uri: https://www.geonames.org/3448433
   units_term_uri:
   alias:
 - attribution: ''
@@ -73711,15 +73653,15 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: temperature
+  name: water temperature
   type: value
   uri: http://polytraits.lifewatchgreece.eu/terms/FAC_TMP
   parent_uris: []
-  synonym_of_uri:
+  synonym_of_uri: http://eol.org/schema/terms/SeawaterTemperature
   units_term_uri:
   alias:
 - attribution: ''
@@ -73729,7 +73671,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: temperature
-  type: metadata
+  type: measurement
   uri: http://purl.obolibrary.org/obo/PATO_0000146
   parent_uris: []
   synonym_of_uri:
@@ -78923,7 +78865,7 @@ terms:
   alias:
 - attribution: http://www.cnvc-cnvc.ca/abstract.cfm?assoc_id=M035
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
@@ -78931,9 +78873,7 @@ terms:
   type: value
   uri: https://eol.org/schema/terms/CNVC_M035
   parent_uris:
-  - https://eol.org/schema/terms/western_north_america
-  - https://www.wikidata.org/entity/Q1940784
-  synonym_of_uri:
+  synonym_of_uri: https://eol.org/schema/terms/CNVC_D193
   units_term_uri:
   alias:
 - attribution: https://www1.usgs.gov/csas/nvcs/nvcsGetUnitDetails?elementGlobalId=872765
@@ -82259,7 +82199,7 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
@@ -82267,7 +82207,7 @@ terms:
   type: value
   uri: http://marineregions.org/mrgid/4248
   parent_uris: []
-  synonym_of_uri:
+  synonym_of_uri: http://www.marineregions.org/mrgid/4248
   units_term_uri:
   alias:
 - attribution: ''
@@ -83336,7 +83276,7 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
@@ -83344,8 +83284,7 @@ terms:
   type: value
   uri: http://www.wikidata.org/entity/Q2009
   parent_uris:
-  - http://www.geonames.org/6251999
-  synonym_of_uri:
+  synonym_of_uri: https://www.wikidata.org/entity/Q2009
   units_term_uri:
   alias:
 - attribution: ''
@@ -83359,6 +83298,7 @@ terms:
   uri: https://www.wikidata.org/entity/Q2009
   parent_uris:
   - https://www.wikidata.org/entity/Q1145847
+  - http://www.geonames.org/6251999
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -83940,7 +83880,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/NCIT_C48508
   parent_uris: []
-  synonym_of_uri:
+  synonym_of_uri: http://purl.obolibrary.org/obo/UO_0000064
   units_term_uri:
   alias:
 - attribution: ''
@@ -87044,15 +86984,15 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Universiteit van Amsterdam, Zoologisch Museum
+  name: Universiteit van Amsterdam Zoologisch Museum
   type: value
   uri: http://grbio.org/cool/a65z-wv6r
   parent_uris: []
-  synonym_of_uri:
+  synonym_of_uri: http://grbio.org/cool/jyde-k516
   units_term_uri:
   alias:
 - attribution: ''
@@ -87061,7 +87001,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Universiteit van Amsterdam, Zoologisch Museum
+  name: Universiteit van Amsterdam Zoologisch Museum
   type: value
   uri: http://grbio.org/cool/jyde-k516
   parent_uris: []
@@ -87786,7 +87726,7 @@ terms:
   alias:
 - attribution: 'https://en.wikipedia.org/wiki/Manca'
   definition: post-larval juvenile in some crustaceans
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
@@ -87794,7 +87734,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/manca
   parent_uris: []
-  synonym_of_uri:
+  synonym_of_uri: https://eol.org/schema/terms/manca
   units_term_uri:
   alias:
 - attribution: ''
@@ -98740,7 +98680,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Herpetology
+  name: "Herpetology, Academy of Natural Sciences of Drexel University"
   type: value
   uri:  https://www.gbif.org/dataset/86594bf6-f762-11e1-a439-00145eb45e9a
   parent_uris: []
@@ -99158,7 +99098,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Herpetology
+  name: "Herpetology, Zoologisches Forschungsinstitut und Museum Alexander Koenig"
   type: value
   uri:  https://www.gbif.org/dataset/263bbfe7-f643-43bb-b448-f0705d1c0e18
   parent_uris: []
@@ -100789,7 +100729,7 @@ terms:
   is_text_only: false
   name: Algae (S)
   type: value
-  uri:  https://www.gbif.org/dataset/40d2de00-0c6e-11dd-84d2-b8a03c50a862
+  uri:  "https://www.gbif.org/dataset/40d2de00-0c6e-11dd-84d2-b8a03c50a862, Swedish Museum of Natural History"
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
@@ -103844,7 +103784,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Nannofossil abundance of Hole 4-29
+  name: "Nannofossil abundance of Hole 4-29, Bukry Bader and Gerard"
   type: value
   uri:  https://www.gbif.org/dataset/73942d2e-f762-11e1-a439-00145eb45e9a
   parent_uris: []
@@ -103857,7 +103797,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Nannofossil abundance of Hole 4-29
+  name: "Nannofossil abundance of Hole 4-29, Hay Bader and Gerard"
   type: value
   uri:  https://www.gbif.org/dataset/74676874-f762-11e1-a439-00145eb45e9a
   parent_uris: []
