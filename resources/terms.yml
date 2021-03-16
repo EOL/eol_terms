@@ -14918,7 +14918,7 @@ terms:
   type: value
   uri: http://www.wikidata.org/entity/Q182902
   parent_uris:
-  - http://www.wikidata.org/entity/Q159
+  - http://www.geonames.org/2017370
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -21431,7 +21431,7 @@ terms:
   type: value
   uri: http://marineregions.org/mrgid/47796
   parent_uris:
-  - http://www.wikidata.org/entity/Q159
+  - http://www.geonames.org/2017370
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -24288,6 +24288,7 @@ terms:
   type: value
   uri: http://www.marinespecies.org/traits/Epifaunal
   parent_uris:
+  - http://www.wikidata.org/entity/Q640114
   - http://eol.org/schema/terms/benthic
   synonym_of_uri:
   units_term_uri:
@@ -36883,7 +36884,7 @@ terms:
   type: value
   uri: http://www.geonames.org/2125073
   parent_uris:
-  - http://www.wikidata.org/entity/Q159
+  - http://www.geonames.org/2017370
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -43562,8 +43563,7 @@ terms:
   type: value
   uri: http://www.wikidata.org/entity/Q3110238
   parent_uris: []
-  synonym_of_uri:
-  - http://www.geonames.org/1024031
+  synonym_of_uri: http://www.geonames.org/1024031
   units_term_uri:
   alias:
 - attribution: ''
@@ -48328,6 +48328,7 @@ terms:
   uri: http://www.marinespecies.org/traits/Nekton
   parent_uris:
   - http://eol.org/schema/terms/pelagic
+  - http://purl.obolibrary.org/obo/NBO_0000371
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -50786,7 +50787,7 @@ terms:
   type: value
   uri: http://marineregions.org/mrgid/47889
   parent_uris:
-  - http://www.wikidata.org/entity/Q159
+  - http://www.geonames.org/2017370
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -53906,8 +53907,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00002873
   parent_uris: []
-  synonym_of_uri:
-  - http://purl.obolibrary.org/obo/ENVO_01000373
+  synonym_of_uri: http://purl.obolibrary.org/obo/ENVO_01000373
   units_term_uri:
   alias:
 - attribution: Polytraits
@@ -57943,8 +57943,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000894
   parent_uris: []
-  synonym_of_uri:
-  - http://purl.obolibrary.org/obo/ENVO_01000339
+  synonym_of_uri: http://purl.obolibrary.org/obo/ENVO_01000339
   units_term_uri:
   alias:
 - attribution: ''
@@ -62829,7 +62828,6 @@ terms:
   uri: http://www.geonames.org/2017370
   parent_uris:
   - https://www.wikidata.org/entity/Q186198
-  - http://www.wikidata.org/entity/Q182902
   - http://www.geonames.org/6255148
   - http://www.geonames.org/6255147
   synonym_of_uri:
@@ -62845,8 +62843,7 @@ terms:
   type: value
   uri: http://www.wikidata.org/entity/Q159
   parent_uris: []
-  synonym_of_uri:
-  -  http://www.geonames.org/2017370
+  synonym_of_uri: http://www.geonames.org/2017370
   units_term_uri:
   alias:
 - attribution: ''
@@ -63106,8 +63103,7 @@ terms:
   type: value
   uri: http://www.geonames.org/3370751
   parent_uris: []
-  synonym_of_uri:
-  - http://www.geonames.org/6930057
+  synonym_of_uri: http://www.geonames.org/6930057
   units_term_uri:
   alias:
 - attribution: ''
@@ -63446,8 +63442,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000307
   parent_uris: []
-  synonym_of_uri:
-  - http://purl.obolibrary.org/obo/ENVO_00002010
+  synonym_of_uri: http://purl.obolibrary.org/obo/ENVO_00002010
   units_term_uri:
   alias:
 - attribution: ''
@@ -64068,8 +64063,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/sap
   parent_uris: []
-  synonym_of_uri:
-  - http://purl.obolibrary.org/obo/PO_0025538
+  synonym_of_uri: http://purl.obolibrary.org/obo/PO_0025538
   units_term_uri:
   alias:
 - attribution: ''
@@ -64969,8 +64963,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000485
   parent_uris: []
-  synonym_of_uri:
-  - http://purl.obolibrary.org/obo/ENVO_01000687
+  synonym_of_uri: http://purl.obolibrary.org/obo/ENVO_01000687
   units_term_uri:
   alias:
 - attribution: ''
@@ -66461,7 +66454,7 @@ terms:
   type: value
   uri: http://www.wikidata.org/entity/Q5428
   parent_uris:
-  - http://www.wikidata.org/entity/Q159
+  - http://www.geonames.org/2017370
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -68147,7 +68140,7 @@ terms:
   type: value
   uri: http://marineregions.org/mrgid/22717
   parent_uris:
-  - http://www.wikidata.org/entity/Q159
+  - http://www.geonames.org/2017370
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -82880,7 +82873,7 @@ terms:
   type: value
   uri: http://marineregions.org/mrgid/47882
   parent_uris:
-  - http://www.wikidata.org/entity/Q159
+  - http://www.geonames.org/2017370
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -83603,8 +83596,7 @@ terms:
   type: value
   uri: http://marineregions.org/mrgid/2234
   parent_uris: []
-  synonym_of_uri:
-  - http://www.geonames.org/878675
+  synonym_of_uri: http://www.geonames.org/878675
   units_term_uri:
   alias:
 - attribution: ''
@@ -84958,8 +84950,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/monogamous
   parent_uris: []
-  synonym_of_uri:
-  - http://purl.obolibrary.org/obo/ECOCORE_00000063
+  synonym_of_uri: http://purl.obolibrary.org/obo/ECOCORE_00000063
   units_term_uri:
   alias:
 - attribution: https://en.wikipedia.org/wiki/Group_living
@@ -85124,8 +85115,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000244
   parent_uris: []
-  synonym_of_uri:
-  - http://purl.obolibrary.org/obo/ENVO_01000027
+  synonym_of_uri: http://purl.obolibrary.org/obo/ENVO_01000027
   units_term_uri:
   alias:
 - attribution: ''
@@ -85424,8 +85414,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000143
   parent_uris: []
-  synonym_of_uri:
-  - http://purl.obolibrary.org/obo/ENVO_01000029
+  synonym_of_uri: http://purl.obolibrary.org/obo/ENVO_01000029
   units_term_uri:
   alias:
 - attribution: ''
@@ -85438,8 +85427,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000322
   parent_uris: []
-  synonym_of_uri:
-  - http://purl.obolibrary.org/obo/ENVO_00002019
+  synonym_of_uri: http://purl.obolibrary.org/obo/ENVO_00002019
   units_term_uri:
   alias:
 - attribution: ''
@@ -85712,8 +85700,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000249
   parent_uris:
-  synonym_of_uri:
-  - http://purl.obolibrary.org/obo/ENVO_00000856
+  synonym_of_uri: http://purl.obolibrary.org/obo/ENVO_00000856
   units_term_uri:
   alias:
 - attribution: ''
@@ -85726,8 +85713,7 @@ terms:
   type: value
   uri: http://www.wikidata.org/entity/Q954
   parent_uris:
-  synonym_of_uri:
-  - http://www.geonames.org/878675
+  synonym_of_uri: http://www.geonames.org/878675
   units_term_uri:
   alias:
 - attribution: ''
@@ -85797,8 +85783,7 @@ terms:
   type: value
   uri: http://www.wikidata.org/entity/Q153732
   parent_uris:
-  synonym_of_uri:
-  - https://www.wikidata.org/entity/Q153732
+  synonym_of_uri: https://www.wikidata.org/entity/Q153732
   units_term_uri:
   alias:
 - attribution: ''
@@ -88108,8 +88093,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/PATO_0001340
   parent_uris: []
-  synonym_of_uri:
-  - http://purl.obolibrary.org/obo/UBERON_0007197
+  synonym_of_uri: http://purl.obolibrary.org/obo/UBERON_0007197
   units_term_uri:
   alias:
 - attribution: ''
