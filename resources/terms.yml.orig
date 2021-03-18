@@ -19257,12 +19257,12 @@ terms:
 - attribution: http://paleodb.org/public/tips/ecology_tips.html
   definition: Benthic organism that lives deep within unlithified (soft) substrate.
   is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_overview: true
+  is_hidden_from_glossary: true
   is_text_only: false
   name: deep infaunal
   type: value
-  uri: http://eol.org/schema/terms/deepInfaunal
+  uri: "http://eol.org/schema/terms/deepInfaunal\uFEFF"
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
@@ -34966,7 +34966,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   is_text_only: false
-  name: instituto nacional de pesquisas da amazonia (INPA)
+  name: instituto nacional de pesquisas da amazonia (inpa)
   type: value
   uri: http://grbio.org/cool/rm88-499z
   parent_uris: []
@@ -67024,7 +67024,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias: size
+  alias:
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
@@ -84979,6 +84979,19 @@ terms:
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: deep infaunal
+  type: value
+  uri: http://eol.org/schema/terms/deepInfaunal
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
   name: mm^3
@@ -89219,11 +89232,7 @@ terms:
   alias:
 - attribution: ''
   definition: 'Hunter Heaivilin, @supersistence, creator of https://github.com/supersistence/EcoCrop-ScrapeR'
-  is_hidden_from_select: true
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: true
-  is_text_only: false
-  name: EcoCrop ScrapeR
+
   type: value
   uri:  https://github.com/supersistence
   parent_uris: []
@@ -89239,6 +89248,7 @@ terms:
   name: Dana Campbell
   type: value
   uri:  https://www.researchgate.net/profile/Dana_Campbell
+
   is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
@@ -96107,7 +96117,11 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
+<<<<<<< HEAD
+  name: AM: "Freshwater Invertebrates (1900-2005)"
+=======
   name: "AM: Freshwater Invertebrates (1900-2005)"
+>>>>>>> 438b345 (I added a LOT of quotes, but it wasn't enough... asking for help.)
   type: value
   uri:  https://www.gbif.org/dataset/2ca312ee-40cf-49e0-b864-31531b7eba81
   parent_uris: []
@@ -97979,7 +97993,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: 'SP - Herbário do Estado "Maria Eneyda P. Kaufmann Fidalgo" - Coleção de Fanerógamas'
+  name: - Coleção de Fanerógamas
   type: value
   uri:  https://www.gbif.org/dataset/17efa320-7312-4b55-bf0a-a4cfc4613169
   parent_uris: []
@@ -99812,7 +99826,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: 'FBIP: "One baobab species or two-morphological and molecular data to address this question"'
+  name: FBIP: "One baobab species or two-morphological and molecular data to address this question"
   type: value
   uri:  https://www.gbif.org/dataset/3c7c79f0-4ee6-4ea0-bc96-1c347d63cb67
   parent_uris: []
@@ -104669,7 +104683,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: "C W O'Brien, contributor to http://www.akentsoc.org/the_fauna/checklist"
+  definition: 'C W O'Brien, contributor to http://www.akentsoc.org/the_fauna/checklist'
   is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
@@ -104760,6 +104774,19 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
+  definition: 'Dominique M Collet, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Dominique M Collet
+  type: value
+  uri: http://eol.org/schema/terms/Dominique_M_Collet
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
   definition: 'Dr Dave Kavanaugh, contributor to http://www.akentsoc.org/the_fauna/checklist'
   is_hidden_from_select: true
   is_hidden_from_overview: false
@@ -104820,6 +104847,19 @@ terms:
   name: E Chapin
   type: value
   uri: http://eol.org/schema/terms/E_Chapin
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'E Holsten, contributor to http://www.akentsoc.org/the_fauna/checklist'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: E Holsten
+  type: value
+  uri: http://eol.org/schema/terms/E_Holsten
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
@@ -106260,9 +106300,22 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: 'Reserva Natural Vale, Meio Ambiente'
+  name: Reserva Natural Vale
   type: value
   uri: http://biocol.org/urn:lsid:biocol.org:col:13923
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Instituto Nacional de Pesquisas da Amazônia (INPA)Instituto Nacional de Pesquisas da Amazônia (INPA)
+  type: value
+  uri: http://grbio.org/cool/rm88-499z
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
