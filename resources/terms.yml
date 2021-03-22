@@ -28379,11 +28379,11 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: This organism is known to be present in this location or region
+  definition: This organism is known to be present in this location or region. Not exclusive; other regions may also be reported.
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
-  name: geographic distribution includes
+  name: geographic distribution
   type: measurement
   uri: http://eol.org/schema/terms/Present
   parent_uris: []
