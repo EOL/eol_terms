@@ -31682,7 +31682,7 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: true
+  is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
