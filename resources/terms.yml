@@ -105641,6 +105641,19 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Anne Thessen
+  type: value
+  uri: https://orcid.org/0000-0002-2908-3327
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
   definition: 'K Klinka, contributor to http://www.cnvc-cnvc.ca/'
   is_hidden_from_select: true
   is_hidden_from_overview: false
