@@ -1,3 +1,3 @@
 module EolTerms
-  VERSION = '0.8.01'.freeze
+  VERSION = '0.8.02'.freeze
 end
