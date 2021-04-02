@@ -23,8 +23,6 @@ module EolTerms
       uri
       is_symmetrical_association
       inverse_of_uri
-      exclusive_to_clade_id
-      incompatible_with_clade_id
     ].freeze
     REQUIRED_FIELDS = %w[uri name].freeze
 
