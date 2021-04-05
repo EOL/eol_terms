@@ -106330,7 +106330,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'A strain or cultivation derived from isotype material. Ex-types are not regulated by the botanical or zoological code.'
+  definition: 'A strain or cultivation derived from isotype material. Ex types are not regulated by the botanical or zoological code.'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
