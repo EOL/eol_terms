@@ -106361,3 +106361,17 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: 'Gebel ’Uweinat'
+  type: value
+  uri: https://www.geonames.org/80884
+  parent_uris:
+  - http://www.geonames.org/2215636
+  synonym_of_uri:
+  units_term_uri:
+  alias:
