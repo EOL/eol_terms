@@ -23876,6 +23876,19 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: provide nutrients for
+  type: association
+  uri: http://purl.obolibrary.org/obo/RO_0002469
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
   definition: A drainage basin from which there is no outflow of water, either on the surface as rivers, or underground by flow or diffusion through rock or permeable material.
   is_hidden_from_select: false
   is_hidden_from_overview: false
