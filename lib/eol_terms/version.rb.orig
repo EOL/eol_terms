@@ -1,7 +1,0 @@
-module EolTerms
-<<<<<<< HEAD
-  VERSION = '0.8.04'.freeze
-=======
-  VERSION = '0.8.03'.freeze
->>>>>>> new_terms
-end
