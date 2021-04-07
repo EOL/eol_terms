@@ -23876,6 +23876,19 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: provide nutrients for
+  type: association
+  uri: http://purl.obolibrary.org/obo/RO_0002469
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
   definition: A drainage basin from which there is no outflow of water, either on the surface as rivers, or underground by flow or diffusion through rock or permeable material.
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -89165,6 +89178,12 @@ terms:
   name: Dana Campbell
   type: value
   uri:  https://www.researchgate.net/profile/Dana_Campbell
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
   is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
@@ -106330,7 +106349,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'A strain or cultivation derived from isotype material. Ex-types are not regulated by the botanical or zoological code.'
+  definition: 'A strain or cultivation derived from isotype material. Ex types are not regulated by the botanical or zoological code.'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -106339,6 +106358,20 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/exisotype
   parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: 'Gebel ’Uweinat'
+  type: value
+  uri: https://www.geonames.org/80884
+  parent_uris:
+  - http://www.geonames.org/2215636
   synonym_of_uri:
   units_term_uri:
   alias:
