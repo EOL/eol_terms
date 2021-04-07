@@ -2222,6 +2222,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: algivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: https://www.wikidata.org/entity/Q7486201
   parent_uris:
@@ -6188,6 +6189,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: avivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: https://www.wikidata.org/entity/Q4829056
   parent_uris:
@@ -6356,6 +6358,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: bacterivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: https://www.wikidata.org/entity/Q804528
   parent_uris:
@@ -10050,6 +10053,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: bud source
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://eol.org/schema/terms/BudSource
   parent_uris: []
@@ -12300,6 +12304,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: carnivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: http://www.wikidata.org/entity/Q81875
   parent_uris: []
@@ -12313,6 +12318,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: carnivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: https://www.wikidata.org/entity/Q81875
   parent_uris:
@@ -19744,6 +19750,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: detritivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: http://wikidata.org/entity/Q2750657
   parent_uris:
@@ -26786,6 +26793,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: flower color
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://purl.obolibrary.org/obo/TO_0000537
   parent_uris:
@@ -26960,6 +26968,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: folivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: http://www.wikidata.org/entity/Q617573
   parent_uris:
@@ -27542,6 +27551,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: freshwater carnivore
+  incompatible_with_clade_id: 42430800
   type: ''
   uri: https://eol.org/schema/terms/freshwater_carnivore
   parent_uris:
@@ -27680,6 +27690,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: frugivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: http://www.wikidata.org/entity/Q1470764
   parent_uris:
@@ -29233,6 +29244,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: granivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: http://www.wikidata.org/entity/Q1974986
   parent_uris:
@@ -32332,6 +32344,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: herbivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: https://www.wikidata.org/entity/Q59099
   parent_uris:
@@ -32346,6 +32359,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: herbivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: https://www.wikidata.org/wiki/Q59099
   parent_uris: []
@@ -32388,6 +32402,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: herpetivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: http://eol.org/schema/terms/herpetivore
   parent_uris:
@@ -34921,6 +34936,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: insectivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: http://www.wikidata.org/entity/Q677088
   parent_uris:
@@ -35387,6 +35403,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: invertivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: http://eol.org/schema/terms/invertivore
   parent_uris:
@@ -39207,6 +39224,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: leaf area
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://purl.obolibrary.org/obo/TO_0000540
   parent_uris:
@@ -39221,6 +39239,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: leaf color
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://purl.obolibrary.org/obo/TO_0000326
   parent_uris:
@@ -39235,6 +39254,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: leaf complexity
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://purl.obolibrary.org/obo/FLOPO_0007484
   parent_uris:
@@ -39249,6 +39269,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: leaf lamina area
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://top-thesaurus.org/annotationInfo?viz=1&&trait=Leaflet_lamina_area
   parent_uris: []
@@ -39262,6 +39283,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: leaf length
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://purl.obolibrary.org/obo/FLOPO_0001133
   parent_uris: []
@@ -39275,6 +39297,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: leaf mass per area
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://top-thesaurus.org/annotationInfo?viz=1&&trait=Leaf_mass_per_area
   parent_uris: []
@@ -39288,6 +39311,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: leaf morphology
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://purl.obolibrary.org/obo/FLOPO_0019932
   parent_uris: []
@@ -39301,6 +39325,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: leaf nitrogen per dry mass
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://top-thesaurus.org/annotationInfo?viz=1&&trait=Leaf_nitrogen_content_per_leaf_dry_mass
   parent_uris: []
@@ -39314,6 +39339,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: leaf shape
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://purl.obolibrary.org/obo/TO_0000492
   parent_uris:
@@ -39329,6 +39355,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: leaf sheddability
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://purl.obolibrary.org/obo/FLOPO_0008548
   parent_uris:
@@ -39343,6 +39370,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: leaf size class
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://purl.obolibrary.org/obo/FLOPO_0003958
   parent_uris:
@@ -42335,6 +42363,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: mammalivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: http://eol.org/schema/terms/mammalivore
   parent_uris:
@@ -42710,6 +42739,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: marine carnivore
+  incompatible_with_clade_id: 42430800
   type: ''
   uri: https://eol.org/schema/terms/marine_carnivore
   parent_uris:
@@ -44669,6 +44699,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: microbivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: https://eol.org/schema/terms/microbivore
   parent_uris:
@@ -44683,6 +44714,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: microcarnivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: http://eol.org/schema/terms/microcarnivore
   parent_uris:
@@ -46197,6 +46229,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: molluscivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: https://www.wikidata.org/entity/Q3319613
   parent_uris:
@@ -48311,6 +48344,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: nectarivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: http://www.wikidata.org/entity/Q120880
   parent_uris:
@@ -53458,6 +53492,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: omnivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: http://polytraits.lifewatchgreece.eu/terms/FEED_O
   parent_uris: []
@@ -53470,6 +53505,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   name: omnivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: http://www.wikidata.org/entity/Q164509
   parent_uris: []
@@ -53483,6 +53519,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: omnivore
+  incompatible_with_clade_id: 42430800
   type: ''
   uri: https://www.wikidata.org/entity/Q164509
   parent_uris:
@@ -53497,6 +53534,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: omnivore-carnivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: https://eol.org/schema/terms/omnivoreCarnivore
   parent_uris:
@@ -53510,6 +53548,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: omnivoredetrivore
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/omnivoreDetrivore
   parent_uris:
   - https://www.wikidata.org/entity/Q164509
@@ -56996,6 +57035,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: photosynthetic pathway
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://eol.org/schema/terms/photosyntheticPathway
   parent_uris:
@@ -57104,6 +57144,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: phytoplanktivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: http://eol.org/schema/terms/phytoplanktivore
   parent_uris:
@@ -57420,6 +57461,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: piscivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: http://www.wikidata.org/entity/Q1420208
   parent_uris:
@@ -57452,6 +57494,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: planktivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: http://wikidata.org/entity/Q7201320
   parent_uris:
@@ -57509,6 +57552,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: plant growth form
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://purl.obolibrary.org/obo/FLOPO_0900032
   parent_uris:
@@ -57524,6 +57568,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: plant height
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://purl.obolibrary.org/obo/TO_0000207
   parent_uris:
@@ -57539,6 +57584,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: plant lifeform
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://purl.obolibrary.org/obo/FLOPO_0900022
   parent_uris:
@@ -57568,6 +57614,7 @@ terms:
   is_hidden_from_glossary: true
   is_text_only: false
   name: plant propagation method
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://eol.org/schema/terms/PropagationMethod
   parent_uris: []
@@ -57624,6 +57671,7 @@ terms:
   is_hidden_from_glossary: true
   is_text_only: false
   name: planthabit
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://eol.org/schema/terms/PlantHabit
   parent_uris: []
@@ -57650,6 +57698,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: planting density
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://eol.org/schema/terms/PlantingDensity
   parent_uris: []
@@ -62516,6 +62565,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: rooting depth
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://purl.obolibrary.org/obo/TO_0000519
   parent_uris:
@@ -65136,6 +65186,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: seed bank
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://eol.org/schema/terms/SeedBank
   parent_uris: []
@@ -65149,6 +65200,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: seed dry mass
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://top-thesaurus.org/annotationInfo?viz=1&&trait=Seed_dry_mass
   parent_uris: []
@@ -65175,6 +65227,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: seed mass
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://purl.obolibrary.org/obo/FLOPO_0015519
   parent_uris:
@@ -65189,6 +65242,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: seed period begin
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://eol.org/schema/terms/SeedPeriodBegin
   parent_uris:
@@ -65203,6 +65257,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: seed period end
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://eol.org/schema/terms/SeedPeriodEnd
   parent_uris:
@@ -65217,6 +65272,7 @@ terms:
   is_hidden_from_glossary: true
   is_text_only: false
   name: seed ripening date
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://eol.org/schema/terms/SeedRipeningDate
   parent_uris:
@@ -65231,6 +65287,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: seed spread rate
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://eol.org/schema/terms/SeedSpreadRate
   parent_uris: []
@@ -65244,6 +65301,7 @@ terms:
   is_hidden_from_glossary: true
   is_text_only: false
   name: seed bank is long
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://eol.org/schema/terms/SeedBankLong
   parent_uris: []
@@ -65270,6 +65328,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: seedling survival
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://eol.org/schema/terms/SeedlingSurvival
   parent_uris: []
@@ -65283,6 +65342,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: seeds per pound
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://eol.org/schema/terms/SeedPerPound
   parent_uris:
@@ -79722,6 +79782,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: vertivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: http://eol.org/schema/terms/vertivore
   parent_uris:
@@ -82529,6 +82590,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: wood density
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://purl.obolibrary.org/obo/OBA_1000040
   parent_uris: []
@@ -82557,6 +82619,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: woodiness
+  exclusive_to_clade_id: 42430800
   type: measurement
   uri: http://top-thesaurus.org/annotationInfo?viz=1&trait=Woodiness
   parent_uris:
@@ -84285,6 +84348,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: omnivore-herbivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: https://eol.org/schema/terms/omnivoreHerbivore
   parent_uris:
@@ -85979,6 +86043,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: fungivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: https://www.wikidata.org/entity/Q3331325
   parent_uris:
@@ -85993,6 +86058,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: ovivore
+  incompatible_with_clade_id: 42430800
   type: value
   uri: https://www.wikidata.org/entity/Q60743215
   parent_uris:
