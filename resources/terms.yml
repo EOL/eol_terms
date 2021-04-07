@@ -16917,6 +16917,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
+  incompatible_with_clade_id: 42430800
   alias:
 - attribution: ''
   definition: An island that lies on a continental shelf.
@@ -57514,6 +57515,7 @@ terms:
   - http://eol.org/schema/terms/growthHabit
   synonym_of_uri:
   units_term_uri:
+  exclusive_to_clade_id: 42430800
   alias: growth_habit
 - attribution: ''
   definition: A stature and vigor trait (TO:0000133) which is associated with the height of a whole plant (PO:0000003).
