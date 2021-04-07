@@ -22957,7 +22957,20 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias: eats
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: co-roost with
+  type: association
+  uri: http://purl.obolibrary.org/obo/RO_0002801
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
 - attribution: ''
   definition: a carnivore that feeds primarily on echinoderms
   is_hidden_from_select: false
