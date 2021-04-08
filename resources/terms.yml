@@ -78593,8 +78593,7 @@ terms:
   type: value
   uri: http://www.fws.gov/pacific/
   parent_uris:
-  - https://eol.org/schema/terms/western_north_america
-  - http://www.wikidata.org/entity/Q578170
+  - http://www.geonames.org/6252001
   synonym_of_uri:
   units_term_uri:
   alias:
