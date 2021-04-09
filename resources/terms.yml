@@ -1586,6 +1586,7 @@ terms:
   is_text_only: false
   name: age at eye opening
   type: measurement
+  exclusive_to_clade_id: 1
   uri: http://eol.org/schema/terms/AgeAtEyeOpening
   parent_uris: []
   synonym_of_uri:
@@ -2953,6 +2954,7 @@ terms:
   is_text_only: false
   name: ampharetid feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/ampharetid_feeder
   parent_uris:
   - https://eol.org/schema/terms/polychaete_feeder
@@ -7591,6 +7593,7 @@ terms:
   is_text_only: false
   name: behavioral circadian rhythm
   type: measurement
+  exclusive_to_clade_id: 1
   uri: http://purl.obolibrary.org/obo/VT_0001502
   parent_uris: []
   synonym_of_uri:
@@ -7829,6 +7832,7 @@ terms:
   is_text_only: false
   name: benthic diatom feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/benthic_diatom_feeder
   parent_uris:
   - https://eol.org/schema/terms/diatom_feeder
@@ -8466,6 +8470,7 @@ terms:
   is_text_only: false
   name: bivalve feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/bivalve_feeder
   parent_uris:
   - https://www.wikidata.org/entity/Q3319613
@@ -9808,6 +9813,7 @@ terms:
   is_text_only: false
   name: brittle-star feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/brittlestar_feeder
   parent_uris:
   - http://eol.org/schema/terms/echinoderm_feeder
@@ -9944,6 +9950,7 @@ terms:
   is_text_only: false
   name: browser
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/browsing
   parent_uris:
   - https://www.wikidata.org/entity/Q3312246
@@ -10453,6 +10460,7 @@ terms:
   is_text_only: false
   name: c3 photosynthetic plant
   type: value
+  exclusive_to_clade_id: 42430800
   uri: https://www.wikidata.org/entity/Q286954
   parent_uris:
   - http://purl.obolibrary.org/obo/ECOCORE_00000130
@@ -10467,6 +10475,7 @@ terms:
   is_text_only: false
   name: c4 photosynthetic plant
   type: value
+  exclusive_to_clade_id: 42430800
   uri: https://www.wikidata.org/entity/Q283604
   parent_uris:
   - http://purl.obolibrary.org/obo/ECOCORE_00000130
@@ -11026,6 +11035,7 @@ terms:
   is_text_only: false
   name: cam photosynthetic plant
   type: value
+  exclusive_to_clade_id: 42430800
   uri: https://www.wikidata.org/entity/Q22283117
   parent_uris:
   - http://purl.obolibrary.org/obo/ECOCORE_00000130
@@ -14161,6 +14171,7 @@ terms:
   is_text_only: false
   name: cephalopod feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/cephalopod_feeder
   parent_uris:
   - https://www.wikidata.org/entity/Q3319613
@@ -15317,6 +15328,7 @@ terms:
   is_text_only: false
   name: ciliary-mucus feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/ciliary_mucus_feeder
   parent_uris:
   - http://eol.org/schema/terms/suspensionFeeder
@@ -15809,6 +15821,7 @@ terms:
   is_text_only: false
   name: clutch/brood/litter size
   type: measurement
+  exclusive_to_clade_id: 1
   uri: http://purl.obolibrary.org/obo/VT_0001933
   parent_uris: []
   synonym_of_uri:
@@ -15861,6 +15874,7 @@ terms:
   is_text_only: false
   name: cnidaria feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/cnidaria_feeder
   parent_uris:
   - https://www.wikidata.org/entity/Q81875
@@ -16919,6 +16933,7 @@ terms:
   is_text_only: false
   name: consumer
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://www.wikidata.org/entity/Q72638
   parent_uris: []
   synonym_of_uri:
@@ -17271,6 +17286,7 @@ terms:
   is_text_only: false
   name: coprophage
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://www.wikidata.org/entity/Q320011
   parent_uris:
   - http://wikidata.org/entity/Q2750657
@@ -17715,6 +17731,7 @@ terms:
   is_text_only: false
   name: crab feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/crab_feeder
   parent_uris:
   - https://eol.org/schema/terms/decapod_feeder
@@ -17895,6 +17912,7 @@ terms:
   is_text_only: false
   name: crinoid feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/crinoid_feeder
   parent_uris:
   - http://eol.org/schema/terms/echinoderm_feeder
@@ -18038,6 +18056,7 @@ terms:
   is_text_only: false
   name: cruising feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/cruising
   parent_uris:
   - http://www.wikidata.org/entity/Q72638
@@ -18052,6 +18071,7 @@ terms:
   is_text_only: false
   name: crustacean feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/crustacean_feeder
   parent_uris:
   - https://www.wikidata.org/entity/Q81875
@@ -19106,6 +19126,7 @@ terms:
   is_text_only: false
   name: decapod feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/decapod_feeder
   parent_uris:
   - https://eol.org/schema/terms/crustacean_feeder
@@ -19254,6 +19275,7 @@ terms:
   is_text_only: false
   name: deep infaunal
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/deepInfaunal
   parent_uris: []
   synonym_of_uri:
@@ -19532,6 +19554,7 @@ terms:
   is_text_only: false
   name: deposit feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/depositFeeder
   parent_uris:
   - http://wikidata.org/entity/Q2750657
@@ -19546,6 +19569,7 @@ terms:
   is_text_only: false
   name: deposit feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://polytraits.lifewatchgreece.eu/terms/FEED_D
   parent_uris: []
   synonym_of_uri: http://eol.org/schema/terms/depositFeeder
@@ -19913,6 +19937,7 @@ terms:
   is_text_only: false
   name: diatom feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/diatom_feeder
   parent_uris:
   - https://eol.org/schema/terms/microbivore
@@ -21131,6 +21156,7 @@ terms:
   is_text_only: false
   name: durophage
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://www.wikidata.org/entity/Q5316712
   parent_uris:
   - https://www.wikidata.org/entity/Q81875
@@ -22987,6 +23013,7 @@ terms:
   is_text_only: false
   name: echinoderm feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/echinoderm_feeder
   parent_uris:
   - https://www.wikidata.org/entity/Q81875
@@ -23180,6 +23207,7 @@ terms:
   is_text_only: false
   name: eel feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/eel_feeder
   parent_uris:
   - http://www.wikidata.org/entity/Q1420208
@@ -23533,6 +23561,7 @@ terms:
   is_text_only: false
   name: elasmobranch feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/elasmobranch_feeder
   parent_uris:
   - http://www.wikidata.org/entity/Q1420208
@@ -24287,6 +24316,7 @@ terms:
   is_text_only: false
   name: epifauna feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/epifauna_feeder
   parent_uris:
   - https://www.wikidata.org/entity/Q81875
@@ -24301,6 +24331,7 @@ terms:
   is_text_only: false
   name: epifaunal
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://www.marinespecies.org/traits/Epifaunal
   parent_uris:
   - http://www.wikidata.org/entity/Q640114
@@ -24358,6 +24389,7 @@ terms:
   is_text_only: false
   name: epiphyte
   type: value
+  exclusive_to_clade_id: 42430800
   uri: http://purl.obolibrary.org/obo/FLOPO_0900030
   parent_uris: []
   synonym_of_uri: https://www.wikidata.org/entity/Q188238
@@ -24371,6 +24403,7 @@ terms:
   is_text_only: false
   name: epiphyte
   type: value
+  exclusive_to_clade_id: 42430800
   uri: https://www.wikidata.org/entity/Q188238
   parent_uris:
   - http://www.wikidata.org/entity/Q640114
@@ -24385,6 +24418,7 @@ terms:
   is_text_only: false
   name: are epiphytes of
   type: association
+  exclusive_to_clade_id: 42430800
   uri: http://purl.obolibrary.org/obo/RO_0008501
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002454
@@ -25613,6 +25647,7 @@ terms:
   is_text_only: false
   name: facultative epiphyte
   type: value
+  exclusive_to_clade_id: 42430800
   uri: http://eol.org/schema/terms/facultativeEpiphyte
   parent_uris:
   - https://www.wikidata.org/entity/Q188238
@@ -26350,6 +26385,7 @@ terms:
   is_text_only: false
   name: filter feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://www.wikidata.org/entity/Q1252491
   parent_uris:
   - https://www.wikidata.org/entity/Q3312246
@@ -27066,6 +27102,7 @@ terms:
   is_text_only: false
   name: foram feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/foram_feeder
   parent_uris:
   - https://eol.org/schema/terms/microbivore
@@ -27244,6 +27281,7 @@ terms:
   is_text_only: false
   name: fossorial
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://www.wikidata.org/entity/Q2850019
   parent_uris: []
   synonym_of_uri:
@@ -27256,10 +27294,11 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: fossorial and/or ground dwelling
-  type: ''
+  type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/fossorialOrGround
   parent_uris: []
-  synonym_of_uri:
+  synonym_of_uri: http://eol.org/schema/terms/groundDwelling
   units_term_uri:
   alias:
 - attribution: ''
@@ -27269,6 +27308,7 @@ terms:
   is_hidden_from_glossary: false
   name: fossorial and/or ground dwelling only
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/groundDwelling
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_00000446
@@ -29478,6 +29518,7 @@ terms:
   is_text_only: false
   name: grazer
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://www.wikidata.org/entity/Q37619060
   parent_uris:
   - http://www.wikidata.org/entity/Q72638
@@ -31063,6 +31104,7 @@ terms:
   is_text_only: false
   name: hagfish feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/hagfish_feeder
   parent_uris:
   - http://www.wikidata.org/entity/Q1420208
@@ -32117,6 +32159,7 @@ terms:
   is_text_only: false
   name: hematophage
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://www.wikidata.org/entity/Q939099
   parent_uris:
   - https://www.wikidata.org/entity/Q12806437
@@ -32158,6 +32201,7 @@ terms:
   is_text_only: false
   name: hemiepiphyte
   type: value
+  exclusive_to_clade_id: 42430800
   uri: http://eol.org/schema/terms/hemiepiphyte
   parent_uris:
   - https://www.wikidata.org/entity/Q188238
@@ -32374,6 +32418,7 @@ terms:
   is_text_only: false
   name: herbivorous grazer
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://purl.obolibrary.org/obo/ECOCORE_00000099
   parent_uris:
   - https://www.wikidata.org/entity/Q59099
@@ -33239,6 +33284,7 @@ terms:
   is_text_only: false
   name: horseshoe crab feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/horseshoe_crab_feeder
   parent_uris:
   - https://www.wikidata.org/entity/Q81875
@@ -34756,6 +34802,7 @@ terms:
   is_text_only: false
   name: infauna feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/infauna_feeder
   parent_uris:
   - https://www.wikidata.org/entity/Q81875
@@ -34770,6 +34817,7 @@ terms:
   is_text_only: false
   name: infaunal
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://www.marinespecies.org/traits/Infaunal
   parent_uris:
   - http://www.wikidata.org/entity/Q2850019
@@ -35129,6 +35177,7 @@ terms:
   is_text_only: false
   name: intermediate-level epifaunal
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/intermediateEpifaunal
   parent_uris:
   - http://www.marinespecies.org/traits/Epifaunal
@@ -40298,6 +40347,7 @@ terms:
   is_hidden_from_glossary: false
   name: litters per year
   type: measurement
+  exclusive_to_clade_id: 1
   uri: http://eol.org/schema/terms/LittersPerYear
   parent_uris: []
   synonym_of_uri:
@@ -40515,6 +40565,7 @@ terms:
   is_hidden_from_glossary: false
   name: locomotion
   type: measurement
+  exclusive_to_clade_id: 1
   uri: http://purl.obolibrary.org/obo/GO_0040011
   parent_uris:
   - http://www.wikidata.org/entity/Q33596
@@ -40862,6 +40913,7 @@ terms:
   is_text_only: false
   name: low-level epifaunal
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/lowEpifaunal
   parent_uris:
   - http://www.marinespecies.org/traits/Epifaunal
@@ -43199,6 +43251,7 @@ terms:
   is_text_only: false
   name: mating system
   type: measurement
+  exclusive_to_clade_id: 1
   uri: http://eol.org/schema/terms/MatingSystem
   parent_uris: []
   synonym_of_uri:
@@ -44817,6 +44870,7 @@ terms:
   is_text_only: false
   name: microphage
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://www.wikidata.org/entity/Q3312246
   parent_uris:
   - http://www.wikidata.org/entity/Q72638
@@ -45264,6 +45318,7 @@ terms:
   is_text_only: false
   name: migration
   type: measurement
+  exclusive_to_clade_id: 1
   uri: http://purl.obolibrary.org/obo/IDOMAL_0002084
   parent_uris: []
   synonym_of_uri:
@@ -46068,6 +46123,7 @@ terms:
   is_text_only: false
   name: mobile prey feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/mobile_prey_feeder
   parent_uris:
   - https://www.wikidata.org/entity/Q170430
@@ -46938,6 +46994,7 @@ terms:
   is_text_only: false
   name: motility
   type: measurement
+  exclusive_to_clade_id: 1
   uri: http://www.wikidata.org/entity/Q33596
   parent_uris: []
   synonym_of_uri:
@@ -47121,7 +47178,8 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: mucus net feeder
-  type: ''
+  type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/mucus_net_feeder
   parent_uris:
   - http://eol.org/schema/terms/suspensionFeeder
@@ -48361,6 +48419,7 @@ terms:
   is_text_only: false
   name: nectonic
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://www.marinespecies.org/traits/Nekton
   parent_uris:
   - http://eol.org/schema/terms/pelagic
@@ -49604,6 +49663,7 @@ terms:
   is_text_only: false
   name: non-selective deposit feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://polytraits.lifewatchgreece.eu/terms/FEED_NSD
   parent_uris:
   - https://www.wikidata.org/entity/Q3312246
@@ -49632,6 +49692,7 @@ terms:
   is_text_only: false
   name: non-woody epiphyte
   type: value
+  exclusive_to_clade_id: 42430800
   uri: http://eol.org/schema/terms/non-woodyEpipyte
   parent_uris: []
   synonym_of_uri:
@@ -52786,6 +52847,7 @@ terms:
   is_text_only: false
   name: obligate epiphyte
   type: value
+  exclusive_to_clade_id: 42430800
   uri: http://eol.org/schema/terms/obligateEpiphyte
   parent_uris:
   - https://www.wikidata.org/entity/Q188238
@@ -55693,6 +55755,7 @@ terms:
   is_text_only: false
   name: parental care
   type: measurement
+  exclusive_to_clade_id: 1
   uri: http://purl.obolibrary.org/obo/GO_0060746
   parent_uris:
   - http://purl.obolibrary.org/obo/GO_0000003
@@ -57021,6 +57084,7 @@ terms:
   is_text_only: false
   name: photosymbiotroph
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/photosymbiotroph
   parent_uris:
   - https://www.wikidata.org/entity/Q335183
@@ -58172,6 +58236,7 @@ terms:
   is_text_only: false
   name: polychaete feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/polychaete_feeder
   parent_uris:
   - https://www.wikidata.org/entity/Q81875
@@ -59193,6 +59258,7 @@ terms:
   is_text_only: false
   name: predatory suspension feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/predatory_suspension_feeder
   parent_uris:
   - http://wikidata.org/entity/Q170430
@@ -59234,6 +59300,7 @@ terms:
   is_hidden_from_glossary: false
   name: prenatal development duration
   type: measurement
+  exclusive_to_clade_id: 1
   uri: http://eol.org/schema/terms/PrenatalDevelopmentDuration
   parent_uris: []
   synonym_of_uri:
@@ -59821,6 +59888,7 @@ terms:
   is_text_only: false
   name: protozoa feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/protozoa_feeder
   parent_uris:
   - http://www.wikidata.org/entity/Q72638
@@ -62538,6 +62606,7 @@ terms:
   is_text_only: false
   name: root feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/root_feeder
   parent_uris:
   - https://www.wikidata.org/entity/Q59099
@@ -64149,6 +64218,7 @@ terms:
   is_text_only: false
   name: saprotrophic
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://www.wikidata.org/entity/Q114750
   parent_uris:
   - http://wikidata.org/entity/Q2750657
@@ -65010,6 +65080,7 @@ terms:
   is_text_only: false
   name: sea urchin feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/sea_urchin_feeder
   parent_uris:
   - http://eol.org/schema/terms/echinoderm_feeder
@@ -65094,6 +65165,7 @@ terms:
   is_text_only: false
   name: secondary consumer
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/secondaryConsumer
   parent_uris:
   - http://www.wikidata.org/entity/Q72638
@@ -65413,6 +65485,7 @@ terms:
   is_text_only: false
   name: selective deposit feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://polytraits.lifewatchgreece.eu/terms/FEED_SD
   parent_uris:
   - http://eol.org/schema/terms/depositFeeder
@@ -65534,6 +65607,7 @@ terms:
   is_text_only: false
   name: semi-infaunal
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/semiInfaunal
   parent_uris:
   - http://www.marinespecies.org/traits/Infaunal
@@ -65562,6 +65636,7 @@ terms:
   is_text_only: false
   name: semifossorial
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/semifossorial
   parent_uris:
   - http://www.wikidata.org/entity/Q2850019
@@ -65904,6 +65979,7 @@ terms:
   is_text_only: false
   name: sessile prey feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/sessile_prey_feeder
   parent_uris:
   - https://www.wikidata.org/entity/Q170430
@@ -66146,6 +66222,7 @@ terms:
   is_text_only: false
   name: shallow infaunal
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/shallowInfaunal
   parent_uris:
   - http://www.marinespecies.org/traits/Infaunal
@@ -67398,6 +67475,7 @@ terms:
   is_hidden_from_glossary: false
   name: social group size
   type: measurement
+  exclusive_to_clade_id: 1
   uri: http://eol.org/schema/terms/SocialGroupSize
   parent_uris: []
   synonym_of_uri:
@@ -67411,6 +67489,7 @@ terms:
   is_text_only: false
   name: social system
   type: measurement
+  exclusive_to_clade_id: 1
   uri: http://eol.org/schema/terms/SocialSystem
   parent_uris: []
   synonym_of_uri:
@@ -69954,6 +70033,7 @@ terms:
   is_text_only: false
   name: sponge feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/sponge_feeder
   parent_uris:
   - https://www.wikidata.org/entity/Q81875
@@ -70396,6 +70476,7 @@ terms:
   is_text_only: false
   name: starfish feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: https://eol.org/schema/terms/starfish_feeder
   parent_uris:
   - http://eol.org/schema/terms/echinoderm_feeder
@@ -71262,6 +71343,7 @@ terms:
   is_text_only: false
   name: subsurface deposit feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/subsurfaceDepositFeeder
   parent_uris:
   - https://www.wikidata.org/entity/Q864907
@@ -72062,6 +72144,7 @@ terms:
   is_text_only: false
   name: surface deposit feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/surfaceDepositFeeder
   parent_uris:
   - http://eol.org/schema/terms/depositFeeder
@@ -72175,6 +72258,7 @@ terms:
   is_text_only: false
   name: suspension feeder
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/suspensionFeeder
   parent_uris:
   - http://www.wikidata.org/entity/Q72638
@@ -73172,6 +73256,7 @@ terms:
   is_hidden_from_glossary: false
   name: teat number
   type: measurement
+  exclusive_to_clade_id: 1642
   uri: http://purl.obolibrary.org/obo/CMO_0000445
   parent_uris: []
   synonym_of_uri:
@@ -74006,6 +74091,7 @@ terms:
   is_text_only: false
   name: terrestrial plant
   type: value
+  exclusive_to_clade_id: 42430800
   uri: http://eol.org/schema/terms/terrestrialPlant
   parent_uris: []
   synonym_of_uri:
@@ -74086,6 +74172,7 @@ terms:
   is_hidden_from_glossary: false
   name: testis location
   type: measurement
+  exclusive_to_clade_id: 1
   uri: http://eol.org/schema/terms/TestisLocation
   parent_uris: []
   synonym_of_uri:
@@ -78366,6 +78453,7 @@ terms:
   is_text_only: false
   name: upper-level epifaunal
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/upperEpifaunal
   parent_uris:
   - http://www.marinespecies.org/traits/Epifaunal
@@ -80048,6 +80136,7 @@ terms:
   is_text_only: false
   name: visit
   type: association
+  exclusive_to_clade_id: 1
   uri: http://purl.obolibrary.org/obo/RO_0002618
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002442
@@ -80062,6 +80151,7 @@ terms:
   is_text_only: false
   name: visit flowers of
   type: association
+  exclusive_to_clade_id: 1
   uri: http://purl.obolibrary.org/obo/RO_0002622
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0002618
@@ -80076,6 +80166,7 @@ terms:
   is_text_only: false
   name: visual system
   type: measurement
+  exclusive_to_clade_id: 1
   uri: http://purl.obolibrary.org/obo/UBERON_0002104
   parent_uris:
   - http://purl.obolibrary.org/obo/UBERON_0001032
@@ -80834,6 +80925,7 @@ terms:
   is_hidden_from_glossary: false
   name: weaning age
   type: measurement
+  exclusive_to_clade_id: 1642
   uri: http://eol.org/schema/terms/WeaningAge
   parent_uris: []
   synonym_of_uri:
@@ -82482,6 +82574,7 @@ terms:
   is_text_only: false
   name: wingspan
   type: measurement
+  exclusive_to_clade_id: 1
   uri: http://www.wikidata.org/entity/Q245097
   parent_uris:
   - http://purl.obolibrary.org/obo/CMO_0000013
@@ -82705,6 +82798,7 @@ terms:
   is_text_only: false
   name: woody epiphyte
   type: value
+  exclusive_to_clade_id: 42430800
   uri: http://eol.org/schema/terms/woodyEpipyte
   parent_uris: []
   synonym_of_uri:
@@ -82888,6 +82982,7 @@ terms:
   is_text_only: false
   name: xylophage
   type: value
+  incompatible_with_clade_id: 42430800
   uri: http://www.wikidata.org/entity/Q45879481
   parent_uris:
   - https://www.wikidata.org/entity/Q59099
@@ -84101,6 +84196,7 @@ terms:
   is_text_only: false
   name: auditory system
   type: measurement
+  exclusive_to_clade_id: 1
   uri: http://purl.obolibrary.org/obo/UBERON_0016490
   parent_uris:
   - http://purl.obolibrary.org/obo/UBERON_0001032
@@ -106451,6 +106547,19 @@ terms:
   uri: https://www.geonames.org/80884
   parent_uris:
   - http://www.geonames.org/2215636
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'The second nuclear division of meiosis, in which the two chromatids in each chromosome are separated, resulting in four daughter nuclei from the two nuclei produced in meiosis I'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Meiosis II
+  type: value
+  uri: http://purl.obolibrary.org/obo/GO_0007135
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
