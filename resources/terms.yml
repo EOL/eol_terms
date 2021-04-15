@@ -106551,6 +106551,19 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
+  definition: 'The latest integer day of the year on which the Event occurred (1 for January 1, 365 for December 31, except in a leap year, in which case it is 366).'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: end day of year
+  type: value
+  uri: http://rs.tdwg.org/dwc/terms/endDayOfYear
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
   definition: 'The second nuclear division of meiosis, in which the two chromatids in each chromosome are separated, resulting in four daughter nuclei from the two nuclei produced in meiosis I'
   is_hidden_from_select: false
   is_hidden_from_overview: false
