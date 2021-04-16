@@ -17695,6 +17695,19 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: ''
+  definition: The name of the country or major administrative unit in which the Location occurs.
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: country
+  type: metadata
+  uri: http://rs.tdwg.org/dwc/terms/country
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
 - attribution: GeoNames
   definition: County in Ireland https://en.wikipedia.org/wiki/County_Kerry
   is_hidden_from_select: false
@@ -22991,7 +23004,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: eats
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
