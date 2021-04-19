@@ -106955,3 +106955,81 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: true
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: 'Smithsonian Institution, National Museum of Natural History, Department of Invertebrate Zoology'
+  type: value
+  uri: http://grbio.org/cool/abck-1zsq
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: true
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: 'Smithsonian Institution, National Museum of Natural History, Herbarium'
+  type: value
+  uri: http://grbio.org/cool/i75d-97nn
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: true
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: 'Smithsonian Institution, National Museum of Natural History, Entomology Collection'
+  type: value
+  uri: http://grbio.org/cool/1wcv-afpg
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: true
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: 'Smithsonian Institution, National Museum of Natural History, Fish Collection'
+  type: value
+  uri: http://grbio.org/cool/22s5-q4hk
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: true
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: 'Smithsonian Institution, National Museum of Natural History, Division of Mammals'
+  type: value
+  uri: http://grbio.org/cool/cy7i-ptxq
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: true
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: 'Smithsonian Institution, National Museum of Natural History, Division of Birds'
+  type: value
+  uri: http://grbio.org/cool/e49n-75xd
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
