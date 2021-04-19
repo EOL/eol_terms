@@ -106564,19 +106564,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'The latest integer day of the year on which the Event occurred (1 for January 1, 365 for December 31, except in a leap year, in which case it is 366).'
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: end day of year
-  type: value
-  uri: http://rs.tdwg.org/dwc/terms/endDayOfYear
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
   definition: 'The second nuclear division of meiosis, in which the two chromatids in each chromosome are separated, resulting in four daughter nuclei from the two nuclei produced in meiosis I'
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -106585,6 +106572,398 @@ terms:
   name: Meiosis II
   type: value
   uri: http://purl.obolibrary.org/obo/GO_0007135
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'An irregularly shaped hill or mound composed of sorted or stratified sand and gravel that is deposited in contact with the glacial ice. It can have an irregular shape'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: kame
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00000542
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00000133
+  - http://purl.obolibrary.org/obo/ENVO_00000083
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'A list (concatenated and separated) of identifiers (publication, global unique identifier, URI) of media associated with the Occurrence.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: associated media
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/associatedMedia
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'A list (concatenated and separated) of identifiers (publication, global unique identifier, URI) of genetic sequence information associated with the Occurrence.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: associated sequences
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/associatedSequences
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'An identifier for the collection or dataset from which the record was derived.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: collection ID
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/collectionID
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'The name of the continent in which the Location occurs.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: continent
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/continent
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'The horizontal distance (in meters) from the given decimalLatitude and decimalLongitude describing the smallest circle containing the whole of the Location.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: coordinate uncertainty in meters
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/coordinateUncertaintyInMeters
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'The full, unabbreviated name of the next smaller administrative region than stateProvince (county, shire, department, etc.) in which the Location occurs.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: county
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/county
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'The integer day of the month on which the Event occurred.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: day
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/day
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: '	The latest integer day of the year on which the Event occurred (1 for January 1, 365 for December 31, except in a leap year, in which case it is 366).'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: end day of year
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/endDayOfYear
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'An identifier given to the event in the field. Often serves as a link between field notes and the Event.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: field number
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/fieldNumber
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'The ellipsoid, geodetic datum, or spatial reference system (SRS) upon which the geographic coordinates given in decimalLatitude and decimalLongitude as based.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: geodetic datum
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/geodeticDatum
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'A description or reference to the methods used to determine the spatial footprint, coordinates, and uncertainties.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: georeference protocol
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/georeferenceProtocol
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: '	Notes or comments about the spatial description determination, explaining assumptions made in addition or opposition to the those formalized in the method referred to in georeferenceProtocol.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: georeference remarks
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/georeferenceRemarks
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'A list (concatenated and separated) of geographic names less specific than the information captured in the locality term.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: higher geography
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/higherGeography
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'A brief phrase or a standard term ("cf.", "aff.") to express the doubts of a determiner about the Identification.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: identification qualifier
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/identificationQualifier
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'An identifier for the institution having custody of the object(s) or information referred to in the record.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: institution ID
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/institutionID
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'The name of the island on or near which the Location occurs.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: island
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/island
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'The name of the island group in which the Location occurs.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: island group
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/islandGroup
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: '	The greater depth of a range of depth below the local surface, in meters.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: maximum depth in meters
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/maximumDepthInMeters
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'The upper limit of the range of elevation (altitude, usually above sea level), in meters.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: maximum elevation in meters
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/maximumElevationInMeters
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'The lesser depth of a range of depth below the local surface, in meters.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: minimum depth in meters
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/minimumDepthInMeters
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'The lower limit of the range of elevation (altitude, usually above sea level), in meters.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: minimum elevation in meters
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/minimumElevationInMeters
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'The integer month in which the Event occurred.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: month
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/month
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'The earliest integer day of the year on which the Event occurred (1 for January 1, 365 for December 31, except in a leap year, in which case it is 366).'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: start day of year
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/startDayOfYear
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'The name of the next smaller administrative region than country (state, province, canton, department, region, etc.) in which the Location occurs.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: state or province
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/stateProvince
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'The coordinate format for the verbatimLatitude and verbatimLongitude or the verbatimCoordinates of the Location.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: verbatim coordinate system
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/verbatimCoordinateSystem
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'The verbatim original representation of the date and time information for an Event.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: verbatim event date
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/verbatimEventDate
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'The name of the water body in which the Location occurs.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: water body
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/waterBody
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'The four-digit year in which the Event occurred, according to the Common Era Calendar.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: year
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/year
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'One or more preparations of directly related individuals representing distinct stages in the life cycle, which together form the type in an extant species of protistan'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: Hapantotype
+  type: value
+  uri: http://rs.tdwg.org/ontology/voc/TaxonName#Hapantotype
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
