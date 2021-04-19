@@ -106930,32 +106930,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'The name of the water body in which the Location occurs.'
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: water body
-  type: measurement
-  uri: http://rs.tdwg.org/dwc/terms/waterBody
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
-  definition: 'The four-digit year in which the Event occurred, according to the Common Era Calendar.'
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: year
-  type: measurement
-  uri: http://rs.tdwg.org/dwc/terms/year
-  parent_uris: []
-  synonym_of_uri:
-  units_term_uri:
-  alias:
-- attribution: ''
   definition: 'One or more preparations of directly related individuals representing distinct stages in the life cycle, which together form the type in an extant species of protistan'
   is_hidden_from_select: false
   is_hidden_from_overview: false
