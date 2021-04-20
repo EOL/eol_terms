@@ -107033,3 +107033,73 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: lake channel
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00000397
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000252
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: water scum
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00005794
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00002030
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'An elongated whale-shaped hill formed by glacial action. Its long axis is parallel with the movement of the ice, with the blunter end facing into the glacial movement. Drumlins are sometimes compared to kames, but their formation is distinctively different.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: drumlin
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00000276
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00000133
+  - http://purl.obolibrary.org/obo/ENVO_00000083
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'An area reclaimed from the sea by diking and draining.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: polder
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00000286
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00000303
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'An identifier for the Occurrence (as opposed to a particular digital record of the occurrence). In the absence of a persistent global unique identifier, construct one from a combination of identifiers in the record that will most closely make the occurrenceID globally unique.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: true
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: occurrence ID
+  type: measurement
+  uri: http://rs.tdwg.org/dwc/terms/occurrenceID
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
