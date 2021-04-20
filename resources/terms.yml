@@ -107095,7 +107095,7 @@ terms:
   is_hidden_from_select: false
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
-  is_text_only: false
+  is_text_only: true
   name: occurrence ID
   type: measurement
   uri: http://rs.tdwg.org/dwc/terms/occurrenceID
