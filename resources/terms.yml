@@ -107091,15 +107091,15 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'An identifier for the Occurrence (as opposed to a particular digital record of the occurrence). In the absence of a persistent global unique identifier, construct one from a combination of identifiers in the record that will most closely make the occurrenceID globally unique.'
+  definition: 'landmass comprising the continents of North America and South America'
   is_hidden_from_select: false
   is_hidden_from_overview: true
   is_hidden_from_glossary: false
   is_text_only: true
-  name: occurrence ID
-  type: measurement
-  uri: http://rs.tdwg.org/dwc/terms/occurrenceID
+  name: new world
+  type: value
+  uri: https://www.wikidata.org/entity/Q828
   parent_uris: []
-  synonym_of_uri:
+  synonym_of_uri: http://www.geonames.org/10861432
   units_term_uri:
   alias:
