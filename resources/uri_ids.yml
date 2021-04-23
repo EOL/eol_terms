@@ -9794,3 +9794,33 @@ uri_ids:
   http://rs.tdwg.org/dwc/terms/enddayofyear: 9787
   http://purl.obolibrary.org/obo/go_0007135: 9788
   http://rs.tdwg.org/dwc/terms/country: 9789
+  http://rs.tdwg.org/dwc/terms/associatedmedia: 9790
+  http://rs.tdwg.org/dwc/terms/associatedsequences: 9791
+  http://rs.tdwg.org/dwc/terms/collectionid: 9792
+  http://rs.tdwg.org/dwc/terms/continent: 9793
+  http://rs.tdwg.org/dwc/terms/coordinateuncertaintyinmeters: 9794
+  http://rs.tdwg.org/dwc/terms/county: 9795
+  http://rs.tdwg.org/dwc/terms/day: 9796
+  http://rs.tdwg.org/dwc/terms/fieldnumber: 9797
+  http://rs.tdwg.org/dwc/terms/geodeticdatum: 9798
+  http://rs.tdwg.org/dwc/terms/georeferenceprotocol: 9799
+  http://rs.tdwg.org/dwc/terms/georeferenceremarks: 9800
+  http://rs.tdwg.org/dwc/terms/highergeography: 9801
+  http://rs.tdwg.org/dwc/terms/identificationqualifier: 9802
+  http://rs.tdwg.org/dwc/terms/institutionid: 9803
+  http://rs.tdwg.org/dwc/terms/island: 9804
+  http://rs.tdwg.org/dwc/terms/islandgroup: 9805
+  http://rs.tdwg.org/dwc/terms/month: 9806
+  http://rs.tdwg.org/dwc/terms/startdayofyear: 9807
+  http://rs.tdwg.org/dwc/terms/stateprovince: 9808
+  http://rs.tdwg.org/dwc/terms/verbatimcoordinatesystem: 9809
+  http://rs.tdwg.org/dwc/terms/verbatimeventdate: 9810
+  http://rs.tdwg.org/ontology/voc/taxonname#hapantotype: 9811
+  http://grbio.org/cool/8vm7-e9x1: 9812
+  http://grbio.org/cool/abck-1zsq: 9813
+  http://grbio.org/cool/i75d-97nn: 9814
+  http://grbio.org/cool/1wcv-afpg: 9815
+  http://grbio.org/cool/22s5-q4hk: 9816
+  http://grbio.org/cool/cy7i-ptxq: 9817
+  http://grbio.org/cool/e49n-75xd: 9818
+  http://rs.tdwg.org/dwc/terms/occurrenceid: 9819
