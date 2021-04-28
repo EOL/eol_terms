@@ -9824,3 +9824,16 @@ uri_ids:
   http://grbio.org/cool/cy7i-ptxq: 9817
   http://grbio.org/cool/e49n-75xd: 9818
   http://rs.tdwg.org/dwc/terms/occurrenceid: 9819
+  http://eol.org/schema/terms/ametabolous: 9820
+  http://eol.org/schema/terms/hemimetabolous: 9821
+  http://eol.org/schema/terms/holometabolous: 9822
+  http://eol.org/schema/terms/neometabolous: 9823
+  http://eol.org/schema/terms/prometabolous: 9824
+  http://eol.org/schema/terms/wingmorphology: 9825
+  http://eol.org/schema/terms/apterous: 9826
+  http://eol.org/schema/terms/primarilyapterous: 9827
+  http://eol.org/schema/terms/secondarilyapterous: 9828
+  http://eol.org/schema/terms/haswings: 9829
+  http://eol.org/schema/terms/macropterous: 9830
+  http://eol.org/schema/terms/brachypterous: 9831
+  http://purl.obolibrary.org/obo/pato_0000956: 9832

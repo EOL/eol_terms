@@ -107103,3 +107103,192 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: ''
+  definition: 'Development of insects without the process of metamorphosis, resulting in little change in body form during growth and molting.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: ametabolous
+  type: value
+  uri: http://eol.org/schema/terms/ametabolous
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Development of insects with incomplete metamorphosis, resulting in a gradual change in body form with each molt,  without a pupal stage.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: hemimetabolous
+  type: value
+  uri: http://eol.org/schema/terms/hemimetabolous
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Development of insects with complete metamorphosis which involves a pupal stage.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: holometabolous
+  type: value
+  uri: http://eol.org/schema/terms/holometabolous
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'A modified form of hemimetabolous development, with resting stages resembling the holometabolous pupa.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: neometabolous
+  type: value
+  uri: http://eol.org/schema/terms/neometabolous
+  parent_uris:
+  - http://eol.org/schema/terms/hemimetabolous
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'A distinct form of hemimetabolous development which includes a winged pre-adult life stage.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: prometabolous
+  type: value
+  uri: http://eol.org/schema/terms/prometabolous
+  parent_uris:
+  - http://eol.org/schema/terms/hemimetabolous
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Qualities pertaining to the size, shape or structure of the wing.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: wing morphology
+  type: measurement
+  uri: http://eol.org/schema/terms/WingMorphology
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Wings are absent.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: apterous
+  type: value
+  uri: http://eol.org/schema/terms/apterous
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:  
+- attribution: ''
+  definition: 'The absence of wings in organisms that do not have winged ancestors.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: primarily apterous
+  type: value
+  uri: http://eol.org/schema/terms/primarilyApterous
+  parent_uris:
+  - http://eol.org/schema/terms/apterous
+  synonym_of_uri:
+  units_term_uri:
+  alias:  
+- attribution: ''
+  definition: 'The absence of wings in organisms that are descended from winged ancestors.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: secondarily apterous
+  type: value
+  uri: http://eol.org/schema/terms/secondarilyApterous
+  parent_uris:
+  - http://eol.org/schema/terms/apterous
+  synonym_of_uri:
+  units_term_uri:
+  alias:  
+- attribution: ''
+  definition: 'Wings are present.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: apterous
+  type: value
+  uri: http://eol.org/schema/terms/hasWings
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:  
+- attribution: ''
+  definition: 'The presence of fully functional wings.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: macropterous
+  type: value
+  uri: http://eol.org/schema/terms/macropterous
+  parent_uris:
+  - http://eol.org/schema/terms/hasWings
+  synonym_of_uri:
+  units_term_uri:
+  alias:  
+- attribution: ''
+  definition: 'The presence of short wings, not functional as organs of flight. Micropterous (used inconsitently in the literature) is here treated as a synonym of brachypterous.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: brachypterous
+  type: value
+  uri: http://eol.org/schema/terms/brachypterous
+  parent_uris:
+  - http://eol.org/schema/terms/hasWings
+  synonym_of_uri:
+  units_term_uri:
+  alias:  
+- attribution: ''
+  definition: 'The presence of narrow wings that may or may not be functional as organs of flight.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: stenopterous
+  type: value
+  uri: http://eol.org/schema/terms/stenopterous
+  parent_uris:
+  - http://eol.org/schema/terms/hasWings
+  synonym_of_uri:
+  units_term_uri:
+  alias:  
+  - attribution: ''
+  definition: 'A fertility quality inhering in a bearer by virtue of the bearers being incapable of initiating, sustaining, or supporting reproduction.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: sterile
+  type: value
+  uri: http://purl.obolibrary.org/obo/PATO_0000956
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:  
