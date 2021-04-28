@@ -107279,3 +107279,16 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:  
+  - attribution: ''
+  definition: 'A fertility quality inhering in a bearer by virtue of the bearers being incapable of initiating, sustaining, or supporting reproduction.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: sterile
+  type: value
+  uri: http://purl.obolibrary.org/obo/PATO_0000956
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:  
