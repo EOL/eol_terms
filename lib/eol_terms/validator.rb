@@ -5,6 +5,13 @@
 module EolTerms
   # You don't read these.
   class Validator
+    REQUIRED_ALIASES_FILENAME = File.join(
+      File.dirname(__FILE__), 
+      '..',
+      '..',
+      'resources',
+      'required_aliases.txt'
+    )
     USED_FOR_VALUES = %w[unknown measurement association value metadata].freeze
     VALID_FIELDS = %w[
       alias
@@ -37,6 +44,7 @@ module EolTerms
       @problems = []
       @warnings = []
       @seen_uris = {}
+
       @list.each_with_index do |term, index|
         check_duplicate_uris(term, index)
         check_required_fields(term, index)
@@ -47,6 +55,9 @@ module EolTerms
         check_synonym_referential_integrity(term, index)
         check_units_referential_integrity(term, index)
       end
+
+      check_required_aliases
+
       report(silent)
     end
     # rubocop:enable Metrics/MethodLength
@@ -103,6 +114,14 @@ module EolTerms
         EolTerms.includes_uri?(term['units_term_uri'])
     end
 
+    def check_required_aliases
+      required_aliases.each do |term_alias|
+        unless EolTerms.terms_by_alias.include?(term_alias)
+          @problems << "Term alias #{term_alias} missing!" 
+        end
+      end
+    end
+
     def problem_in_term(problem, term, index)
       @problems << "#{problem} in term #{index} <#{term['uri']}>"
     end
@@ -125,6 +144,20 @@ module EolTerms
       else
         puts 'Valid.' unless silent
       end
+    end
+
+    def required_aliases
+      unless @required_aliases
+        File.open(REQUIRED_ALIASES_FILENAME) do |f|
+          @required_aliases = f.readlines.map do |l|
+            l.strip
+          end.reject do |l|
+            l.nil? || l == ''
+          end
+        end      
+      end
+
+      @required_aliases
     end
   end
 end
