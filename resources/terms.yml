@@ -107280,7 +107280,7 @@ terms:
   units_term_uri:
   alias: 
 - attribution: ''
-  definition: 'A fertility quality inhering in a bearer by virtue of the bearer's being incapable of initiating, sustaining, or supporting reproduction.'
+  definition: 'A fertility quality inhering in a bearer by virtue of the bearers being incapable of initiating, sustaining, or supporting reproduction.'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
