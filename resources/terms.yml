@@ -107230,7 +107230,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: apterous
+  name: has wings
   type: value
   uri: http://eol.org/schema/terms/hasWings
   parent_uris: []
