@@ -107252,20 +107252,6 @@ terms:
   units_term_uri:
   alias:  
 - attribution: ''
-  definition: 'The presence of narrow wings that may or may not be functional as organs of flight.'
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: stenopterous
-  type: value
-  uri: http://eol.org/schema/terms/stenopterous
-  parent_uris:
-  - http://eol.org/schema/terms/hasWings
-  synonym_of_uri:
-  units_term_uri:
-  alias: 
-- attribution: ''
   definition: 'The presence of short wings, not functional as organs of flight. Micropterous (used inconsitently in the literature) is here treated as a synonym of brachypterous.'
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -107279,6 +107265,20 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:  
+- attribution: ''
+  definition: 'The presence of narrow wings that may or may not be functional as organs of flight.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: stenopterous
+  type: value
+  uri: http://eol.org/schema/terms/stenopterous
+  parent_uris:
+  - http://eol.org/schema/terms/hasWings
+  synonym_of_uri:
+  units_term_uri:
+  alias: 
 - attribution: ''
   definition: 'A fertility quality inhering in a bearer by virtue of the bearer's being incapable of initiating, sustaining, or supporting reproduction.'
   is_hidden_from_select: false
