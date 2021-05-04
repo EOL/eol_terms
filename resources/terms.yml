@@ -24747,8 +24747,7 @@ terms:
   name: escarpment
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000280
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000176
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
