@@ -15483,7 +15483,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: citation
 - attribution: https://www.cites.org/eng/app/index.php
   definition: Appendix I lists species that are the most endangered among CITES-listed animals and plants. They are threatened with extinction and CITES prohibits international trade in specimens of these species except when the purpose of the import is not commercial, for instance for scientific research. In these exceptional cases, trade may take place provided it is authorized by the granting of both an import permit and an export permit (or re-export certificate). Article VII of the Convention provides for a number of exemptions to this general prohibition.
   is_hidden_from_select: false
@@ -43792,7 +43792,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: method
 - attribution: ''
   definition: Comments or notes accompanying the MeasurementOrFact.
   is_hidden_from_select: false
@@ -43804,7 +43804,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: remarks
 - attribution: ''
   definition: The units associated with the measurementValue. Recommended best practice is to use the International System of Units (SI).
   is_hidden_from_select: false
@@ -63773,7 +63773,7 @@ terms:
   parent_uris: []
   synonym_of_uri: http://eol.org/schema/terms/SampleSize
   units_term_uri:
-  alias:
+  alias: sample_size
 - attribution: ''
   definition: The amount of effort expended during an Event.
   is_hidden_from_select: false
@@ -64719,7 +64719,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: sci_name
 - attribution: ''
   definition: A region of integument whose external cuticular part is a hard, sclerotized plate
   is_hidden_from_select: false
@@ -67934,7 +67934,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: source
 - attribution: ''
   definition: ''
   is_hidden_from_select: true
