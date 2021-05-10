@@ -43792,7 +43792,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias: method
+  alias: measurement_method
 - attribution: ''
   definition: Comments or notes accompanying the MeasurementOrFact.
   is_hidden_from_select: false
@@ -64719,7 +64719,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias: sci_name
+  alias: scientific_name
 - attribution: ''
   definition: A region of integument whose external cuticular part is a hard, sclerotized plate
   is_hidden_from_select: false
