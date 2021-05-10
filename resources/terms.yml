@@ -107305,3 +107305,16 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: ''
+  definition: 'one who brings together dispersed materials'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: compiler
+  type: value
+  uri: https://www.wikidata.org/entity/Q29514511
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
