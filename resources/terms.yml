@@ -43767,7 +43767,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: determined_by
 - attribution: ''
   definition: The date on which the MeasurementOrFact was made. Recommended best practice is to use an encoding scheme, such as ISO 8601:2004(E).
   is_hidden_from_select: false
@@ -107317,7 +107317,7 @@ terms:
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
-  alias:
+  alias: compiler
 - attribution: ''
   definition: ''
   is_hidden_from_select: false
