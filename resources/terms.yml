@@ -107331,3 +107331,17 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: ''
+  definition: 'In Ceriantharia (Cnidaria: Anthozoa), pelagic larvae resembling medusae with flagella and a circlet of marginal tentacles'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: cerinula
+  type: value
+  uri: https://species-id.net/zooterms/cerinula_larva
+  parent_uris:
+  - http://purl.obolibrary.org/obo/PATO_0001185
+  synonym_of_uri:
+  units_term_uri:
+  alias:
