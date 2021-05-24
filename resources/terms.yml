@@ -66494,6 +66494,7 @@ terms:
   uri: http://purl.obolibrary.org/obo/FLOPO_0900034
   parent_uris:
   - https://www.wikidata.org/entity/Q757163
+  - http://purl.obolibrary.org/obo/PATO_0000402
   synonym_of_uri:
   units_term_uri:
   alias: shrub
@@ -75849,6 +75850,7 @@ terms:
   uri: http://purl.obolibrary.org/obo/FLOPO_0900033
   parent_uris:
   - https://www.wikidata.org/entity/Q757163
+  - http://purl.obolibrary.org/obo/PATO_0000402
   synonym_of_uri:
   units_term_uri:
   alias: tree
