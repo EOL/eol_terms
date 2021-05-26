@@ -107347,3 +107347,1290 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: ''
+  definition: 'Peter Janzen, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Peter Janzen
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Peter_Janzen
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Anna Doty, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Anna Doty
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Anna_Doty
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Fall 2013 URAP participants, contributors to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Fall 2013 URAPs
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Fall_2013_URAPs
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Kristoffer Patterson, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Kristoffer Patterson
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Kristoffer_Patterson
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Jared Brown, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Jared Brown
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Jared_Brown
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Veronica Pedraza, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Veronica Pedraza
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Veronica_Pedraza
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Vanikaa Keswani, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Vanikaa Keswani
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Vanikaa_Keswani
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Arie van der Meijden, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Arie van der Meijden
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Arie_van_der_Meijden
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Kevin Gin, UC Berkeley URAP, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Kevin Gin
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Kevin_Gin_UC_Berkeley_URAP
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Benjamin Fryer, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Benjamin Fryer
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Benjamin_Fryer
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Evan Twomey, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Evan Twomey
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Evan_Twomey
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Cheng Li, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Cheng Li
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Cheng_Li
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Ryan Reynolds, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Ryan Reynolds
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Ryan_Reynolds
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Richard Gilbert, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Richard Gilbert
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Richard_Gilbert
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Kristen Slattery, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Kristen Slattery
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Kristen_Slattery
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Caitlin Garner, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Caitlin Garner
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Caitlin_Garner
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Alexa Mutti, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Alexa Mutti
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Alexa_Mutti
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Philippe J. R. Kok, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Philippe J. R. Kok
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Philippe_J._R._Kok
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Kaera Utsumi, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Kaera Utsumi
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Kaera_Utsumi
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Christina Scott, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Christina Scott
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Christina_Scott
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Erin Gawel, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Erin Gawel
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Erin_Gawel
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Maddy Schwarz, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Maddy Schwarz
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Maddy_Schwarz
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Valentina Bache-Rodriguez, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Valentina Bache-Rodriguez
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Valentina_Bache-Rodriguez
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Nelly Chow, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Nelly Chow
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Nelly_Chow
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Gustavo Fermin, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Gustavo Fermin
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Gustavo_Fermin
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Sean M. Rovito, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Sean M. Rovito
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Sean_M._Rovito
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Katherine Montana, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Katherine Montana
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Katherine_Montana
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Emir Gokce, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Emir Gokce
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Emir_Gokce
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Megan Duncanson, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Megan Duncanson
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Megan_Duncanson
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Marcus Joyce, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Marcus Joyce
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Marcus_Joyce
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'William Yoon Ho Byun, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: William Yoon Ho Byun
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_William_Yoon_Ho_Byun
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Asako Miyakawa, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Asako Miyakawa
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Asako_Miyakawa
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Kayla Friedrichsen, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Kayla Friedrichsen
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Kayla_Friedrichsen
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Anne-Jieleth Fernandez, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Anne-Jieleth Fernandez
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Anne-Jieleth_Fernandez
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Ronald I. Crombie, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Ronald I. Crombie
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Ronald_I._Crombie
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Marvalee Wake, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Marvalee Wake
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Marvalee_Wake
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Jacob F. Brumley, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Jacob F. Brumley
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Jacob_F._Brumley
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Sky Button, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Sky Button
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Sky_Button
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Shiran Hershcovich, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Shiran Hershcovich
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Shiran_Hershcovich
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Madeline C. Bantly, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Madeline C. Bantly
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Madeline_C._Bantly
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Amanda Baker, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Amanda Baker
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Amanda_Baker
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Spencer J. Mennis, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Spencer J. Mennis
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Spencer_J._Mennis
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Anthony Gilbert, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Anthony Gilbert
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Anthony_Gilbert
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Mark Mazza II, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Mark Mazza II
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Mark_Mazza_II
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Giulia B. de Gennaro, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Giulia B. de Gennaro
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Giulia_B._de_Gennaro
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Varad B. Giri, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Varad B. Giri
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Varad_B._Giri
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Hillary Krumbholz, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Hillary Krumbholz
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Hillary_Krumbholz
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Malachi Whitford, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Malachi Whitford
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Malachi_Whitford
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Barbara Carballo, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Barbara Carballo
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Barbara_Carballo
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Angelica Grunloh, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Angelica Grunloh
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Angelica_Grunloh
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Yuezhao Wang Jinzhong Fu, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Yuezhao Wang Jinzhong Fu
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Yuezhao_Wang_Jinzhong_Fu
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Andrew Phennicie, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Andrew Phennicie
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Andrew_Phennicie
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'A. Beti, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: A. Beti
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_A._Beti
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Jenifer Morgan-Davie, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Jenifer Morgan-Davie
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Jenifer_Morgan-Davie
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'peter janzen, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: peter janzen
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_peter_janzen
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Sara Ramirez, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Sara Ramirez
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Sara_Ramirez
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'K. R. McDonald, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: K. R. McDonald
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_K._R._McDonald
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'R. A. Alford, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: R. A. Alford
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_R._A._Alford
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Tania Pollak, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Tania Pollak
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Tania_Pollak
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'M. L, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: M. L
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_M._L
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'M. St, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: M. St
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_M._St
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Zachary R. Lewis, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Zachary R. Lewis
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Zachary_R._Lewis
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Billy Mortola, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Billy Mortola
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Billy_Mortola
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Jon-Karl Jennewein, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Jon-Karl Jennewein
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Jon-Karl_Jennewein
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Austin Winget, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Austin Winget
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Austin_Winget
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Rosalie Abeng, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Rosalie Abeng
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Rosalie_Abeng
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Jacob Elstad, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Jacob Elstad
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Jacob_Elstad
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Sally Westcott, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Sally Westcott
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Sally_Westcott
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Emily McCloskey, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Emily McCloskey
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Emily_McCloskey
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Karin Dove, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Karin Dove
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Karin_Dove
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Travis Winter, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Travis Winter
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Travis_Winter
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Celeste M. Dodge, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Celeste M. Dodge
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Celeste_M._Dodge
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Amanda D. Wong, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Amanda D. Wong
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Amanda_D._Wong
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Jiří Moravec, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Jiří Moravec
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Jiří_Moravec
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Miquéias Ferrão, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Miquéias Ferrão
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Miquéias_Ferrão
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Regina Spranger, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Regina Spranger
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Regina_Spranger
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Spencer Wong, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Spencer Wong
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Spencer_Wong
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Sabrina Dunn, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Sabrina Dunn
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Sabrina_Dunn
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Cooper Walton, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Cooper Walton
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Cooper_Walton
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Skyler J. Kwan, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Skyler J. Kwan
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Skyler_J._Kwan
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Javier Moreno, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Javier Moreno
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Javier_Moreno
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Jing Che, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Jing Che
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Jing_Che
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Jenna Coates, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Jenna Coates
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Jenna_Coates
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Margaret S. Gunzburger, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Margaret S. Gunzburger
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Margaret_S._Gunzburger
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'John Abraham, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: John Abraham
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_John_Abraham
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Shivani Pandare, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Shivani Pandare
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Shivani_Pandare
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Christopher Searcy, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Christopher Searcy
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Christopher_Searcy
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Tina Cheng, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Tina Cheng
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Tina_Cheng
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Gururaja KV, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Gururaja KV
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Gururaja_KV
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Prathik Kumar, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Prathik Kumar
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Prathik_Kumar
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Amanda Radel, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Amanda Radel
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Amanda_Radel
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Ash Reining, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Ash Reining
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Ash_Reining
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Stephen Chu, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Stephen Chu
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Stephen_Chu
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Torianna Green, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Torianna Green
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Torianna_Green
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Rachel L. Mueller, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Rachel L. Mueller
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Rachel_L._Mueller
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Samuel Malone, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Samuel Malone
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Samuel_Malone
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Caroline Lewis, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Caroline Lewis
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Caroline_Lewis
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Jennifer Schoener, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Jennifer Schoener
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Jennifer_Schoener
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Nathaniel Diede, contributor to AmphibiaWeb'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Nathaniel Diede
+  type: value
+  uri: http://eol.org/schema/terms/Amphibiaweb_Nathaniel_Diede
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
