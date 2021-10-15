@@ -1,6 +1,4 @@
 # frozen_string_literal: true
-
-# You aren't going to read this.
 module EolTerms
   # invoke with EolTerms.rebuild_ids('/Users/jeremyrice/git/eol_terms/resources/uri_ids.yml')
   class IdChecker
@@ -23,6 +21,7 @@ module EolTerms
     end
 
     def rebuild_ids
+      puts "There are currently #{@uri_ids.size} URI ID keys."
       rewrite_required = false
       @uris.each do |uri|
         unless @uri_ids.key?(uri.downcase)
@@ -31,6 +30,7 @@ module EolTerms
         end
       end
       rewrite_ids_file if rewrite_required
+      puts "There are now #{@uri_ids.size} URI ID keys."
       puts "Done. Results saved in #{@path}"
     end
 
