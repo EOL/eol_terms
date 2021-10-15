@@ -6,7 +6,7 @@ ruby -r eol_terms -e "EolTerms.rebuild_ids('/Users/jeremyrice/code/eol_terms/res
 bump patch ; git add . ; git ci -m "Version bump, new terms." ; git push ; git co main ; git pull ; cat crib.txt
 git merge new_terms ; cat crib.txt
 git push ; git co new_terms ; git rebase main ; cat crib.txt
-git push ; ssh si ; cat crib.txt
+git push ; ssh si
 bweb
 jweb
 bin/up_terms && echo "sleep 10 ; tail -f log/term_bootstrap.log"
