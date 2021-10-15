@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    eol_terms (0.9.28)
+    eol_terms (0.9.29)
       yaml
 
 GEM
@@ -9,7 +9,7 @@ GEM
   specs:
     bump (0.10.0)
     rake (12.3.3)
-    yaml (0.1.1)
+    yaml (0.2.0)
 
 PLATFORMS
   ruby
