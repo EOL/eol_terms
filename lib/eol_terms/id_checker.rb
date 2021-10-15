@@ -21,7 +21,7 @@ module EolTerms
     end
 
     def rebuild_ids
-      puts "There are currently #{@uri_ids.size} URI ID keys."
+      puts "We are starting with #{@uri_ids.size} URI ID keys."
       rewrite_required = false
       @uris.each do |uri|
         unless @uri_ids.key?(uri.downcase)
