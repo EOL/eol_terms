@@ -3,7 +3,8 @@ This is just a list of commands for JRice to run to deploy the Terms. You can ig
 git co new_terms ; git pull ; rake build ; rake install ; ruby -r eol_terms -e "EolTerms.validate" ; cat crib.txt
 ruby -r eol_terms -e "EolTerms.rebuild_ids('/Users/jeremyrice/code/eol_terms/resources/uri_ids.yml')" ; cat crib.txt
 # WATCH FOR CHANGES HERE; you *might* have to merge them if any.
-bump patch ; git add . ; git ci -m "Version bump, new termruby -r eol_terms -e "EolTerms.rebuild_ids('/Users/jeremyrice/code/eol_terms/resources/uri_ids.yml')" ; cat crib.txts." ; git push ; git co main ; git pull ; cat crib.txt
+bump patch ; git add . ; git ci -m "Version bump, new terms." ; git push ; git co main ; git pull ; cat crib.txt
+git push ; git co main ; git pull ; cat crib.txt
 git merge new_terms ; cat crib.txt
 git push ; git co new_terms ; git rebase main ; cat crib.txt
 git push ; ssh si
