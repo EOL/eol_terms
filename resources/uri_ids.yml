@@ -12661,3 +12661,5 @@ uri_ids:
   http://eol.org/schema/terms/typefragment: 12654
   http://eol.org/schema/terms/photoneotype: 12655
   http://purl.obolibrary.org/obo/stato_0000035: 12656
+  http://purl.obolibrary.org/obo/stato_0000231: 12657
+  http://eol.org/schema/terms/isotypefragment: 12658
