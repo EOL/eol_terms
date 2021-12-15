@@ -12716,3 +12716,6 @@ uri_ids:
   http://purl.obolibrary.org/obo/oba_vt0000038: 12709
   http://purl.obolibrary.org/obo/to_0000553: 12710
   http://eol.org/schema/terms/caudexdiameter: 12711
+  http://eol.org/schema/terms/thalluslength: 12712
+  http://eol.org/schema/terms/thalluswidth: 12713
+  http://eol.org/schema/terms/thallusdiameter: 12714
