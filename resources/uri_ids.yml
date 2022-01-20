@@ -12734,3 +12734,5 @@ uri_ids:
   http://purl.obolibrary.org/obo/po_0030091: 12727
   http://purl.obolibrary.org/obo/po_0030092: 12728
   https://www.wikidata.org/entity/q747463: 12729
+  http://rs.tdwg.org/dwc/terms/verbatimcoordinates: 12730
+  http://rs.tdwg.org/dwc/terms/latesteraorhighesterathem: 12731
