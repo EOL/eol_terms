@@ -12737,3 +12737,10 @@ uri_ids:
   http://rs.tdwg.org/dwc/terms/verbatimcoordinates: 12730
   http://rs.tdwg.org/dwc/terms/latesteraorhighesterathem: 12731
   http://www.marinespecies.org/imis.php?module=person&persid=40612: 12732
+  http://eol.org/schema/terms/phagotroph: 12733
+  http://www.ebi.ac.uk/efo/efo_0000643: 12734
+  http://www.wikidata.org/entity/q1366299: 12735
+  http://www.wikidata.org/entity/q60794338: 12736
+  http://www.wikidata.org/entity/q3382064: 12737
+  http://eol.org/schema/terms/histophage: 12738
+  http://eol.org/schema/terms/mycorrhizalsymbiont: 12739
