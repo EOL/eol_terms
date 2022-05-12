@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    eol_terms (0.9.49)
+    eol_terms (0.9.50)
       yaml
 
 GEM
