@@ -8,11 +8,13 @@ git push ; git co main ; git pull ; cat crib.txt
 git merge new_terms ; cat crib.txt
 git push ; git co new_terms ; git rebase main ; cat crib.txt
 git push ; ssh si
-sbwe
-djo
+ssbpub
+aliaseol
+dejob
 bin/up_terms && echo "sleep 10 ; tail -f log/term_bootstrap.log"
 exit
 exit
-dbha
-dha
+ssbharv
+aliaseol
+debharv
 bin/up_terms
