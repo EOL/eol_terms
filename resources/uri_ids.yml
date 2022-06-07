@@ -13123,3 +13123,7 @@ uri_ids:
   https://www.marinespecies.org/imis.php?module=person&persid=19180: 13116
   https://www.marinespecies.org/imis.php?module=person&persid=9188: 13117
   https://www.marinespecies.org/imis.php?module=person&persid=19345: 13118
+  http://eol.org/schema/terms/hypoxicsediment: 13119
+  http://purl.obolibrary.org/obo/envo_01001064: 13120
+  http://purl.obolibrary.org/obo/envo_00002018: 13121
+  http://www.marinespecies.org/imis.php?module=person&persid=40308: 13122
