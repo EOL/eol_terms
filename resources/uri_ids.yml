@@ -13127,3 +13127,23 @@ uri_ids:
   http://purl.obolibrary.org/obo/envo_01001064: 13120
   http://purl.obolibrary.org/obo/envo_00002018: 13121
   http://www.marinespecies.org/imis.php?module=person&persid=40308: 13122
+  http://purl.obolibrary.org/obo/gsso_000902: 13123
+  http://purl.obolibrary.org/obo/gsso_000904: 13124
+  http://purl.obolibrary.org/obo/pato_0001374: 13125
+  https://eol.org/schema/terms/haplobiontic: 13126
+  https://eol.org/schema/terms/diplobiontic: 13127
+  https://eol.org/schema/terms/haplobiontic_diploid_dominant: 13128
+  https://eol.org/schema/terms/haplobiontic_haploid_dominant: 13129
+  https://eol.org/schema/terms/diplobiontic_diploid_dominant: 13130
+  https://eol.org/schema/terms/diplobiontic_haploid_dominant: 13131
+  https://eol.org/schema/terms/diplobiontic_isomorphic: 13132
+  https://www.wikidata.org/entity/q13415392: 13133
+  http://purl.obolibrary.org/obo/uberon_0009473: 13134
+  https://eol.org/schema/terms/biramous_parapodia: 13135
+  https://eol.org/schema/terms/uniramous_parapodia: 13136
+  https://www.wikidata.org/entity/q7921571: 13137
+  https://eol.org/schema/terms/stalked: 13138
+  http://purl.obolibrary.org/obo/pato_0001994: 13139
+  http://eol.org/schema/terms/pseudofilamentous: 13140
+  http://eol.org/schema/terms/siphonous: 13141
+  https://www.wikidata.org/entity/q1876749: 13142
