@@ -13163,3 +13163,5 @@ uri_ids:
   http://eol.org/schema/terms/helioflagellate: 13156
   http://eol.org/schema/terms/carapacewidth: 13157
   http://eol.org/schema/terms/femur2length: 13158
+  http://purl.obolibrary.org/obo/ro_0002237: 13159
+  http://eol.org/schema/terms/saproxylic: 13160
