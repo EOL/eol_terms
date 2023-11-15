@@ -8,7 +8,6 @@ git push ; git co main ; git pull ; head -n8 crib.txt
 git merge new_terms ; head -n9 crib.txt
 git push ; git co new_terms ; git rebase main ; tail -n5 crib.txt
 git push ; ssh si
-...etc:
 ssbpub
 aliaseol
 dejob
