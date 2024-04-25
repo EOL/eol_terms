@@ -13557,3 +13557,8 @@ uri_ids:
   https://www.marinespecies.org/imis.php?module=person&persid=41051: 13550
   https://www.marinespecies.org/imis.php?module=person&persid=43970: 13551
   http://purl.obolibrary.org/obo/envo_09200008: 13552
+  http://eol.org/schema/terms/numberofinaturalistobservations: 13553
+  http://eol.org/schema/terms/mouthprocessor: 13554
+  http://eol.org/schema/terms/sucker: 13555
+  http://eol.org/schema/terms/piercer: 13556
+  http://eol.org/schema/terms/crusher: 13557
