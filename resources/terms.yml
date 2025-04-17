@@ -84893,6 +84893,7 @@ terms:
   parent_uris:
   - https://www.wikidata.org/entity/Q164509
   synonym_of_uri:
+  units_term_uri:
   alias:
 - attribution: ''
   definition: Exemplary records (representative or primary records) represent typical values of an attribute for a taxon, which may have many records for this attribute.
