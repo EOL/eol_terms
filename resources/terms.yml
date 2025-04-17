@@ -1290,7 +1290,8 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: 'Simpson, A., Eyler, M.C., Sikes, D., Bowser, M., Sellers, E., Guala, G.F., Cannister, M., Libby, R., and Kozlowski, N., 2019, A comprehensive list of non-native species established in three major regions of the United States: Version 2.0, (ver. 2.0, 2019): U.S. Geological Survey data release, https://doi.org/10.5066/P9E5K160. A possibly ambiguous term used to describe the presence of the taxon in a region. Common definitions include newly arrived; vagrant; in flux. May or may not have been introduced by human activity.'
+- attribution: 'Simpson, A., Eyler, M.C., Sikes, D., Bowser, M., Sellers, E., Guala, G.F., Cannister, M., Libby, R., and Kozlowski, N., 2019, A comprehensive list of non-native species established in three major regions of the United States: Version 2.0, (ver. 2.0, 2019): U.S. Geological Survey data release, https://doi.org/10.5066/P9E5K160.'
+  definition: 'A possibly ambiguous term used to describe the presence of the taxon in a region. Common definitions include newly arrived; vagrant; in flux. May or may not have been introduced by human activity.'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -3598,6 +3599,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: annual
+  type: value
   uri: http://purl.obolibrary.org/obo/FLOPO_0980071
   parent_uris: 
   - http://purl.obolibrary.org/obo/FLOPO_0022142
@@ -3838,6 +3840,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: anteriorright
+  type: value
   uri: http://eol.org/schema/terms/anteriorRight
   parent_uris: []
   synonym_of_uri:
@@ -5477,6 +5480,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: asymmetriccircle
+  type: value
   uri: http://eol.org/schema/terms/asymmetricCircle
   parent_uris: []
   synonym_of_uri:
@@ -5488,6 +5492,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: asymmetricdisc
+  type: value
   uri: http://eol.org/schema/terms/asymmetricDisc
   parent_uris: []
   synonym_of_uri:
@@ -8871,6 +8876,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   name: body mass
+  type: measurement
   uri: http://purl.obolibrary.org/obo/OBA_VT0001259
   parent_uris: []
   synonym_of_uri: http://purl.obolibrary.org/obo/VT_0001259
@@ -13322,6 +13328,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: centerdorsal
+  type: value
   uri: http://eol.org/schema/terms/centerDorsal
   parent_uris: []
   synonym_of_uri:
@@ -15800,6 +15807,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: closetocoast
+  type: value
   uri: http://eol.org/schema/terms/closeToCoast
   parent_uris: []
   synonym_of_uri:
@@ -16814,6 +16822,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: coneplushalfsphere minus 40percent
+  type: value
   uri: http://eol.org/schema/terms/conePlusHalfSphere-40Percent
   parent_uris: []
   synonym_of_uri:
@@ -25625,6 +25634,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: external fertilization
+  type: value
   uri: http://eol.org/schema/terms/External_fertilization
   parent_uris: []
   synonym_of_uri:
@@ -26215,6 +26225,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: female larger
+  type: value
   uri: http://eol.org/schema/terms/female_larger
   parent_uris: []
   synonym_of_uri:
@@ -26226,6 +26237,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   name: female more colorful
+  type: value
   uri: http://eol.org/schema/terms/female_more_colorful
   parent_uris: []
   synonym_of_uri:
@@ -26500,6 +26512,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: figureeight
+  type: value
   uri: http://eol.org/schema/terms/figureEight
   parent_uris: []
   synonym_of_uri:
@@ -29523,6 +29536,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: granules
+  type: value
   uri: http://eol.org/schema/terms/granules
   parent_uris: []
   synonym_of_uri:
@@ -35492,6 +35506,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: internal fertilization
+  type: value
   uri: http://eol.org/schema/terms/Internal_fertilization
   parent_uris: []
   synonym_of_uri:
@@ -36054,11 +36069,11 @@ terms:
   name: are eaten by
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0002471
+  inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002470
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias: is_eaten_by
-  inverse_of_uri: http://purl.obolibrary.org/obo/RO_0002470
 - attribution: ''
   definition: A relationship that is mediated in some way by the environment or environmental feature
   is_hidden_from_select: false
@@ -37766,6 +37781,7 @@ terms:
   is_hidden_from_glossary: true
   is_text_only: false
   name: KharkhâRa
+  type: value
   uri: http://www.geonames.org/272505
   parent_uris: []
   synonym_of_uri:
@@ -38008,9 +38024,9 @@ terms:
   name: are kleptoparasitized by
   type: association
   uri: http://purl.obolibrary.org/obo/RO_0008504
+  inverse_of_uri: http://purl.obolibrary.org/obo/RO_0008503
   parent_uris: 
   - http://purl.obolibrary.org/obo/RO_0002445
-  inverse_of_uri: http://purl.obolibrary.org/obo/RO_0008503
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -39818,6 +39834,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: leftdeflection
+  type: value
   uri: http://eol.org/schema/terms/leftDeflection
   parent_uris: []
   synonym_of_uri:
@@ -42506,6 +42523,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: male larger
+  type: value
   uri: http://eol.org/schema/terms/male_larger
   parent_uris: []
   synonym_of_uri:
@@ -42517,6 +42535,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   name: male more colorful
+  type: value
   uri: http://eol.org/schema/terms/male_more_colorful
   parent_uris: []
   synonym_of_uri:
@@ -44916,6 +44935,7 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: mg/g
+  type: value
   uri: http://eol.org/schema/terms/milligramspergram
   parent_uris: []
   synonym_of_uri:
@@ -55679,6 +55699,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: par 0337
+  type: value
   uri: http://purl.obolibrary.org/obo/PAR:0337
   parent_uris: []
   synonym_of_uri:
@@ -57924,7 +57945,6 @@ terms:
   - http://eol.org/schema/terms/growthHabit
   synonym_of_uri:
   units_term_uri:
-  exclusive_to_clade_id: 42430800
   alias: growth_habit
 - attribution: ''
   definition: A stature and vigor trait (TO:0000133) which is associated with the height of a whole plant (PO:0000003).
@@ -60564,6 +60584,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: Cote D'Ivoire
+  type: value
   uri: https://www.wikidata.org/entity/Q1008
   parent_uris:
   synonym_of_uri: 
@@ -60576,6 +60597,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: Macaronesia
+  type: value
   uri: https://www.wikidata.org/entity/Q105472
   parent_uris:
   - http://www.marineregions.org/mrgid/1912
@@ -60591,6 +60613,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: Ecuador
+  type: value
   uri: https://www.wikidata.org/entity/Q736
   parent_uris: []
   synonym_of_uri: http://www.geonames.org/3658394
@@ -60920,6 +60943,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: raised
+  type: value
   uri: http://eol.org/schema/terms/raised
   parent_uris: []
   synonym_of_uri:
@@ -62376,6 +62400,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: produced by
+  type: measurement
   uri: http://purl.obolibrary.org/obo/RO_0003001
   parent_uris: []
   synonym_of_uri:
@@ -64302,7 +64327,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: '	50 - 80% mud; 20 -50% sand.'
+  definition: '50 - 80% mud; 20 -50% sand.'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -65981,6 +66006,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: sem stub
+  type: value
   uri: http://eol.org/schema/terms/SEMstub
   parent_uris: []
   synonym_of_uri:
@@ -66397,6 +66423,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: sexes colored or patterned differently
+  type: value
   uri: http://eol.org/schema/terms/Sexes_colored_or_patterned_differently
   parent_uris: []
   synonym_of_uri:
@@ -76381,6 +76408,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: trident
+  type: value
   uri: http://eol.org/schema/terms/trident
   parent_uris: []
   synonym_of_uri:
@@ -79180,6 +79208,7 @@ terms:
   is_hidden_from_overview: true
   is_hidden_from_glossary: true
   name: Caribbean-Mesoamerican Freshwater Marsh, Wet Meadow & Shrubland
+  type: value
   uri: https://eol.org/schema/terms/usnvc_2_C_3_Ef_1
   parent_uris: []
   synonym_of_uri: https://eol.org/schema/terms/usnvc_2_C_3_Ef
@@ -84615,6 +84644,7 @@ terms:
   parent_uris:
   - http://purl.obolibrary.org/obo/UBERON_0001032
   synonym_of_uri:
+  units_term_uri:
   alias:
 - attribution: ''
   definition: the method used by some animals (e.g. bats, dolphins and some whales) to determine the location of something by measuring the time it takes for an echo to return from it. These animals emit sound waves and listen for the echo, calculating the distance to the object from the time lapse between sound emission and the echo returning.
@@ -107130,7 +107160,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: '	The latest integer day of the year on which the Event occurred (1 for January 1, 365 for December 31, except in a leap year, in which case it is 366).'
+  definition: 'The latest integer day of the year on which the Event occurred (1 for January 1, 365 for December 31, except in a leap year, in which case it is 366).'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -107182,7 +107212,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: '	Notes or comments about the spatial description determination, explaining assumptions made in addition or opposition to the those formalized in the method referred to in georeferenceProtocol.'
+  definition: 'Notes or comments about the spatial description determination, explaining assumptions made in addition or opposition to the those formalized in the method referred to in georeferenceProtocol.'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -107260,7 +107290,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: '	The greater depth of a range of depth below the local surface, in meters.'
+  definition: 'The greater depth of a range of depth below the local surface, in meters.'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -146020,7 +146050,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: 	Tentacle color
+  name: Tentacle color
   type: measurement
   uri: http://eol.org/schema/terms/tentacle_color
   parent_uris:
@@ -153257,7 +153287,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: "Lincoln, R., Boxshall, G., Clark, P. (1998) A dictionary of ecology, evolution and systematics (2nd ed). Cambridge University Press, Cambridge. 361pp."
-  definition: 	Living above but close to the substratum
+  definition: Living above but close to the substratum
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -153271,7 +153301,7 @@ terms:
   units_term_uri:
   alias: 
 - attribution: https://marlin.ac.uk/
-  definition: 	Attached to / growing on the surface of rock
+  definition: Attached to / growing on the surface of rock
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
