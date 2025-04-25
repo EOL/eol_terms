@@ -19984,7 +19984,6 @@ terms:
   uri: https://www.wikidata.org/entity/Q736879
   parent_uris:
   - https://www.wikidata.org/entity/Q22093455
-  - http://purl.obolibrary.org/obo/ENVO_01000373
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -32570,7 +32569,8 @@ terms:
   name: herb
   type: value
   uri: http://purl.obolibrary.org/obo/FLOPO_0022142
-  parent_uris: []
+  parent_uris:
+  - http://eol.org/schema/terms/plant
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -56132,7 +56132,7 @@ terms:
   type: value
   uri: https://www.wikidata.org/entity/Q22093455
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01000373
+  - http://purl.obolibrary.org/obo/ENVO_01000155
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -57884,7 +57884,7 @@ terms:
   incompatible_with_clade_id: 42430800
   uri: http://wikidata.org/entity/Q7201320
   parent_uris:
-  - http://www.wikidata.org/entity/Q72638
+  - http://eol.org/schema/terms/suspensionFeeder
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -65511,9 +65511,8 @@ terms:
   type: value
   incompatible_with_clade_id: 42430800
   uri: http://eol.org/schema/terms/secondaryConsumer
-  parent_uris:
-  - http://www.wikidata.org/entity/Q72638
-  synonym_of_uri:
+  parent_uris: []
+  synonym_of_uri: http://www.wikidata.org/entity/Q72638
   units_term_uri:
   alias:
 - attribution: ''
@@ -83427,6 +83426,7 @@ terms:
   uri: http://www.wikidata.org/entity/Q45879481
   parent_uris:
   - https://www.wikidata.org/entity/Q59099
+  - http://www.wikidata.org/entity/Q116423368
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -151396,7 +151396,7 @@ terms:
   type: value
   uri:  http://eol.org/schema/terms/saproxylic
   parent_uris: 
-  - http://www.wikidata.org/entity/Q72638
+  - http://www.wikidata.org/entity/Q116423368
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -153157,7 +153157,7 @@ terms:
   type: value
   uri: https://eol.org/schema/terms/biting
   parent_uris:
-  - http://www.wikidata.org/entity/Q72638
+  - http://eol.org/schema/terms/phagotroph
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -153270,7 +153270,8 @@ terms:
   name: collecting-gathering
   type: value
   uri: http://purl.obolibrary.org/obo/IDOMAL_0002192
-  parent_uris: []
+  parent_uris:
+  - http://eol.org/schema/terms/depositFeeder
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -153283,7 +153284,8 @@ terms:
   name: shredding
   type: value
   uri: http://purl.obolibrary.org/obo/IDOMAL_0002191
-  parent_uris: []
+  parent_uris:
+  - http://eol.org/schema/terms/phagotroph
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -153539,7 +153541,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/mouthProcessor
   parent_uris:
-  - http://www.wikidata.org/entity/Q72638
+  - http://eol.org/schema/terms/phagotroph
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -153582,6 +153584,112 @@ terms:
   uri: http://eol.org/schema/terms/crusher
   parent_uris:
   - http://www.wikidata.org/entity/Q72638
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: State of Odisha
+  type: value
+  uri: https://www.geonames.org/1261029
+  parent_uris:
+  - http://www.geonames.org/1269750
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Bismarck Archipelago
+  type: value
+  uri: https://www.geonames.org/2099398
+  parent_uris:
+  - http://www.geonames.org/2088628
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Desiderato, Andrea
+  type: value
+  uri: https://www.marinespecies.org/imis.php?module=person&persid=41720
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Dr Hennen, Derek
+  type: value
+  uri: https://www.marinespecies.org/imis.php?module=person&persid=44394
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Dr Pino, Loreto
+  type: value
+  uri: https://www.marinespecies.org/imis.php?module=person&persid=45007
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Collins, Richard
+  type: value
+  uri: https://www.marinespecies.org/imis.php?module=person&persid=45300
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Dr Eleaume, Marc
+  type: value
+  uri: https://www.marinespecies.org/imis.php?module=person&persid=12686
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Silva, Estephany Susana Siqueira
+  type: value
+  uri: https://www.marinespecies.org/imis.php?module=person&persid=44015
+  parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
