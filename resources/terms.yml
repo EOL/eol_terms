@@ -153693,3 +153693,18 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: ''
+  definition: 'An organism that inhabits humid terrestrials environments that are subject to periods of immersion and desiccation.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: limnoterrestrial
+  type: value
+  uri: http://eol.org/schema/terms/limnoterrestrial
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00000873
+  - http://purl.obolibrary.org/obo/ENVO_00000446
+  synonym_of_uri:
+  units_term_uri:
+  alias:
