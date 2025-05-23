@@ -65400,7 +65400,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00002118
   parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/ENVO_00002113
+  synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
