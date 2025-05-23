@@ -26632,7 +26632,7 @@ terms:
   type: value
   uri: http://polytraits.lifewatchgreece.eu/terms/SUBST_FS
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01000017
+  - http://purl.obolibrary.org/obo/ENVO_06105273
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -65399,7 +65399,9 @@ terms:
   name: sea sand
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00002118
-  parent_uris: []
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00002118
+  - http://purl.obolibrary.org/obo/ENVO_03000033
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -152591,7 +152593,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/decayingAlgae
   parent_uris: 
-  - http://purl.obolibrary.org/obo/ENVO_01000155
+  - http://purl.obolibrary.org/obo/ENVO_01001189
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -153708,3 +153710,87 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: ''
+  definition: 'An organic material which is primarily composed of living or dead algae, along with their exudates.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: algal material
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_01001189
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000155
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: coarse beach sand
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_00002148
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00002138
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Sand which is composed primarily of fine particles.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: fine sand
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_06105273
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000017
+  synonym_of_uri:
+  units_term_uri:
+  alias:  
+- attribution: ''
+  definition: 'The marine sublittoral zone is part of the marine littoral zone which is permanently covered by seawater. In physical oceanography, the sublittoral zone refers to coastal regions with significant tidal flows and energy dissipation, including non-linear flows, internal waves, river outflows and oceanic fronts. In practice, this typically extends to the edge of the continental shelf, with depths around 200 meters. In marine biology, the sublittoral refers to the areas where sunlight reaches the ocean floor, that is, where the water is never so deep as to take it out of the photic zone.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: marine sub-littoral zone
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_01000126
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000125
+  synonym_of_uri:
+  units_term_uri:
+  alias:  
+- attribution: ''
+  definition: 'The supralittoral zone is the area above the spring high tide line that is regularly splashed, but not submerged by ocean water. Seawater penetrates these elevated areas only during storms with high tides.'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: marine supra-littoral zone
+  type: value
+  uri: http://purl.obolibrary.org/obo/ENVO_01000124
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000125
+  synonym_of_uri:
+  units_term_uri:
+  alias:  
+- attribution: ''
+  definition: 'habitat created by marine macrophytes'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: phytal
+  type: value
+  uri: https://www.wikidata.org/entity/Q21044684
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00000447
+  synonym_of_uri:
+  units_term_uri:
+  alias:  
