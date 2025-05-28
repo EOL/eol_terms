@@ -43123,7 +43123,9 @@ terms:
   name: marine larval development strategy
   type: measurement
   uri: http://eol.org/schema/terms/MarineLarvalDevelopmentStrategy
-  parent_uris: []
+  parent_uris:
+  - http://eol.org/schema/terms/DevelopmentalMode
+  - http://eol.org/schema/terms/trophicEcology
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -59577,9 +59579,9 @@ terms:
   alias:
 - attribution: ''
   definition: A predator that captures small or microscopic prey primarily by suspension feeding
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: predatory suspension feeder
   type: value
@@ -84320,7 +84322,7 @@ terms:
   units_term_uri:
   alias:
 - definition: 'behavior by which zooplankton obtain food; ambush, feeding current, or cruising. (Barton, AD, Pershing, AJ, Litchman, E, Record, NR, Edwards, KF, Finkel, ZV, Kiørboe, T, Ward, BA. 2013. The biogeography of marine plankton traits. Ecology Letters (2013) 16: 522–534. DOI: 10.1111/ele.12063)'
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
@@ -84328,7 +84330,7 @@ terms:
   type: measurement
   uri: http://eol.org/schema/terms/ZooplanktonFeedingMode
   parent_uris: []
-  synonym_of_uri:
+  synonym_of_uri: http://eol.org/schema/terms/trophicGuild
   units_term_uri:
   alias:
 - attribution: Pignatti 1953 AND https://doi.org/10.1111/avsc.12257, accessed at https://www.synbiosys.alterra.nl/evc/, May 2020
