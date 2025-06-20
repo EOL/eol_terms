@@ -86494,7 +86494,6 @@ terms:
   type: value
   uri: https://www.wikidata.org/entity/Q2251595
   parent_uris:
-  - http://polytraits.lifewatchgreece.eu/terms/BP_YES
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -86508,7 +86507,6 @@ terms:
   type: value
   uri: https://www.wikidata.org/entity/Q2874419
   parent_uris:
-  - http://polytraits.lifewatchgreece.eu/terms/BP_YES
   synonym_of_uri:
   units_term_uri:
   alias:
