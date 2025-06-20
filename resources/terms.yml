@@ -4971,7 +4971,8 @@ terms:
   name: arm
   type: metadata
   uri: https://eol.org/schema/terms/arm
-  parent_uris: []
+  parent_uris:
+  - https://www.wikidata.org/entity/Q13415392
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -5100,7 +5101,8 @@ terms:
   name: arthropod legs
   type: metadata
   uri: https://www.wikidata.org/entity/Q3133438
-  parent_uris: []
+  parent_uris:
+  - https://www.wikidata.org/entity/Q133105
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -31906,6 +31908,7 @@ terms:
   uri: http://eol.org/schema/terms/HasToxin
   parent_uris:
   - http://purl.obolibrary.org/obo/RO_0003000
+  - https://www.wikidata.org/entity/Q5090452
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -39847,9 +39850,10 @@ terms:
   is_hidden_from_glossary: false
   is_text_only: false
   name: legs
-  type: metadata
+  type: value
   uri: https://www.wikidata.org/entity/Q133105
-  parent_uris: []
+  parent_uris:
+  - https://www.wikidata.org/entity/Q13415392
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -44102,9 +44106,9 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: mechanical defense
   type: measurement
@@ -76006,7 +76010,8 @@ terms:
   name: toxic to fish
   type: value
   uri: http://eol.org/schema/terms/toxicToFish
-  parent_uris: []
+  parent_uris:
+  - http://purl.obolibrary.org/obo/XCO_0000240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -76019,7 +76024,8 @@ terms:
   name: toxic to fungi
   type: value
   uri: http://eol.org/schema/terms/toxicToFungi
-  parent_uris: []
+  parent_uris:
+  - http://purl.obolibrary.org/obo/XCO_0000240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -76032,7 +76038,8 @@ terms:
   name: toxic to humans
   type: value
   uri: http://eol.org/schema/terms/toxicToHumans
-  parent_uris: []
+  parent_uris:
+  - http://purl.obolibrary.org/obo/XCO_0000240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -76045,7 +76052,8 @@ terms:
   name: toxic to invertebrates
   type: value
   uri: http://eol.org/schema/terms/toxicToInvertebrates
-  parent_uris: []
+  parent_uris:
+  - http://purl.obolibrary.org/obo/XCO_0000240
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -146076,15 +146084,16 @@ terms:
   alias:
 - attribution: ''
   definition: 'overall pattern in the body of one individual of this taxon'
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: Body organization
   type: measurement
   uri: http://eol.org/schema/terms/body_organization
   parent_uris:
-  synonym_of_uri: []
+  synonym_of_uri:
+  - http://purl.obolibrary.org/obo/PATO_0000052
   units_term_uri:
   alias:
 - attribution: ''
@@ -146097,7 +146106,7 @@ terms:
   type: measurement
   uri: http://eol.org/schema/terms/body_symmetry
   parent_uris:
-  - http://eol.org/schema/terms/body_organization
+  - http://purl.obolibrary.org/obo/PATO_0000052
   synonym_of_uri: []
   units_term_uri:
   alias:
@@ -153794,3 +153803,97 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:  
+- attribution: ''
+  definition: form of cnidarian in which the body is shaped like an umbrella; jellyfish
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: medusa
+  type: value
+  uri: https://www.wikidata.org/entity/Q4376770
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: protecting of oneself or others from attack, danger, or injury
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: defense
+  type: measurement
+  uri: https://www.wikidata.org/entity/Q29688905
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: strategy employed by many organisms to avoid consumption by producing toxic or repellent metabolites
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: chemical defense
+  type: measurement
+  uri: https://www.wikidata.org/entity/Q5090452
+  parent_uris:
+  - https://www.wikidata.org/entity/Q29688905
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: varied organ found in many animals, especially cephalopods, and used for palpation and manipulation
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: tentacle
+  type: value
+  uri: https://www.wikidata.org/entity/Q660059
+  parent_uris:
+  - https://www.wikidata.org/entity/Q13415392
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: An elongated appendage originating from the head of an animal; in invertebrates, the term most often references tubular mouthparts used for feeding and sucking, whilst in vertebrates, the term references an elongated nose or snout
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: proboscis
+  type: value
+  uri: http://purl.obolibrary.org/obo/NCIT_C124572
+  parent_uris:
+  - https://www.wikidata.org/entity/Q13415392
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: a noxious or poisonous substance produced by a biological organism such as a microbe, animal or plant
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: toxin
+  type: value
+  uri: http://purl.obolibrary.org/obo/XCO_0000240
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: external body part, or natural prolongation, that protrudes from the body of an organism (in vertebrate biology, an example would be a vertebrate's limbs); any of the homologous body parts that may extend from a body segment
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: appendage
+  type: value
+  uri: https://www.wikidata.org/entity/Q13415392
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
