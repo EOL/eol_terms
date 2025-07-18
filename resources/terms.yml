@@ -3117,7 +3117,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00002045
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00002007
+  - http://eol.org/schema/terms/hypoxicSediment
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -15632,7 +15632,6 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000120
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00002007
   - http://purl.obolibrary.org/obo/ENVO_00002982
   synonym_of_uri:
   units_term_uri:
@@ -16015,8 +16014,7 @@ terms:
   uri: http://purl.obolibrary.org/obo/ENVO_00000416
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_00000303
-  - http://purl.obolibrary.org/obo/ENVO_01000017
-  - http://purl.obolibrary.org/obo/ENVO_00000083
+  - http://purl.obolibrary.org/obo/ENVO_00000170
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -35538,7 +35536,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00002179
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00002007
+  - http://purl.obolibrary.org/obo/ENVO_03000033
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -61279,7 +61277,6 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_02000045
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00002007
   - http://purl.obolibrary.org/obo/ENVO_00002982
   synonym_of_uri:
   units_term_uri:
@@ -64314,7 +64311,7 @@ terms:
   name: sandy mud
   type: value
   uri: http://eol.org/schema/terms/sandyMud
-  parent_uris:
+  parent_uris: []
   synonym_of_uri: http://polytraits.lifewatchgreece.eu/terms/SUBST_SM
   units_term_uri:
   alias:
@@ -64342,7 +64339,8 @@ terms:
   type: value
   uri: http://polytraits.lifewatchgreece.eu/terms/SUBST_SM
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00002007
+  - http://purl.obolibrary.org/obo/ENVO_01000001
+  - http://purl.obolibrary.org/obo/ENVO_01000017
   synonym_of_uri:
   units_term_uri:
   alias:
