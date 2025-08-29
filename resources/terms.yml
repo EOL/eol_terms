@@ -13648,6 +13648,7 @@ terms:
   - https://www.wikidata.org/entity/Q106447
   - http://www.geonames.org/6255147
   - http://purl.obolibrary.org/obo/ENVO_01000179
+  - https://www.wikidata.org/entity/Q13360049
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -48906,6 +48907,7 @@ terms:
   uri: https://eol.org/schema/terms/esl_NER
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_00000300
+  - https://www.wikidata.org/entity/Q13360049
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -62283,6 +62285,7 @@ terms:
   uri: http://eol.org/schema/terms/riparianWetland
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_00000243
+  - https://www.wikidata.org/entity/Q13360049
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -62780,6 +62783,7 @@ terms:
   parent_uris:
   - https://eol.org/schema/terms/western_north_america
   - https://www.wikidata.org/entity/Q1940784
+  - https://www.wikidata.org/entity/Q13360049
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -153878,6 +153882,19 @@ terms:
   name: appendage
   type: value
   uri: https://www.wikidata.org/entity/Q13415392
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: interface between land and a river or stream
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: riparian zone
+  type: value
+  uri: https://www.wikidata.org/entity/Q13360049
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
