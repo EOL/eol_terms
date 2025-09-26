@@ -2462,7 +2462,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000340
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - https://www.wikidata.org/entity/Q1141462
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -46701,7 +46701,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000432
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - https://www.wikidata.org/entity/Q1141462
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -46872,7 +46872,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000342
   parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/ENVO_00000081
+  synonym_of_uri: https://www.wikidata.org/entity/Q1141462
   units_term_uri:
   alias:
 - attribution: ''
@@ -46885,7 +46885,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000185
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - https://www.wikidata.org/entity/Q1141462
   - http://purl.obolibrary.org/obo/ENVO_01000179
   synonym_of_uri:
   units_term_uri:
@@ -46900,7 +46900,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000435
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - https://www.wikidata.org/entity/Q1141462
   - http://purl.obolibrary.org/obo/ENVO_01000174
   synonym_of_uri:
   units_term_uri:
@@ -46930,7 +46930,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000194
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - https://www.wikidata.org/entity/Q1141462
   - http://purl.obolibrary.org/obo/ENVO_01000177
   synonym_of_uri:
   units_term_uri:
@@ -46944,7 +46944,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/montane_grasslands_and_shrublands
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - https://www.wikidata.org/entity/Q1141462
   - http://purl.obolibrary.org/obo/ENVO_01000177
   - http://purl.obolibrary.org/obo/ENVO_01000176
   - http://purl.obolibrary.org/obo/ENVO_00000300
@@ -46961,7 +46961,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000223
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - https://www.wikidata.org/entity/Q1141462
   - http://purl.obolibrary.org/obo/ENVO_01000178
   synonym_of_uri:
   units_term_uri:
@@ -46976,7 +46976,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000216
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - https://www.wikidata.org/entity/Q1141462
   - http://purl.obolibrary.org/obo/ENVO_01000176
   synonym_of_uri:
   units_term_uri:
@@ -47317,9 +47317,8 @@ terms:
   name: mountain
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000081
-  parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000176
-  synonym_of_uri:
+  parent_uris: []
+  synonym_of_uri: https://www.wikidata.org/entity/Q1141462
   units_term_uri:
   alias:
 - attribution: ''
@@ -47332,7 +47331,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000084
   parent_uris: 
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - https://www.wikidata.org/entity/Q1141462
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -47346,7 +47345,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_00000080
   parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/ENVO_00000081
+  synonym_of_uri: https://www.wikidata.org/entity/Q1141462
   units_term_uri:
   alias:
 - attribution: ''
@@ -47603,7 +47602,7 @@ terms:
   type: value
   uri: https://eol.org/schema/terms/esl_MUL
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - https://www.wikidata.org/entity/Q1141462
   - http://purl.obolibrary.org/obo/ENVO_01001305
   synonym_of_uri:
   units_term_uri:
@@ -61990,7 +61989,7 @@ terms:
   uri: https://eol.org/schema/terms/esl_RHO
   parent_uris:
   - http://purl.obolibrary.org/obo/ENVO_00000107
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - https://www.wikidata.org/entity/Q1141462
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -63772,7 +63771,7 @@ terms:
   type: value
   uri: https://eol.org/schema/terms/esl_HER
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - https://www.wikidata.org/entity/Q1141462
   - http://purl.obolibrary.org/obo/ENVO_00000146
   synonym_of_uri:
   units_term_uri:
@@ -70153,7 +70152,7 @@ terms:
   type: value
   uri: https://eol.org/schema/terms/esl_SUP
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - https://www.wikidata.org/entity/Q1141462
   - http://purl.obolibrary.org/obo/ENVO_00000300
   - https://eol.org/schema/terms/rockyVegetated
   synonym_of_uri:
@@ -80503,7 +80502,7 @@ terms:
   type: value
   uri: https://eol.org/schema/terms/esl_VIO
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - https://www.wikidata.org/entity/Q1141462
   - https://eol.org/schema/terms/rockyVegetated
   synonym_of_uri:
   units_term_uri:
@@ -82756,7 +82755,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/wetPrairie
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000176
+  - http://purl.obolibrary.org/obo/ENVO_00000260
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -84984,7 +84983,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000345
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - https://www.wikidata.org/entity/Q1141462
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -84998,7 +84997,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01001456
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - https://www.wikidata.org/entity/Q1141462
   - http://purl.obolibrary.org/obo/ENVO_01000204
   synonym_of_uri:
   units_term_uri:
@@ -85013,7 +85012,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000346
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - https://www.wikidata.org/entity/Q1141462
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -85027,7 +85026,7 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01001455
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - https://www.wikidata.org/entity/Q1141462
   - http://purl.obolibrary.org/obo/ENVO_01000206
   synonym_of_uri:
   units_term_uri:
@@ -145759,7 +145758,7 @@ terms:
   uri: https://www.geonames.org/3923974
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://purl.obolibrary.org/obo/ENVO_00000081
+  - https://www.wikidata.org/entity/Q1141462
   synonym_of_uri: []
   units_term_uri:
   alias:
@@ -153896,6 +153895,20 @@ terms:
   type: value
   uri: https://www.wikidata.org/entity/Q13360049
   parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ecosystem found in mountainous region
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: montane
+  type: value
+  uri: https://www.wikidata.org/entity/Q1141462
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_00000176
   synonym_of_uri:
   units_term_uri:
   alias:
