@@ -1203,7 +1203,7 @@ terms:
   uri: http://eol.org/schema/terms/Admiralty_Islands_lowland_rain_forests
   parent_uris:
   - http://www.geonames.org/2088628
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -2055,7 +2055,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/Albertine_Rift_montane_forests
   parent_uris:
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -2655,7 +2655,7 @@ terms:
   uri: http://eol.org/schema/terms/Alto_Parana_Atlantic_forests
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -3244,7 +3244,7 @@ terms:
   uri: http://eol.org/schema/terms/Andaman_Islands_rain_forests
   parent_uris:
   - http://www.geonames.org/1269750
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -3592,23 +3592,36 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: Stevens, P. F. (2001 onwards). Angiosperm Phylogeny Website. Version 12, July 2012. Glossary, http://www.mobot.org/mobot/research/apweb/top/glossarya_h.html#annual
-  definition: Of plant duration, a plant whose life span ends within one year after germination, e.g. a winter annual germinating in the autumn and flowering in the spring (esp. in Mediterranean climates), approximately synonymous to therophyte, c.f. biennial, ephemeral, perennial, c.f. also of flowering with respect to architecture,  hapaxanthic, monocarpic, pleonanthic.
-  is_hidden_from_select: false
+- attribution: 
+  definition: 'shorter-lived plant that completes its life cycle, from germination to the production of seed, within one year, and then dies'
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
   name: annual
   type: value
+  uri: https://www.wikidata.org/entity/Q192691
+  parent_uris: 
+  - https://www.wikidata.org/entity/Q190903
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: Stevens, P. F. (2001 onwards). Angiosperm Phylogeny Website. Version 12, July 2012. Glossary, http://www.mobot.org/mobot/research/apweb/top/glossarya_h.html#annual
+  definition: Of plant duration, a plant whose life span ends within one year after germination, e.g. a winter annual germinating in the autumn and flowering in the spring (esp. in Mediterranean climates), approximately synonymous to therophyte, c.f. biennial, ephemeral, perennial, c.f. also of flowering with respect to architecture,  hapaxanthic, monocarpic, pleonanthic.
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: annual
+  type: value
   uri: http://purl.obolibrary.org/obo/FLOPO_0980071
   parent_uris: 
-  - http://purl.obolibrary.org/obo/FLOPO_0022142
   synonym_of_uri:
+  - https://www.wikidata.org/entity/Q192691
   units_term_uri:
   alias:
 - attribution: https://en.wikipedia.org/wiki/Precipitation
   definition: Total depth of precipitation fallen in a given location in one year, if converted to liquid form. Precipitation is any product of the condensation of atmospheric water vapour that falls under gravity.
-  is_hidden_from_select: true
+  is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
@@ -4261,16 +4274,30 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: whole plant aquatic
+  definition: 'plant that has adapted to living in an aquatic environment'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
   name: aquatic plant
   type: value
+  uri: https://www.wikidata.org/entity/Q186101
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: whole plant aquatic
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: aquatic plant
+  type: value
   uri: http://purl.obolibrary.org/obo/FLOPO_0900044
   parent_uris: []
   synonym_of_uri:
+  - https://www.wikidata.org/entity/Q186101
   units_term_uri:
   alias:
 - attribution: ''
@@ -4443,7 +4470,7 @@ terms:
   uri: http://eol.org/schema/terms/Araucaria_moist_forests
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -4490,17 +4517,30 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: Stevens, P. F. (2001 onwards). Angiosperm Phylogeny Website. Version 12, July 2012.  http://www.mobot.org/mobot/research/apweb/top/glossarya_h.html#C
-  definition: Of habit, resembling a tree, a term applied to non-woody plants attaining tree height and to shrubs tending to become tree-like in size
+- attribution: 
+  definition: a structure or appearance similar to that of a tree; branching
   is_hidden_from_select: true
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
   name: arborescent
   type: value
+  uri: https://www.wikidata.org/entity/Q2660460
+  parent_uris: []
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: Stevens, P. F. (2001 onwards). Angiosperm Phylogeny Website. Version 12, July 2012.  http://www.mobot.org/mobot/research/apweb/top/glossarya_h.html#C
+  definition: Of habit, resembling a tree, a term applied to non-woody plants attaining tree height and to shrubs tending to become tree-like in size
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: arborescent
+  type: value
   uri: http://eol.org/schema/terms/arborescent
   parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/FLOPO_0900033
+  synonym_of_uri: https://www.wikidata.org/entity/Q2660460
   units_term_uri:
   alias:
 - attribution: 'International Chronostratigraphic Chart: http://www.stratigraphy.org/index.php/ics-chart-timescale'
@@ -5655,7 +5695,7 @@ terms:
   uri: http://eol.org/schema/terms/Atlantic_Coast_restingas
   parent_uris:
   - http://www.geonames.org/3469034
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -5716,7 +5756,7 @@ terms:
   uri: http://eol.org/schema/terms/Atlantic_Equatorial_coastal_forests
   parent_uris:
   - http://www.geonames.org/7729885
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -6610,7 +6650,7 @@ terms:
   uri: http://eol.org/schema/terms/Bahia_coastal_forests
   parent_uris:
   - http://www.geonames.org/3469034
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -6625,7 +6665,7 @@ terms:
   uri: http://eol.org/schema/terms/Bahia_interior_forests
   parent_uris:
   - http://www.geonames.org/3469034
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -6977,7 +7017,7 @@ terms:
   parent_uris:
   - http://www.geonames.org/1643084
   - http://purl.obolibrary.org/obo/ENVO_01000816
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Australasia
   synonym_of_uri:
   units_term_uri:
@@ -8142,7 +8182,7 @@ terms:
   uri: http://eol.org/schema/terms/Biak-Numfoor_rain_forests
   parent_uris:
   - http://www.geonames.org/1643084
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Australasia
   synonym_of_uri:
   units_term_uri:
@@ -8162,17 +8202,31 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: 'Stevens, P. F. (2001 onwards). Angiosperm Phylogeny Website. Version 12, July 2012. Glossary: http://www.mobot.org/mobot/research/apweb/top/glossarya_h.html#biennial'
-  definition: Of life span, a plant which lives for more than one but less than two years after germination, c.f. annual, ephemeral, perennial, of flowering with respect to architecture, hapaxanthic, monocarpic, pleonanthic.
+- attribution: 
+  definition: 'flowering plant that takes two years to complete its biological lifecycle. In the first year, the plant grows leaves, stems, and roots (vegetative structures), then it enters a period of dormancy over the colder months'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
   name: biennial
   type: value
+  uri: https://www.wikidata.org/entity/Q189774
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: 'Stevens, P. F. (2001 onwards). Angiosperm Phylogeny Website. Version 12, July 2012. Glossary: http://www.mobot.org/mobot/research/apweb/top/glossarya_h.html#biennial'
+  definition: Of life span, a plant which lives for more than one but less than two years after germination, c.f. annual, ephemeral, perennial, of flowering with respect to architecture, hapaxanthic, monocarpic, pleonanthic.
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: biennial
+  type: value
   uri: http://purl.obolibrary.org/obo/FLOPO_0980072
   parent_uris: []
   synonym_of_uri:
+  - https://www.wikidata.org/entity/Q189774
   units_term_uri:
   alias:
 - attribution: ''
@@ -9105,7 +9159,7 @@ terms:
   uri: http://eol.org/schema/terms/Bolivian_Yungas
   parent_uris:
   - http://www.geonames.org/3923057
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -9291,7 +9345,7 @@ terms:
   uri: http://eol.org/schema/terms/Borneo_lowland_rain_forests
   parent_uris:
   - http://www.geonames.org/7729896
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -9307,7 +9361,7 @@ terms:
   uri: http://eol.org/schema/terms/Borneo_montane_rain_forests
   parent_uris:
   - http://www.geonames.org/7729896
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -9323,7 +9377,7 @@ terms:
   uri: http://eol.org/schema/terms/Borneo_peat_swamp_forests
   parent_uris:
   - http://www.geonames.org/7729896
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -9555,7 +9609,7 @@ terms:
   uri: http://eol.org/schema/terms/Brahmaputra_Valley_semi-evergreen_forests
   parent_uris:
   - http://www.geonames.org/7729895
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -10018,7 +10072,7 @@ terms:
   type: value
   uri: http://www.wikidata.org/entity/Q29993
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0022142
+  - https://www.wikidata.org/entity/Q190903
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -10389,7 +10443,7 @@ terms:
   uri: http://eol.org/schema/terms/Buru_rain_forests
   parent_uris:
   - http://www.geonames.org/1643084
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Australasia
   synonym_of_uri:
   units_term_uri:
@@ -10521,7 +10575,7 @@ terms:
   uri: http://eol.org/schema/terms/Caatinga_Enclaves_moist_forests
   parent_uris:
   - http://www.geonames.org/3469034
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -11251,7 +11305,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/Cameroonian_Highlands_forests
   parent_uris:
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -11498,7 +11552,7 @@ terms:
   type: value
   uri: https://www.wikidata.org/entity/Q20660322
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0900036
+  - https://www.wikidata.org/entity/Q12363071
   - https://www.wikidata.org/entity/Q757163
   synonym_of_uri:
   units_term_uri:
@@ -11752,7 +11806,7 @@ terms:
   uri: http://eol.org/schema/terms/Caqueta_moist_forests
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -11822,7 +11876,7 @@ terms:
   type: measurement
   uri: http://eol.org/schema/terms/Femur2Length
   parent_uris:
-  - http://purl.obolibrary.org/obo/CMO_0000013
+  - http://semanticscience.org/resource/SIO_000041
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -11986,7 +12040,7 @@ terms:
   uri: http://eol.org/schema/terms/Cardamom_Mountains_rain_forests
   parent_uris:
   - http://www.geonames.org/7729896
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -12441,7 +12495,7 @@ terms:
   uri: http://eol.org/schema/terms/Carolines_tropical_moist_forests
   parent_uris:
   - http://www.geonames.org/2082300
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -12668,7 +12722,7 @@ terms:
   uri: http://eol.org/schema/terms/Catatumbo_moist_forests
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -12712,7 +12766,7 @@ terms:
   uri: http://eol.org/schema/terms/Cauca_Valley_montane_forests
   parent_uris:
   - http://www.geonames.org/3686110
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -12912,7 +12966,7 @@ terms:
   uri: http://eol.org/schema/terms/Cayos_Miskitos-San_Andres_and_Providencia_moist_forests
   parent_uris:
   - http://www.geonames.org/3617476
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -13434,7 +13488,7 @@ terms:
   uri: http://eol.org/schema/terms/Central_American_Atlantic_moist_forests
   parent_uris:
   - http://www.geonames.org/7729892
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -13479,7 +13533,7 @@ terms:
   uri: http://eol.org/schema/terms/Central_American_montane_forests
   parent_uris:
   - http://www.geonames.org/7729892
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -13725,7 +13779,7 @@ terms:
   uri: http://eol.org/schema/terms/Central_Congolian_lowland_forests
   parent_uris:
   - http://www.geonames.org/2260494
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -14027,7 +14081,7 @@ terms:
   uri: http://eol.org/schema/terms/Central_Polynesian_tropical_moist_forests
   parent_uris:
   - http://www.geonames.org/7729901
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/OceaniaRealm
   synonym_of_uri:
   units_term_uri:
@@ -14056,7 +14110,7 @@ terms:
   uri: http://eol.org/schema/terms/Central_Range_montane_rain_forests
   parent_uris:
   - http://www.geonames.org/2082514
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Australasia
   synonym_of_uri:
   units_term_uri:
@@ -14499,7 +14553,7 @@ terms:
   uri: http://eol.org/schema/terms/Chao_Phraya_freshwater_swamp_forests
   parent_uris:
   - http://www.geonames.org/1605651
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -14515,7 +14569,7 @@ terms:
   parent_uris:
   - http://www.geonames.org/1605651
   - http://purl.obolibrary.org/obo/ENVO_01000816
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -14745,7 +14799,7 @@ terms:
   uri: http://eol.org/schema/terms/Chiapas_montane_forests
   parent_uris:
   - http://www.geonames.org/7729892
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - https://eol.org/schema/terms/eastern_north_america
   synonym_of_uri:
   units_term_uri:
@@ -14872,7 +14926,7 @@ terms:
   uri: http://eol.org/schema/terms/Chimalapas_montane_forests
   parent_uris:
   - http://www.geonames.org/3996063
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -14901,7 +14955,7 @@ terms:
   uri: http://eol.org/schema/terms/Chin_Hills-Arakan_Yoma_montane_forests
   parent_uris:
   - http://www.geonames.org/1327865
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -15132,7 +15186,7 @@ terms:
   uri: http://eol.org/schema/terms/Choco-Darien_moist_forests
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -15200,7 +15254,7 @@ terms:
   uri: http://eol.org/schema/terms/Christmas_and_Cocos_Islands_tropical_forests
   parent_uris:
   - http://www.marineregions.org/mrgid/14289
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -15720,16 +15774,30 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'whole plant lianescent or scandent; eg: liana or vine'
+  definition: 'plant with a growth habit of trailing or scandent (that is, climbing) stems or runners'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
   name: climber
   type: value
+  uri: https://www.wikidata.org/entity/Q917284
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'whole plant lianescent or scandent; eg: liana or vine'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: climber
+  type: value
   uri: http://purl.obolibrary.org/obo/FLOPO_0900035
   parent_uris: []
   synonym_of_uri:
+  - https://www.wikidata.org/entity/Q917284
   units_term_uri:
   alias:
 - attribution: ''
@@ -16214,7 +16282,7 @@ terms:
   uri: http://eol.org/schema/terms/Cocos_Island_moist_forests
   parent_uris:
   - http://www.geonames.org/3624060
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -16573,7 +16641,7 @@ terms:
   uri: http://eol.org/schema/terms/Comoros_forests
   parent_uris:
   - http://www.geonames.org/921929
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -17107,7 +17175,7 @@ terms:
   uri: http://eol.org/schema/terms/Cook_Islands_tropical_moist_forests
   parent_uris:
   - http://www.geonames.org/1899402
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -17542,7 +17610,7 @@ terms:
   uri: http://eol.org/schema/terms/Cordillera_La_Costa_montane_forests
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -17557,7 +17625,7 @@ terms:
   uri: http://eol.org/schema/terms/Cordillera_Oriental_montane_forests
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -17708,7 +17776,7 @@ terms:
   uri: http://eol.org/schema/terms/Costa_Rican_seasonal_moist_forests
   parent_uris:
   - http://www.geonames.org/7729892
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -18115,7 +18183,7 @@ terms:
   uri: http://eol.org/schema/terms/Cross-Niger_transition_forests
   parent_uris:
   - http://www.geonames.org/2328926
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -18130,7 +18198,7 @@ terms:
   uri: http://eol.org/schema/terms/Cross-Sanaga-Bioko_coastal_forests
   parent_uris:
   - http://www.geonames.org/7729885
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -18345,7 +18413,7 @@ terms:
   uri: http://eol.org/schema/terms/Cuban_moist_forests
   parent_uris:
   - http://www.geonames.org/3562981
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -18484,7 +18552,7 @@ terms:
   type: value
   uri: https://www.wikidata.org/entity/Q1508694
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0022142
+  - https://www.wikidata.org/entity/Q190903
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -21552,7 +21620,7 @@ terms:
   uri: http://eol.org/schema/terms/East_African_montane_forests
   parent_uris:
   - http://www.geonames.org/7729889
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -21833,7 +21901,7 @@ terms:
   parent_uris:
   - http://eol.org/schema/terms/Eastern_Arc_mountains
   - http://www.geonames.org/7729889
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -22007,7 +22075,7 @@ terms:
   uri: http://eol.org/schema/terms/Eastern_Congolian_swamp_forests
   parent_uris:
   - http://www.geonames.org/2260494
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -22036,7 +22104,7 @@ terms:
   uri: http://eol.org/schema/terms/Eastern_Cordillera_real_montane_forests
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -22096,7 +22164,7 @@ terms:
   uri: http://eol.org/schema/terms/Eastern_Guinean_forests
   parent_uris:
   - http://www.geonames.org/7729885
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -22126,7 +22194,7 @@ terms:
   parent_uris:
   - http://www.geonames.org/1269750
   - http://purl.obolibrary.org/obo/ENVO_01000816
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -22186,7 +22254,7 @@ terms:
   uri: http://eol.org/schema/terms/Eastern_Java-Bali_montane_rain_forests
   parent_uris:
   - http://www.geonames.org/1643084
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -22202,7 +22270,7 @@ terms:
   uri: http://eol.org/schema/terms/Eastern_Java-Bali_rain_forests
   parent_uris:
   - http://www.geonames.org/1643084
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -22248,7 +22316,7 @@ terms:
   uri: http://eol.org/schema/terms/Eastern_Micronesia_tropical_moist_forests
   parent_uris:
   - http://www.geonames.org/2081918
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -23150,7 +23218,7 @@ terms:
   uri: http://eol.org/schema/terms/Eastern_Panamanian_montane_forests
   parent_uris:
   - https://www.wikidata.org/entity/Q217151
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -24554,7 +24622,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/epihydate
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0900044
+  - https://www.wikidata.org/entity/Q186101
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -25208,7 +25276,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/Ethiopian_montane_forests
   parent_uris:
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -25847,7 +25915,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/facultativeClimber
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0900035
+  - https://www.wikidata.org/entity/Q917284
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -26325,7 +26393,7 @@ terms:
   uri: http://eol.org/schema/terms/Fernando_de_Noronha-Atol_das_Rocas_moist_forests
   parent_uris:
   - http://www.geonames.org/3469034
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -26574,7 +26642,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/Fiji_tropical_moist_forests
   parent_uris:
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/OceaniaRealm
   synonym_of_uri:
   units_term_uri:
@@ -27327,16 +27395,16 @@ terms:
   alias:
 - attribution: ''
   definition: whole plant forbacious
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: forb
   type: value
   uri: http://purl.obolibrary.org/obo/FLOPO_0900037
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0022142
   synonym_of_uri:
+  - https://www.wikidata.org/entity/Q190903
   units_term_uri:
   alias:
 - attribution: ''
@@ -27969,16 +28037,30 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: ''
+  definition: 'color of the fruit of a plant species, hybrid, or cultivar'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
   name: fruit color
   type: measurement
+  uri: https://www.wikidata.org/entity/Q115395119
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: fruit color
+  type: measurement
   uri: http://purl.obolibrary.org/obo/FLOPO_0000147
   parent_uris: []
   synonym_of_uri:
+  - https://www.wikidata.org/entity/Q115395119
   units_term_uri:
   alias:
 - attribution: ''
@@ -28691,16 +28773,30 @@ terms:
   units_term_uri: http://eol.org/schema/terms/squarekilometer
   alias:
 - attribution: ''
-  definition: whole plant geophytic
+  definition: 'A perennial plant, for example the potato or daffodil, which in spring propagates from an underground organ such as a bulb, tuber, corm or rhizome.'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
   name: geophyte
   type: value
+  uri: https://www.wikidata.org/entity/Q3092468
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: whole plant geophytic
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: geophyte
+  type: value
   uri: http://purl.obolibrary.org/obo/FLOPO_0900024
   parent_uris: []
   synonym_of_uri:
+  - https://www.wikidata.org/entity/Q3092468
   units_term_uri:
   alias:
 - attribution: ''
@@ -29483,7 +29579,7 @@ terms:
   uri: http://eol.org/schema/terms/Granitic_Seychelles_forests
   parent_uris:
   - http://www.geonames.org/241170
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -29543,17 +29639,31 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: whole plant graminoid
+  definition: herbaceous plant with grassy morphology; graminoid
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
   name: grass
   type: value
+  uri: https://www.wikidata.org/entity/Q12363071
+  parent_uris:
+  - https://www.wikidata.org/entity/Q190903
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: whole plant graminoid
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: grass
+  type: value
   uri: http://purl.obolibrary.org/obo/FLOPO_0900036
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0022142
   synonym_of_uri:
+  - https://www.wikidata.org/entity/Q12363071
   units_term_uri:
   alias:
 - attribution: USDA PLANTS database Characteristics Data Fields. http://plants.usda.gov/charinfo.html
@@ -30114,7 +30224,7 @@ terms:
   uri: http://eol.org/schema/terms/Greater_Negros-Panay_rain_forests
   parent_uris:
   - http://www.geonames.org/1694008
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -30514,7 +30624,7 @@ terms:
   parent_uris:
   - https://www.wikidata.org/entity/Q217151
   - http://www.geonames.org/6255146
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -30529,7 +30639,7 @@ terms:
   parent_uris:
   - https://www.wikidata.org/entity/Q217151
   - http://www.geonames.org/6255146
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -30544,7 +30654,7 @@ terms:
   parent_uris:
   - https://www.wikidata.org/entity/Q217151
   - http://www.geonames.org/6255146
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -30558,7 +30668,7 @@ terms:
   uri: http://eol.org/schema/terms/Guianan_piedmont_and_lowland_moist_forests
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -30679,7 +30789,7 @@ terms:
   uri: http://eol.org/schema/terms/Guinean_montane_forests
   parent_uris:
   - http://www.geonames.org/7729885
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -31092,7 +31202,7 @@ terms:
   uri: http://eol.org/schema/terms/Gurupa_varzea
   parent_uris:
   - http://www.geonames.org/3469034
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -31354,7 +31464,7 @@ terms:
   uri: http://eol.org/schema/terms/Hainan_Island_monsoon_rain_forests
   parent_uris:
   - http://www.geonames.org/1814991
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -31577,7 +31687,7 @@ terms:
   uri: http://eol.org/schema/terms/Halmahera_rain_forests
   parent_uris:
   - http://www.geonames.org/1643084
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Australasia
   synonym_of_uri:
   units_term_uri:
@@ -31669,7 +31779,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: McClain Bivalve Sizes
-  definition: Benthic habitat composed of a hard substrate
+  definition: Benthic habitat composed of a hard substrate, i.e. rock
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -31682,6 +31792,19 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: 
+  definition: part of the water column near to the seabed and the benthos
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: demersal
+  type: value
+  uri: https://www.wikidata.org/entity/Q5255177
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000024
+  synonym_of_uri:
+  units_term_uri:
 - attribution: ''
   definition: Organisms living in burrows bored into hard substrates such as rock, coral, or wood.
   is_hidden_from_select: false
@@ -32066,7 +32189,7 @@ terms:
   uri: http://eol.org/schema/terms/Hawaii_tropical_moist_forests
   parent_uris:
   - http://www.geonames.org/5855811
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/OceaniaRealm
   synonym_of_uri:
   units_term_uri:
@@ -32296,7 +32419,6 @@ terms:
   uri: http://eol.org/schema/terms/HeightStanding
   parent_uris:
   - http://semanticscience.org/resource/SIO_000040
-  - http://purl.obolibrary.org/obo/CMO_0000013
   synonym_of_uri:
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
   alias:
@@ -32361,15 +32483,29 @@ terms:
   alias:
 - attribution: ''
   definition: whole plant helophytic
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: helophyte
+  type: value
+  uri: http://purl.obolibrary.org/obo/FLOPO_0900025
+  parent_uris:
+  synonym_of_uri:
+  - https://www.wikidata.org/entity/Q1592155
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'Any plant (typically found in marshy ground) whose buds overwinter under water; helophytes grow partially submerged, and regrow from beds below the water.'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
   name: helophyte
   type: value
-  uri: http://purl.obolibrary.org/obo/FLOPO_0900025
+  uri: https://www.wikidata.org/entity/Q1592155
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0900044
+  - https://www.wikidata.org/entity/Q186101
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -32572,8 +32708,8 @@ terms:
   type: value
   uri: http://purl.obolibrary.org/obo/FLOPO_0022142
   parent_uris:
-  - http://eol.org/schema/terms/plant
   synonym_of_uri:
+  - https://www.wikidata.org/entity/Q190903
   units_term_uri:
   alias:
 - attribution: ''
@@ -32585,8 +32721,9 @@ terms:
   name: herb
   type: value
   uri: https://www.wikidata.org/entity/Q190903
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/FLOPO_0022142
+  parent_uris:
+  - http://eol.org/schema/terms/plant
+  synonym_of_uri: 
   units_term_uri:
   alias:
 - attribution: ''
@@ -33016,7 +33153,7 @@ terms:
   uri: http://eol.org/schema/terms/Himalayan_subtropical_broadleaf_forests
   parent_uris:
   - http://www.geonames.org/7729895
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -33160,7 +33297,7 @@ terms:
   uri: http://eol.org/schema/terms/Hispaniolan_moist_forests
   parent_uris:
   - http://www.geonames.org/7729891
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -33846,7 +33983,7 @@ terms:
   uri: http://eol.org/schema/terms/Huon_Peninsula_montane_rain_forests
   parent_uris:
   - http://www.geonames.org/2088628
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -33919,16 +34056,16 @@ terms:
   alias:
 - attribution: ''
   definition: whole plant hydrophytic
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: hydrophyte
   type: value
   uri: http://purl.obolibrary.org/obo/FLOPO_0900026
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0900044
   synonym_of_uri:
+  - https://www.wikidata.org/entity/Q186101
   units_term_uri:
   alias:
 - attribution: ''
@@ -34036,7 +34173,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/hyperhydate
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0900044
+  - https://www.wikidata.org/entity/Q186101
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -35746,7 +35883,7 @@ terms:
   uri: http://eol.org/schema/terms/Iquitos_varzea
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -35945,7 +36082,7 @@ terms:
   uri: http://eol.org/schema/terms/Irrawaddy_freshwater_swamp_forests
   parent_uris:
   - http://www.geonames.org/1327865
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -35961,7 +36098,7 @@ terms:
   parent_uris:
   - http://www.geonames.org/1327865
   - http://purl.obolibrary.org/obo/ENVO_01000816
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -36363,7 +36500,7 @@ terms:
   uri: http://eol.org/schema/terms/Isthmian-Atlantic_moist_forests
   parent_uris:
   - http://www.geonames.org/7729892
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -36377,7 +36514,7 @@ terms:
   uri: http://eol.org/schema/terms/Isthmian-Pacific_moist_forests
   parent_uris:
   - http://www.geonames.org/7729892
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -36564,7 +36701,7 @@ terms:
   uri: http://eol.org/schema/terms/Jamaican_moist_forests
   parent_uris:
   - http://www.geonames.org/3489940
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -36676,7 +36813,7 @@ terms:
   uri: http://eol.org/schema/terms/Japura-Solimoes-Negro_moist_forests
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -36792,7 +36929,7 @@ terms:
   uri: http://eol.org/schema/terms/Jian_Nan_subtropical_evergreen_forests
   parent_uris:
   - http://www.geonames.org/1814991
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -37050,7 +37187,7 @@ terms:
   uri: http://eol.org/schema/terms/Jurua-Purus_moist_forests
   parent_uris:
   - http://www.geonames.org/3469034
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -37428,7 +37565,7 @@ terms:
   uri: http://eol.org/schema/terms/Kayah-Karen_montane_rain_forests
   parent_uris:
   - http://www.geonames.org/7729896
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -37673,7 +37810,7 @@ terms:
   uri: http://eol.org/schema/terms/Kermadec_Islands_subtropical_moist_forests
   parent_uris:
   - http://www.geonames.org/2186224
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/OceaniaRealm
   synonym_of_uri:
   units_term_uri:
@@ -38094,7 +38231,7 @@ terms:
   uri: http://eol.org/schema/terms/Knysna-Amatole_montane_forests
   parent_uris:
   - http://www.geonames.org/953987
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -38342,7 +38479,7 @@ terms:
   uri: http://eol.org/schema/terms/KwaZulu-Cape_coastal_forest_mosaic
   parent_uris:
   - http://www.geonames.org/953987
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -39568,7 +39705,7 @@ terms:
   exclusive_to_clade_id: 42430800
   uri: http://purl.obolibrary.org/obo/FLOPO_0007484
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0019932
+  - https://www.wikidata.org/entity/Q521246
   synonym_of_uri:
   units_term_uri:
   alias: leaf_complexity
@@ -39587,7 +39724,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: ''
+  definition: 'plant phenotypic trait; length of a leaf'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -39595,10 +39732,25 @@ terms:
   name: leaf length
   type: measurement
   exclusive_to_clade_id: 42430800
-  uri: http://purl.obolibrary.org/obo/FLOPO_0001133
+  uri: https://www.wikidata.org/entity/Q113142443
   parent_uris:
   - http://purl.obolibrary.org/obo/FLOPO_0003958
   synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: leaf length
+  type: measurement
+  exclusive_to_clade_id: 42430800
+  uri: http://purl.obolibrary.org/obo/FLOPO_0001133
+  parent_uris:
+  synonym_of_uri:
+  - https://www.wikidata.org/entity/Q113142443
   units_term_uri:
   alias:
 - attribution: ''
@@ -39616,7 +39768,7 @@ terms:
   units_term_uri: http://purl.obolibrary.org/obo/UO_0010049
   alias:
 - attribution: ''
-  definition: ''
+  definition: 'physical form of plant leaf including overall shape, edge shape, vein geometry, type of attachment to stem; point and base shape'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -39624,11 +39776,26 @@ terms:
   name: leaf morphology
   type: measurement
   exclusive_to_clade_id: 42430800
-  uri: http://purl.obolibrary.org/obo/FLOPO_0019932
+  uri: https://www.wikidata.org/entity/Q521246
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias: leaf_morphology
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: leaf morphology
+  type: measurement
+  exclusive_to_clade_id: 42430800
+  uri: http://purl.obolibrary.org/obo/FLOPO_0019932
+  parent_uris: []
+  synonym_of_uri:
+  - https://www.wikidata.org/entity/Q521246
+  units_term_uri:
+  alias:
 - attribution: ''
   definition: The ratio of the quantity of nitrogen in the leaf or component thereof, i.e. leaf lamina or leaflet, per respective unit dry mass
   is_hidden_from_select: false
@@ -39655,23 +39822,23 @@ terms:
   uri: http://purl.obolibrary.org/obo/TO_0000492
   parent_uris:
   - http://purl.obolibrary.org/obo/PATO_0000052
-  - http://purl.obolibrary.org/obo/FLOPO_0019932
+  - https://www.wikidata.org/entity/Q521246
   synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
   definition: A plant's disposition to lose leaves by a natural process
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: leaf sheddability
   type: measurement
   exclusive_to_clade_id: 42430800
   uri: http://purl.obolibrary.org/obo/FLOPO_0008548
   parent_uris:
-  - http://purl.obolibrary.org/obo/PATO_0001729
   synonym_of_uri:
+  - http://purl.obolibrary.org/obo/PATO_0001729
   units_term_uri:
   alias:
 - attribution: ''
@@ -39685,7 +39852,7 @@ terms:
   exclusive_to_clade_id: 42430800
   uri: http://purl.obolibrary.org/obo/FLOPO_0003958
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0019932
+  - https://www.wikidata.org/entity/Q521246
   - http://purl.obolibrary.org/obo/PATO_0000117
   synonym_of_uri:
   units_term_uri:
@@ -39826,7 +39993,7 @@ terms:
   uri: http://eol.org/schema/terms/Leeward_Islands_moist_forests
   parent_uris:
   - http://www.geonames.org/7729891
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -40094,7 +40261,7 @@ terms:
   type: value
   uri: https://www.wikidata.org/entity/Q14079
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0900035
+  - https://www.wikidata.org/entity/Q917284
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -40966,7 +41133,7 @@ terms:
   uri: http://eol.org/schema/terms/Lord_Howe_Island_subtropical_forests
   parent_uris:
   - http://www.geonames.org/2077456
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -41009,7 +41176,7 @@ terms:
   uri: http://eol.org/schema/terms/Louisiade_Archipelago_rain_forests
   parent_uris:
   - http://www.geonames.org/2088628
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -41248,7 +41415,7 @@ terms:
   parent_uris:
   - http://www.geonames.org/7729895
   - http://purl.obolibrary.org/obo/ENVO_01000816
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -41335,7 +41502,7 @@ terms:
   uri: http://eol.org/schema/terms/Luang_Prabang_montane_rain_forests
   parent_uris:
   - http://www.geonames.org/7729896
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -41449,7 +41616,7 @@ terms:
   uri: http://eol.org/schema/terms/Luzon_montane_rain_forests
   parent_uris:
   - http://www.geonames.org/1694008
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -41464,7 +41631,7 @@ terms:
   uri: http://eol.org/schema/terms/Luzon_rain_forests
   parent_uris:
   - http://www.geonames.org/1694008
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -41819,7 +41986,7 @@ terms:
   uri: http://eol.org/schema/terms/Madagascar_lowland_forests
   parent_uris:
   - http://www.geonames.org/1062947
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -41864,7 +42031,7 @@ terms:
   uri: http://eol.org/schema/terms/Madagascar_subhumid_forests
   parent_uris:
   - http://www.geonames.org/1062947
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -41910,7 +42077,7 @@ terms:
   parent_uris:
   - http://www.geonames.org/6255150
   - https://www.geonames.org/2593105
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -42054,7 +42221,7 @@ terms:
   uri: http://eol.org/schema/terms/Magdalena_Valley_montane_forests
   parent_uris:
   - http://www.geonames.org/3686110
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -42068,7 +42235,7 @@ terms:
   uri: http://eol.org/schema/terms/Magdalena-Uraba_moist_forests
   parent_uris:
   - http://www.geonames.org/3686110
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -42313,7 +42480,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/Malabar_Coast_moist_forests
   parent_uris:
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Malabar
   synonym_of_uri:
   units_term_uri:
@@ -42477,7 +42644,7 @@ terms:
   uri: http://eol.org/schema/terms/Maldives-Lakshadweep-Chagos_Archipelago_tropical_moist_forests
   parent_uris:
   - http://www.geonames.org/7729895
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -42865,7 +43032,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/Maputaland_coastal_forest_mosaic
   parent_uris:
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -42909,7 +43076,7 @@ terms:
   uri: http://eol.org/schema/terms/Marajo_varzea
   parent_uris:
   - http://www.geonames.org/3469034
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -43303,7 +43470,7 @@ terms:
   uri: http://eol.org/schema/terms/Marquesas_tropical_moist_forests
   parent_uris:
   - http://www.geonames.org/4019977
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/OceaniaRealm
   synonym_of_uri:
   units_term_uri:
@@ -43419,7 +43586,7 @@ terms:
   uri: http://eol.org/schema/terms/Mascarene_forests
   parent_uris:
   - http://www.geonames.org/935495
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -43600,7 +43767,7 @@ terms:
   uri: http://eol.org/schema/terms/Mato_Grosso_seasonal_forests
   parent_uris:
   - http://www.geonames.org/3457419
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -44517,7 +44684,7 @@ terms:
   uri: http://eol.org/schema/terms/Meghalaya_subtropical_forests
   parent_uris:
   - http://www.geonames.org/1269750
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -44545,7 +44712,7 @@ terms:
   uri: http://eol.org/schema/terms/Mentawai_Islands_rain_forests
   parent_uris:
   - http://www.geonames.org/1643084
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -45798,7 +45965,7 @@ terms:
   uri: http://eol.org/schema/terms/Mindanao_montane_rain_forests
   parent_uris:
   - http://www.geonames.org/9062331
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -45813,7 +45980,7 @@ terms:
   uri: http://eol.org/schema/terms/Mindanao-Eastern_Visayas_rain_forests
   parent_uris:
   - http://www.geonames.org/9062331
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -45828,7 +45995,7 @@ terms:
   uri: http://eol.org/schema/terms/Mindoro_rain_forests
   parent_uris:
   - http://www.geonames.org/1694008
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -46203,7 +46370,7 @@ terms:
   uri: http://eol.org/schema/terms/Mizoram-Manipur-Kachin_rain_forests
   parent_uris:
   - http://www.geonames.org/6255147
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -46991,7 +47158,7 @@ terms:
   uri: http://eol.org/schema/terms/Monte_Alegre_varzea
   parent_uris:
   - http://www.geonames.org/3469034
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -47289,7 +47456,7 @@ terms:
   uri: http://eol.org/schema/terms/Mount_Cameroon_and_Bioko_montane_forests
   parent_uris:
   - http://www.geonames.org/2233387
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -48100,7 +48267,7 @@ terms:
   uri: http://eol.org/schema/terms/Myanmar_coastal_rain_forests
   parent_uris:
   - http://www.geonames.org/1327865
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -48325,7 +48492,7 @@ terms:
   uri: http://eol.org/schema/terms/Nansei_Islands_subtropical_evergreen_forests
   parent_uris:
   - http://www.geonames.org/1861060
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -48340,7 +48507,7 @@ terms:
   uri: http://eol.org/schema/terms/Napo_moist_forests
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -48719,7 +48886,7 @@ terms:
   uri: http://eol.org/schema/terms/Negro-Branco_moist_forests
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -49073,7 +49240,7 @@ terms:
   uri: http://eol.org/schema/terms/New_Britain-New_Ireland_lowland_rain_forests
   parent_uris:
   - http://www.geonames.org/2088628
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -49088,7 +49255,7 @@ terms:
   uri: http://eol.org/schema/terms/New_Britain-New_Ireland_montane_rain_forests
   parent_uris:
   - http://www.geonames.org/2088628
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -49153,7 +49320,7 @@ terms:
   uri: http://eol.org/schema/terms/New_Caledonia_rain_forests
   parent_uris:
   - http://www.geonames.org/2139685
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Australasia
   synonym_of_uri:
   units_term_uri:
@@ -49483,7 +49650,7 @@ terms:
   uri: http://eol.org/schema/terms/Nicobar_Islands_rain_forests
   parent_uris:
   - http://www.geonames.org/1269750
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -49528,7 +49695,7 @@ terms:
   uri: http://eol.org/schema/terms/Niger_Delta_swamp_forests
   parent_uris:
   - http://www.geonames.org/2440476
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -49574,7 +49741,7 @@ terms:
   uri: http://eol.org/schema/terms/Nigerian_lowland_forests
   parent_uris:
   - http://www.geonames.org/7729885
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -50106,7 +50273,7 @@ terms:
   uri: http://eol.org/schema/terms/Norfolk_Island_subtropical_forests
   parent_uris:
   - http://www.geonames.org/2155115
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -51387,7 +51554,7 @@ terms:
   parent_uris:
   - http://www.geonames.org/1252876
   - http://purl.obolibrary.org/obo/ENVO_01000816
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -51402,7 +51569,7 @@ terms:
   uri: http://eol.org/schema/terms/North_Western_Ghats_montane_rain_forests
   parent_uris:
   - http://www.geonames.org/1252876
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -51564,7 +51731,7 @@ terms:
   uri: http://eol.org/schema/terms/Northeastern_Brazil_restingas
   parent_uris:
   - http://www.geonames.org/3469034
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -51592,7 +51759,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/Northeastern_Congolian_lowland_forests
   parent_uris:
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -51822,7 +51989,7 @@ terms:
   uri: http://eol.org/schema/terms/Northern_Annamites_rain_forests
   parent_uris:
   - http://www.geonames.org/7729896
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -51967,7 +52134,7 @@ terms:
   uri: http://eol.org/schema/terms/Northern_Indochina_subtropical_forests
   parent_uris:
   - http://www.geonames.org/6255147
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -51998,7 +52165,7 @@ terms:
   parent_uris:
   - http://www.geonames.org/7729896
   - http://purl.obolibrary.org/obo/ENVO_01000816
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -52062,7 +52229,7 @@ terms:
   uri: http://eol.org/schema/terms/Northern_New_Guinea_lowland_rain_and_freshwater_swamp_forests
   parent_uris:
   - http://www.geonames.org/2082514
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Australasia
   synonym_of_uri:
   units_term_uri:
@@ -52078,7 +52245,7 @@ terms:
   uri: http://eol.org/schema/terms/Northern_New_Guinea_montane_rain_forests
   parent_uris:
   - http://www.geonames.org/2082514
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Australasia
   synonym_of_uri:
   units_term_uri:
@@ -52183,7 +52350,7 @@ terms:
   parent_uris:
   - http://www.geonames.org/7729896
   - http://purl.obolibrary.org/obo/ENVO_01000816
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -52213,7 +52380,7 @@ terms:
   uri: http://eol.org/schema/terms/Northern_Triangle_subtropical_forests
   parent_uris:
   - http://www.geonames.org/1327865
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -52257,7 +52424,7 @@ terms:
   uri: http://eol.org/schema/terms/Northern_Vietnam_lowland_rain_forests
   parent_uris:
   - http://www.geonames.org/1562822
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -52272,7 +52439,7 @@ terms:
   uri: http://eol.org/schema/terms/Northern_Zanzibar-Inhambane_coastal_forest_mosaic
   parent_uris:
   - http://www.geonames.org/7729889
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -52420,7 +52587,7 @@ terms:
   uri: http://eol.org/schema/terms/Northwestern_Andean_montane_forests
   parent_uris:
   - http://www.geonames.org/3686110
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -52434,7 +52601,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/Northwestern_Congolian_lowland_forests
   parent_uris:
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -53124,7 +53291,7 @@ terms:
   uri: http://eol.org/schema/terms/Oaxacan_montane_forests
   parent_uris:
   - http://www.geonames.org/3996063
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - https://eol.org/schema/terms/eastern_north_america
   synonym_of_uri:
   units_term_uri:
@@ -53152,7 +53319,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/obligateClimber
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0900035
+  - https://www.wikidata.org/entity/Q917284
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -53506,7 +53673,7 @@ terms:
   uri: http://eol.org/schema/terms/Ogasawara_subtropical_moist_forests
   parent_uris:
   - http://www.geonames.org/1861060
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/OceaniaRealm
   synonym_of_uri:
   units_term_uri:
@@ -54404,7 +54571,7 @@ terms:
   uri: http://eol.org/schema/terms/Orinoco_Delta_swamp_forests
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -54433,7 +54600,7 @@ terms:
   uri: http://eol.org/schema/terms/Orissa_semi-evergreen_forests
   parent_uris:
   - http://www.geonames.org/1269750
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -55231,7 +55398,7 @@ terms:
   uri: http://eol.org/schema/terms/Palau_tropical_moist_forests
   parent_uris:
   - http://www.geonames.org/1559582
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -55246,7 +55413,7 @@ terms:
   uri: http://eol.org/schema/terms/Palawan_rain_forests
   parent_uris:
   - http://www.geonames.org/1694008
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -55625,7 +55792,7 @@ terms:
   uri: http://eol.org/schema/terms/Pantanos_de_Centla
   parent_uris:
   - http://www.geonames.org/3996063
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -56608,7 +56775,7 @@ terms:
   uri: http://eol.org/schema/terms/Peninsular_Malaysian_montane_rain_forests
   parent_uris:
   - http://www.geonames.org/7729896
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -56624,7 +56791,7 @@ terms:
   uri: http://eol.org/schema/terms/Peninsular_Malaysian_peat_swamp_forests
   parent_uris:
   - http://www.geonames.org/1733045
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -56639,7 +56806,7 @@ terms:
   uri: http://eol.org/schema/terms/Peninsular_Malaysian_rain_forests
   parent_uris:
   - http://www.geonames.org/7729896
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -56825,17 +56992,31 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: 'Stevens, P. F. (2001 onwards). Angiosperm Phylogeny Website. Version 12, July 2012. Glossary: http://www.mobot.org/mobot/research/apweb/top/glossaryi_p.html#perennial'
-  definition: Of plant duration, a plant whose life span extends over more than two growing seasons, c.f. annual, biennial, ephemeral, of flowering with respect to architecture, hapaxanthic, monocarpic, pleonanthic
+- attribution: 
+  definition: 'plant that lives for more than two years'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
   name: perennial
   type: value
+  uri: https://www.wikidata.org/entity/Q157957
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: 'Stevens, P. F. (2001 onwards). Angiosperm Phylogeny Website. Version 12, July 2012. Glossary: http://www.mobot.org/mobot/research/apweb/top/glossaryi_p.html#perennial'
+  definition: Of plant duration, a plant whose life span extends over more than two growing seasons, c.f. annual, biennial, ephemeral, of flowering with respect to architecture, hapaxanthic, monocarpic, pleonanthic
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: perennial
+  type: value
   uri: http://purl.obolibrary.org/obo/FLOPO_0980073
   parent_uris: []
   synonym_of_uri:
+  - https://www.wikidata.org/entity/Q157957
   units_term_uri:
   alias:
 - attribution: Phenotype and Trait Ontology
@@ -56944,7 +57125,7 @@ terms:
   uri: http://eol.org/schema/terms/Pernambuco_coastal_forests
   parent_uris:
   - http://www.geonames.org/3469034
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -56958,7 +57139,7 @@ terms:
   uri: http://eol.org/schema/terms/Pernambuco_interior_forests
   parent_uris:
   - http://www.geonames.org/3469034
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -57045,7 +57226,7 @@ terms:
   uri: http://eol.org/schema/terms/Peruvian_Yungas
   parent_uris:
   - http://www.geonames.org/3932488
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -57072,7 +57253,7 @@ terms:
   uri: http://eol.org/schema/terms/Peten-Veracruz_moist_forests
   parent_uris:
   - http://www.geonames.org/7729892
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - https://eol.org/schema/terms/eastern_north_america
   synonym_of_uri:
   units_term_uri:
@@ -57639,7 +57820,7 @@ terms:
   uri: http://eol.org/schema/terms/Tocantins/Pindare_moist_forests
   parent_uris:
   - http://www.geonames.org/3469034
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -57937,7 +58118,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'whole plant growth form. eg: herbaceous, tree, liana'
+  definition: 'the characteristic form in which a given species of plant grows'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -57945,12 +58126,27 @@ terms:
   name: plant growth form
   type: measurement
   exclusive_to_clade_id: 42430800
-  uri: http://purl.obolibrary.org/obo/FLOPO_0900032
+  uri: https://www.wikidata.org/entity/Q2295204
   parent_uris:
   - http://eol.org/schema/terms/growthHabit
   synonym_of_uri:
   units_term_uri:
   alias: growth_habit
+- attribution: ''
+  definition: 'whole plant growth form. eg: herbaceous, tree, liana'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: plant growth form
+  type: measurement
+  exclusive_to_clade_id: 42430800
+  uri: http://purl.obolibrary.org/obo/FLOPO_0900032
+  parent_uris:
+  synonym_of_uri:
+  - https://www.wikidata.org/entity/Q2295204
+  units_term_uri:
+  alias: 
 - attribution: ''
   definition: A stature and vigor trait (TO:0000133) which is associated with the height of a whole plant (PO:0000003).
   is_hidden_from_select: false
@@ -57968,19 +58164,34 @@ terms:
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
   alias:
 - attribution: ''
-  definition: whole plant lifeform
+  definition: 'set of plant species with a similar relationship to environmental conditions'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
+  is_text_only: false
+  name: 'plant lifeform (ecological group)'
+  type: measurement
+  exclusive_to_clade_id: 42430800
+  uri: https://www.wikidata.org/entity/Q4530267
+  parent_uris:
+  - http://eol.org/schema/terms/EcomorphologicalGuild
+  - http://purl.obolibrary.org/obo/FLOPO_0900032
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: whole plant lifeform
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: plant lifeform
   type: measurement
   exclusive_to_clade_id: 42430800
   uri: http://purl.obolibrary.org/obo/FLOPO_0900022
   parent_uris:
-  - http://eol.org/schema/terms/EcomorphologicalGuild
-  - http://purl.obolibrary.org/obo/FLOPO_0900032
   synonym_of_uri:
+  - https://www.wikidata.org/entity/Q4530267
   units_term_uri:
   alias:
 - attribution: ''
@@ -58202,7 +58413,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/pleustophyte
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0900044
+  - https://www.wikidata.org/entity/Q186101
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -60398,7 +60609,7 @@ terms:
   uri: http://eol.org/schema/terms/Puerto_Rican_moist_forests
   parent_uris:
   - http://www.geonames.org/4566966
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -60482,7 +60693,7 @@ terms:
   uri: http://eol.org/schema/terms/Purus_varzea
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -60497,7 +60708,7 @@ terms:
   parent_uris:
   - http://www.geonames.org/3469034
   - https://www.geonames.org/2593105
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -60828,7 +61039,7 @@ terms:
   uri: http://eol.org/schema/terms/Queensland_tropical_rain_forests
   parent_uris:
   - http://www.geonames.org/2077456
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -61079,7 +61290,7 @@ terms:
   uri: http://eol.org/schema/terms/Rapa_Nui_subtropical_broadleaf_forests
   parent_uris:
   - http://www.geonames.org/3895114
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/OceaniaRealm
   synonym_of_uri:
   units_term_uri:
@@ -61306,7 +61517,7 @@ terms:
   uri: http://eol.org/schema/terms/Red_River_freshwater_swamp_forests
   parent_uris:
   - http://www.geonames.org/1562822
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -61839,7 +62050,7 @@ terms:
   type: value
   uri: https://www.wikidata.org/entity/Q16868813
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0022142
+  - https://www.wikidata.org/entity/Q190903
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -61912,15 +62123,16 @@ terms:
   alias:
 - attribution: https://en.wikipedia.org/wiki/Rhizome
   definition: a plant having a rhizome, a modified subterranean plant stem that sends out roots and shoots from its nodes
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: rhizomatous plant
   type: value
   uri: http://purl.obolibrary.org/obo/FLOPO_0005532
   parent_uris: []
   synonym_of_uri:
+  - http://eol.org/schema/terms/rhizomatous
   units_term_uri:
   alias:
 - attribution: "[database_cross_reference: POC:curators]"
@@ -62269,7 +62481,7 @@ terms:
   uri: http://eol.org/schema/terms/Rio_Negro_campinarana
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -64081,7 +64293,7 @@ terms:
   uri: http://eol.org/schema/terms/Samoan_tropical_moist_forests
   parent_uris:
   - http://www.geonames.org/4034894
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -64413,7 +64625,7 @@ terms:
   uri: http://eol.org/schema/terms/Santa_Marta_montane_forests
   parent_uris:
   - http://www.geonames.org/3686110
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -64505,7 +64717,7 @@ terms:
   uri: http://eol.org/schema/terms/Sao_Tome_Principe_and_Annobon_moist_lowland_forests
   parent_uris:
   - http://www.geonames.org/2410758
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -65645,7 +65857,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: ''
+  definition: 'phenotypic trait; mass of one seed'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -65653,10 +65865,25 @@ terms:
   name: seed mass
   type: measurement
   exclusive_to_clade_id: 42430800
-  uri: http://purl.obolibrary.org/obo/FLOPO_0015519
+  uri: https://www.wikidata.org/entity/Q113141694
   parent_uris:
   - http://purl.obolibrary.org/obo/PATO_0000125
   synonym_of_uri:
+  units_term_uri: http://purl.obolibrary.org/obo/UO_0000021
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: seed mass
+  type: measurement
+  exclusive_to_clade_id: 42430800
+  uri: http://purl.obolibrary.org/obo/FLOPO_0015519
+  parent_uris:
+  synonym_of_uri:
+  - https://www.wikidata.org/entity/Q113141694
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000021
   alias:
 - attribution: USDA PLANTS database Characteristics Data Fields. http://plants.usda.gov/charinfo.html
@@ -65770,7 +65997,7 @@ terms:
   exclusive_to_clade_id: 42430800
   uri: http://eol.org/schema/terms/SeedPerPound
   parent_uris:
-  - http://purl.obolibrary.org/obo/VT_0001259
+  - https://www.wikidata.org/entity/Q113141694
   synonym_of_uri:
   units_term_uri: http://eol.org/schema/terms/perPound
   alias:
@@ -66182,7 +66409,7 @@ terms:
   uri: http://eol.org/schema/terms/Seram_rain_forests
   parent_uris:
   - http://www.geonames.org/1643084
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Australasia
   synonym_of_uri:
   units_term_uri:
@@ -66283,7 +66510,7 @@ terms:
   uri: http://eol.org/schema/terms/Serra_do_Mar_coastal_forests
   parent_uris:
   - http://www.geonames.org/3469034
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -66658,7 +66885,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: " [database_cross_reference: PATOC:GVG]"
-  definition: An organismal quality inhering in a bearer by virtue of the bearer's disposition to lose an entitity by natural process.
+  definition: A disposition to lose an entitity by natural process. eg: leaf shedability
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
@@ -66845,20 +67072,34 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: whole plant frutescent, bush, shrub
+  definition: 'small- or medium-sized perennial woody plant'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
   name: shrub
   type: value
-  uri: http://purl.obolibrary.org/obo/FLOPO_0900034
+  uri: https://www.wikidata.org/entity/Q42295
   parent_uris:
   - https://www.wikidata.org/entity/Q757163
   - http://purl.obolibrary.org/obo/PATO_0000402
   synonym_of_uri:
   units_term_uri:
   alias: shrub
+- attribution: ''
+  definition: whole plant frutescent, bush, shrub
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: shrub
+  type: value
+  uri: http://purl.obolibrary.org/obo/FLOPO_0900034
+  parent_uris:
+  synonym_of_uri:
+  - https://www.wikidata.org/entity/Q42295
+  units_term_uri:
+  alias:
 - attribution: https://www1.usgs.gov/csas/nvcs/nvcsGetUnitDetails?elementGlobalId=860211
   definition: ''
   is_hidden_from_select: true
@@ -67021,7 +67262,7 @@ terms:
   uri: http://eol.org/schema/terms/Sierra_de_los_Tuxtlas
   parent_uris:
   - http://www.geonames.org/3996063
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -67080,7 +67321,7 @@ terms:
   uri: http://eol.org/schema/terms/Sierra_Madre_de_Chiapas_moist_forest
   parent_uris:
   - http://www.geonames.org/7729892
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -67899,7 +68140,7 @@ terms:
   uri: http://eol.org/schema/terms/Society_Islands_tropical_moist_forests
   parent_uris:
   - http://www.geonames.org/4033681
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/OceaniaRealm
   synonym_of_uri:
   units_term_uri:
@@ -68049,7 +68290,7 @@ terms:
   uri: http://eol.org/schema/terms/Solimoes-Japura_moist_forest
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -68123,7 +68364,7 @@ terms:
   uri: http://eol.org/schema/terms/Solomon_Islands_rain_forests
   parent_uris:
   - http://www.geonames.org/2103350
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Australasia
   synonym_of_uri:
   units_term_uri:
@@ -68569,7 +68810,7 @@ terms:
   parent_uris:
   - http://www.wikidata.org/entity/Q42530
   - http://www.marineregions.org/mrgid/4332
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -68585,7 +68826,7 @@ terms:
   uri: http://eol.org/schema/terms/South_China-Vietnam_subtropical_evergreen_forests
   parent_uris:
   - http://www.geonames.org/6255147
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -68646,7 +68887,7 @@ terms:
   parent_uris:
   - https://www.wikidata.org/entity/Q217151
   - http://www.geonames.org/4155751
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -68883,7 +69124,7 @@ terms:
   uri: http://eol.org/schema/terms/South_Taiwan_monsoon_rain_forests
   parent_uris:
   - http://www.geonames.org/1668284
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -68900,7 +69141,7 @@ terms:
   parent_uris:
   - http://www.geonames.org/1252876
   - http://purl.obolibrary.org/obo/ENVO_01000816
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -68915,7 +69156,7 @@ terms:
   uri: http://eol.org/schema/terms/South_Western_Ghats_montane_rain_forests
   parent_uris:
   - http://www.geonames.org/1252876
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -69409,7 +69650,7 @@ terms:
   uri: http://eol.org/schema/terms/Southeastern_Papuan_rain_forests
   parent_uris:
   - http://www.geonames.org/2088628
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -69530,7 +69771,7 @@ terms:
   uri: http://eol.org/schema/terms/Southern_Andean_Yungas
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -69545,7 +69786,7 @@ terms:
   uri: http://eol.org/schema/terms/Southern_Annamites_montane_rain_forests
   parent_uris:
   - http://www.geonames.org/7729896
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -69751,7 +69992,7 @@ terms:
   uri: http://eol.org/schema/terms/Southern_New_Guinea_freshwater_swamp_forests
   parent_uris:
   - http://www.geonames.org/2082514
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Australasia
   synonym_of_uri:
   units_term_uri:
@@ -69767,7 +70008,7 @@ terms:
   uri: http://eol.org/schema/terms/Southern_New_Guinea_lowland_rain_forests
   parent_uris:
   - http://www.geonames.org/2082514
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Australasia
   synonym_of_uri:
   units_term_uri:
@@ -69884,7 +70125,7 @@ terms:
   uri: http://eol.org/schema/terms/Southern_Zanzibar-Inhambane_coastal_forest_mosaic
   parent_uris:
   - http://www.geonames.org/7729889
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -69929,7 +70170,7 @@ terms:
   uri: http://eol.org/schema/terms/Southwest_Amazon_moist_forests
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -69974,7 +70215,7 @@ terms:
   uri: http://eol.org/schema/terms/Southwest_Borneo_freshwater_swamp_forests
   parent_uris:
   - http://www.geonames.org/1643084
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -70678,7 +70919,7 @@ terms:
   uri: http://eol.org/schema/terms/Sri_Lanka_lowland_rain_forests
   parent_uris:
   - http://www.geonames.org/1227603
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -70694,7 +70935,7 @@ terms:
   uri: http://eol.org/schema/terms/Sri_Lanka_montane_rain_forests
   parent_uris:
   - http://www.geonames.org/1227603
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -70955,17 +71196,31 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: linear distance through the cross section of the stem or trunk, passing through the center
+  definition: A stem morphology trait; the diameter of a stem
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
   name: stem diameter
   type: measurement
-  uri: http://purl.obolibrary.org/obo/FLOPO_0000875
+  uri: http://purl.obolibrary.org/obo/TO_0020083
   parent_uris:
   - http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25285
   synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: linear distance through the cross section of the stem or trunk, passing through the center
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: stem diameter
+  type: measurement
+  uri: http://purl.obolibrary.org/obo/FLOPO_0000875
+  parent_uris:
+  synonym_of_uri:
+  - http://purl.obolibrary.org/obo/TO_0020083
   units_term_uri:
   alias:
 - attribution: ''
@@ -72016,7 +72271,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/suddHydrophyte
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0900044
+  - https://www.wikidata.org/entity/Q186101
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -72030,7 +72285,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/suffrutescent
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0022142
+  - https://www.wikidata.org/entity/Q190903
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -72119,7 +72374,7 @@ terms:
   uri: http://eol.org/schema/terms/Sulawesi_lowland_rain_forests
   parent_uris:
   - http://www.geonames.org/1643084
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Australasia
   synonym_of_uri:
   units_term_uri:
@@ -72135,7 +72390,7 @@ terms:
   uri: http://eol.org/schema/terms/Sulawesi_montane_rain_forests
   parent_uris:
   - http://www.geonames.org/1643084
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Australasia
   synonym_of_uri:
   units_term_uri:
@@ -72232,7 +72487,7 @@ terms:
   uri: http://eol.org/schema/terms/Sulu_Archipelago_rain_forests
   parent_uris:
   - http://www.geonames.org/1694008
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -72278,7 +72533,7 @@ terms:
   uri: http://eol.org/schema/terms/Sumatran_freshwater_swamp_forests
   parent_uris:
   - http://www.geonames.org/1643084
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -72294,7 +72549,7 @@ terms:
   uri: http://eol.org/schema/terms/Sumatran_lowland_rain_forests
   parent_uris:
   - http://www.geonames.org/1643084
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -72310,7 +72565,7 @@ terms:
   uri: http://eol.org/schema/terms/Sumatran_montane_rain_forests
   parent_uris:
   - http://www.geonames.org/1643084
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -72326,7 +72581,7 @@ terms:
   uri: http://eol.org/schema/terms/Sumatran_peat_swamp_forests
   parent_uris:
   - http://www.geonames.org/1643084
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -72442,7 +72697,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/Sundaland_heath_forests
   parent_uris:
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -72458,7 +72713,7 @@ terms:
   uri: http://eol.org/schema/terms/Sundarbans_freshwater_swamp_forests
   parent_uris:
   - http://www.geonames.org/7729895
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -73269,7 +73524,7 @@ terms:
   uri: http://eol.org/schema/terms/Taiwan_subtropical_evergreen_forests
   parent_uris:
   - http://www.geonames.org/1668284
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -73343,7 +73598,7 @@ terms:
   uri: http://eol.org/schema/terms/Talamancan_montane_forests
   parent_uris:
   - http://www.geonames.org/7729892
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -73460,7 +73715,7 @@ terms:
   uri: http://eol.org/schema/terms/Tapajos-Xingu_moist_forests
   parent_uris:
   - http://www.geonames.org/3469034
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -74314,7 +74569,7 @@ terms:
   uri: http://eol.org/schema/terms/Tenasserim-South_Thailand_semi-evergreen_rain_forests
   parent_uris:
   - http://www.geonames.org/7729896
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -74357,7 +74612,7 @@ terms:
   uri: http://eol.org/schema/terms/Pantepuis
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -75807,7 +76062,7 @@ terms:
   uri: http://eol.org/schema/terms/Tongan_tropical_moist_forests
   parent_uris:
   - http://www.geonames.org/4032283
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -75822,7 +76077,7 @@ terms:
   uri: http://eol.org/schema/terms/Tonle_Sap_freshwater_swamp_forests
   parent_uris:
   - http://www.geonames.org/7729896
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -75838,7 +76093,7 @@ terms:
   uri: http://eol.org/schema/terms/Tonle_Sap-Mekong_peat_swamp_forests
   parent_uris:
   - http://www.geonames.org/7729896
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -76279,17 +76534,16 @@ terms:
   alias:
 - attribution: ''
   definition: whole plant arborescent
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: tree
   type: value
   uri: http://purl.obolibrary.org/obo/FLOPO_0900033
   parent_uris:
-  - https://www.wikidata.org/entity/Q757163
-  - http://purl.obolibrary.org/obo/PATO_0000402
   synonym_of_uri:
+  - https://www.wikidata.org/entity/Q2660460
   units_term_uri:
   alias: tree
 - attribution: 'International Chronostratigraphic Chart: http://www.stratigraphy.org/index.php/ics-chart-timescale'
@@ -76465,7 +76719,7 @@ terms:
   uri: http://eol.org/schema/terms/Trindade-Martin_Vaz_Islands_tropical_forests
   parent_uris:
   - http://www.geonames.org/3469034
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -76507,7 +76761,7 @@ terms:
   uri: http://eol.org/schema/terms/Trinidad_and_Tobago_moist_forests
   parent_uris:
   - http://www.geonames.org/3573591
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -76566,7 +76820,7 @@ terms:
   uri: http://eol.org/schema/terms/Trobriand_Islands_rain_forests
   parent_uris:
   - http://www.geonames.org/2088628
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -76747,9 +77001,8 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01000174
-  - http://eol.org/schema/terms/tropicalOrSubtropical
   synonym_of_uri:
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   units_term_uri:
   alias:
 - attribution: ''
@@ -77123,16 +77376,57 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: ''
+  definition: 'A tropical moist broadleaf forest in which dominant ecological communities have reached their climax successional state.'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: tropical moist broadleaf forest
+  name: tropical rainforest
   type: value
   uri: http://purl.obolibrary.org/obo/ENVO_01000228
   parent_uris:
-  - http://purl.obolibrary.org/obo/ENVO_01000200
+  - https://www.wikidata.org/entity/Q9444
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'forest in the temperate zone with heavy rainfall'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: temperate rainforest
+  type: value
+  uri: https://www.wikidata.org/entity/Q845725
+  parent_uris:
+  - https://www.wikidata.org/entity/Q9444
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'forest characterized by abundant precipitation'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: rainforest
+  type: value
+  uri: https://www.wikidata.org/entity/Q9444
+  parent_uris:
+  - http://purl.obolibrary.org/obo/ENVO_01000175
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'A cellular potency that is the capacity to produce differentiated cell types of all three primary germ layers and extraembryonic cell types'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: totipotent cells
+  type: value
+  uri: http://purl.obolibrary.org/obo/PATO_0001399
+  parent_uris:
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -77418,7 +77712,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/Tuamotu_tropical_moist_forests
   parent_uris:
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/OceaniaRealm
   synonym_of_uri:
   units_term_uri:
@@ -77500,7 +77794,7 @@ terms:
   uri: http://eol.org/schema/terms/Tubuai_tropical_moist_forests
   parent_uris:
   - http://www.geonames.org/4030656
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/OceaniaRealm
   synonym_of_uri:
   units_term_uri:
@@ -77515,7 +77809,7 @@ terms:
   type: value
   uri: https://eol.org/schema/terms/tuft
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0022142
+  - https://www.wikidata.org/entity/Q190903
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -78031,7 +78325,7 @@ terms:
   uri: http://eol.org/schema/terms/Uatuma-Trombetas_moist_forests
   parent_uris:
   - http://www.geonames.org/3469034
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -78045,7 +78339,7 @@ terms:
   uri: http://eol.org/schema/terms/Ucayali_moist_forests
   parent_uris:
   - http://www.geonames.org/3932488
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -78813,7 +79107,7 @@ terms:
   parent_uris:
   - http://www.geonames.org/1269750
   - http://purl.obolibrary.org/obo/ENVO_01000816
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -79900,7 +80194,7 @@ terms:
   uri: http://eol.org/schema/terms/Vanuatu_rain_forests
   parent_uris:
   - http://www.geonames.org/2134431
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Australasia
   synonym_of_uri:
   units_term_uri:
@@ -80116,7 +80410,7 @@ terms:
   uri: http://eol.org/schema/terms/Venezuelan_Andes_montane_forests
   parent_uris:
   - http://www.geonames.org/3625428
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -80171,7 +80465,7 @@ terms:
   uri: http://eol.org/schema/terms/Veracruz_moist_forests
   parent_uris:
   - http://www.geonames.org/3996063
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - https://eol.org/schema/terms/eastern_north_america
   synonym_of_uri:
   units_term_uri:
@@ -80186,7 +80480,7 @@ terms:
   uri: http://eol.org/schema/terms/Veracruz_montane_forests
   parent_uris:
   - http://www.geonames.org/3996063
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - https://eol.org/schema/terms/eastern_north_america
   synonym_of_uri:
   units_term_uri:
@@ -80700,7 +80994,7 @@ terms:
   uri: http://eol.org/schema/terms/Vogelkop_montane_rain_forests
   parent_uris:
   - http://www.geonames.org/1643084
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Australasia
   synonym_of_uri:
   units_term_uri:
@@ -80716,7 +81010,7 @@ terms:
   uri: http://eol.org/schema/terms/Vogelkop-Aru_lowland_rain_forests
   parent_uris:
   - http://www.geonames.org/1643084
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Australasia
   synonym_of_uri:
   units_term_uri:
@@ -81843,7 +82137,7 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/Western_Congolian_swamp_forests
   parent_uris:
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -81858,7 +82152,7 @@ terms:
   uri: http://eol.org/schema/terms/Western_Ecuador_moist_forests
   parent_uris:
   - http://www.geonames.org/6255150
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -81931,7 +82225,7 @@ terms:
   uri: http://eol.org/schema/terms/Western_Guinean_lowland_forests
   parent_uris:
   - http://www.geonames.org/7729885
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Afrotropical
   synonym_of_uri:
   units_term_uri:
@@ -82020,7 +82314,7 @@ terms:
   uri: http://eol.org/schema/terms/Western_Java_montane_rain_forests
   parent_uris:
   - http://www.geonames.org/1643084
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -82036,7 +82330,7 @@ terms:
   uri: http://eol.org/schema/terms/Western_Java_rain_forests
   parent_uris:
   - http://www.geonames.org/1643084
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/IndoMalayan
   synonym_of_uri:
   units_term_uri:
@@ -82577,7 +82871,7 @@ terms:
   uri: http://eol.org/schema/terms/Western_Polynesian_tropical_moist_forests
   parent_uris:
   - http://www.geonames.org/7729901
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/OceaniaRealm
   synonym_of_uri:
   units_term_uri:
@@ -83014,7 +83308,7 @@ terms:
   uri: http://eol.org/schema/terms/Windward_Islands_moist_forests
   parent_uris:
   - http://www.geonames.org/7729891
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -83029,7 +83323,7 @@ terms:
   exclusive_to_clade_id: 1
   uri: http://www.wikidata.org/entity/Q245097
   parent_uris:
-  - http://purl.obolibrary.org/obo/CMO_0000013
+  - http://purl.obolibrary.org/obo/VT_0015039
   synonym_of_uri:
   units_term_uri: http://purl.obolibrary.org/obo/UO_0000015
   alias:
@@ -83238,7 +83532,7 @@ terms:
   type: value
   uri: https://www.wikidata.org/entity/Q757163
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0980073
+  - https://www.wikidata.org/entity/Q157957
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -83423,7 +83717,7 @@ terms:
   uri: http://eol.org/schema/terms/Xingu-Tocantins-Araguaia_moist_forests
   parent_uris:
   - http://www.geonames.org/3469034
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -83569,7 +83863,7 @@ terms:
   uri: http://eol.org/schema/terms/Yapen_rain_forests
   parent_uris:
   - http://www.geonames.org/1643084
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   - http://eol.org/schema/terms/Australasia
   synonym_of_uri:
   units_term_uri:
@@ -83894,7 +84188,7 @@ terms:
   parent_uris:
   - https://eol.org/schema/terms/eastern_north_america
   - http://www.geonames.org/7729892
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -83968,7 +84262,7 @@ terms:
   parent_uris:
   - https://www.wikidata.org/entity/Q106447
   - http://www.geonames.org/1814991
-  - http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests
+  - http://purl.obolibrary.org/obo/ENVO_01000228
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -140615,24 +140909,39 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
-  name: leaf venation structure
+  name: leaf venation
   type: measurement
-  uri: http://purl.obolibrary.org/obo/FLOPO_0008074
+  uri: https://www.wikidata.org/entity/Q135992028
   parent_uris: []
   synonym_of_uri:
   units_term_uri:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: leaf venation structure
+  type: measurement
+  uri: http://purl.obolibrary.org/obo/FLOPO_0008074
+  parent_uris: []
+  synonym_of_uri:
+  - https://www.wikidata.org/entity/Q135992028
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: leaf venation shape
   type: measurement
   uri: http://purl.obolibrary.org/obo/FLOPO_0000562
   parent_uris: []
   synonym_of_uri:
+  - https://www.wikidata.org/entity/Q135992028
   units_term_uri:
   alias:
 - attribution: 'https://www.ucl.ac.uk/GeolSci/micropal/spore.html'
@@ -145590,7 +145899,7 @@ terms:
   type: measurement
   uri: http://eol.org/schema/terms/frondLength
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0001133
+  - https://www.wikidata.org/entity/Q113142443
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -145623,14 +145932,14 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: ''
+  definition: 'plant phenotypic trait; width of leaf'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
   name: leaf width
   type: measurement
-  uri: http://purl.obolibrary.org/obo/FLOPO_0004627
+  uri: https://www.wikidata.org/entity/Q113142565
   parent_uris:
   - http://purl.obolibrary.org/obo/FLOPO_0003958
   synonym_of_uri:
@@ -145638,16 +145947,30 @@ terms:
   alias:
 - attribution: ''
   definition: ''
-  is_hidden_from_select: false
+  is_hidden_from_select: true
   is_hidden_from_overview: false
-  is_hidden_from_glossary: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: leaf width
+  type: measurement
+  uri: http://purl.obolibrary.org/obo/FLOPO_0004627
+  parent_uris:
+  synonym_of_uri:
+  - https://www.wikidata.org/entity/Q113142565
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
   is_text_only: false
   name: stem height
   type: measurement
   uri: http://purl.obolibrary.org/obo/FLOPO_0022260
   parent_uris:
-  - http://purl.obolibrary.org/obo/TO_0000207
   synonym_of_uri:
+  - http://purl.obolibrary.org/obo/TO_0000207
   units_term_uri:
   alias:
 - attribution: ''
@@ -145666,16 +145989,30 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: 'a plant with perennating buds at ground level, and aerial shoots dying down at the onset of unfavourable conditions.'
+  definition: 'plants have buds at or near the soil surface'
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
   name: hemicryptophyte
   type: value
+  uri: https://www.wikidata.org/entity/Q2143732
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: 'a plant with perennating buds at ground level, and aerial shoots dying down at the onset of unfavourable conditions.'
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: hemicryptophyte
+  type: value
   uri: http://purl.obolibrary.org/obo/FLOPO_0900027
   parent_uris: []
   synonym_of_uri:
+  - https://www.wikidata.org/entity/Q2143732
   units_term_uri:
   alias:
 - attribution: ''
@@ -145743,7 +146080,7 @@ terms:
   type: measurement
   uri: http://eol.org/schema/terms/caudexDiameter
   parent_uris:
-  - http://purl.obolibrary.org/obo/FLOPO_0000875
+  - http://purl.obolibrary.org/obo/TO_0020083
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -153303,7 +153640,7 @@ terms:
   units_term_uri:
   alias: 
 - attribution: https://marlin.ac.uk/
-  definition: Attached to / growing on the surface of rock
+  definition: Attached to / growing on the surface of a rock
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
