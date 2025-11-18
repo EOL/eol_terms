@@ -66885,7 +66885,7 @@ terms:
   units_term_uri:
   alias:
 - attribution: " [database_cross_reference: PATOC:GVG]"
-  definition: A disposition to lose an entitity by natural process. eg: leaf shedability
+  definition: "A disposition to lose an entitity by natural process. eg: leaf shedability"
   is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
