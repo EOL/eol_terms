@@ -3594,6 +3594,7 @@ terms:
   alias:
 - attribution: 
   definition: 'shorter-lived plant that completes its life cycle, from germination to the production of seed, within one year, and then dies'
+  is_hidden_from_select: false
   is_hidden_from_overview: false
   is_hidden_from_glossary: false
   is_text_only: false
@@ -29207,19 +29208,6 @@ terms:
   units_term_uri:
   alias:
 - attribution: ''
-  definition: Behavior related to the expansion lateral surface of the body with the intention of increasing the wind resistance against the body and hence reducing the speed of falling
-  is_hidden_from_select: false
-  is_hidden_from_overview: false
-  is_hidden_from_glossary: false
-  is_text_only: false
-  name: gliding
-  type: value
-  uri: 'http://purl.obolibrary.org/obo/NBO_0000369 '
-  parent_uris: []
-  synonym_of_uri: http://purl.obolibrary.org/obo/NBO_0000369
-  units_term_uri:
-  alias:
-- attribution: ''
   definition: ''
   is_hidden_from_select: false
   is_hidden_from_overview: true
@@ -31792,7 +31780,7 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
-- attribution: 
+- attribution: ''
   definition: part of the water column near to the seabed and the benthos
   is_hidden_from_select: false
   is_hidden_from_overview: false
@@ -31805,6 +31793,7 @@ terms:
   - http://purl.obolibrary.org/obo/ENVO_01000024
   synonym_of_uri:
   units_term_uri:
+  alias:
 - attribution: ''
   definition: Organisms living in burrows bored into hard substrates such as rock, coral, or wood.
   is_hidden_from_select: false
