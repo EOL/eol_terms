@@ -154251,3 +154251,55 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Kaíque Freire da Silva, Dayverson
+  type: value
+  uri: https://www.marinespecies.org/imis.php?module=person&persid=43790
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Turner, Thomas
+  type: value
+  uri: https://www.marinespecies.org/imis.php?module=person&persid=44016
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Carvalho, Ana Beatriz Gomes de Linz
+  type: value
+  uri: https://www.marinespecies.org/imis.php?module=person&persid=45778
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: ''
+  is_hidden_from_select: true
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: true
+  is_text_only: false
+  name: Trevisan Disaró, Sibelle
+  type: value
+  uri: https://www.marinespecies.org/imis.php?module=person&persid=46044
+  parent_uris: []
+  synonym_of_uri:
+  units_term_uri:
+  alias:
