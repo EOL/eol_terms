@@ -17303,8 +17303,8 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/copepodid2
   parent_uris:
-  - http://purl.obolibrary.org/obo/PATO_0001501
   synonym_of_uri:
+  - http://purl.obolibrary.org/obo/UBERON_8200003
   units_term_uri:
   alias:
 - attribution: ''
@@ -17317,8 +17317,8 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/copepodid3
   parent_uris:
-  - http://purl.obolibrary.org/obo/PATO_0001501
   synonym_of_uri:
+  - http://purl.obolibrary.org/obo/UBERON_8200004
   units_term_uri:
   alias:
 - attribution: ''
@@ -17331,8 +17331,8 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/copepodid4
   parent_uris:
-  - http://purl.obolibrary.org/obo/PATO_0001501
   synonym_of_uri:
+  - http://purl.obolibrary.org/obo/UBERON_8200005
   units_term_uri:
   alias:
 - attribution: ''
@@ -17345,8 +17345,8 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/copepodid5
   parent_uris:
-  - http://purl.obolibrary.org/obo/PATO_0001501
   synonym_of_uri:
+  - http://purl.obolibrary.org/obo/UBERON_8200006
   units_term_uri:
   alias:
 - attribution: ''
@@ -17359,7 +17359,105 @@ terms:
   type: value
   uri: http://eol.org/schema/terms/copepodid6
   parent_uris:
+  synonym_of_uri:
+  - http://purl.obolibrary.org/obo/UBERON_8200007
+  units_term_uri:
+  alias:
+  - attribution: ''
+  definition: 
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: copepodite stage
+  type: value
+  uri: http://purl.obolibrary.org/obo/UBERON_0014860
+  parent_uris:
   - http://purl.obolibrary.org/obo/PATO_0001501
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A development stage of copepods which immediately follows the nauplius stage. It is characterized by the presence of 2 swimming legs.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: copepodite stage 1
+  type: value
+  uri: http://purl.obolibrary.org/obo/UBERON_8200002
+  parent_uris:
+  - http://purl.obolibrary.org/obo/UBERON_0014860
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A development stage of copepods which immediately follows copepodite stage 1. It is characterized by the presence of 3 swimming legs.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: copepodite stage 2
+  type: value
+  uri: http://purl.obolibrary.org/obo/UBERON_8200003
+  parent_uris:
+  - http://purl.obolibrary.org/obo/UBERON_0014860
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A development stage of copepods which immediately follows copepodite stage 2. It is characterized by the presence of 4 swimming legs.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: copepodite stage 3
+  type: value
+  uri: http://purl.obolibrary.org/obo/UBERON_8200004
+  parent_uris:
+  - http://purl.obolibrary.org/obo/UBERON_0014860
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A development stage of copepods which immediately follows copepodite stage 3. It is characterized by the presence of 5 swimming legs.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: copepodite stage 4
+  type: value
+  uri: http://purl.obolibrary.org/obo/UBERON_8200005
+  parent_uris:
+  - http://purl.obolibrary.org/obo/UBERON_0014860
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A pre-adult stage of copepods which immediately follows copepodite stage 4. It is characterized by enlargement of the urosome and development of sexual organs.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: copepodite stage 5
+  type: value
+  uri: http://purl.obolibrary.org/obo/UBERON_8200006
+  parent_uris:
+  - http://purl.obolibrary.org/obo/UBERON_0014860
+  synonym_of_uri:
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: A fully formed stage of copepods which immediately follows copepodite stage 5. It is characterized by the complete development of the fifth swimming leg.
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: copepodite stage 6
+  type: value
+  uri: http://purl.obolibrary.org/obo/UBERON_8200007
+  parent_uris:
+  - http://purl.obolibrary.org/obo/UBERON_0014860
   synonym_of_uri:
   units_term_uri:
   alias:
@@ -88539,6 +88637,7 @@ terms:
   uri: http://eol.org/schema/terms/copepodid
   parent_uris: []
   synonym_of_uri:
+  - http://purl.obolibrary.org/obo/UBERON_0014860
   units_term_uri:
   alias:
 - attribution: ''
