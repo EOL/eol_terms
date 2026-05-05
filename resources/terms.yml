@@ -154402,3 +154402,30 @@ terms:
   synonym_of_uri:
   units_term_uri:
   alias:
+  - attribution: ''
+  definition: 'A circumscissile capsule fruit which at maturity contains one seed that is not attached to a pericarp'
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: utricle
+  type: value
+  uri: http://purl.obolibrary.org/obo/PO_0030097
+  parent_uris:
+  - http://purl.obolibrary.org/obo/PO_0030091
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
+- attribution: ''
+  definition: nutlet
+  is_hidden_from_select: false
+  is_hidden_from_overview: false
+  is_hidden_from_glossary: false
+  is_text_only: false
+  name: nucule
+  type: value
+  uri: https://www.wikidata.org/entity/Q5118786
+  parent_uris:
+  synonym_of_uri: 
+  units_term_uri:
+  alias:
