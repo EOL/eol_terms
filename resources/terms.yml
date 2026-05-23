@@ -154356,7 +154356,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Kaíque Freire da Silva, Dayverson
+  name: "Kaíque Freire da Silva, Dayverson"
   type: value
   uri: https://www.marinespecies.org/imis.php?module=person&persid=43790
   parent_uris: []
@@ -154395,7 +154395,7 @@ terms:
   is_hidden_from_overview: false
   is_hidden_from_glossary: true
   is_text_only: false
-  name: Trevisan Disaró, Sibelle
+  name: "Trevisan Disaró, Sibelle"
   type: value
   uri: https://www.marinespecies.org/imis.php?module=person&persid=46044
   parent_uris: []
